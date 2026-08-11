@@ -20,11 +20,18 @@
       "volume": 500.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Ett biodynamiskt Vin Doux Naturel från Domaine du Traginer som beskrivs som rikt och överdådigt gott, med ett tydligt 'wow-faktor'. Kritiker lyfter fram den söta, mörka körsbärsfrukten och kryddigheten som mycket tilltalande.",
+        "en": "A biodynamic Vin Doux Naturel from Domaine du Traginer described as rich and utterly delicious, delivering a genuine 'wow factor'. Critics highlight its sweet dark cherry fruit and spice as especially appealing."
       },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Mörk körsbär, söta kryddor, rik och fyllig sötma",
+        "en": "Dark cherry, sweet spice, rich and full-bodied sweetness"
+      },
+      "pairing": {
+        "sv": "Passar till chokladdesserter, blåmögelost eller mörk bärpaj",
+        "en": "Pairs with chocolate desserts, blue cheese, or dark berry tart"
+      },
       "sources": [
         {
           "source": "vivino.com",
@@ -140,11 +147,18 @@
       "volume": 375.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "En pålitlig och uppskattad Pinot Noir från Mendocino/Sonoma County som fått goda betyg, inklusive 92 poäng från James Suckling. Många konsumenter beskriver den som en favorit och återkommande köp, vilket vittnar om dess tillgänglighet och charm trots Pinot Noirs rykte som ett krävande druvslag.",
+        "en": "A reliable and well-regarded Pinot Noir from Mendocino/Sonoma County that has earned solid praise, including 92 points from James Suckling. Many consumers describe it as a favorite and repeat purchase, reflecting its approachability and charm despite Pinot Noir's reputation as a finicky grape."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 92,
+      "taste_notes": {
+        "sv": "Björnbär, körsbärstårta, torkade vinbär och subtila kryddiga toner.",
+        "en": "Blackberry, cherry tart, dried currants, and subtle spice notes."
+      },
+      "pairing": {
+        "sv": "Passar till grillad lax, rostad kyckling, örtkryddad fläskfilé och medelmogna ostar.",
+        "en": "Pairs with grilled salmon, roasted chicken, herb-crusted pork tenderloin, and medium-aged cheeses."
+      },
       "sources": [
         {
           "source": "vivino.com",
@@ -154,17 +168,17 @@
           "lang": "sv"
         },
         {
-          "source": "totalwine.com",
-          "title": "Angeline Pinot Noir Reserve Sonoma County, 2023",
-          "url": "https://www.totalwine.com/wine/red-wine/pinot-noir/angeline-pinot-noir-reserve/p/95613750",
-          "excerpt": "Angeline Pinot Noir Reserve Sonoma County 4.3 out of 5 stars, average rating value. Read 264 Reviews.",
-          "lang": "sv"
-        },
-        {
           "source": "wineaccess.com",
           "title": "2023 Angeline Pinot Noir Reserve Mendocino County",
           "url": "https://www.wineaccess.com/catalog/2023-angeline-pinot-noir-reserve-mendocino-county_54945370-4173-4915-a266-9d1476935aff/",
           "excerpt": "2023 Angeline Pinot Noir Reserve Mendocino County is sold out. Never miss out again: Sign up to receive notifications the instant wines from this producer go live! Notify Me 92 pts James Suckling 92 pts JS Curated by unrivaled experts Choose your delivery date Temperature controlled shipping options Get credited back if a wine fails to impress 2023 Angeline Pinot Noir Reserve Mendocino County 750 ml Pinot Noir 2023 California Mendocino Sold Out Notify Me Never miss out again: Sign up to receive notifications the instant wines from this producer go live! The Story Angeline’s Pinot Noir Reserve ",
+          "lang": "sv"
+        },
+        {
+          "source": "totalwine.com",
+          "title": "Angeline Pinot Noir Reserve Sonoma County, 2023",
+          "url": "https://www.totalwine.com/wine/red-wine/pinot-noir/angeline-pinot-noir-reserve/p/95613750",
+          "excerpt": "Angeline Pinot Noir Reserve Sonoma County 4.3 out of 5 stars, average rating value. Read 264 Reviews.",
           "lang": "sv"
         },
         {
@@ -274,17 +288,17 @@
           "lang": "sv"
         },
         {
-          "source": "bordeauxindex.com",
-          "title": "2022 Chateau Rocheyron, Saint-Emilion Grand Cru - Bordeaux Index Fine Wine & Spirits",
-          "url": "https://bordeauxindex.com/fine-wine/france/bordeaux/rchey-2022",
-          "excerpt": "Peter Sisseck handed me a half-bottle of his 2022 Rocheyron to taste. <strong>It has an intense and quite floral bouquet, a mixture of red and black fruit, touches of melted tar and truffle</strong>.",
-          "lang": "sv"
-        },
-        {
           "source": "chateauinternet.com",
           "title": "Château Rocheyron 2022 - rouge Saint-Émilion grand cru - Achat au meilleur prix",
           "url": "https://www.chateauinternet.com/chateau-rocheyron-2022",
           "excerpt": "Château Rocheyron 2022 Bordeaux - Saint-Émilion grand cru - Rouge Description 91,20 € TTC La bouteille de 0.75 L Biodynamie 3 bouteilles de 0.75 L - 273,60 € TTC 6 bouteilles de 0.75 L - 547,20 € TTC 12 bouteilles de 0.75 L - 1 094,40 € TTC ajouter ajouter au panier Le produit a été ajouté à votre panier x poursuivre mes achats voir mon panier Un conseil : +33(0)5 57 40 59 36 Forfait livraison 18 € - OFFERTE à partir de 600 € d’achat et 36 bouteilles Paiement 100% sécurisé par CB Notes des critiques de vin Wine Advocate : 94-96 / 100 James Suckling : 97-98 / 100 Jane Anson : 98 / 100 The Drink",
+          "lang": "sv"
+        },
+        {
+          "source": "bordeauxindex.com",
+          "title": "2022 Chateau Rocheyron, Saint-Emilion Grand Cru - Bordeaux Index Fine Wine & Spirits",
+          "url": "https://bordeauxindex.com/fine-wine/france/bordeaux/rchey-2022",
+          "excerpt": "Peter Sisseck handed me a half-bottle of his 2022 Rocheyron to taste. <strong>It has an intense and quite floral bouquet, a mixture of red and black fruit, touches of melted tar and truffle</strong>.",
           "lang": "sv"
         },
         {
@@ -510,7 +524,7 @@
           "source": "stationplazawine.com",
           "title": "Bouchard Père & Fils Beaune Clos Saint Landry 2022 750ml - Station Plaza Wine",
           "url": "https://www.stationplazawine.com/products/14662444/bouchard-pere-fils-beaune-clos-saint-landry-2022",
-          "excerpt": "Bouchard Père & Fils Beaune Clos Saint Landry 2022 js 94-95 d 94 v 89-91 wa 89-91 ws 90 SKU: 16111 750ml 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 Add to Cart $135.00 You Save $27.01 (20%) $107.99 Available for: Pickup Delivery Shipping Share Category White Wine Varietal Chardonnay Brand Bouchard Père & Fils Origin France , Burgundy , Côte de Beaune Other vintages Bouchard Père & Fils",
+          "excerpt": "Bouchard Père & Fils Beaune Clos Saint Landry 2022 js 94-95 d 94 wa 89-91 v 89-91 ws 90 SKU: 16111 750ml 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 Add to Cart $135.00 You Save $27.01 (20%) $107.99 Available for: Pickup Delivery Shipping Share Category White Wine Varietal Chardonnay Brand Bouchard Père & Fils Origin France , Burgundy , Côte de Beaune Other vintages Bouchard Père & Fils",
           "lang": "sv"
         },
         {
@@ -644,7 +658,7 @@
           "source": "v2vin.com",
           "title": "Clos de la Coulée de Serrant 2023 - Nicolas Joly : Un grand millésime pour un vin d'exception",
           "url": "https://www.v2vin.com/2901-clos-de-la-coulee-de-serrant-2023-nicolas-joly.html",
-          "excerpt": "Prix 74,90 € Prix de base 95,00 € 75cl Clos de la Coulée de Serrant 2023 Ajouter au panier",
+          "excerpt": "Prix 39,90 € Prix de base 59,00 € 75cl Les Vieux Clos 2024 - Coulée de Serrant Ajouter au panier",
           "lang": "sv"
         },
         {
@@ -994,17 +1008,17 @@
           "lang": "sv"
         },
         {
-          "source": "vivino.com",
-          "title": "E. Guigal Hermitage | Vivino Svenska",
-          "url": "https://www.vivino.com/sv/e-guigal-hermitage/w/7780",
-          "excerpt": "E. Guigal Hermitage är en Rött vin. Tillverkad av Shiraz/Syrah. Kolla in dess betyg och recensioner från världens största vincommunity.",
-          "lang": "sv"
-        },
-        {
           "source": "winespectator.com",
           "title": "E. Guigal Crozes-Hermitage 2021 | Wine Rating | Wine Spectator",
           "url": "https://www.winespectator.com/wine/wine-detail/id/1313925/name/e.-guigal-crozes-hermitage-2021/guest",
           "excerpt": "To see the full review and rating, become a member of WineSpectator.com today. Subscribe Already a Member? Sign In ## E. Guigal Crozes-Hermitage 2021 | $ ## Earthy and savory, offering delicate red fruit merged with … To see the full review and rating become a member of WineSpectator.com Subscribe Today Member Sign In Wine Type and Color Red Still Primary Grape Syrah / Shiraz This dark-skinned red grape most likely originated in France's Rhône Valley, which is still considered its most famous home. Syrah is the sole grape in the reds of the Northern Rhône Valley, but it's also a blending partn",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "E. Guigal Hermitage | Vivino Svenska",
+          "url": "https://www.vivino.com/sv/e-guigal-hermitage/w/7780",
+          "excerpt": "E. Guigal Hermitage är en Rött vin. Tillverkad av Shiraz/Syrah. Kolla in dess betyg och recensioner från världens största vincommunity.",
           "lang": "sv"
         },
         {
@@ -1195,10 +1209,10 @@
           "lang": "sv"
         },
         {
-          "source": "wineenthusiast.com",
-          "title": "William Fèvre 2022 Premier Cru Vaulorent (Chablis) Rating and Review | Wine Enthusiast",
-          "url": "https://www.wineenthusiast.com/buying-guide/william-fevre-2022-premier-cru-vaulorent-chablis/",
-          "excerpt": "<strong>Aromas of underripe Anjou pear, citrus oil, delicate acacia blossom, and a fine veil of saline minerality evoke a restrained, elegant expression of Chablis</strong>. On the palate, bright acidity and chalky minerality frame subtle layers of orchard fruit ...",
+          "source": "vintus.com",
+          "title": "William Fèvre Chablis 1er Cru Vaillons – Domaine 2022",
+          "url": "https://vintus.com/wines/william-fevre-chablis-1er-cru-vaillons-domaine/william-fevre-chablis-1er-cru-vaillons-domaine-2022-2/",
+          "excerpt": "Search Generic filters Exact matches only Filter Producers Producers Summary Trade Materials Reviews About Videos News Sign Up Sign in Far Mountain Marietta Cellars Old Vine Ranch by Marietta Cellars Ponzi Vineyards Domaine Roy & Fils Champagne Bollinger Champagne Ayala Château Margaux Château La Fleur-Pétrus Anseillan Château La Serre Xavier Milhade Wines William Fèvre Domaine Chanson Lucien Le Moine Château de La Chaize Jules Desjourneys Domaine Talmard Langlois Domaine Hubert Brochard E. Guigal Château de Nalys Rotem and Mounir Saouma Roseblood d'Estoublon Domaine d'Aussières Ornellaia Mass",
           "lang": "sv"
         }
       ]
@@ -1340,18 +1354,11 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "sv": "En nyanserad och utvecklad Grand Cru-champagne från ett utmanande 2017 med frostskadade skördar. Den är gjord på Chardonnay från kalkrika vingårdar, vilket ger druvan kraft och aromatisk komplexitet.",
-        "en": "A nuanced and developed Grand Cru Champagne from a challenging 2017 vintage marked by frost damage. Made from Chardonnay grown on chalky soils, giving the grape power and aromatic complexity."
+        "en": "Could not summarise (AttributeError)."
       },
       "score": null,
-      "taste_notes": {
-        "sv": "Mycket frisk smak med inslag av gula äpplen, persika, rostat bröd, mineral, fransk nougat och grapefrukt.",
-        "en": "Very fresh palate with notes of yellow apples, peach, toasted bread, minerals, French nougat and grapefruit."
-      },
-      "pairing": {
-        "sv": "Passar till krispig kycklingschnitzel med spätzle och surkål.",
-        "en": "Pairs with crispy chicken schnitzel, spätzle and sauerkraut."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": [
         {
           "source": "livetsgoda.se",
@@ -1382,10 +1389,10 @@
           "lang": "sv"
         },
         {
-          "source": "vinia.se",
-          "title": "Champagne Didier Michel Grand Cru | Mousserande vin | Vinia",
-          "url": "https://www.vinia.se/produkter/champagne-didier-michel-grand-cru/",
-          "excerpt": "2017 var inget enkelt år i Champagne. Frostnätter i april tog hårt på skördarna och många odlare såg hur druvorna försvann innan sommaren ens hunnit börja. Men ute på de…",
+          "source": "cellartracker.com",
+          "title": "NV Didier Michel Champagne Grand Cru Blanc de Blancs, France, Champagne, Champagne Grand Cru - CellarTracker",
+          "url": "https://www.cellartracker.com/wine.asp?iWine=4844135",
+          "excerpt": "Add new vintage... ... Sort Tasting Notes by... ... <strong>Typiskt lite enklare champagne, lite äppeltoner och kalk i doften, ungefär samma i smak, dvs inga överraskningar men ändå helt duglig med tanke på priset</strong>",
           "lang": "sv"
         }
       ]
