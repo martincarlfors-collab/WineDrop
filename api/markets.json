@@ -1,0 +1,42 @@
+[
+  {
+    "code": "se",
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "currency": "SEK",
+    "language": "sv",
+    "retailer": "Systembolaget",
+    "updated": "2026-08-11",
+    "count": 0
+  },
+  {
+    "code": "no",
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "currency": "NOK",
+    "language": "no",
+    "retailer": "Vinmonopolet",
+    "updated": "2026-08-11",
+    "count": 0
+  },
+  {
+    "code": "fi",
+    "name": "Finland",
+    "flag": "🇫🇮",
+    "currency": "EUR",
+    "language": "fi",
+    "retailer": "Alko",
+    "updated": "2026-08-11",
+    "count": 0
+  },
+  {
+    "code": "ca",
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "currency": "CAD",
+    "language": "en",
+    "retailer": "LCBO",
+    "updated": "2026-08-11",
+    "count": 0
+  }
+]

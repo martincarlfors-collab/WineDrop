@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#7b1e3b">
+<title>WineDrop</title>
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="apple-touch-icon" href="./icon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header>
+  <div class="brandrow">
+    <span id="appName">🍷 WineDrop</span>
+    <div class="hdr-actions">
+      <button id="bellBtn" class="bell" hidden aria-label="Notifications">🔕</button>
+      <select id="langSel" aria-label="Language"></select>
+    </div>
+  </div>
+  <p id="tagline">New wine releases, worldwide</p>
+  <div class="controls" id="marketControl">
+    <select id="marketSel" aria-label="Market"></select>
+  </div>
+</header>
+
+<p id="offline" hidden></p>
+
+<main>
+  <!-- SENASTE -->
+  <section id="latestView">
+    <p id="sub"></p>
+    <div id="latestSort" class="segbar"></div>
+    <div id="list"></div>
+  </section>
+
+  <!-- UTFORSKA -->
+  <section id="exploreView" hidden>
+    <div id="marketChips" class="chips"></div>
+    <input id="fSearch" class="search" type="search" autocomplete="off" />
+    <div class="filterbar">
+      <select id="fType" aria-label="Type"></select>
+      <select id="fCountry" aria-label="Country"></select>
+      <select id="fSort" aria-label="Sort"></select>
+    </div>
+    <p id="exploreCount" class="subcount"></p>
+    <div id="exploreList"></div>
+  </section>
+
+  <!-- TRENDER -->
+  <section id="trendsView" hidden>
+    <div id="trendsBody"></div>
+  </section>
+
+  <!-- DETALJ (delas av alla listor) -->
+  <section id="detailView" class="detail" hidden>
+    <div id="detailBody"></div>
+  </section>
+</main>
+
+<nav id="tabbar">
+  <button data-tab="latest" class="tab active"><span>🆕</span><b id="tabLatest">Latest</b></button>
+  <button data-tab="explore" class="tab"><span>🧭</span><b id="tabExplore">Explore</b></button>
+  <button data-tab="trends" class="tab"><span>📈</span><b id="tabTrends">Trends</b></button>
+</nav>
+
+<script src="./i18n.js"></script>
+<script src="./config.js"></script>
+<script src="./app.js"></script>
+<script src="./push.js"></script>
+</body>
+</html>

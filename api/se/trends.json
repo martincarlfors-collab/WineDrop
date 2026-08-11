@@ -1,0 +1,27 @@
+{
+  "market": "se",
+  "weeks": [
+    {
+      "week": "2026-32",
+      "count": 2,
+      "avgScore": 84.5
+    },
+    {
+      "week": "2026-33",
+      "count": 0,
+      "avgScore": null
+    }
+  ],
+  "producers": [
+    {
+      "name": "Vietti",
+      "count": 1,
+      "avgScore": 86.0
+    },
+    {
+      "name": "Dr Loosen",
+      "count": 1,
+      "avgScore": 83.0
+    }
+  ]
+}
