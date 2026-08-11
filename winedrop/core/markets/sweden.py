@@ -47,57 +47,61 @@ def _get(url: str) -> str:
     return r.text
 
 
-def _parse_lines(lines: list[str]) -> list[dict]:
-    """Parsa en släppsidas textrader till vin-poster (fakta, inga betyg)."""
-    lines = [l.strip() for l in lines if l and l.strip()]
-    out: list[dict] = []
-    section = ""
-    i = 0
-    while i < len(lines):
-        low = lines[i].lower()
-        if low in _SECTIONS:
-            section = _SECTIONS[low]
-            i += 1
-            continue
-        m = re.match(r"^\((\d{4,7})\)$", lines[i])   # (produktnummer)
-        if not m:
-            i += 1
-            continue
-        nr = m.group(1)
-        name_line = lines[i - 1] if i > 0 else ""
-        producer = lines[i + 1] if i + 1 < len(lines) else ""
-        origin = lines[i + 2] if i + 2 < len(lines) else ""
+def _norm(s: str) -> str:
+    return re.sub(r"\s+", " ", s or "").strip()
 
-        vintage, name = "", name_line
-        mv = re.match(r"^(\d{4}|NV)\s+(.*)$", name_line)
+
+def _section_for(table) -> str:
+    """Närmaste föregående rubrik som matchar en vintyp (för bottle-färg/filter)."""
+    def is_sec(tag):
+        return tag.name in ("h1", "h2", "h3", "h4", "h5", "p", "strong") \
+            and _norm(tag.get_text()).lower() in _SECTIONS
+    prev = table.find_previous(is_sec)
+    return _SECTIONS.get(_norm(prev.get_text()).lower(), "") if prev else ""
+
+
+def _parse_release(html: str) -> list[dict]:
+    """Parsa en släppsidas vin-tabeller till poster (fakta, inga betyg).
+
+    Varje vin ligger i en <table class="vinlista"> med:
+      <h4>årgång + namn</h4> <p>(produktnummer)</p>
+      <td class="subheader" colspan=2>producent</td>
+      <td class="origin">ursprung</td>
+      ... rader "Lanseringsdatum:" och "Pris:" längre ner.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    out: list[dict] = []
+    for table in soup.select("table.vinlista"):
+        ttext = table.get_text(" ", strip=True)
+        mnr = re.search(r"\((\d{4,7})\)", ttext)
+        if not mnr:
+            continue
+        nr = mnr.group(1)
+
+        h4 = table.find("h4")
+        header = _norm(h4.get_text()) if h4 else ""
+        vintage, name = "", header
+        mv = re.match(r"^(\d{4}|NV)\s+(.*)$", header)
         if mv:
             vintage = "" if mv.group(1) == "NV" else mv.group(1)
             name = mv.group(2).strip()
+
+        prod_el = table.select_one("td.subheader[colspan='2']")
+        producer = _norm(prod_el.get_text()) if prod_el else ""
+        origin_el = table.select_one("td.origin")
+        origin = _norm(origin_el.get_text()) if origin_el else ""
         country = origin.split(",")[-1].strip() if origin else ""
 
-        date, price = "", None
-        for j in range(i, min(i + 14, len(lines))):
-            dm = re.match(r"Lanseringsdatum:\s*(\d{4}-\d{2}-\d{2})", lines[j])
-            if dm:
-                date = dm.group(1)
-            pm = re.match(r"Pris:\s*(\d+)", lines[j])
-            if pm:
-                price = float(pm.group(1))
-            if date and price is not None:
-                break
+        md = re.search(r"Lanseringsdatum:\s*(\d{4}-\d{2}-\d{2})", ttext)
+        mp = re.search(r"Pris:\s*(\d+)", ttext)
+        date = md.group(1) if md else ""
+        price = float(mp.group(1)) if mp else None
 
         if name and date:
             out.append({"nr": nr, "name": name, "vintage": vintage,
                         "producer": producer, "country": country,
-                        "type": section, "date": date, "price": price})
-        i += 3
+                        "type": _section_for(table), "date": date, "price": price})
     return out
-
-
-def _parse_release(html: str) -> list[dict]:
-    soup = BeautifulSoup(html, "html.parser")
-    art = soup.find("article") or soup.body or soup
-    return _parse_lines(art.get_text("\n").split("\n"))
 
 
 def _to_wine(w: dict) -> Wine:
