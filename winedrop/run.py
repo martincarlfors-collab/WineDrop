@@ -14,6 +14,7 @@ from core import config
 from core.markets import ALL_CONNECTORS, get_connector
 from core.reviews import fetch_reviews
 from core.summarize import summarize
+from core.search import image_search
 from core.schema import Summary
 from core import build_api, demo_data, history, rank
 
@@ -31,6 +32,14 @@ def process_market(conn, limit: int, demo: bool):
     wines.sort(key=rank.desirability, reverse=True)
     if limit:
         wines = wines[:limit]
+
+    # Hämta en bild per vin via Brave Image Search (flask-ikon som reserv i appen).
+    for i, w in enumerate(wines, 1):
+        if not w.image:
+            q = " ".join(x for x in (w.producer, w.name, w.vintage) if x) + " vin"
+            w.image = image_search(q, conn.review_lang)
+        if i % 25 == 0:
+            print(f"  [{m.code}] bilder {i}/{len(wines)}", flush=True)
 
     top_n = config.SOUGHT_AFTER_TOP_N or len(wines)
     scored = []
