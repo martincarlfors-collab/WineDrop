@@ -8,135 +8,20 @@
     },
     {
       "week": "2026-33",
-      "count": 234,
-      "avgScore": 93.2
+      "count": 0,
+      "avgScore": null
     }
   ],
   "producers": [
     {
-      "name": "Vietti s.r.l.",
-      "count": 9,
-      "avgScore": 95.0
+      "name": "Vietti",
+      "count": 1,
+      "avgScore": 86.0
     },
     {
-      "name": "Anora Sweden AB",
-      "count": 6,
-      "avgScore": null
-    },
-    {
-      "name": "E. Pira & Figli Chiara Boschis",
-      "count": 6,
-      "avgScore": null
-    },
-    {
-      "name": "Azelia",
-      "count": 5,
-      "avgScore": null
-    },
-    {
-      "name": "Bonfils Goichot",
-      "count": 5,
-      "avgScore": null
-    },
-    {
-      "name": "Bouchard Père et Fils",
-      "count": 4,
-      "avgScore": 92.0
-    },
-    {
-      "name": "E Guigal",
-      "count": 4,
-      "avgScore": null
-    },
-    {
-      "name": "Compañía de Vinos del Atlántico",
-      "count": 4,
-      "avgScore": null
-    },
-    {
-      "name": "Poderi e Cantine Oddero",
-      "count": 4,
-      "avgScore": null
-    },
-    {
-      "name": "Domaine Comte Georges de Vogüé",
-      "count": 4,
-      "avgScore": null
-    },
-    {
-      "name": "Domaine de la Vougeraie",
-      "count": 4,
-      "avgScore": null
-    },
-    {
-      "name": "M.Chapoutier",
-      "count": 4,
-      "avgScore": null
-    },
-    {
-      "name": "Massolino",
-      "count": 4,
-      "avgScore": null
-    },
-    {
-      "name": "Domaine Louis Jadot",
-      "count": 4,
-      "avgScore": null
-    },
-    {
-      "name": "Christian Bellang & Fils",
-      "count": 4,
-      "avgScore": null
-    },
-    {
-      "name": "Le Ragnaie",
-      "count": 3,
-      "avgScore": 95.0
-    },
-    {
-      "name": "Domaine William Fèvre",
-      "count": 3,
-      "avgScore": 93.0
-    },
-    {
-      "name": "Trediberri",
-      "count": 3,
-      "avgScore": null
-    },
-    {
-      "name": "Charles Joguet",
-      "count": 3,
-      "avgScore": null
-    },
-    {
-      "name": "Spirit of Sweden",
-      "count": 3,
-      "avgScore": null
-    },
-    {
-      "name": "Domaine Trapet",
-      "count": 3,
-      "avgScore": null
-    },
-    {
-      "name": "Barroca Da Malhada",
-      "count": 3,
-      "avgScore": null
-    },
-    {
-      "name": "Brännland Iscider",
-      "count": 2,
-      "avgScore": 94.0
-    },
-    {
-      "name": "Bodegas Alion",
-      "count": 2,
-      "avgScore": 94.0
-    },
-    {
-      "name": "Domaine de Héritieres Louis Jadot",
-      "count": 2,
-      "avgScore": 90.0
+      "name": "Dr Loosen",
+      "count": 1,
+      "avgScore": 83.0
     }
   ]
 }
