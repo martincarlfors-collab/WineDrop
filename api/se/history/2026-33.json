@@ -13,7 +13,7 @@
     {
       "name": "Millésimé Brut",
       "producer": "Deutz",
-      "score": 90,
+      "score": null,
       "price": 799.0,
       "origin_country": "Frankrike",
       "wine_type": "Mousserande"
@@ -37,7 +37,7 @@
     {
       "name": "Ch. Fonroque",
       "producer": "Ch. Fonroque",
-      "score": 93,
+      "score": 92,
       "price": 529.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött"
@@ -157,7 +157,7 @@
     {
       "name": "Brunello di Montalcino",
       "producer": "Caparzo",
-      "score": 93,
+      "score": 94,
       "price": 359.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
@@ -181,7 +181,7 @@
     {
       "name": "Heerkretz Riesling Grosses Gewächs",
       "producer": "Wagner Stempel",
-      "score": 97,
+      "score": 96,
       "price": 349.0,
       "origin_country": "Tyskland",
       "wine_type": "Vitt"

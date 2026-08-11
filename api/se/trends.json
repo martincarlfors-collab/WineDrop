@@ -9,7 +9,7 @@
     {
       "week": "2026-33",
       "count": 101,
-      "avgScore": 91.6
+      "avgScore": 91.7
     }
   ],
   "producers": [
@@ -24,12 +24,12 @@
       "avgScore": null
     },
     {
-      "name": "Wagner Stempel",
+      "name": "Bollinger",
       "count": 1,
-      "avgScore": 97.0
+      "avgScore": 96.0
     },
     {
-      "name": "Bollinger",
+      "name": "Wagner Stempel",
       "count": 1,
       "avgScore": 96.0
     },
@@ -44,9 +44,9 @@
       "avgScore": 94.0
     },
     {
-      "name": "Ch. Fonroque",
+      "name": "Caparzo",
       "count": 1,
-      "avgScore": 93.0
+      "avgScore": 94.0
     },
     {
       "name": "Evening Land Vineyards",
@@ -59,14 +59,9 @@
       "avgScore": 93.0
     },
     {
-      "name": "Caparzo",
+      "name": "Ch. Fonroque",
       "count": 1,
-      "avgScore": 93.0
-    },
-    {
-      "name": "Deutz",
-      "count": 1,
-      "avgScore": 90.0
+      "avgScore": 92.0
     },
     {
       "name": "E Guigal",
@@ -92,6 +87,11 @@
       "name": "Lucy Wines",
       "count": 1,
       "avgScore": 76.0
+    },
+    {
+      "name": "Deutz",
+      "count": 1,
+      "avgScore": null
     },
     {
       "name": "Alma Rosa Winery & Vineyards",
