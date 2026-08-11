@@ -56,11 +56,11 @@ def summarize(wine: Wine, snippets: list[ReviewSnippet], lang: str) -> Summary:
             model=config.LLM_MODEL, max_tokens=800,
             messages=[{"role": "user", "content": prompt}],
         )
-        raw = msg.content[0].text
+        raw = _text_of(msg)
         data = json.loads(raw[raw.find("{"): raw.rfind("}") + 1])
     except Exception as exc:  # noqa: BLE001
         s = _empty(snippets, lang)
-        s.verdict = {"en": f"Could not summarise ({exc.__class__.__name__})."}
+        s.verdict = {"en": f"Could not summarise ({exc.__class__.__name__}: {str(exc)[:120]})"}
         return s
 
     return Summary(
@@ -70,6 +70,20 @@ def summarize(wine: Wine, snippets: list[ReviewSnippet], lang: str) -> Summary:
         pairing=_d(data.get("pairing")),
         sources=[s.to_dict() for s in snippets],
     )
+
+
+def _text_of(msg) -> str:
+    content = getattr(msg, "content", msg)
+    if isinstance(content, str):
+        return content
+    parts = []
+    for b in content or []:
+        t = getattr(b, "text", None)
+        if t is None and isinstance(b, dict):
+            t = b.get("text")
+        if t:
+            parts.append(t)
+    return "".join(parts)
 
 
 def _d(v) -> dict[str, str]:
