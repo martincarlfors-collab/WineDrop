@@ -21,7 +21,7 @@
     {
       "name": "Brunello di Montalcino",
       "producer": "Az. Agr. Casanova di Neri",
-      "score": 95,
+      "score": null,
       "price": 599.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
@@ -45,7 +45,7 @@
     {
       "name": "Blanc de Blancs d'Aÿ Grand Cru",
       "producer": "Gaston Chiquet",
-      "score": 90,
+      "score": 91,
       "price": 499.0,
       "origin_country": "Frankrike",
       "wine_type": "Mousserande"
@@ -125,7 +125,7 @@
     {
       "name": "Château Bouscassé Vieilles Vignes",
       "producer": "Alain Brumont",
-      "score": 90,
+      "score": null,
       "price": 399.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött"
@@ -197,7 +197,7 @@
     {
       "name": "Gamay Noir",
       "producer": "Lucy Wines",
-      "score": 88,
+      "score": 76,
       "price": 329.0,
       "origin_country": "USA - Kalifornien",
       "wine_type": "Rött"

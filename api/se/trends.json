@@ -9,7 +9,7 @@
     {
       "week": "2026-33",
       "count": 101,
-      "avgScore": 92.4
+      "avgScore": 91.4
     }
   ],
   "producers": [
@@ -32,11 +32,6 @@
       "name": "Bollinger",
       "count": 1,
       "avgScore": 96.0
-    },
-    {
-      "name": "Az. Agr. Casanova di Neri",
-      "count": 1,
-      "avgScore": 95.0
     },
     {
       "name": "Trimbach",
@@ -64,6 +59,11 @@
       "avgScore": 92.0
     },
     {
+      "name": "Gaston Chiquet",
+      "count": 1,
+      "avgScore": 91.0
+    },
+    {
       "name": "Deutz",
       "count": 1,
       "avgScore": 90.0
@@ -74,21 +74,6 @@
       "avgScore": 90.0
     },
     {
-      "name": "Gaston Chiquet",
-      "count": 1,
-      "avgScore": 90.0
-    },
-    {
-      "name": "Alain Brumont",
-      "count": 1,
-      "avgScore": 90.0
-    },
-    {
-      "name": "Lucy Wines",
-      "count": 1,
-      "avgScore": 88.0
-    },
-    {
       "name": "Vietti",
       "count": 1,
       "avgScore": 86.0
@@ -97,6 +82,16 @@
       "name": "Dr Loosen",
       "count": 1,
       "avgScore": 83.0
+    },
+    {
+      "name": "Lucy Wines",
+      "count": 1,
+      "avgScore": 76.0
+    },
+    {
+      "name": "Az. Agr. Casanova di Neri",
+      "count": 1,
+      "avgScore": null
     },
     {
       "name": "Alma Rosa Winery & Vineyards",
@@ -125,6 +120,11 @@
     },
     {
       "name": "Dom. Trouillet",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Alain Brumont",
       "count": 1,
       "avgScore": null
     },
