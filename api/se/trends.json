@@ -9,7 +9,7 @@
     {
       "week": "2026-33",
       "count": 101,
-      "avgScore": 92.6
+      "avgScore": 92.5
     }
   ],
   "producers": [
@@ -34,6 +34,11 @@
       "avgScore": 96.0
     },
     {
+      "name": "Az. Agr. Casanova di Neri",
+      "count": 1,
+      "avgScore": 95.0
+    },
+    {
       "name": "Trimbach",
       "count": 1,
       "avgScore": 94.0
@@ -42,16 +47,6 @@
       "name": "Caparzo",
       "count": 1,
       "avgScore": 94.0
-    },
-    {
-      "name": "Ch. Fonroque",
-      "count": 1,
-      "avgScore": 93.0
-    },
-    {
-      "name": "Poderi Colla",
-      "count": 1,
-      "avgScore": 93.0
     },
     {
       "name": "Evening Land Vineyards",
@@ -64,9 +59,9 @@
       "avgScore": 93.0
     },
     {
-      "name": "Deutz",
+      "name": "Ch. Fonroque",
       "count": 1,
-      "avgScore": 90.0
+      "avgScore": 92.0
     },
     {
       "name": "E Guigal",
@@ -84,6 +79,11 @@
       "avgScore": 90.0
     },
     {
+      "name": "Deutz",
+      "count": 1,
+      "avgScore": 88.0
+    },
+    {
       "name": "Vietti",
       "count": 1,
       "avgScore": 86.0
@@ -94,12 +94,12 @@
       "avgScore": 83.0
     },
     {
-      "name": "Az. Agr. Casanova di Neri",
+      "name": "Alma Rosa Winery & Vineyards",
       "count": 1,
       "avgScore": null
     },
     {
-      "name": "Alma Rosa Winery & Vineyards",
+      "name": "Poderi Colla",
       "count": 1,
       "avgScore": null
     },

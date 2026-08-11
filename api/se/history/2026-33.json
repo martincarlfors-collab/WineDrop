@@ -13,7 +13,7 @@
     {
       "name": "Millésimé Brut",
       "producer": "Deutz",
-      "score": 90,
+      "score": 88,
       "price": 799.0,
       "origin_country": "Frankrike",
       "wine_type": "Mousserande"
@@ -21,7 +21,7 @@
     {
       "name": "Brunello di Montalcino",
       "producer": "Az. Agr. Casanova di Neri",
-      "score": null,
+      "score": 95,
       "price": 599.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
@@ -37,7 +37,7 @@
     {
       "name": "Ch. Fonroque",
       "producer": "Ch. Fonroque",
-      "score": 93,
+      "score": 92,
       "price": 529.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött"
@@ -61,7 +61,7 @@
     {
       "name": "Bussia Dardi Le Rose",
       "producer": "Poderi Colla",
-      "score": 93,
+      "score": null,
       "price": 499.0,
       "origin_country": "Italien",
       "wine_type": "Rött"

@@ -7,8 +7,8 @@
   --card:#ffffff; --line:#E7DFD1;
   --ink:#292521;    /* Charcoal */
   --muted:#8c8173; --soft:#EFE8DB;
-  /* jordnära betygsskala: guld > lera > oliv */
-  --hi:#8a6414; --hiBg:#F6ECCF; --mid:#8f5236; --midBg:#F3E6DA; --lo:#565a3e; --loBg:#E8EAE0;
+  /* jordnära betygsskala: guld > lera > oliv (ljusare toner) */
+  --hi:#B4841F; --hiBg:#F8EFD6; --mid:#B0694A; --midBg:#F6EAE1; --lo:#6E7250; --loBg:#ECEEE4;
   --serif:"Playfair Display",Georgia,"Times New Roman",serif;
   --r:16px;
 }
@@ -76,7 +76,7 @@ main{padding:14px 16px 30px}
   display:flex;align-items:center;gap:6px;flex-wrap:wrap}
 .meta{color:var(--muted);font-size:.82rem;margin-top:4px}
 .cardright{display:flex;flex-direction:column;align-items:flex-end;gap:7px;flex:0 0 auto}
-.price{color:var(--wine);font-weight:600;font-size:.9rem}
+.price{color:var(--clay);font-weight:600;font-size:.9rem}
 .watchdot{color:var(--ochre);font-size:.85em}
 .tag{font-size:.58rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;
   background:var(--ochre);color:#3a2c0a;border-radius:5px;padding:2px 6px}
