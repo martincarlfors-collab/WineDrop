@@ -11,7 +11,7 @@ for _d in (CACHE_DIR, API_DIR):
     os.makedirs(_d, exist_ok=True)
 
 # Hur nya släpp som räknas (dagar bakåt)
-DAYS_BACK = 8
+DAYS_BACK = 30
 
 # Sverige: sortimentsfilter. Tomt = ALLA viner som släpps under veckan
 # (både fasta och tillfälliga sortimentet). Sätt t.ex. "Tillfälligt sortiment"
@@ -26,7 +26,7 @@ SOUGHT_AFTER_TOP_N = int(os.environ.get("SOUGHT_AFTER_TOP_N", "25"))
 USER_AGENT = "WineDropBot/0.1 (+https://example.com/winedrop; contact@example.com)"
 REQUEST_DELAY_SEC = 2.0
 REQUEST_JITTER_SEC = 1.0
-REQUEST_TIMEOUT_SEC = 20
+REQUEST_TIMEOUT_SEC = 120
 MAX_REVIEWS_PER_WINE = 5
 
 # LLM
