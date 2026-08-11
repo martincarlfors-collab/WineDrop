@@ -80,18 +80,11 @@
       "volume": 500.0,
       "is_news": false,
       "verdict": {
-        "sv": "Brännland Ember Äppelglögg 2024 hyllas som en begåvad och konsekvent produkt från den svenska iscider-producenten, med starka betyg (94p) och stor kundlojalitet sedan lanseringen 2021. Kritiker lyfter dess mångsidighet – den fungerar lika bra som traditionell glögg, kyld dryck eller cocktailbas – samt viss lagringspotential.",
-        "en": "Brännland Ember Äppelglögg 2024 is praised as a skillful and consistently well-made product from the Swedish ice cider producer, earning strong scores (94pts) and a loyal following since its 2021 launch. Critics highlight its versatility—working equally well as a traditional mulled drink, chilled, or in cocktails—along with some aging potential."
+        "en": "Could not summarise (AttributeError)."
       },
-      "score": 94,
-      "taste_notes": {
-        "sv": "Nyanserad, kryddig och söt smak med inslag av fat, röda äpplen, kardemumma, kryddnejlika, saffran, apelsinskal, kanel, vanilj, marsipan, ingefära, anis och bergamott.",
-        "en": "Nuanced, spicy and sweet flavor with notes of oak, red apples, cardamom, cloves, saffron, orange peel, cinnamon, vanilla, marzipan, ginger, anise and bergamot."
-      },
-      "pairing": {
-        "sv": "Passar till högtidsmiddagar, som värmd eller kyld sällskapsdryck, samt som bas i cocktails.",
-        "en": "Pairs with holiday feasts, served warm or chilled as a social drink, and as a base for cocktails."
-      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
       "sources": [
         {
           "source": "livetsgoda.se",
@@ -423,9 +416,9 @@
         },
         {
           "source": "donmelchor.com",
-          "title": "Don Melchor 2023: Intensity and finesse - Don Melchor",
-          "url": "https://donmelchor.com/en/don-melchor-2023-intensity-and-finesse/",
-          "excerpt": "Hello, You are entering Viña Don Melchor's global website. Do you want to continue here? Yes, continue in global No, go to the USA site Events Don Melchor 2023: Intensity and finesse 25th of May, 2026 The new vintage of Chile’s iconic Cabernet Sauvignon, Don Melchor 2023, composed of 96% Cabernet Sauvignon, 3% Cabernet Franc, and 1% Merlot, stands out for its intense expression and superbly defined aromas and flavours characteristic of its great Puente Alto origin. Don Melchor, the Chilean wine industry’s first icon wine and a global benchmark among the world’s finest Cabernet Sauvignons, pres",
+          "title": "La vendimia 2023 de Don Melchor - Don Melchor",
+          "url": "https://donmelchor.com/la-vendimia-2023-de-don-melchor/",
+          "excerpt": "Hello, You are entering Viña Don Melchor's global website. Do you want to continue here? Yes, continue in global No, go to the USA site Eventos La vendimia 2023 de Don Melchor 19 de julio, 2023 La temporada 2022-2023 se caracterizó por ser cálida y con un total de precipitaciones cercano a la mitad de un año normal, concentradas mayoritariamente en los meses de invierno. Altamente desafiante por las condiciones climáticas de la temporada, la vendimia 2023 de Don Melchor presenta nuevamente vinos que reflejan el carácter único del terroir de Puente Alto. En estas condiciones de temperaturas más",
           "lang": "sv"
         }
       ]
@@ -454,13 +447,6 @@
       "pairing": {},
       "sources": [
         {
-          "source": "cellartracker.com",
-          "title": "2021 Bodegas y Viñedos Alión Ribera del Duero, Spain, Castilla y León, Ribera del Duero - CellarTracker",
-          "url": "https://www.cellartracker.com/wine.asp?iWine=5106157",
-          "excerpt": "Add new vintage... ... Sort Tasting Notes by... ... <strong>Very rich and full bodied</strong>. Bigger than I remember it being. Do you find this review helpful? Yes - No / Comment ... Professional reviews have copyrights and you can view them here for your ...",
-          "lang": "sv"
-        },
-        {
           "source": "redneckwinecompany.com",
           "title": "Bodegas y Vinedos Alion 2021 - 750ml – Redneck Wine Company",
           "url": "https://redneckwinecompany.com/products/bodegas-y-vinedos-alion-2021-750ml",
@@ -475,10 +461,10 @@
           "lang": "sv"
         },
         {
-          "source": "bestofwines.com",
-          "title": "Alion 2021 Alion Bodegas",
-          "url": "https://bestofwines.com/wine/wine-producer/alion-bodegas/alion-2021.htm",
-          "excerpt": "Home Wine Wine producer Alion Bodegas Alion 2021 Alion 2021 Alion Bodegas 4.5 stars - 3 professional reviews € 78,00 (ex Vat) € 94,38 (in Vat) € 195,00 (ex Vat) € 235,95 (in Vat) Alion 2021 <span>(Magnum)</span> <a href='/wine/spanish-wine/ribera-del-duero-wine/'>Alion Bodegas</a> ex Vat € 195,00 in Vat € 235,95 Volume Magnum € 495,00 (ex Vat) € 598,95 (in Vat) Alion 2021 <span>(Double Magnum)</span> <a href='/wine/spanish-wine/ribera-del-duero-wine/'>Alion Bodegas</a> ex Vat € 495,00 in Vat € 598,95 Volume Double Magnum buy with points price Add to basket (max. 33) contact us buy with points ",
+          "source": "cellartracker.com",
+          "title": "2021 Bodegas y Viñedos Alión Ribera del Duero, Spain, Castilla y León, Ribera del Duero - CellarTracker",
+          "url": "https://www.cellartracker.com/wine.asp?iWine=5106157",
+          "excerpt": "Add new vintage... ... Sort Tasting Notes by... ... <strong>Very rich and full bodied</strong>. Bigger than I remember it being. Do you find this review helpful? Yes - No / Comment ... Professional reviews have copyrights and you can view them here for your ...",
           "lang": "sv"
         },
         {
@@ -486,6 +472,13 @@
           "title": "Alion 2021 Bodegas Alion | Your personal wine professional | Tastingbook",
           "url": "https://tastingbook.com/wine/bodegas_alion/alion_2021?language=en",
           "excerpt": "95 Tb points",
+          "lang": "sv"
+        },
+        {
+          "source": "bestofwines.com",
+          "title": "Alion 2021 Alion Bodegas",
+          "url": "https://bestofwines.com/wine/wine-producer/alion-bodegas/alion-2021.htm",
+          "excerpt": "Home Wine Wine producer Alion Bodegas Alion 2021 Alion 2021 Alion Bodegas 4.5 stars - 3 professional reviews € 78,00 (ex Vat) € 94,38 (in Vat) € 195,00 (ex Vat) € 235,95 (in Vat) Alion 2021 <span>(Magnum)</span> <a href='/wine/spanish-wine/ribera-del-duero-wine/'>Alion Bodegas</a> ex Vat € 195,00 in Vat € 235,95 Volume Magnum € 495,00 (ex Vat) € 598,95 (in Vat) Alion 2021 <span>(Double Magnum)</span> <a href='/wine/spanish-wine/ribera-del-duero-wine/'>Alion Bodegas</a> ex Vat € 495,00 in Vat € 598,95 Volume Double Magnum buy with points price Add to basket (max. 33) contact us buy with points ",
           "lang": "sv"
         }
       ]
@@ -517,7 +510,7 @@
           "source": "stationplazawine.com",
           "title": "Bouchard Père & Fils Beaune Clos Saint Landry 2022 750ml - Station Plaza Wine",
           "url": "https://www.stationplazawine.com/products/14662444/bouchard-pere-fils-beaune-clos-saint-landry-2022",
-          "excerpt": "Bouchard Père & Fils Beaune Clos Saint Landry 2022 js 94-95 d 94 wa 89-91 v 89-91 ws 90 SKU: 16111 750ml 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 Add to Cart $135.00 You Save $27.01 (20%) $107.99 Available for: Pickup Delivery Shipping Share Category White Wine Varietal Chardonnay Brand Bouchard Père & Fils Origin France , Burgundy , Côte de Beaune Other vintages Bouchard Père & Fils",
+          "excerpt": "Bouchard Père & Fils Beaune Clos Saint Landry 2022 js 94-95 d 94 v 89-91 wa 89-91 ws 90 SKU: 16111 750ml 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 Add to Cart $135.00 You Save $27.01 (20%) $107.99 Available for: Pickup Delivery Shipping Share Category White Wine Varietal Chardonnay Brand Bouchard Père & Fils Origin France , Burgundy , Côte de Beaune Other vintages Bouchard Père & Fils",
           "lang": "sv"
         },
         {
@@ -1001,17 +994,17 @@
           "lang": "sv"
         },
         {
-          "source": "winespectator.com",
-          "title": "E. Guigal Crozes-Hermitage 2021 | Wine Rating | Wine Spectator",
-          "url": "https://www.winespectator.com/wine/wine-detail/id/1313925/name/e.-guigal-crozes-hermitage-2021/guest",
-          "excerpt": "To see the full review and rating, become a member of WineSpectator.com today. Subscribe Already a Member? Sign In ## E. Guigal Crozes-Hermitage 2021 | $ ## Earthy and savory, offering delicate red fruit merged with … To see the full review and rating become a member of WineSpectator.com Subscribe Today Member Sign In Wine Type and Color Red Still Primary Grape Syrah / Shiraz This dark-skinned red grape most likely originated in France's Rhône Valley, which is still considered its most famous home. Syrah is the sole grape in the reds of the Northern Rhône Valley, but it's also a blending partn",
-          "lang": "sv"
-        },
-        {
           "source": "vivino.com",
           "title": "E. Guigal Hermitage | Vivino Svenska",
           "url": "https://www.vivino.com/sv/e-guigal-hermitage/w/7780",
           "excerpt": "E. Guigal Hermitage är en Rött vin. Tillverkad av Shiraz/Syrah. Kolla in dess betyg och recensioner från världens största vincommunity.",
+          "lang": "sv"
+        },
+        {
+          "source": "winespectator.com",
+          "title": "E. Guigal Crozes-Hermitage 2021 | Wine Rating | Wine Spectator",
+          "url": "https://www.winespectator.com/wine/wine-detail/id/1313925/name/e.-guigal-crozes-hermitage-2021/guest",
+          "excerpt": "To see the full review and rating, become a member of WineSpectator.com today. Subscribe Already a Member? Sign In ## E. Guigal Crozes-Hermitage 2021 | $ ## Earthy and savory, offering delicate red fruit merged with … To see the full review and rating become a member of WineSpectator.com Subscribe Today Member Sign In Wine Type and Color Red Still Primary Grape Syrah / Shiraz This dark-skinned red grape most likely originated in France's Rhône Valley, which is still considered its most famous home. Syrah is the sole grape in the reds of the Northern Rhône Valley, but it's also a blending partn",
           "lang": "sv"
         },
         {
@@ -1107,18 +1100,11 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "sv": "Kritiker är eniga om att Vietti Barolo 2021 är en utmärkt och prisvärd instegs-Barolo som visar klassisk elegans och kraft. Vinet har mognadspotential men är redan njutbart, med väl integrerade tanniner och komplexa lager som utvecklas i glaset.",
-        "en": "Critics agree that Vietti Barolo 2021 is an excellent, great-value entry-level Barolo showing classic elegance and power. The wine has aging potential but is already enjoyable, with well-integrated tannins and complex layers that unfold in the glass."
+        "en": "Could not summarise (AttributeError)."
       },
-      "score": 95,
-      "taste_notes": {
-        "sv": "Körsbär, svarta körsbär, plommon, rosenblad, tobak, alpina örter, lakrits och en läderaktig, kryddig avslutning.",
-        "en": "Cherry, black cherry, plum, rose petal, tobacco, alpine herbs, licorice, and a leathery, spicy finish."
-      },
-      "pairing": {
-        "sv": "Passar till braserad kalv, vildsvinsragu, mogna ostar och rätter med tryffel eller svamp.",
-        "en": "Pairs with braised veal, wild boar ragù, aged cheeses, and dishes featuring truffle or mushroom."
-      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
       "sources": [
         {
           "source": "wine.com",
@@ -1209,10 +1195,10 @@
           "lang": "sv"
         },
         {
-          "source": "vintus.com",
-          "title": "William Fèvre Chablis 1er Cru Vaillons – Domaine 2022",
-          "url": "https://vintus.com/wines/william-fevre-chablis-1er-cru-vaillons-domaine/william-fevre-chablis-1er-cru-vaillons-domaine-2022-2/",
-          "excerpt": "Search Generic filters Exact matches only Filter Producers Producers Summary Trade Materials Reviews About Videos News Sign Up Sign in Far Mountain Marietta Cellars Old Vine Ranch by Marietta Cellars Ponzi Vineyards Domaine Roy & Fils Champagne Bollinger Champagne Ayala Château Margaux Château La Fleur-Pétrus Anseillan Château La Serre Xavier Milhade Wines William Fèvre Domaine Chanson Lucien Le Moine Château de La Chaize Jules Desjourneys Domaine Talmard Langlois Domaine Hubert Brochard E. Guigal Château de Nalys Rotem and Mounir Saouma Roseblood d'Estoublon Domaine d'Aussières Ornellaia Mass",
+          "source": "wineenthusiast.com",
+          "title": "William Fèvre 2022 Premier Cru Vaulorent (Chablis) Rating and Review | Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/william-fevre-2022-premier-cru-vaulorent-chablis/",
+          "excerpt": "<strong>Aromas of underripe Anjou pear, citrus oil, delicate acacia blossom, and a fine veil of saline minerality evoke a restrained, elegant expression of Chablis</strong>. On the palate, bright acidity and chalky minerality frame subtle layers of orchard fruit ...",
           "lang": "sv"
         }
       ]
@@ -1256,9 +1242,9 @@
         },
         {
           "source": "vivino.com",
-          "title": "Domaine des Héritiers Louis Jadot Beaune 1er Cru Clos des Couchereaux | Vivino Svenska",
-          "url": "https://www.vivino.com/sv/domaine-heritiers-louis-jadot-beaune-1er-cru-clos-des-couchereaux/w/2799",
-          "excerpt": "Domaine des Héritiers Louis Jadot Beaune 1er Cru Clos des Couchereaux är en Rött vin. Tillverkad av Pinot Noir. Kolla in dess betyg och recensioner från världens största vincommunity.",
+          "title": "Domaine des Héritiers Louis Jadot Beaune 1er Cru Clos des Couchereaux | Vivino English",
+          "url": "https://www.vivino.com/en/domaine-heritiers-louis-jadot-beaune-1er-cru-clos-des-couchereaux/w/2799",
+          "excerpt": "Domaine des Héritiers Louis Jadot Beaune 1er Cru Clos des Couchereaux is a Red wine. Made from Pinot Noir. Check its rating and reviews from the world’s largest wine community.",
           "lang": "sv"
         },
         {
@@ -1354,8 +1340,8 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "sv": "En nyanserad och utvecklad Grand Cru-champagne från ett utmanande skördeår, präglad av frostskador i april 2017. Blanc de Blancs från kalkjordar ger en kraftfull och aromatisk Chardonnay-karaktär, mycket uppskattad för sin friskhet trots årgångens svårigheter.",
-        "en": "A nuanced and developed Grand Cru Champagne from a challenging vintage marked by April frost damage in 2017. This Blanc de Blancs from chalky soils delivers a powerful and aromatic Chardonnay character, praised for its freshness despite the vintage's difficulties."
+        "sv": "En nyanserad och utvecklad Grand Cru-champagne från ett utmanande 2017 med frostskadade skördar. Den är gjord på Chardonnay från kalkrika vingårdar, vilket ger druvan kraft och aromatisk komplexitet.",
+        "en": "A nuanced and developed Grand Cru Champagne from a challenging 2017 vintage marked by frost damage. Made from Chardonnay grown on chalky soils, giving the grape power and aromatic complexity."
       },
       "score": null,
       "taste_notes": {
@@ -1363,8 +1349,8 @@
         "en": "Very fresh palate with notes of yellow apples, peach, toasted bread, minerals, French nougat and grapefruit."
       },
       "pairing": {
-        "sv": "Passar till kycklingschnitzel med spätzle och surkål, samt andra rätter med frasig yta och mjuk, len kontrast.",
-        "en": "Pairs with chicken schnitzel served with spätzle and sauerkraut, as well as other dishes combining crispy textures with soft, mellow contrasts."
+        "sv": "Passar till krispig kycklingschnitzel med spätzle och surkål.",
+        "en": "Pairs with crispy chicken schnitzel, spätzle and sauerkraut."
       },
       "sources": [
         {

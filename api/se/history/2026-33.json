@@ -13,7 +13,7 @@
     {
       "name": "Brännland Ember Äppelglögg",
       "producer": "Brännland Iscider",
-      "score": 94,
+      "score": null,
       "price": 189.0,
       "origin_country": "Sverige",
       "wine_type": "Glögg och Glühwein"
@@ -149,7 +149,7 @@
     {
       "name": "Barolo Vietti",
       "producer": "Vietti s.r.l.",
-      "score": 95,
+      "score": null,
       "price": 599.0,
       "origin_country": "Italien",
       "wine_type": "Rött vin"
