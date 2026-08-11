@@ -80,31 +80,38 @@
       "volume": 500.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Brännland Ember Äppelglögg 2024 hyllas som en begåvad och konsekvent produkt från den svenska iscider-producenten, med starka betyg (94p) och stor kundlojalitet sedan lanseringen 2021. Kritiker lyfter dess mångsidighet – den fungerar lika bra som traditionell glögg, kyld dryck eller cocktailbas – samt viss lagringspotential.",
+        "en": "Brännland Ember Äppelglögg 2024 is praised as a skillful and consistently well-made product from the Swedish ice cider producer, earning strong scores (94pts) and a loyal following since its 2021 launch. Critics highlight its versatility—working equally well as a traditional mulled drink, chilled, or in cocktails—along with some aging potential."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 94,
+      "taste_notes": {
+        "sv": "Nyanserad, kryddig och söt smak med inslag av fat, röda äpplen, kardemumma, kryddnejlika, saffran, apelsinskal, kanel, vanilj, marsipan, ingefära, anis och bergamott.",
+        "en": "Nuanced, spicy and sweet flavor with notes of oak, red apples, cardamom, cloves, saffron, orange peel, cinnamon, vanilla, marzipan, ginger, anise and bergamot."
+      },
+      "pairing": {
+        "sv": "Passar till högtidsmiddagar, som värmd eller kyld sällskapsdryck, samt som bas i cocktails.",
+        "en": "Pairs with holiday feasts, served warm or chilled as a social drink, and as a base for cocktails."
+      },
       "sources": [
         {
           "source": "livetsgoda.se",
           "title": "Brännland Ember Äppelglögg 2024 – en begåvad glögg",
           "url": "https://www.livetsgoda.se/brannland-ember-appelglogg-2024-en-begavad-glogg/",
-          "excerpt": "Brännland Ember Äppelglögg 2024 – en begåvad glögg av Anders Enquist 2025-11-12 av Anders Enquist 2025-11-12 123 Brännland Ember Äppelglögg: Årets äppelglögg från Brännland Iscider är lika begåvat och bra som allt annat som kommer från denna svenska producerande dryckesstolthet. Det är även en glögg med – förutom lite lagringspotential – mångfacetterade matinspirerade användningsområden utanför det traditionellt glöggiga utförandet. Brännland Ember Äppelglögg 2024, 12% Sverige / Brännland Iscider / 500 ml / Nr 9034102 / 189 kr / 94 Att rabbla äppelsorterna som denna brygd har begåvats med säge",
+          "excerpt": "Brännland Ember Äppelglögg 2024 – en begåvad glögg av Anders Enquist 2025-11-12 av Anders Enquist 2025-11-12 124 Brännland Ember Äppelglögg: Årets äppelglögg från Brännland Iscider är lika begåvat och bra som allt annat som kommer från denna svenska producerande dryckesstolthet. Det är även en glögg med – förutom lite lagringspotential – mångfacetterade matinspirerade användningsområden utanför det traditionellt glöggiga utförandet. Brännland Ember Äppelglögg 2024, 12% Sverige / Brännland Iscider / 500 ml / Nr 9034102 / 189 kr / 94 Att rabbla äppelsorterna som denna brygd har begåvats med säge",
           "lang": "sv"
         },
         {
           "source": "livetsgoda.se",
           "title": "Brännland Ember 2024 - Vinmagasinet Livets Goda / Wine Magazine",
           "url": "https://www.livetsgoda.se/brannland-ember-2024/",
-          "excerpt": "Brännland Ember 2024 av Livets Goda 2025-10-31 av Livets Goda 2025-10-31 101 Dags för årets Brännland Ember, producerad på iscider med ren äppelsötma och kompletterad med ett tyskt glühwein-koncentrat. Andreas Sundgren, Brännland Iscider När vi släppte Ember första gången tänkte vi nog att det var något tillfälligt, något vi skulle göra ett eller två år men redan det första året blev reaktionerna så starka att vi har fortsatt och nu finns det en kundgrupp som återkommande vill dricka vår glögg, något vi är mycket glada över. Ember 2025 kommer också med en uppdaterad etikett i linje med den upp",
+          "excerpt": "Brännland Ember 2024 av Livets Goda 2025-10-31 av Livets Goda 2025-10-31 102 Dags för årets Brännland Ember, producerad på iscider med ren äppelsötma och kompletterad med ett tyskt glühwein-koncentrat. Andreas Sundgren, Brännland Iscider När vi släppte Ember första gången tänkte vi nog att det var något tillfälligt, något vi skulle göra ett eller två år men redan det första året blev reaktionerna så starka att vi har fortsatt och nu finns det en kundgrupp som återkommande vill dricka vår glögg, något vi är mycket glada över. Ember 2025 kommer också med en uppdaterad etikett i linje med den upp",
           "lang": "sv"
         },
         {
           "source": "livetsgoda.se",
           "title": "Brännland – Ember iscider - kryddad äppelglögg 93p (100!) - Vinmagasinet Livets Goda / Wine Magazine",
           "url": "https://www.livetsgoda.se/brannland-ember-iscider-kryddad-appelglogg-93p-100/",
-          "excerpt": "Brännland – Ember iscider – kryddad äppelglögg 93p (100!) av Livets Goda 2021-11-05 av Livets Goda 2021-11-05 161 Idag, fredagen den 5:e november, släpps Ember, en kryddad iscider tänkt att drickas kall, varm eller som en del av en cocktail under årets kallare månader. ”Glöggen” släpps i ett 50-tal butiker men kan naturligtvis beställas till valfri butik. En smått fenomenal ”glögg” för högtiderna framför oss. Andreas Sundgren, grundare, Brännland Cider, berättar: Vi ville göra en kryddad iscider som ligger nära den tyska glühwein-traditionen utan att kompromissa med det vår iscider är. En äppe",
+          "excerpt": "Brännland – Ember iscider – kryddad äppelglögg 93p (100!) av Livets Goda 2021-11-05 av Livets Goda 2021-11-05 162 Idag, fredagen den 5:e november, släpps Ember, en kryddad iscider tänkt att drickas kall, varm eller som en del av en cocktail under årets kallare månader. ”Glöggen” släpps i ett 50-tal butiker men kan naturligtvis beställas till valfri butik. En smått fenomenal ”glögg” för högtiderna framför oss. Andreas Sundgren, grundare, Brännland Cider, berättar: Vi ville göra en kryddad iscider som ligger nära den tyska glühwein-traditionen utan att kompromissa med det vår iscider är. En äppe",
           "lang": "sv"
         },
         {
@@ -351,7 +358,7 @@
           "source": "philipsonwine.se",
           "title": "Köp 2018 Charles Heidsieck Champagne Vintage Brut i dag | Philipson Wine",
           "url": "https://philipsonwine.se/produkter/2018-charles-heidsieck-champagne-vintage-brut",
-          "excerpt": "Läs hela recensionen ... <strong>Champagne Charles Heidsieck modtager himmelstormende anmeldelser med sin kompromisløse stil</strong>. Med op til 80% reserve-vin fra de dybe, romerske kalkstenskrypter.",
+          "excerpt": "Gå tillbaka Vin Recensioner 93 point Charles Heidsieck's 2018 is an unusual assemblage which successfully finds some focus and energy in this generous, sometimes slightly diffuse ripe vintage. Alongside plenty of juicy stone fruit Pinot Noir and sweet, sunny tangerine there's an appealing snap of bittersweet grapefruit Chardonnay, a large part of which unusually hails from sandy Trigny just north of Reims. The stylish toasty nougat richness, set against the clean-cut precision and easy approachability of the house, is certainly on show, and both 2018s present fine mid-term drinking 96 point Ve",
           "lang": "sv"
         },
         {
@@ -390,7 +397,7 @@
           "source": "livetsgoda.se",
           "title": "Prestigevinet Don Melchor 2023 lanseras i begränsad upplaga - Vinmagasinet Livets Goda / Wine Magazine",
           "url": "https://www.livetsgoda.se/prestigevinet-don-melchor-2023-lanseras-i-begransad-upplaga/",
-          "excerpt": "Prestigevinet Don Melchor 2023 lanseras i begränsad upplaga av Livets Goda 2025-11-06 av Livets Goda 2025-11-06 172 Ett av sydamerikas främsta Cabernet Sauvignon-viner lanseras tillfälligt på Systembolaget 7 november i nya årgången 2023. Don Melchor produceras i Puento Alto, vid Andernas fot, där det svala klimatet och den steniga jordmånen skapar eleganta, komplexa viner med en enorm lagringspotential. Don Melchor är Chiles första prestigevin som på allvar kunnat mäta sig med världens främsta toppviner. Vinet får konsekvent höga betyg i internationell vinpress och årgång 2021 tog förstaplatse",
+          "excerpt": "Prestigevinet Don Melchor 2023 lanseras i begränsad upplaga av Livets Goda 2025-11-06 av Livets Goda 2025-11-06 173 Ett av sydamerikas främsta Cabernet Sauvignon-viner lanseras tillfälligt på Systembolaget 7 november i nya årgången 2023. Don Melchor produceras i Puento Alto, vid Andernas fot, där det svala klimatet och den steniga jordmånen skapar eleganta, komplexa viner med en enorm lagringspotential. Don Melchor är Chiles första prestigevin som på allvar kunnat mäta sig med världens främsta toppviner. Vinet får konsekvent höga betyg i internationell vinpress och årgång 2021 tog förstaplatse",
           "lang": "sv"
         },
         {
@@ -416,9 +423,9 @@
         },
         {
           "source": "donmelchor.com",
-          "title": "La vendimia 2023 de Don Melchor - Don Melchor",
-          "url": "https://donmelchor.com/la-vendimia-2023-de-don-melchor/",
-          "excerpt": "Hello, You are entering Viña Don Melchor's global website. Do you want to continue here? Yes, continue in global No, go to the USA site Eventos La vendimia 2023 de Don Melchor 19 de julio, 2023 La temporada 2022-2023 se caracterizó por ser cálida y con un total de precipitaciones cercano a la mitad de un año normal, concentradas mayoritariamente en los meses de invierno. Altamente desafiante por las condiciones climáticas de la temporada, la vendimia 2023 de Don Melchor presenta nuevamente vinos que reflejan el carácter único del terroir de Puente Alto. En estas condiciones de temperaturas más",
+          "title": "Don Melchor 2023: Intensity and finesse - Don Melchor",
+          "url": "https://donmelchor.com/en/don-melchor-2023-intensity-and-finesse/",
+          "excerpt": "Hello, You are entering Viña Don Melchor's global website. Do you want to continue here? Yes, continue in global No, go to the USA site Events Don Melchor 2023: Intensity and finesse 25th of May, 2026 The new vintage of Chile’s iconic Cabernet Sauvignon, Don Melchor 2023, composed of 96% Cabernet Sauvignon, 3% Cabernet Franc, and 1% Merlot, stands out for its intense expression and superbly defined aromas and flavours characteristic of its great Puente Alto origin. Don Melchor, the Chilean wine industry’s first icon wine and a global benchmark among the world’s finest Cabernet Sauvignons, pres",
           "lang": "sv"
         }
       ]
@@ -644,7 +651,7 @@
           "source": "v2vin.com",
           "title": "Clos de la Coulée de Serrant 2023 - Nicolas Joly : Un grand millésime pour un vin d'exception",
           "url": "https://www.v2vin.com/2901-clos-de-la-coulee-de-serrant-2023-nicolas-joly.html",
-          "excerpt": "Prix 39,90 € Prix de base 59,00 € 75cl Les Vieux Clos 2024 - Coulée de Serrant Ajouter au panier",
+          "excerpt": "Prix 74,90 € Prix de base 95,00 € 75cl Clos de la Coulée de Serrant 2023 Ajouter au panier",
           "lang": "sv"
         },
         {
@@ -994,13 +1001,6 @@
           "lang": "sv"
         },
         {
-          "source": "vivino.com",
-          "title": "E. Guigal Hermitage | Vivino Svenska",
-          "url": "https://www.vivino.com/sv/e-guigal-hermitage/w/7780",
-          "excerpt": "E. Guigal Hermitage är en Rött vin. Tillverkad av Shiraz/Syrah. Kolla in dess betyg och recensioner från världens största vincommunity.",
-          "lang": "sv"
-        },
-        {
           "source": "winespectator.com",
           "title": "E. Guigal Crozes-Hermitage 2021 | Wine Rating | Wine Spectator",
           "url": "https://www.winespectator.com/wine/wine-detail/id/1313925/name/e.-guigal-crozes-hermitage-2021/guest",
@@ -1008,10 +1008,17 @@
           "lang": "sv"
         },
         {
+          "source": "vivino.com",
+          "title": "E. Guigal Hermitage | Vivino Svenska",
+          "url": "https://www.vivino.com/sv/e-guigal-hermitage/w/7780",
+          "excerpt": "E. Guigal Hermitage är en Rött vin. Tillverkad av Shiraz/Syrah. Kolla in dess betyg och recensioner från världens största vincommunity.",
+          "lang": "sv"
+        },
+        {
           "source": "philipsonwine.se",
           "title": "Köp 2021 Crozes-Hermitage Rouge Guigal i dag | Philipson Wine",
           "url": "https://philipsonwine.se/produkter/2021-crozes-hermitage-rouge-guigal",
-          "excerpt": "<strong>Rank, lakridset duft med betydelig aromastyrke, pænt blomsterpræg og diskret røget egetræ. Rig, givende og veludviklet næse med finesse, delikatesse og med tiltalende detaljerigdom. Velbygget og afrundet mundfrugt med saftig bærkarakter og dejlig ekstraktrigdom. Charmerende, velafbalanceret og umiddelbar vin af høj klasse</strong>...",
+          "excerpt": "Gå tillbaka Vin Recensioner 91 point A prototypical Crozes-Hermitage, at the lighter end of the scale for this appellation, but with the juicy briar character we expect from this appellation. Supple tannins underline all this very nicely. Plenty of dried herbs in the finish. 94 point Rank, lakridset duft med betydelig aromastyrke, pænt blomsterpræg og diskret røget egetræ. Rig, givende og veludviklet næse med finesse, delikatesse og med tiltalende detaljerigdom. Velbygget og afrundet mundfrugt med saftig bærkarakter og dejlig ekstraktrigdom. Charmerende, velafbalanceret og umiddelbar vin af hø",
           "lang": "sv"
         },
         {
@@ -1100,11 +1107,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Kritiker är eniga om att Vietti Barolo 2021 är en utmärkt och prisvärd instegs-Barolo som visar klassisk elegans och kraft. Vinet har mognadspotential men är redan njutbart, med väl integrerade tanniner och komplexa lager som utvecklas i glaset.",
+        "en": "Critics agree that Vietti Barolo 2021 is an excellent, great-value entry-level Barolo showing classic elegance and power. The wine has aging potential but is already enjoyable, with well-integrated tannins and complex layers that unfold in the glass."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 95,
+      "taste_notes": {
+        "sv": "Körsbär, svarta körsbär, plommon, rosenblad, tobak, alpina örter, lakrits och en läderaktig, kryddig avslutning.",
+        "en": "Cherry, black cherry, plum, rose petal, tobacco, alpine herbs, licorice, and a leathery, spicy finish."
+      },
+      "pairing": {
+        "sv": "Passar till braserad kalv, vildsvinsragu, mogna ostar och rätter med tryffel eller svamp.",
+        "en": "Pairs with braised veal, wild boar ragù, aged cheeses, and dishes featuring truffle or mushroom."
+      },
       "sources": [
         {
           "source": "wine.com",
@@ -1308,17 +1322,17 @@
           "lang": "sv"
         },
         {
-          "source": "prismfinewine.com",
-          "title": "Bodegas Aalto 2023 750ml – Prism Fine Wine",
-          "url": "https://www.prismfinewine.com/products/bodegas-aalto-2023-750ml",
-          "excerpt": "Prism Fine Wine 0",
-          "lang": "sv"
-        },
-        {
           "source": "bodeboca.com",
           "title": "Aalto 2023 | Comprar por 39.75 € en Bodeboca",
           "url": "https://www.bodeboca.com/vino/aalto-2023",
           "excerpt": "Un tempranillo de la Ribera del ... mundo. En esta añada 2023 destaca su <strong>buena carga aromática de frutas rojas y especias, anticipo de un paso por boca envolvente, largo y sedoso</strong>....",
+          "lang": "sv"
+        },
+        {
+          "source": "prismfinewine.com",
+          "title": "Bodegas Aalto 2023 750ml – Prism Fine Wine",
+          "url": "https://www.prismfinewine.com/products/bodegas-aalto-2023-750ml",
+          "excerpt": "Prism Fine Wine 0",
           "lang": "sv"
         }
       ]
@@ -1340,11 +1354,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "En nyanserad och utvecklad Grand Cru-champagne från ett utmanande skördeår, präglad av frostskador i april 2017. Blanc de Blancs från kalkjordar ger en kraftfull och aromatisk Chardonnay-karaktär, mycket uppskattad för sin friskhet trots årgångens svårigheter.",
+        "en": "A nuanced and developed Grand Cru Champagne from a challenging vintage marked by April frost damage in 2017. This Blanc de Blancs from chalky soils delivers a powerful and aromatic Chardonnay character, praised for its freshness despite the vintage's difficulties."
       },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Mycket frisk smak med inslag av gula äpplen, persika, rostat bröd, mineral, fransk nougat och grapefrukt.",
+        "en": "Very fresh palate with notes of yellow apples, peach, toasted bread, minerals, French nougat and grapefruit."
+      },
+      "pairing": {
+        "sv": "Passar till kycklingschnitzel med spätzle och surkål, samt andra rätter med frasig yta och mjuk, len kontrast.",
+        "en": "Pairs with chicken schnitzel served with spätzle and sauerkraut, as well as other dishes combining crispy textures with soft, mellow contrasts."
+      },
       "sources": [
         {
           "source": "livetsgoda.se",

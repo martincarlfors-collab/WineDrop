@@ -9,14 +9,14 @@
     {
       "week": "2026-33",
       "count": 234,
-      "avgScore": null
+      "avgScore": 94.5
     }
   ],
   "producers": [
     {
       "name": "Vietti s.r.l.",
       "count": 9,
-      "avgScore": null
+      "avgScore": 95.0
     },
     {
       "name": "Anora Sweden AB",
@@ -124,14 +124,14 @@
       "avgScore": null
     },
     {
+      "name": "Brännland Iscider",
+      "count": 2,
+      "avgScore": 94.0
+    },
+    {
       "name": "Vietti",
       "count": 2,
       "avgScore": 86.0
-    },
-    {
-      "name": "Brännland Iscider",
-      "count": 2,
-      "avgScore": null
     },
     {
       "name": "Bodegas Alion",
