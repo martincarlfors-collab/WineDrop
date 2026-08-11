@@ -13,7 +13,7 @@
     {
       "name": "Millésimé Brut",
       "producer": "Deutz",
-      "score": null,
+      "score": 90,
       "price": 799.0,
       "origin_country": "Frankrike",
       "wine_type": "Mousserande"
@@ -21,7 +21,7 @@
     {
       "name": "Brunello di Montalcino",
       "producer": "Az. Agr. Casanova di Neri",
-      "score": 95,
+      "score": null,
       "price": 599.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
@@ -37,7 +37,7 @@
     {
       "name": "Ch. Fonroque",
       "producer": "Ch. Fonroque",
-      "score": 92,
+      "score": 93,
       "price": 529.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött"
@@ -61,7 +61,7 @@
     {
       "name": "Bussia Dardi Le Rose",
       "producer": "Poderi Colla",
-      "score": null,
+      "score": 93,
       "price": 499.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
@@ -125,7 +125,7 @@
     {
       "name": "Château Bouscassé Vieilles Vignes",
       "producer": "Alain Brumont",
-      "score": null,
+      "score": 90,
       "price": 399.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött"
@@ -181,7 +181,7 @@
     {
       "name": "Heerkretz Riesling Grosses Gewächs",
       "producer": "Wagner Stempel",
-      "score": 96,
+      "score": 97,
       "price": 349.0,
       "origin_country": "Tyskland",
       "wine_type": "Vitt"
@@ -197,7 +197,7 @@
     {
       "name": "Gamay Noir",
       "producer": "Lucy Wines",
-      "score": 76,
+      "score": null,
       "price": 329.0,
       "origin_country": "USA - Kalifornien",
       "wine_type": "Rött"

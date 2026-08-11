@@ -9,7 +9,7 @@
     {
       "week": "2026-33",
       "count": 101,
-      "avgScore": 91.7
+      "avgScore": 92.6
     }
   ],
   "producers": [
@@ -24,19 +24,14 @@
       "avgScore": null
     },
     {
+      "name": "Wagner Stempel",
+      "count": 1,
+      "avgScore": 97.0
+    },
+    {
       "name": "Bollinger",
       "count": 1,
       "avgScore": 96.0
-    },
-    {
-      "name": "Wagner Stempel",
-      "count": 1,
-      "avgScore": 96.0
-    },
-    {
-      "name": "Az. Agr. Casanova di Neri",
-      "count": 1,
-      "avgScore": 95.0
     },
     {
       "name": "Trimbach",
@@ -49,6 +44,16 @@
       "avgScore": 94.0
     },
     {
+      "name": "Ch. Fonroque",
+      "count": 1,
+      "avgScore": 93.0
+    },
+    {
+      "name": "Poderi Colla",
+      "count": 1,
+      "avgScore": 93.0
+    },
+    {
       "name": "Evening Land Vineyards",
       "count": 1,
       "avgScore": 93.0
@@ -59,9 +64,9 @@
       "avgScore": 93.0
     },
     {
-      "name": "Ch. Fonroque",
+      "name": "Deutz",
       "count": 1,
-      "avgScore": 92.0
+      "avgScore": 90.0
     },
     {
       "name": "E Guigal",
@@ -70,6 +75,11 @@
     },
     {
       "name": "Gaston Chiquet",
+      "count": 1,
+      "avgScore": 90.0
+    },
+    {
+      "name": "Alain Brumont",
       "count": 1,
       "avgScore": 90.0
     },
@@ -84,22 +94,12 @@
       "avgScore": 83.0
     },
     {
-      "name": "Lucy Wines",
-      "count": 1,
-      "avgScore": 76.0
-    },
-    {
-      "name": "Deutz",
+      "name": "Az. Agr. Casanova di Neri",
       "count": 1,
       "avgScore": null
     },
     {
       "name": "Alma Rosa Winery & Vineyards",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Poderi Colla",
       "count": 1,
       "avgScore": null
     },
@@ -124,17 +124,17 @@
       "avgScore": null
     },
     {
-      "name": "Alain Brumont",
-      "count": 1,
-      "avgScore": null
-    },
-    {
       "name": "ColleMassari",
       "count": 1,
       "avgScore": null
     },
     {
       "name": "Jean-Marc Brocard",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Mas de Boislauzon",
       "count": 1,
       "avgScore": null
     }

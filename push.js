@@ -23,9 +23,12 @@
     return reg.pushManager.getSubscription();
   }
 
+  var BELL = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8.5a6 6 0 1 0-12 0c0 6-2.5 7.5-2.5 7.5h17S18 14.5 18 8.5z"/><path d="M13.8 20a2 2 0 0 1-3.6 0"/></svg>';
+
   async function refreshUI() {
     const sub = await currentSub();
-    btn.textContent = sub ? "🔔" : "🔕";
+    btn.innerHTML = BELL;
+    btn.classList.toggle("on", !!sub);
     btn.title = sub ? "Notiser på" : "Notiser av";
   }
 
