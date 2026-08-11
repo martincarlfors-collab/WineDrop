@@ -8,11 +8,86 @@
     },
     {
       "week": "2026-33",
-      "count": 0,
-      "avgScore": null
+      "count": 101,
+      "avgScore": 92.4
     }
   ],
   "producers": [
+    {
+      "name": "Dom. Laroche",
+      "count": 2,
+      "avgScore": 91.0
+    },
+    {
+      "name": "Medici Ermete & Figli",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Wagner Stempel",
+      "count": 1,
+      "avgScore": 97.0
+    },
+    {
+      "name": "Bollinger",
+      "count": 1,
+      "avgScore": 96.0
+    },
+    {
+      "name": "Az. Agr. Casanova di Neri",
+      "count": 1,
+      "avgScore": 95.0
+    },
+    {
+      "name": "Trimbach",
+      "count": 1,
+      "avgScore": 94.0
+    },
+    {
+      "name": "Caparzo",
+      "count": 1,
+      "avgScore": 94.0
+    },
+    {
+      "name": "Evening Land Vineyards",
+      "count": 1,
+      "avgScore": 93.0
+    },
+    {
+      "name": "Granville Wines",
+      "count": 1,
+      "avgScore": 93.0
+    },
+    {
+      "name": "Ch. Fonroque",
+      "count": 1,
+      "avgScore": 92.0
+    },
+    {
+      "name": "Deutz",
+      "count": 1,
+      "avgScore": 90.0
+    },
+    {
+      "name": "E Guigal",
+      "count": 1,
+      "avgScore": 90.0
+    },
+    {
+      "name": "Gaston Chiquet",
+      "count": 1,
+      "avgScore": 90.0
+    },
+    {
+      "name": "Alain Brumont",
+      "count": 1,
+      "avgScore": 90.0
+    },
+    {
+      "name": "Lucy Wines",
+      "count": 1,
+      "avgScore": 88.0
+    },
     {
       "name": "Vietti",
       "count": 1,
@@ -22,6 +97,46 @@
       "name": "Dr Loosen",
       "count": 1,
       "avgScore": 83.0
+    },
+    {
+      "name": "Alma Rosa Winery & Vineyards",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Poderi Colla",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Cobb Wines",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Antonin Guyon",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Az. Agr. Mauro Veglio",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Dom. Trouillet",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "ColleMassari",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Jean-Marc Brocard",
+      "count": 1,
+      "avgScore": null
     }
   ]
 }
