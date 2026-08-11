@@ -112,7 +112,10 @@ main{padding:14px 16px 30px}
 .sb-word{font-weight:700;font-size:1.02rem;letter-spacing:.2px}
 .sb-go{font-weight:500;font-size:.86rem;opacity:.85;border-left:1px solid rgba(255,255,255,.35);padding-left:10px}
 .src{font-size:.82rem;color:var(--muted);margin-top:16px}
-.src a,.detail a{color:var(--wine)}
+.src a,.detail a:not(.sb-btn):not(.buy){color:var(--wine)}
+/* knapparnas text ska alltid vara ljus, oavsett detaljlänk-regeln */
+.sb-btn,.sb-btn .sb-word,.sb-btn .sb-go{color:#fff}
+.buy{color:#F5F0E7}
 
 /* utforska */
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin:2px 0 12px}
