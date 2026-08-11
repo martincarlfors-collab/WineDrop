@@ -1,0 +1,8 @@
+requests>=2.31
+beautifulsoup4>=4.12
+anthropic>=0.40
+openpyxl>=3.1          # Finland (Alko xlsx)
+pywebpush>=1.14        # push-notiser (notify.py)
+cryptography>=42.0     # VAPID-nyckelgenerering
+# Endast för push_server/app.py:
+flask>=3.0

@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.cache/
+
+# Node / Capacitor
+node_modules/
+ios/
+android/
+
+# Push
+push_server/subscriptions.json
+
+# Behåll historik-snapshots (site/api/*/history/*.json) i git!

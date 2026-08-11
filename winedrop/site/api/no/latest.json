@@ -1,0 +1,45 @@
+{
+  "market": "no",
+  "week": 33,
+  "updated": "2026-08-11",
+  "wines": [
+    {
+      "id": "no-9988",
+      "market": "no",
+      "name": "Chablis 1er Cru",
+      "producer": "Louis Michel",
+      "wine_type": "Hvit",
+      "vintage": "2021",
+      "origin_country": "Frankrike",
+      "price": 329,
+      "currency": "NOK",
+      "launch_date": "2026-08-10",
+      "url": "https://www.vinmonopolet.no/p/9988",
+      "image": "",
+      "assortment": "",
+      "volume": null,
+      "is_news": false,
+      "verdict": {
+        "no": "Presis og stram Chablis med tydelig mineralitet.",
+        "en": "Precise, taut Chablis with clear minerality."
+      },
+      "score": 90,
+      "taste_notes": {
+        "no": "Sitrus, østers, flint.",
+        "en": "Citrus, oyster, flint."
+      },
+      "pairing": {
+        "no": "Skalldyr, fisk.",
+        "en": "Shellfish, fish."
+      },
+      "sources": [
+        {
+          "source": "Aperitif",
+          "title": "Chablis-test",
+          "url": "https://aperitif.no/",
+          "lang": "no"
+        }
+      ]
+    }
+  ]
+}

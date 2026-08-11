@@ -1,0 +1,14 @@
+{
+  "week": "2026-33",
+  "market": "no",
+  "wines": [
+    {
+      "name": "Chablis 1er Cru",
+      "producer": "Louis Michel",
+      "score": 90,
+      "price": 329,
+      "origin_country": "Frankrike",
+      "wine_type": "Hvit"
+    }
+  ]
+}

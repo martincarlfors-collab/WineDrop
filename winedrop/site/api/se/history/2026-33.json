@@ -1,0 +1,62 @@
+{
+  "week": "2026-33",
+  "market": "se",
+  "wines": [
+    {
+      "name": "Barolo Castiglione",
+      "producer": "Vietti",
+      "score": 91,
+      "price": 399,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Châteauneuf-du-Pape",
+      "producer": "Domaine de la Solitude",
+      "score": 90,
+      "price": 349,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Grüner Veltliner",
+      "producer": "Weingut Bründlmayer",
+      "score": null,
+      "price": 199,
+      "origin_country": "Österrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Rioja Reserva",
+      "producer": "La Rioja Alta",
+      "score": 87,
+      "price": 259,
+      "origin_country": "Spanien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Sancerre",
+      "producer": "Henri Bourgeois",
+      "score": 85,
+      "price": 229,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Riesling Kabinett",
+      "producer": "Dr Loosen",
+      "score": 88,
+      "price": 189,
+      "origin_country": "Tyskland",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Prosecco Superiore",
+      "producer": "Nino Franco",
+      "score": null,
+      "price": 179,
+      "origin_country": "Italien",
+      "wine_type": "Mousserande"
+    }
+  ]
+}

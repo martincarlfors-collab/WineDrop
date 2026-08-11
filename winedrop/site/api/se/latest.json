@@ -1,0 +1,241 @@
+{
+  "market": "se",
+  "week": 33,
+  "updated": "2026-08-11",
+  "wines": [
+    {
+      "id": "se-125303",
+      "market": "se",
+      "name": "Barolo Castiglione",
+      "producer": "Vietti",
+      "wine_type": "Rött",
+      "vintage": "2019",
+      "origin_country": "Italien",
+      "price": 399,
+      "currency": "SEK",
+      "launch_date": "2026-08-10",
+      "url": "https://www.systembolaget.se/produkt/vin/125303/",
+      "image": "",
+      "assortment": "Tillfälligt sortiment",
+      "volume": 750,
+      "is_news": true,
+      "verdict": {
+        "sv": "Klassisk Barolo med finess; kritiker lyfter tydlig körsbärston och lång eftersmak.",
+        "en": "A classic, elegant Barolo; critics highlight cherry notes and a long finish."
+      },
+      "score": 91,
+      "taste_notes": {
+        "sv": "Körsbär, ros, tjära, fast tannin.",
+        "en": "Cherry, rose, tar, firm tannin."
+      },
+      "pairing": {
+        "sv": "Vilt, lagrad ost.",
+        "en": "Game, aged cheese."
+      },
+      "sources": [
+        {
+          "source": "Vinbanken",
+          "title": "Barolo-provning",
+          "url": "https://vinbanken.se/",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-244501",
+      "market": "se",
+      "name": "Châteauneuf-du-Pape",
+      "producer": "Domaine de la Solitude",
+      "wine_type": "Rött",
+      "vintage": "2021",
+      "origin_country": "Frankrike",
+      "price": 349,
+      "currency": "SEK",
+      "launch_date": "2026-08-10",
+      "url": "https://www.systembolaget.se/produkt/vin/244501/",
+      "image": "",
+      "assortment": "Tillfälligt sortiment",
+      "volume": 750,
+      "is_news": false,
+      "verdict": {
+        "sv": "Kraftfull men elegant Châteauneuf med mörka bär och örter.",
+        "en": "Powerful yet elegant Châteauneuf with dark berries and herbs."
+      },
+      "score": 90,
+      "taste_notes": {
+        "sv": "Björnbär, lakrits, garrigue.",
+        "en": "Blackberry, liquorice, garrigue."
+      },
+      "pairing": {
+        "sv": "Lamm, grytor.",
+        "en": "Lamb, stews."
+      },
+      "sources": [
+        {
+          "source": "BKWine",
+          "title": "Rhône-nyheter",
+          "url": "https://www.bkwine.com/",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-712035",
+      "market": "se",
+      "name": "Grüner Veltliner",
+      "producer": "Weingut Bründlmayer",
+      "wine_type": "Vitt",
+      "vintage": "2023",
+      "origin_country": "Österrike",
+      "price": 199,
+      "currency": "SEK",
+      "launch_date": "2026-08-08",
+      "url": "https://www.systembolaget.se/produkt/vin/712035/",
+      "image": "",
+      "assortment": "Tillfälligt sortiment",
+      "volume": 750,
+      "is_news": false,
+      "verdict": {},
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": []
+    },
+    {
+      "id": "se-660210",
+      "market": "se",
+      "name": "Rioja Reserva",
+      "producer": "La Rioja Alta",
+      "wine_type": "Rött",
+      "vintage": "2017",
+      "origin_country": "Spanien",
+      "price": 259,
+      "currency": "SEK",
+      "launch_date": "2026-08-09",
+      "url": "https://www.systembolaget.se/produkt/vin/660210/",
+      "image": "",
+      "assortment": "",
+      "volume": null,
+      "is_news": false,
+      "verdict": {
+        "sv": "Lagrad Rioja med vanilj, läder och mogen frukt.",
+        "en": "Aged Rioja with vanilla, leather and ripe fruit."
+      },
+      "score": 87,
+      "taste_notes": {
+        "sv": "Körsbär, vanilj, läder.",
+        "en": "Cherry, vanilla, leather."
+      },
+      "pairing": {
+        "sv": "Grillat kött, tapas.",
+        "en": "Grilled meat, tapas."
+      },
+      "sources": [
+        {
+          "source": "Vinbanken",
+          "title": "Rioja-test",
+          "url": "https://vinbanken.se/",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-330144",
+      "market": "se",
+      "name": "Sancerre",
+      "producer": "Henri Bourgeois",
+      "wine_type": "Vitt",
+      "vintage": "2023",
+      "origin_country": "Frankrike",
+      "price": 229,
+      "currency": "SEK",
+      "launch_date": "2026-08-11",
+      "url": "https://www.systembolaget.se/produkt/vin/330144/",
+      "image": "",
+      "assortment": "",
+      "volume": null,
+      "is_news": false,
+      "verdict": {
+        "sv": "Krispig Sauvignon Blanc med krusbär och stenig mineralitet.",
+        "en": "Crisp Sauvignon Blanc with gooseberry and stony minerality."
+      },
+      "score": 85,
+      "taste_notes": {
+        "sv": "Krusbär, citrus, flinta.",
+        "en": "Gooseberry, citrus, flint."
+      },
+      "pairing": {
+        "sv": "Getost, sallad.",
+        "en": "Goat cheese, salad."
+      },
+      "sources": [
+        {
+          "source": "Allt om Vin",
+          "title": "Loire-släpp",
+          "url": "https://www.alltomvin.se/",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-778120",
+      "market": "se",
+      "name": "Riesling Kabinett",
+      "producer": "Dr Loosen",
+      "wine_type": "Vitt",
+      "vintage": "2022",
+      "origin_country": "Tyskland",
+      "price": 189,
+      "currency": "SEK",
+      "launch_date": "2026-08-09",
+      "url": "https://www.systembolaget.se/produkt/vin/778120/",
+      "image": "",
+      "assortment": "",
+      "volume": null,
+      "is_news": false,
+      "verdict": {
+        "sv": "Frisk och mineralisk Riesling med välbalanserad sötma.",
+        "en": "Fresh, mineral Riesling with well-balanced sweetness."
+      },
+      "score": 88,
+      "taste_notes": {
+        "sv": "Lime, äpple, skiffer.",
+        "en": "Lime, apple, slate."
+      },
+      "pairing": {
+        "sv": "Asiatiskt, skaldjur.",
+        "en": "Asian food, shellfish."
+      },
+      "sources": [
+        {
+          "source": "Allt om Vin",
+          "title": "Tyska pärlor",
+          "url": "https://www.alltomvin.se/",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-509912",
+      "market": "se",
+      "name": "Prosecco Superiore",
+      "producer": "Nino Franco",
+      "wine_type": "Mousserande",
+      "vintage": "",
+      "origin_country": "Italien",
+      "price": 179,
+      "currency": "SEK",
+      "launch_date": "2026-08-11",
+      "url": "https://www.systembolaget.se/produkt/vin/509912/",
+      "image": "",
+      "assortment": "",
+      "volume": null,
+      "is_news": false,
+      "verdict": {},
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": []
+    }
+  ]
+}

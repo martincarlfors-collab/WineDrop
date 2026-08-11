@@ -1,0 +1,13 @@
+{
+  "appId": "se.niti.winedrop",
+  "appName": "WineDrop",
+  "webDir": "site",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  }
+}

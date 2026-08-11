@@ -1,0 +1,52 @@
+{
+  "market": "se",
+  "weeks": [
+    {
+      "week": "2026-32",
+      "count": 2,
+      "avgScore": 84.5
+    },
+    {
+      "week": "2026-33",
+      "count": 7,
+      "avgScore": 88.2
+    }
+  ],
+  "producers": [
+    {
+      "name": "Vietti",
+      "count": 2,
+      "avgScore": 88.5
+    },
+    {
+      "name": "Dr Loosen",
+      "count": 2,
+      "avgScore": 85.5
+    },
+    {
+      "name": "Domaine de la Solitude",
+      "count": 1,
+      "avgScore": 90.0
+    },
+    {
+      "name": "La Rioja Alta",
+      "count": 1,
+      "avgScore": 87.0
+    },
+    {
+      "name": "Henri Bourgeois",
+      "count": 1,
+      "avgScore": 85.0
+    },
+    {
+      "name": "Weingut Bründlmayer",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Nino Franco",
+      "count": 1,
+      "avgScore": null
+    }
+  ]
+}
