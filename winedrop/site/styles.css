@@ -27,14 +27,18 @@ header{
   padding:calc(env(safe-area-inset-top) + 15px) 18px 13px;
 }
 .brandrow{display:flex;align-items:center;justify-content:space-between;gap:8px}
-#appName{font-family:var(--serif);font-size:1.5rem;font-weight:600;letter-spacing:.2px;color:#F5F0E7}
+#appName{font-family:var(--serif);font-size:1.5rem;font-weight:600;letter-spacing:.2px;color:#F5F0E7;
+  display:inline-flex;align-items:center;gap:8px}
+.logo-ico{width:21px;height:25px;flex:0 0 auto}
 #tagline{margin:2px 0 12px;font-size:.8rem;color:rgba(245,240,231,.72)}
 .hdr-actions{display:flex;gap:8px;align-items:center}
 .hdr-actions select,.bell{
   border:1px solid rgba(245,240,231,.28);background:rgba(245,240,231,.12);color:#F5F0E7;
   border-radius:999px;padding:7px 12px;font-size:.8rem;font-weight:500;cursor:pointer;appearance:none}
 .hdr-actions select{padding-right:22px}
-.bell{width:38px;height:34px;padding:0}
+.bell{width:38px;height:34px;padding:0;display:flex;align-items:center;justify-content:center}
+.bell svg{width:19px;height:19px}
+.bell.on{color:var(--ochre)}
 .controls{display:flex}
 #marketSel{
   width:100%;border:1px solid rgba(245,240,231,.28);background:rgba(245,240,231,.12);color:#F5F0E7;
@@ -148,7 +152,8 @@ main{padding:14px 16px 30px}
   border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
 .tab{flex:1;border:0;background:none;color:var(--muted);cursor:pointer;padding:10px 0 9px;
   display:flex;flex-direction:column;align-items:center;gap:3px;font:inherit}
-.tab span{font-size:1.15rem;line-height:1}
+.tab span{display:flex;align-items:center;justify-content:center;line-height:1}
+.tab span svg{width:22px;height:22px}
 .tab b{font-size:.68rem;font-weight:600}
 .tab.active{color:var(--wine)}
 
