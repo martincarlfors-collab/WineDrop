@@ -1,3 +1,4 @@
+yaml
 name: WineDrop weekly
 
 on:
@@ -11,6 +12,9 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: winedrop
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -27,4 +31,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+          publish_dir: ./winedrop/site
