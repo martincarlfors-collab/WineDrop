@@ -21,7 +21,7 @@
     {
       "name": "Angeline Reserve Pinot Noir",
       "producer": "Angeline Winery",
-      "score": 92,
+      "score": 88,
       "price": 139.0,
       "origin_country": "USA",
       "wine_type": "Rött vin"
@@ -37,7 +37,7 @@
     {
       "name": "Château Rocheyron Saint-Émilion Grand Cru",
       "producer": "Château Rocheyron SARL.",
-      "score": 96,
+      "score": 97,
       "price": 1299.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött vin"
@@ -53,7 +53,7 @@
     {
       "name": "Don Melchor",
       "producer": "Viña Don Melchor",
-      "score": 97,
+      "score": null,
       "price": 999.0,
       "origin_country": "Chile",
       "wine_type": "Rött vin"
@@ -61,7 +61,7 @@
     {
       "name": "Alion",
       "producer": "Bodegas Alion",
-      "score": 95,
+      "score": 94,
       "price": 925.0,
       "origin_country": "Spanien",
       "wine_type": "Rött vin"
@@ -101,7 +101,7 @@
     {
       "name": "Finca Dofí Alvaro Palacios",
       "producer": "Alvaro Palacios",
-      "score": 94,
+      "score": 92,
       "price": 849.0,
       "origin_country": "Spanien",
       "wine_type": "Rött vin"
@@ -117,7 +117,7 @@
     {
       "name": "Château Lagrange",
       "producer": "Château Lagrange",
-      "score": null,
+      "score": 93,
       "price": 699.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött vin"
@@ -125,7 +125,7 @@
     {
       "name": "Brunello di Montalcino Le Ragnaie",
       "producer": "Le Ragnaie",
-      "score": null,
+      "score": 95,
       "price": 699.0,
       "origin_country": "Italien",
       "wine_type": "Rött vin"
@@ -157,7 +157,7 @@
     {
       "name": "Chablis Premier Cru Vaillons William Fèvre",
       "producer": "Domaine William Fèvre",
-      "score": 92,
+      "score": 91,
       "price": 589.0,
       "origin_country": "Frankrike",
       "wine_type": "Vitt vin"
@@ -173,7 +173,7 @@
     {
       "name": "Aalto",
       "producer": "Bodega Aalto",
-      "score": 92,
+      "score": 90,
       "price": 529.0,
       "origin_country": "Spanien",
       "wine_type": "Rött vin"

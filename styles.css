@@ -37,6 +37,12 @@ header{
 main{padding:14px 16px 30px}
 #sub{color:var(--muted);font-size:.8rem;margin:2px 2px 12px;font-weight:500}
 
+/* släppväljare (datum) */
+.releasebar{display:flex;gap:8px;overflow-x:auto;margin:0 0 12px;padding-bottom:3px;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.releasebar::-webkit-scrollbar{display:none}
+.rchip{flex:0 0 auto;border:1px solid var(--line);background:var(--card);color:var(--ink);
+  border-radius:999px;padding:7px 14px;font-size:.8rem;font-weight:600;cursor:pointer;white-space:nowrap;font-family:inherit;text-transform:capitalize}
+.rchip.on{background:var(--wine);color:#fff;border-color:var(--wine)}
 /* segmenterad sortering */
 .segbar{display:flex;gap:4px;margin:0 0 14px;background:var(--soft);border-radius:12px;padding:4px}
 .seg{flex:1;border:0;background:none;color:#5b554e;font:inherit;font-size:.78rem;font-weight:600;
@@ -90,6 +96,13 @@ main{padding:14px 16px 30px}
 .followbtn.on{background:var(--wine);color:#fff}
 .buy{display:inline-block;margin:14px 0 2px;background:var(--wine);color:#fff;text-decoration:none;
   padding:13px 20px;border-radius:14px;font-weight:600;font-size:.92rem}
+/* Systembolaget-brandad knapp (deras gröna färg) */
+.sb-btn{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;margin:14px 0 2px;
+  background:#00583c;color:#fff;text-decoration:none;padding:15px 18px;border-radius:14px;
+  box-shadow:0 2px 8px rgba(0,88,60,.28)}
+.sb-btn:active{background:#00472f}
+.sb-word{font-weight:700;font-size:1.02rem;letter-spacing:.2px}
+.sb-go{font-weight:500;font-size:.86rem;opacity:.85;border-left:1px solid rgba(255,255,255,.35);padding-left:10px}
 .src{font-size:.82rem;color:var(--muted);margin-top:16px}
 .src a,.detail a{color:var(--wine)}
 

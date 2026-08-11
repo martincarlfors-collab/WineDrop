@@ -12,7 +12,17 @@ const state = {
   q: "",                // fritextsök i Utforska
   watch: JSON.parse(localStorage.getItem("wd_watch") || "[]"),  // bevakade producenter
   latestSort: localStorage.getItem("wd_sort") || "rank",        // rank | score | price
+  releaseDate: null,   // valt släppdatum (ISO) eller "all"
 };
+
+// Formatera ett släppdatum snyggt på användarens språk, t.ex. "fre 21 nov".
+function fmtRelease(iso) {
+  try {
+    const loc = state.lang === "en" ? "en-GB" : state.lang;
+    return new Intl.DateTimeFormat(loc, { weekday: "short", day: "numeric", month: "short" })
+      .format(new Date(iso + "T00:00:00"));
+  } catch (e) { return iso; }
+}
 
 // Sortera en kopia av vinlistan. "rank" = backendens eftertraktan-ordning.
 function sortWines(wines, mode) {
@@ -123,6 +133,20 @@ function esc(s) {
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
 
+// Butikslänk. För Sverige en Systembolaget-brandad knapp i deras gröna färg;
+// för övriga marknader butikens namn i vinröd knapp.
+function retailerButton(w) {
+  if (!w.url) return "";
+  if (w.market === "se") {
+    return `<a class="sb-btn" href="${esc(w.url)}" target="_blank" rel="noopener"
+      aria-label="Öppna på Systembolaget">
+      <span class="sb-word">Systembolaget</span>
+      <span class="sb-go">${t("buy")} ↗</span></a>`;
+  }
+  const r = marketByCode(w.market).retailer || t("buy");
+  return `<a class="buy" href="${esc(w.url)}" target="_blank" rel="noopener">${esc(r)} ↗</a>`;
+}
+
 // ---------- header/nav ----------
 function renderChrome() {
   $("#tagline").textContent = t("tagline");
@@ -182,13 +206,34 @@ async function renderLatest() {
     $("#offline").hidden = true;
   } catch (e) { $("#offline").hidden = false; }
   const m = marketByCode(state.market);
-  $("#sub").textContent = state.meta
-    ? `${m.retailer || ""} · ${t("week")} ${state.meta.week || ""} · ${t("updated")} ${state.meta.updated || ""}`
-    : "";
+  const allWines = state.meta ? state.meta.wines || [] : [];
+
+  // Släppväljare: gruppera på släppdatum (Systembolaget släpper på fredagar).
+  const dates = [...new Set(allWines.map((w) => w.launch_date).filter(Boolean))].sort().reverse();
+  if (state.releaseDate == null ||
+      (state.releaseDate !== "all" && !dates.includes(state.releaseDate))) {
+    state.releaseDate = dates[0] || "all";   // öppna på senaste släppet
+  }
+  const rbar = ensureReleaseBar();
+  rbar.innerHTML = [`<button class="rchip ${state.releaseDate === "all" ? "on" : ""}" data-d="all">${t("all")}</button>`]
+    .concat(dates.map((d) =>
+      `<button class="rchip ${state.releaseDate === d ? "on" : ""}" data-d="${d}">${fmtRelease(d)}</button>`
+    )).join("");
+  rbar.querySelectorAll(".rchip").forEach((b) => {
+    b.onclick = () => { state.releaseDate = b.dataset.d; renderLatest(); };
+  });
+
+  const pool = state.releaseDate === "all"
+    ? allWines : allWines.filter((w) => w.launch_date === state.releaseDate);
+
+  const label = state.releaseDate === "all"
+    ? `${t("week")} ${state.meta ? state.meta.week || "" : ""}`
+    : fmtRelease(state.releaseDate);
+  $("#sub").textContent = `${m.retailer || ""} · ${label} · ${pool.length} ${t("results")}`;
 
   const modes = [["rank", t("sortSought")], ["score", t("sortScore")], ["price", t("sortCheapest")]];
-  $("#latestSort").innerHTML = modes.map(([k, label]) =>
-    `<button class="seg ${k === state.latestSort ? "on" : ""}" data-s="${k}">${label}</button>`
+  $("#latestSort").innerHTML = modes.map(([k, lbl]) =>
+    `<button class="seg ${k === state.latestSort ? "on" : ""}" data-s="${k}">${lbl}</button>`
   ).join("");
   $("#latestSort").querySelectorAll(".seg").forEach((b) => {
     b.onclick = () => {
@@ -198,8 +243,21 @@ async function renderLatest() {
     };
   });
 
-  const wines = sortWines(state.meta ? state.meta.wines || [] : [], state.latestSort);
+  const wines = sortWines(pool, state.latestSort);
   listInto($("#list"), wines, false);
+}
+
+// Skapar (vid behov) och returnerar raden med släppdatum ovanför sorteringen.
+function ensureReleaseBar() {
+  let rb = document.getElementById("releaseBar");
+  if (!rb) {
+    rb = document.createElement("div");
+    rb.id = "releaseBar";
+    rb.className = "releasebar";
+    const sort = document.getElementById("latestSort");
+    sort.parentNode.insertBefore(rb, sort);
+  }
+  return rb;
 }
 
 // ---------- UTFORSKA ----------
@@ -344,7 +402,7 @@ function renderDetail(i) {
     <p class="verdict">${esc(pick(w.verdict))}</p>
     ${pick(w.taste_notes) ? `<p><strong>${t("tasteNotes")}:</strong> ${esc(pick(w.taste_notes))}</p>` : ""}
     ${pick(w.pairing) ? `<p><strong>${t("pairing")}:</strong> ${esc(pick(w.pairing))}</p>` : ""}
-    ${w.url ? `<a class="buy" href="${esc(w.url)}" target="_blank" rel="noopener">${t("buy")} ↗</a>` : ""}
+    ${retailerButton(w)}
     ${(w.sources && w.sources.length) ? `<p class="src"><strong>${t("sources")}:</strong> ${
         w.sources.map((s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.source)} ↗</a>`).join(" · ")
       }</p>` : ""}`;

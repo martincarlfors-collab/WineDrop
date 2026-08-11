@@ -9,7 +9,7 @@
     {
       "week": "2026-33",
       "count": 234,
-      "avgScore": 93.8
+      "avgScore": 93.2
     }
   ],
   "producers": [
@@ -89,14 +89,14 @@
       "avgScore": null
     },
     {
-      "name": "Domaine William Fèvre",
-      "count": 3,
-      "avgScore": 93.5
-    },
-    {
       "name": "Le Ragnaie",
       "count": 3,
-      "avgScore": null
+      "avgScore": 95.0
+    },
+    {
+      "name": "Domaine William Fèvre",
+      "count": 3,
+      "avgScore": 93.0
     },
     {
       "name": "Trediberri",
@@ -124,12 +124,12 @@
       "avgScore": null
     },
     {
-      "name": "Bodegas Alion",
+      "name": "Brännland Iscider",
       "count": 2,
-      "avgScore": 95.0
+      "avgScore": 94.0
     },
     {
-      "name": "Brännland Iscider",
+      "name": "Bodegas Alion",
       "count": 2,
       "avgScore": 94.0
     },

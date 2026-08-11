@@ -1,5 +1,5 @@
 // WineDrop service worker — cachar app-skalet och senast hämtade marknad.
-const CACHE = "winedrop-v9";
+const CACHE = "winedrop-v10";
 const SHELL = [
   "./", "./index.html", "./styles.css", "./app.js", "./i18n.js",
   "./config.js", "./push.js", "./manifest.webmanifest", "./icon.svg",
