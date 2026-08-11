@@ -1,11 +1,20 @@
 """🇸🇪 Sverige — Systembolaget via community-datamirror."""
 from __future__ import annotations
+import datetime as dt
 
 import requests
 
 from .. import config
 from ..schema import Market, Wine
 from .base import MarketConnector
+
+
+def _parse_date(value) -> dt.date | None:
+    s = str(value or "")[:10]
+    try:
+        return dt.date.fromisoformat(s)
+    except ValueError:
+        return None
 
 
 class SwedenConnector(MarketConnector):
@@ -29,19 +38,31 @@ class SwedenConnector(MarketConnector):
             products = products.get("products") or products.get("data") or []
 
         assortment_filter = (config.SE_ASSORTMENT or "").lower()
-        wines: list[Wine] = []
+
+        candidates: list[tuple[dt.date, dict]] = []
         for p in products:
             if "vin" not in str(p.get("categoryLevel1", "")).lower():
                 continue
-            # Sortimentsfilter är valfritt. Tomt = ALLA viner (både fasta
-            # sortimentet och tillfälliga sortimentet) som släpps under veckan.
             if assortment_filter and \
                assortment_filter not in str(p.get("assortmentText", "")).lower():
                 continue
-            launch = str(p.get("productLaunchDate", ""))[:10]
-            if not self._recent(launch, days_back):
+            d = _parse_date(p.get("productLaunchDate"))
+            if d is None:
                 continue
+            candidates.append((d, p))
 
+        if not candidates:
+            print("[se] inga vin-kandidater i datan")
+            return []
+
+        latest = max(d for d, _ in candidates)
+        cutoff = latest - dt.timedelta(days=days_back)
+        print(f"[se] senaste slapp: {latest.isoformat()}, tar med fran {cutoff.isoformat()}")
+
+        wines: list[Wine] = []
+        for d, p in candidates:
+            if d < cutoff:
+                continue
             pnr = str(p.get("productNumber") or p.get("productId") or "")
             name = " ".join(
                 s for s in (p.get("productNameBold"), p.get("productNameThin")) if s
@@ -56,14 +77,16 @@ class SwedenConnector(MarketConnector):
                 origin_country=str(p.get("country", "")).strip(),
                 price=_f(p.get("price")),
                 currency="SEK",
-                launch_date=launch,
+                launch_date=d.isoformat(),
                 url=f"https://www.systembolaget.se/produkt/vin/{pnr}/" if pnr else "",
                 image=_first_image(p),
                 assortment=str(p.get("assortmentText", "")).strip(),
                 volume=_f(p.get("volume")),
                 is_news=bool(p.get("isNews")),
             ))
+
         wines.sort(key=lambda w: w.launch_date, reverse=True)
+        print(f"[se] {len(wines)} viner i fonstret")
         return wines
 
 
