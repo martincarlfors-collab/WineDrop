@@ -15,22 +15,22 @@
       "currency": "SEK",
       "launch_date": "2026-07-17",
       "url": "https://www.systembolaget.se/sortiment/?q=92985",
-      "image": "https://imgs.search.brave.com/m8zI5h5yGrW7d2o3lv3Iy2it8MTmzTFTJoM3aXaMD_M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90cm91/dmVyLXVuLXZpbi5j/b20vaW1hZ2Utdmlu/cy83MjIyMDI4Lndl/YnA",
+      "image": "https://imgs.search.brave.com/7_KM8D5Q0B-_nz4ii3AxflIsZ3FNwjv3b0wpqDAouxg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90cm91/dmVyLXVuLXZpbi5j/b20vaW1hZ2Utdmlu/cy8zNzA0ODQ5Lndl/YnA",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Bollinger La Grande Année 2018 hyllas som en klassiskt uppbyggd, generös årgångschampagne med imponerande djup och komplexitet. Kritiker lyfter fram dess elegans, finess och den mogna, gyllengula karaktären som speglar husets hantverk och en exceptionell skörd.",
-        "en": "Bollinger La Grande Année 2018 is praised as a classically structured, generous vintage Champagne with impressive depth and complexity. Critics highlight its elegance, finesse, and mature golden character, reflecting the house's craftsmanship and an exceptional harvest."
+        "sv": "Kritikerkonsensus lyfter 2018 La Grande Année som en klassiskt stilren och samtidigt generös årgång, med imponerande djup, elegans och finess. Bollingers Pinot Noir-tunga stomme ger auktoritet medan Chardonnayn tillför lyft, och resultatet beskrivs som ett komplext, texturrikt champagne av hög klass.",
+        "en": "Critics agree that the 2018 La Grande Année is a classically structured yet generous vintage, showing impressive depth, elegance and finesse. The Pinot Noir-driven backbone gives authority while the Chardonnay adds lift, resulting in a complex, richly textured Champagne of high quality."
       },
       "score": 96,
       "taste_notes": {
-        "sv": "Mogen fruktighet med gult äpple, kokt päron och mirabellplommon, lager av torkade ängsblommor, rik och komplex struktur med lång, len eftersmak.",
-        "en": "Ripe orchard fruit with yellow apple, poached pear, and Mirabelle plum, layered with dried meadow flowers, rich and complex structure with a long, smooth finish."
+        "sv": "Mogen fruktig doft med gult äpple, kokt päron och mirabellplommon, lagrade blomstertoner, rik och komplex smak med majestätisk densitet och lång, len eftersmak.",
+        "en": "Ripe orchard fruit aromas of yellow apple and poached pear, layered with Mirabelle plum and dried meadow flowers, a rich, complex palate with majestic density and a long, smooth finish."
       },
       "pairing": {
-        "sv": "Passar utmärkt till fine dining, viltfågel, kräftdjur eller lagrade ostar.",
-        "en": "Pairs beautifully with fine dining dishes, game birds, shellfish, or aged cheeses."
+        "sv": "Passar utmärkt till fine dining, t.ex. fjäderfä, kalv eller krämiga skaldjursrätter.",
+        "en": "Pairs beautifully with fine dining fare such as poultry, veal, or creamy seafood dishes."
       },
       "sources": [
         {
@@ -87,17 +87,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Deutz Millésimé Brut 2019 är en väl mottagen årgångschampagne med hög konsumentbetyg och ett förfinat, balanserat uttryck. Kritiker och konsumenter lyfter fram dess friskhet och komplexitet som tecken på hantverksskicklighet från det anrika champagnehuset.",
-        "en": "Deutz Millésimé Brut 2019 is a well-regarded vintage Champagne with strong consumer ratings and a refined, balanced character. Critics and reviewers highlight its freshness and complexity as hallmarks of the historic house's craftsmanship."
+        "sv": "Deutz Brut Millésimé 2019 hyllas som en nyanserad och elegant champagne med hög fräschör, väl mottagen av både konsumenter och proffs. Ett klassiskt uttryck av årgångschampagne från ett ansett hus.",
+        "en": "Deutz Brut Millésimé 2019 is praised as a nuanced and elegant Champagne with vibrant freshness, well received by both consumers and professionals. A classic expression of vintage Champagne from a respected house."
       },
       "score": 90,
       "taste_notes": {
-        "sv": "Nyanserad och frisk smak med inslag av gula äpplen, persika, fransk nougat, rostat bröd, mineral och apelsin.",
-        "en": "Nuanced and fresh palate with notes of yellow apples, peach, French nougat, toasted bread, mineral and orange."
+        "sv": "Fruktig och frisk smak med gula äpplen, persika, fransk nougat, rostat bröd, mineral och apelsin.",
+        "en": "Fruity and crisp with notes of yellow apple, peach, French nougat, toasted bread, mineral and orange."
       },
       "pairing": {
-        "sv": "Passar utmärkt som aperitif eller till fisk- och skaldjursrätter, samt till fjäderfä, ostar och nötter.",
-        "en": "Pairs beautifully as an aperitif or with fish and shellfish dishes, as well as poultry, cheeses, and nuts."
+        "sv": "Passar som aperitif eller till fisk- och skaldjursrätter, t.ex. hummer, kräfta och ostron.",
+        "en": "Pairs well as an aperitif or with fish and shellfish dishes, such as lobster, crab and oysters."
       },
       "sources": [
         {
@@ -149,16 +149,23 @@
       "currency": "SEK",
       "launch_date": "2026-07-31",
       "url": "https://www.systembolaget.se/sortiment/?q=95151",
-      "image": "https://imgs.search.brave.com/5hS8Wq0XIHc5fTB_Auprc70VN6AgIT8nZssAeaPhpdI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2FxLmNvbS9tZWRp/YS9jYXRhbG9nL3By/b2R1Y3QvMS80LzE0/NzMwNzkyLTFfMTY4/MDYzMTM4My5wbmc_/d2lkdGg9MzY3Jmhl/aWdodD01NTAmY2Fu/dmFzPTM2Nyw1NTAm/b3B0aW1pemU9aGln/aCZmaXQ9Ym91bmRz/JmZvcm1hdD1qcGVn",
+      "image": "https://imgs.search.brave.com/0W1WcZ3T3ABUh29jV0TCv3rGzVL18Evw78LBdWjMbQ0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2FxLmNvbS9tZWRp/YS9jYXRhbG9nL3By/b2R1Y3QvMS80LzE0/NzMwODEzLTFfMTYy/Njg3MzM2NS5wbmc_/d2lkdGg9MzY3Jmhl/aWdodD01NTAmY2Fu/dmFzPTM2Nyw1NTAm/b3B0aW1pemU9aGln/aCZmaXQ9Ym91bmRz/JmZvcm1hdD1qcGVn",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "en": "Could not summarise (JSONDecodeError: Expecting ',' delimiter: line 10 column 4 (char 837))"
+        "sv": "Kritikerkonsensus är mycket positiv: denna 2021 Brunello beskrivs som lager på lager av mörka körsbär, plommon, tobak och cigarrlåda, med en elegant men kraftfull struktur och polerade tanniner. Flera bedömare lyfter fram dess balans mellan ungdomlig spänst och mineralisk finish, med stor potential för lagring fram till 2050.",
+        "en": "Critical consensus is highly positive: this 2021 Brunello is praised for its layered nose of dark cherries, plum, tobacco and cigar box, paired with an elegant yet powerful structure and polished tannins. Reviewers highlight its balance of youthful tension and mineral-driven finish, with strong aging potential through 2050."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 95,
+      "taste_notes": {
+        "sv": "Mörka körsbär, plommon, tobak, cigarrlåda, mocka, röda bär, muskot, mineralitet och en frisk, kryddig, lång avslutning.",
+        "en": "Dark cherries, plum, tobacco, cigar box, suede, red berries, nutmeg, minerality, and a fresh, spicy, long finish."
+      },
+      "pairing": {
+        "sv": "Passar utmärkt till grillat rött kött, vildsvin, lammstek, mognad pecorino eller klassiska toskanska rätter som bistecca alla fiorentina.",
+        "en": "Pairs beautifully with grilled red meats, wild boar, roast lamb, aged pecorino, or classic Tuscan dishes like bistecca alla fiorentina."
+      },
       "sources": [
         {
           "source": "whwc.com",
@@ -189,10 +196,10 @@
           "lang": "sv"
         },
         {
-          "source": "shop.klwines.com",
-          "title": "2021 Casanova di Neri \"Giovanni Neri\" Brunello di Montalcino - SKU 1969964",
-          "url": "https://shop.klwines.com/products/details/1969964",
-          "excerpt": "The 2021 Brunello Di Montalcino Giovanni Neri is <strong>the most intense and brooding wine in the range and pours a saturated red hue</strong>. The nose is deep and savory, with preserved blackberries, plum, lavender, resinous herbs, dark chocolate, and polished ...",
+          "source": "wineonsale.com",
+          "title": "Casanova di Neri Brunello di Montalcino White Label 2021 - 750 ML",
+          "url": "https://wineonsale.com/products/casanova-di-neri-brunello-di-montalcino-white-label-2021-750-ml",
+          "excerpt": "Roll over image to zoom in Click on image to zoom / Casanova di Neri Brunello di Montalcino White Label 2021 - 750 ML Save 0 Casanova di Neri No reviews WS: 94 JS: 92 Price: Sale price $75.95 / Stock: 24+ in stock. Ships in 1-2 Business Days. Quantity: Add to cart Share this product Description Get FREE Shipping On Orders of 6 or More Bottles! Use Coupon Code at Checkout: SHIPFREE1 Winemaker's Notes Translucent and bright ruby red color. Its appealing and fascinating nose immediately reveals the freshness of the vintage 2021 followed by hues of nutmeg and crisp red berries. On the palate it is",
           "lang": "sv"
         }
       ]
@@ -209,22 +216,22 @@
       "currency": "SEK",
       "launch_date": "2026-07-03",
       "url": "https://www.systembolaget.se/sortiment/?q=93426",
-      "image": "https://imgs.search.brave.com/35m-htyxOS0_VVltZtpLwRZyb4TA8TMVgJDhGya9Uvw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90cm91/dmVyLXVuLXZpbi5j/b20vaW1hZ2Utdmlu/cy8xMDk4NzUwMS53/ZWJw",
+      "image": "https://imgs.search.brave.com/pm0bN1y_eh_ohEwFW6TjHxtuSy-S7Aaf9lopXjomKe8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90cm91/dmVyLXVuLXZpbi5j/b20vaW1hZ2Utdmlu/cy8zNzcxODI4Lndl/YnA",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "E. Guigal's Condrieu 2024 hyllas som ett fräscht och samtida uttryck av appellationen, med god koncentration och elegans. Kritiker (bl.a. Vinous) ger vinet höga betyg och lyfter fram dess aromatiska intensitet och balans.",
-        "en": "E. Guigal's Condrieu 2024 is praised as a fresh, contemporary expression of the appellation, showing good concentration and elegance. Critics, including Vinous, rate it highly for its aromatic intensity and balance."
+        "sv": "E. Guigals Condrieu 2024 hyllas som en modern, aromatisk tolkning av appellationen, med gott betyg (90 poäng, Vinous) och lovord för sin balans mellan fyllighet och elegans. Både basversionen och La Doriane beskrivs som blomstriga och djupa trots sin till synes lätta struktur.",
+        "en": "E. Guigal's Condrieu 2024 is praised as a fresh, contemporary expression of the appellation, earning solid marks (90 points, Vinous) for its balance of body and elegance. Both the standard cuvée and La Doriane are described as floral and deep despite their seemingly weightless character."
       },
       "score": 90,
       "taste_notes": {
-        "sv": "Medelfylligt till fylligt med aromer av nyplockad aprikos, vårblomma, vit persika och jasmin.",
-        "en": "Medium- to full-bodied, with fresh-picked apricot, spring blossom, white peach, and jasmine aromas."
+        "sv": "Nyplockad aprikos, vårblommor, vit persika och jasmin; medelfylligt till fylligt, med blommig, dansande karaktär på tungan trots ekfatslagring.",
+        "en": "Fresh-picked apricot, spring blossom, white peach and jasmine; medium- to full-bodied, with a floral, lively palate despite oak aging."
       },
       "pairing": {
-        "sv": "Passar till skaldjur, fisk i krämiga såser, fågel och lätt kryddad asiatisk mat.",
-        "en": "Pairs with shellfish, fish in creamy sauces, poultry, and lightly spiced Asian dishes."
+        "sv": "Passar till skaldjur, kräftdjur, fisk i smörsås, fågel med krämiga såser samt lätt kryddad asiatisk mat.",
+        "en": "Pairs with shellfish, crustaceans, butter-sauced fish, poultry in creamy sauces, and lightly spiced Asian cuisine."
       },
       "sources": [
         {
@@ -281,17 +288,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerkonsensus är mycket positiv: detta är en klassisk, koncentrerad Saint-Émilion Grand Cru med stor lagringspotential. Flera bedömare lyfter fram dess renhet, längd och medelfylliga struktur, och rekommenderar 4-5 års flasklagring för att nå sin fulla potential.",
-        "en": "Critical consensus is highly favorable: this is a classic, concentrated Saint-Émilion Grand Cru with strong aging potential. Reviewers highlight its purity, length, and medium-bodied structure, recommending 4-5 years of bottle age to reach full expression."
+        "sv": "Kritikerna är samstämmigt positiva till 2020 Château Fonroque och beskriver den som en klassisk, koncentrerad Saint-Émilion med god fokus och längd. Betygen ligger jämnt runt 92–94 poäng, vilket bekräftar vinets höga kvalitet i årgången. Flera recensenter rekommenderar några års lagring för att vinet ska nå sin fulla potential.",
+        "en": "Critics are consistently positive about the 2020 Château Fonroque, describing it as a classic, concentrated Saint-Émilion with excellent focus and length. Scores cluster tightly between 92–94 points, confirming the wine's high quality for the vintage. Several reviewers recommend a few years of bottle age for it to reach its full potential."
       },
-      "score": 92,
+      "score": 93,
       "taste_notes": {
-        "sv": "Mogna svarta körsbär, pepprig ört och violer, med fin koncentration och medelfyllig rikedom.",
-        "en": "Ripe black cherries, peppery herbs, and violets, with fine concentration and medium-bodied richness."
+        "sv": "Mogna svarta körsbär, pepprig örtighet och violer, med medelfyllig struktur och terrific koncentration.",
+        "en": "Ripe black cherries, peppery herbs and violets, with medium-bodied richness and terrific concentration."
       },
       "pairing": {
-        "sv": "Passar till grillat nötkött, lammstek, anka eller lagrad hårdost.",
-        "en": "Pairs with grilled beef, roast lamb, duck, or aged hard cheese."
+        "sv": "Passar till grillat lamm, anka, eller lagrade ostar.",
+        "en": "Pairs with grilled lamb, duck, or aged cheeses."
       },
       "sources": [
         {
@@ -348,17 +355,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerna är samstämmigt positiva och lyfter fram denna Blanc de Blancs d'Aÿ som en av höjdpunkterna i Gaston Chiquets sortiment och en av de mest personliga champagnerna i regionen. Med poäng runt 90–91 och beröm för sin rikedom och närvaro på gommen beskrivs vinet som ett tecken på husets pågående renässans.",
-        "en": "Critics are consistently positive, calling this Blanc de Blancs d'Aÿ one of the standout wines in the Gaston Chiquet range and among the most distinctive Champagnes from the region. With scores around 90-91 points and praise for its richness and palate presence, it's seen as emblematic of the house's ongoing resurgence."
+        "sv": "Kritiker är samstämmigt positiva och lyfter fram detta som ett av de mest särpräglade och minnesvärda vinerna i Gaston Chiquets sortiment. Poängen ligger stabilt kring 90-91, med beröm för både rikedom och distinkt Aÿ-karaktär.",
+        "en": "Critics are consistently positive, highlighting this as one of the most distinctive and memorable wines in Gaston Chiquet's range. Scores hover steadily around 90-91, praised for both richness and its distinct Aÿ character."
       },
-      "score": 91,
+      "score": 90,
       "taste_notes": {
-        "sv": "Mineraltonad doft av moget päron, nektarin och apelsin, med inslag av rostat bröd och en antydan till rökighet, trots avsaknad av fatlagring.",
-        "en": "Mineral-tinged aromas of ripe pear, nectarine, and orange, layered with buttered toast and a hint of smokiness, despite no oak influence."
+        "sv": "Grönguld i glaset med sensuella, mineraltonade aromer av moget päron, nektarin och apelsin, inslag av rostat bröd och en antydan till rökighet, trots avsaknad av fatlagring.",
+        "en": "Green-gold in the glass with sexy, mineral-tinged aromas of ripe pear, nectarine and orange, hints of buttered toast and a touch of smokiness despite no oak influence."
       },
       "pairing": {
-        "sv": "Passar utmärkt till skaldjur, fisk och fjäderfä, samt lätta rätter med krämiga såser.",
-        "en": "Pairs beautifully with shellfish, fish, and poultry, as well as lighter dishes with creamy sauces."
+        "sv": "Passar utmärkt till skaldjur, ostron, sushi och rätter med krämiga såser eller smörstekt fisk.",
+        "en": "Pairs well with shellfish, oysters, sushi, and dishes with creamy sauces or butter-sautéed fish."
       },
       "sources": [
         {
@@ -410,22 +417,22 @@
       "currency": "SEK",
       "launch_date": "2026-07-24",
       "url": "https://www.systembolaget.se/sortiment/?q=92091",
-      "image": "https://imgs.search.brave.com/h56ZEDrrz6PZX3_941oBQKqWoE00-P-Y9riAonVGKGU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZHJpbmtoYWNrZXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI2LzA1L0FsbWEt/Um9zYS1TdGEuLVJp/dGEtSGlsbHMtUGlu/b3QtTm9pci1Cb3R0/bGUtU2hvdC01MjV4/NjMzLnBuZy53ZWJw",
+      "image": "https://imgs.search.brave.com/tdO8BIgYNFYlcWU_v7mdE4esMDDml4vb71JEutp4Fys/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzY2/MDIwMGU3NDBlMTY4/NmZlNWM0NmI4NS9l/NTc1ZjlkMS0wNWJh/LTRjYTQtYjlmYS00/NjU4MTQxZWU5MDEv/T1VUU0hJTkVSWS1B/bG1hUm9zYS1QaW5v/dE5vaXItU3RhUml0/YS1FbEphYmFsaS0y/MDIwLnBuZw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritiker beskriver denna Chardonnay från El Jabali-vingården i Sta. Rita Hills som fräsch och mineralisk med ett rikt, lager-på-lager munkänsla. Stilen balanserar ljusa citrusaromer med kryddiga, nästan honungslika toner, vilket ger ett uttrycksfullt men ändå elegant vin.",
-        "en": "Critics describe this Chardonnay from the El Jabali vineyard in Sta. Rita Hills as bright and fresh with chalky minerality and a rich, layered mouthfeel. The style balances vibrant citrus with spicy, honeyed floral notes, resulting in an expressive yet elegant wine."
+        "sv": "Kritiker beskriver denna Chardonnay från El Jabali-vingården i Sta. Rita Hills som fräsch och mineralisk med en rik, lagrad fruktkaraktär. Den har medelfyllig till fyllig kropp med väl integrerad ek och anses vara en särskilt lyckad tolkning av druvan från detta område.",
+        "en": "Critics describe this Chardonnay from the El Jabali vineyard in Sta. Rita Hills as bright, fresh, and mineral-driven with a rich, layered fruit character. It shows medium to full body with nicely integrated oak and is considered a particularly successful expression of the grape from this site."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Krittig mineralitet, mogen fruktighet, honung och blommiga toner, med inslag av ingefära och citronskal i vissa årgångar.",
-        "en": "Chalky minerality, ripe orchard fruit, honeyed floral notes, with hints of ginger and lemon zest in some vintages."
+        "sv": "Krittig mineralitet, mogen kärnfrukt, honungslika blomdoft, ingefära och citronskal, med en levande och lagrad munkänsla.",
+        "en": "Chalky minerality, ripe orchard fruit, honeyed floral notes, ginger and lemon zest, with a vibrant, layered mouthfeel."
       },
       "pairing": {
-        "sv": "Passar till grillad fisk, skaldjur i smörsås, eller krämiga pastarätter med citron och örter.",
-        "en": "Pairs with grilled fish, shellfish in butter sauce, or creamy lemon-herb pasta dishes."
+        "sv": "Passar till skaldjur, kycklingrätter med krämiga såser, samt mild ost.",
+        "en": "Pairs with shellfish, chicken dishes with creamy sauces, and mild cheeses."
       },
       "sources": [
         {
@@ -457,10 +464,10 @@
           "lang": "sv"
         },
         {
-          "source": "wineenthusiast.com",
-          "title": "Alma Rosa Winery 2023 El Jabali Syrah (Sta. Rita Hills)",
-          "url": "https://www.wineenthusiast.com/buying-guide/alma-rosa-winery-2023-el-jabali-shiraz-syrah-sta-rita-hills/",
-          "excerpt": "Wine Enthusiast is the premier destination for all things wine. From acclaimed wine ratings and reads to wine storage, glasses and more.",
+          "source": "vosselections.com",
+          "title": "Alma Rosa Winery - Chardonnay Sta. Rita Hills - VOS Selections",
+          "url": "https://vosselections.com/product/rosa-chardonnay-sta-rita-hills/",
+          "excerpt": "You are here: Home 1 / Products 2 / Wine 3 / Alma Rosa Winery – Chardonnay Sta. Rita Hills Alma Rosa Winery – Chardonnay Sta. Rita Hills Country USA Region California Producer Alma Rosa Winery Size 750mL Style White Grapes Chardonnay Practices Organic Other Features Vegan , Woman-Owned/Crafted , Indigenous yeasts 100% El Jabali Vineyard Clones: 55% Dijon, 23% 548, 22% Wente Vintage Note: the 2022 vintage began with cold mornings and warm afternoons, a trend that lasted through April. Ideal summer temperatures continued, with morning fog and persistent afternoon breezes from the Pacific Ocean. ",
           "lang": "sv"
         }
       ]
@@ -482,17 +489,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerna är eniga om att detta är en särskilt lyckad årgång av Bussia Dardi le Rose – seriös men med en lekfull sida, med djup, längd och strukturerade Monforte-tanniner. Den beskrivs som en klassisk, harmonisk Barolo med stor lagringspotential.",
-        "en": "Critics agree this is a particularly successful vintage of Bussia Dardi le Rose – serious yet playful, with depth, length and structured Monforte tannins. It's described as a classic, harmonious Barolo with strong ageing potential."
+        "sv": "Kritikerna är eniga om att detta är en av de bästa årgångarna av Dardi Le Rose från Poderi Colla – ett seriöst men lekfullt Barolo med utmärkt struktur och stort åldringspotential. Vinet beskrivs som komplext, harmoniskt och elegant med typisk Monforte-karaktär.",
+        "en": "Critics agree this is one of the finest editions of Dardi Le Rose from Poderi Colla – a serious yet playful Barolo with excellent structure and strong ageing potential. The wine is described as complex, harmonious, and elegant, showing classic Monforte character."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Mörka toner smälter samman med röda frukter, fräsch och energisk, lagrad och komplex arombild med elegant fruktighet.",
-        "en": "Dark notes melding into red fruit, fresh and energetic, layered and complex aromatics with elegant fruitiness."
+        "sv": "Mörka toner smälter samman med röd frukt, fräscht och energiskt, lagrat med djup och längd. Strukturerade, precisa Monforte-tanniner med vacker viktbalans.",
+        "en": "Dark notes melding into red fruit, fresh and energetic, layered with depth and length. Structured, precise Monforte tannins with a beautifully weighted presence."
       },
       "pairing": {
-        "sv": "Passar till mognadslagrade ostar, viltstek eller klassiska piemontesiska rätter som braserat kött och risotto med tryffel.",
-        "en": "Pairs with aged cheeses, roasted game, or classic Piedmontese dishes such as braised meats and truffle risotto."
+        "sv": "Passar utmärkt till braserat nötkött, vildsvin eller lagrade ostar som Parmigiano Reggiano.",
+        "en": "Pairs beautifully with braised beef, wild boar, or aged cheeses like Parmigiano Reggiano."
       },
       "sources": [
         {
@@ -549,8 +556,8 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Endast ett fåtal recensioner finns tillgängliga för denna Riesling från Cobbs Vonarburg Vineyard, en liten gammal vinstock i Anderson Valley med kylig klimatpåverkan från Roederer Estate. En smakare beskrev vinet som tropiskt och petroleumaktigt med aprikos/persika-toner, men noterade att helheten kändes något osammanhängande.",
-        "en": "Only a handful of reviews exist for this Riesling from Cobb's Vonarburg Vineyard, a tiny old-vine plot in Anderson Valley benefiting from cool climate influence near Roederer Estate. One taster described it as tropical and petrol-driven with peach/apricot notes, though found the wine somewhat disjointed overall."
+        "sv": "Vonarburg Riesling från Cobb Wines kommer från en liten, gammal vinstock i det svala Anderson Valley, granne med Roederer Estate, vilket ger druvorna lång hängtid och hög syra. En detaljerad provning beskriver ett tropiskt och petroleumaktigt vin med aprikos/persika-ton och vaxig textur, men med viss disharmoni i strukturen.",
+        "en": "Cobb's Vonarburg Riesling comes from a tiny old-vine plot in the cool Anderson Valley, bordering Roederer Estate, giving the fruit long hang time and vibrant acidity. One detailed tasting note describes tropical and petrol characters with peach/apricot fruit and a waxy texture, though some tasters found the wine slightly disjointed."
       },
       "score": null,
       "taste_notes": {
@@ -558,8 +565,8 @@
         "en": "Tropical fruit, petrol, apricot/peach, waxy texture, high acidity."
       },
       "pairing": {
-        "sv": "Passar till kryddstark asiatisk mat, skaldjur eller mjuk get- och fårost.",
-        "en": "Pairs with spicy Asian cuisine, shellfish, or soft goat and sheep cheeses."
+        "sv": "Passar till kryddstark asiatisk mat, skaldjur eller mjuka ostar.",
+        "en": "Pairs well with spicy Asian cuisine, shellfish, or soft cheeses."
       },
       "sources": [
         {
@@ -611,22 +618,22 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=93395",
-      "image": "https://imgs.search.brave.com/7JfjOcc2Chy2jkhNhceBmxyXf4txAtzI2LC2jemUh-I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2FxLmNvbS9tZWRp/YS9jYXRhbG9nL3By/b2R1Y3QvMS81LzE1/MjM4ODIxLTFfMTcw/ODk4MTY4NS5wbmc_/d2lkdGg9MzY3Jmhl/aWdodD01NTAmY2Fu/dmFzPTM2Nyw1NTAm/b3B0aW1pemU9aGln/aCZmaXQ9Ym91bmRz/JmZvcm1hdD1qcGVn",
+      "image": "https://imgs.search.brave.com/DqzjxomD4Cs0EYRFHXgxhYSykMqTvp0cbjHrzNR4kIA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ib3R0/bGVoZXJvLmNvbS9j/ZG4vc2hvcC9maWxl/cy82MzY4MjNfdHJh/bnNfNzM0YjEwNjUt/M2IzNC00NDAxLTlh/NWItODJhZTliODQy/NGFlLnBuZz9oZWln/aHQ9MTA4MCZ2PTE3/ODM0NjE5MDYmd2lk/dGg9NjAw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerkonsensus är begränsad då flera källor saknar fullständiga smakanteckningar, men vinet verkar vara en välgjord Pinot Noir från Savigny-lès-Beaune som representerar Domaine Antonin Guyons stilrena, klassiska Bourgogne-approach. Betygen från konsumenter och professionella (8.9-9.0) antyder en solid, tillgänglig kvalitet utan att vara exceptionell.",
-        "en": "Critical consensus is limited as several sources lack complete tasting notes, but the wine appears to be a well-made Pinot Noir from Savigny-lès-Beaune reflecting Domaine Antonin Guyon's classic, elegant Burgundian style. Consumer and professional ratings (8.9-9.0) suggest solid, approachable quality without being exceptional."
+        "sv": "Tillgängliga recensioner för denna årgång är till stor del låsta eller saknar konkreta smakanteckningar, vilket gör det svårt att fastställa en tydlig kritikerkonsensus. Baserat på tillgänglig information verkar vinet vara en klassisk Pinot Noir från Savigny-lès-Beaune med god matchningspotential.",
+        "en": "Most available reviews for this vintage are paywalled or lack concrete tasting notes, making it difficult to establish a clear critical consensus. Based on available information, the wine appears to be a classic Pinot Noir from Savigny-lès-Beaune with strong food-pairing versatility."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Förväntas visa typisk Pinot Noir-karaktär med röda bär, örtiga toner och elegant struktur, typisk för appellationen Savigny-lès-Beaune.",
-        "en": "Expected to show typical Pinot Noir character with red berry fruit, herbal notes, and elegant structure typical of the Savigny-lès-Beaune appellation."
+        "sv": "Ingen detaljerad smakbeskrivning tillgänglig i de granskade källorna.",
+        "en": "No detailed tasting notes available in the reviewed sources."
       },
       "pairing": {
-        "sv": "Passar till kalkon, vilt, anka, gås, mjuka ostar, svamp, kyckling, fet fisk och skaldjur.",
-        "en": "Pairs with turkey, game, duck, goose, soft cheeses, mushrooms, chicken, meaty fish, and shellfish."
+        "sv": "Passar till kalkon, vilt, exotiska kryddor, mjuk ost, anka, gås, sallader, potatis, quinoa, farro, ris, pasta, örter, nötter, svamp, kyckling, köttig fisk, skaldjur, gryta, lök, salami och lax.",
+        "en": "Pairs with turkey, game, exotic spices, soft cheese, duck, goose, salads, potato, quinoa, farro, rice, pasta, herbs, nuts, mushrooms, chicken, meaty fish, shellfish, stew, onion, salami, and salmon."
       },
       "sources": [
         {
@@ -678,22 +685,22 @@
       "currency": "SEK",
       "launch_date": "2026-08-07",
       "url": "https://www.systembolaget.se/sortiment/?q=90083",
-      "image": "https://imgs.search.brave.com/U95d3CqCwkUCF_gRGicpEDJYWIQqUME7euAKDriPMeY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYwNzA3Ni9maWxl/cy82NTg1MjUyOS8z/MDB4NDAweDIvZXZl/bmluZy1sYW5kLXZp/bmV5YXJkcy1sYS1z/b3VyY2UtMjAyMi1w/aW5vdC1ub2lyLXMu/anBn",
+      "image": "https://imgs.search.brave.com/757q-uhoBgDXujmgJkTJjZK_xusF0fLwYZhXNdj94aA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9idXl3/aW5lbm93LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8x/Mi9FdmVuaW5nLUxh/bmQtU2V2ZW4tU3By/aW5ncy1QaW5vdC1O/b2lyLTIwMjMtNzY4/eDEwMjQucG5n",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritiker är eniga om att denna Pinot Noir från Seven Springs Vineyard är elegant och uttrycksfull, med starka betyg från flera respekterade recensenter (WS 94, WE 93, WA 92). Den beskrivs som mycket tillgänglig med polerade tanniner och en ren, njutbar avslutning som speglar vingårdens vulkaniska terroir.",
-        "en": "Critics agree that this Pinot Noir from Seven Springs Vineyard is elegant and expressive, earning strong scores from multiple respected reviewers (WS 94, WE 93, WA 92). It is praised for its remarkable approachability, with polished tannins and a clean, satisfying finish that reflects the vineyard's volcanic terroir."
+        "sv": "Kritiker är samstämmiga i sitt beröm av denna Pinot Noir från den biodynamiskt odlade Seven Springs Vineyard, med höga betyg från Wine Spectator (94), Wine Enthusiast (93) och Wine Advocate (92). Vinet beskrivs som elegant och tillgängligt med fasta men polerade tanniner och ett rent avslut.",
+        "en": "Critics are united in praising this Pinot Noir from the biodynamically farmed Seven Springs Vineyard, earning high scores from Wine Spectator (94), Wine Enthusiast (93) and Wine Advocate (92). The wine is described as elegant and approachable with sturdy yet polished tannins and a clean finish."
       },
       "score": 93,
       "taste_notes": {
         "sv": "Torkade röda körsbär och tranbär, med inslag av apelsin, jord och torkade blommor.",
-        "en": "Dried red cherries and cranberries, with notes of orange, earth, and dried flowers."
+        "en": "Dried red cherries and cranberries, with hints of orange, earth and dried flowers."
       },
       "pairing": {
-        "sv": "Passar till andfilé, grillad lax eller örtiga rätter med svamp.",
-        "en": "Pairs with duck breast, grilled salmon, or herb-infused dishes with mushrooms."
+        "sv": "Passar till anka, viltfågel, svampbaserade rätter eller lagrad ost.",
+        "en": "Pairs with duck, game birds, mushroom-based dishes, or aged cheese."
       },
       "sources": [
         {
@@ -750,17 +757,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "En hyllningscuvée till Hubert Trimbach som hyllas för sin precision men också för en ovanlig fyllighet och rikedom jämfört med husets klassiska stil. Kritiker beskriver den som modern, klimatpräglad Alsace-Riesling med stor lagringspotential.",
-        "en": "A tribute cuvée to Hubert Trimbach praised for its precision but also an unusual richness and body compared to the house's classic style. Critics describe it as a modern, climate-influenced Alsace Riesling with strong aging potential."
+        "sv": "En hyllningsriesling till Hubert Trimbachs minne som kombinerar husets klassiska stramhet med en ovanligt rik och kroppsfull karaktär, format av ett varmare klimat. Kritiker beskriver den som både traditionell och modern, med stor lagringspotential.",
+        "en": "A tribute Riesling made in memory of Hubert Trimbach, blending the house's classic precision with an unusually rich, full-bodied character shaped by a warmer vintage. Critics describe it as both traditional and modern, with strong aging potential."
       },
       "score": 94,
       "taste_notes": {
-        "sv": "Riesling med ljus syrastruktur, mer kropp och rikedom än typisk Trimbach, fortfarande fokuserad och mineralisk.",
-        "en": "Riesling with a bright acid backbone, more body and richness than typical Trimbach, yet still focused and mineral-driven."
+        "sv": "Fokuserad och mineralisk med en ljus, frisk syra, men också ovanligt fyllig och rik struktur för Trimbach.",
+        "en": "Focused and mineral-driven with a bright, fresh acidity, yet unusually full and rich in structure for Trimbach."
       },
       "pairing": {
-        "sv": "Passar till skaldjur, vit fisk, sushi och Alsace-inspirerad mat.",
-        "en": "Pairs with shellfish, white fish, sushi, and Alsace-inspired cuisine."
+        "sv": "Passar till fet fisk, skaldjur i grädd- eller smörsås, samt elsassisk choucroute eller vitt kött med fruktiga inslag.",
+        "en": "Pairs with rich fish dishes, shellfish in cream or butter sauce, and Alsatian choucroute or white meats with fruity accents."
       },
       "sources": [
         {
@@ -817,31 +824,31 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerna beskriver denna Barolo från Serralunga d'Alba som en fylligt kropp med mognad frukt och struktur, typisk för appellationen. Det är en fullkroppad, torr Nebbiolo med tydlig fatpåverkan som visar på potential för lagring.",
-        "en": "Critics describe this Serralunga d'Alba Barolo as full-bodied with ripe fruit character and structure typical of the appellation. It's a dry, full-bodied Nebbiolo with clear oak influence, showing potential for aging."
+        "sv": "Denna Barolo från Serralunga d'Alba beskrivs som fylligt och koncentrerat, med en rik fruktighet och fast struktur. Kritikerna pekar på ett klassiskt, kraftfullt uttryck av Nebbiolo från denna terroir.",
+        "en": "This Barolo from Serralunga d'Alba is described as rich and concentrated, with firm structure and a full-bodied character. Critics highlight a classic, powerful expression of Nebbiolo from this terroir."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Rik med mogna körsbär, hallon och granatäpple; fylligt och fatpräglat.",
-        "en": "Rich with ripe cherry, raspberry and pomegranate; full-bodied and oak-influenced."
+        "sv": "Mogna körsbär, hallon och granatäpple, med fylligt fruktdjup och fast tanninstruktur.",
+        "en": "Ripe cherry, raspberry, and pomegranate flavors with rich fruit depth and firm tannic structure."
       },
       "pairing": {
-        "sv": "Passar till rött kött, grillat, vilträtter och mognade ostar.",
-        "en": "Pairs with red meat, grilled dishes, game and aged cheeses."
+        "sv": "Passar till grillat rött kött, vilträtter och lagrade ostar.",
+        "en": "Pairs with grilled red meat, game dishes, and aged cheeses."
       },
       "sources": [
-        {
-          "source": "vinous.com",
-          "title": "Mauro Veglio Barolo del Comune di Serralunga d’Alba 2021",
-          "url": "https://vinous.com/wines/mauro-veglio-2021-barolo-del-comune-di-serralunga-d-alba",
-          "excerpt": "Prefer the old site? Launch → 2021 Barolo del Comune di Serralunga d’Alba Wine Details Producer Mauro Veglio Place of Origin Italy Serralunga D'alba Piedmont Color Red Grape/Blend Vintages Print Wines Make Shelftalkers Reviews & Tasting Notes Loading... Loading... See more reviews Loading... Loading... Loading... Loading... Loading... Loading... Content Advanced Search Articles Videos Maps Engage Events Your Say Consumer Resources Subscriptions & Gifts Sample Submissions Contact Us Vinous About Core Values Press Reference Materials Young Wine Writer Fellowship Products Social © 2026 Vinous Med",
-          "lang": "sv"
-        },
         {
           "source": "winespectator.com",
           "title": "Mauro Veglio Barolo del Comune di Serralunga d'Alba 2021 | Wine Rating | Wine Spectator",
           "url": "https://www.winespectator.com/wine/wine-detail/id/1322511/name/mauro-veglio-barolo-del-comune-di-serralunga-d'alba-2021/guest",
           "excerpt": "To see the full review and rating, become a member of WineSpectator.com today. Subscribe Already a Member? Sign In ## Mauro Veglio Barolo del Comune di Serralunga d'Alba 2021 | $ ## Rich and laced with ripe cherry, raspberry, pomegranate, … To see the full review and rating become a member of WineSpectator.com Subscribe Today Member Sign In Wine Type and Color Red Still Primary Grape Nebbiolo Nebbiolo originated in Piedmont in Italy, where it remains the region's most important red grape. Its name comes from the Italian word nebbia, which means fog, a feature of the hills where the grape tradi",
+          "lang": "sv"
+        },
+        {
+          "source": "vinous.com",
+          "title": "Mauro Veglio Barolo del Comune di Serralunga d’Alba 2021",
+          "url": "https://vinous.com/wines/mauro-veglio-2021-barolo-del-comune-di-serralunga-d-alba",
+          "excerpt": "Prefer the old site? Launch → 2021 Barolo del Comune di Serralunga d’Alba Wine Details Producer Mauro Veglio Place of Origin Italy Serralunga D'alba Piedmont Color Red Grape/Blend Vintages Print Wines Make Shelftalkers Reviews & Tasting Notes Loading... Loading... See more reviews Loading... Loading... Loading... Loading... Loading... Loading... Content Advanced Search Articles Videos Maps Engage Events Your Say Consumer Resources Subscriptions & Gifts Sample Submissions Contact Us Vinous About Core Values Press Reference Materials Young Wine Writer Fellowship Products Social © 2026 Vinous Med",
           "lang": "sv"
         },
         {
@@ -879,22 +886,22 @@
       "currency": "SEK",
       "launch_date": "2026-08-07",
       "url": "https://www.systembolaget.se/sortiment/?q=90070",
-      "image": "https://imgs.search.brave.com/ZV520WCa7rcKyAxssFmFA5C5WRYp_krXnhHEeytqKI0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90cm91/dmVyLXVuLXZpbi5j/b20vaW1hZ2Utdmlu/cy81OTU4NjQxLndl/YnA",
+      "image": "https://imgs.search.brave.com/iW4UZXgEr0w3MaaSXrr7_ywem5oUMyKOaKNsdAq20f8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/b2Vub3ZpbmlhLmNv/bS8xMjU1My1ob21l/X2RlZmF1bHQvcG91/aWxseS1mdWlzc2Ut/MWVyLWNydS12ZXJz/LWNyYXMtbWFnbnVt/LTIwMjQtc2F1bWFp/emUtbWljaGVsaW4u/anBn",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Ett koncentrerat och strukturerat Premier Cru-vitt från Pouilly-Fuissé, från en liten parcell med tunn jord på hårda, vita kalkstensmarker. Fatlagringen (delvis nya franska fat) och lång lagring på finlager ger vinet djup, fyllighet och lång eftersmak, medan den sena mognaden i tank bidrar till balans.",
-        "en": "A concentrated and structured Premier Cru white from Pouilly-Fuissé, sourced from a small parcel with shallow soil over hard, white limestone. Barrel ageing (partly new French oak) and extended lees contact give the wine depth, richness and a long finish, while additional tank ageing helps round out the balance."
+        "sv": "Denna Pouilly-Fuissé 1er Cru från Domaine Trouillet beskrivs som len och långlivad, med tydlig karaktär från det grunda, kalkrika markslaget i 'Vers Cras'-terrängen. Vinet genomgår ett års lagring på finlager i franska ekfat (30% nya) följt av ytterligare mognad, vilket ger struktur och komplexitet.",
+        "en": "This Pouilly-Fuissé 1er Cru from Domaine Trouillet is described as unctuous and persistent, reflecting the shallow, limestone-rich soil of the 'Vers Cras' vineyard. The wine undergoes a year of aging on fine lees in French oak barrels (30% new) followed by further maturation, lending it structure and complexity."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Persika, litchi, citrus och vanilj från fat, med inslag av honung. Medelfylligt med lång, smakrik avslutning.",
-        "en": "Peach, lychee, citrus and vanilla oak, with notes of honey. Medium-bodied with a long, flavorful finish."
+        "sv": "Persika, litchi, citrus, vaniljekar och honung med medelfyllig kropp och lång eftersmak.",
+        "en": "Peach, lychee, citrus, vanilla oak, and honey with a medium body and long finish."
       },
       "pairing": {
-        "sv": "Passar till vitt kött, rostad kyckling, vit fisk i gräddsås, hummer thermidor, skogssvampsrisotto och lagrad Comté.",
-        "en": "Pairs with white meats, roast chicken, white fish in cream sauce, lobster thermidor, wild mushroom risotto and aged Comté."
+        "sv": "Passar till vit kött, ugnsstekt kyckling, vit fisk i gräddsås, hummer thermidor, skogssvampsrisotto och lagrad Comté.",
+        "en": "Pairs with white meats, roast chicken, white fish in cream sauce, lobster thermidor, wild mushroom risotto, and aged Comté."
       },
       "sources": [
         {
@@ -946,22 +953,22 @@
       "currency": "SEK",
       "launch_date": "2026-07-10",
       "url": "https://www.systembolaget.se/sortiment/?q=90340",
-      "image": "https://imgs.search.brave.com/NPLIFkQTHvEoFk7j4IzWgfiM1iZc1E_tdwKpldFKE-c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dmlub3JhbWEuYXQv/b3V0L3BpY3R1cmVz/L2dlbmVyYXRlZC9w/cm9kdWN0L3RodW1i/LzMzNF8yNzBfNzUv/Y2hhYmxpc19wcmVt/aWVyX2NydV9sZXNf/dmFpbGxvbnNfdmll/aWxsZXNfdmlnXzIw/MjJfXzEwNzEyMjIu/cG5n",
+      "image": "https://imgs.search.brave.com/oe7MzW4c_0bBWLB-m4nu6ZuGcyoNvQl7pPkpNJfvMCk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sYXJv/Y2hld2luZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzA5L0RMX0NoYWJs/aXMxZXJDcnVfTGVz/LVZhaWxsb25zX05N/LTEucG5n",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerkonsensus är mycket positiv, med betyg mellan 90 och 92 poäng från bland annat Wine Spectator och Vinous. Denna Chablis Premier Cru från gamla vinstockar beskrivs som tät och komplex med en solig, kryddig karaktär, samtidigt som den bevarar Chablis klassiska friskhet och spänst.",
-        "en": "Critical consensus is very positive, with scores ranging from 90 to 92 points from sources including Wine Spectator and Vinous. This old-vine Chablis Premier Cru is described as dense and complex with a sunny, spicy character, while retaining Chablis's classic freshness and tension."
+        "sv": "Kritiker ger genomgående höga betyg (90–92 poäng) till denna Chablis Premier Cru från gamla vinstockar. Den beskrivs som ett tätt, solmoget vin med saffransnoter, kryddighet och en fräsch, spänstig struktur som balanserar koncentration med Chablis klassiska mineralitet.",
+        "en": "Critics consistently rate this old-vine Chablis Premier Cru highly (90–92 points). It's described as a dense, sun-kissed wine with saffron and spice notes, showing fresh acidity and tension that balances richness with Chablis' signature minerality."
       },
       "score": 91,
       "taste_notes": {
-        "sv": "Gula frukter, orientaliska kryddor och safransnoter, med tät struktur, mineralitet och god friskhet/spänst.",
-        "en": "Yellow fruit, oriental spices and saffron notes, with a dense structure, minerality and good freshness/tension."
+        "sv": "Gula frukter, orientaliska kryddor, saffran, fräschör och tension, mineralisk finess",
+        "en": "Yellow fruit, oriental spices, saffron, freshness and tension, mineral finesse"
       },
       "pairing": {
-        "sv": "Passar till skaldjur, grillad fisk, kyckling med kryddiga såser eller mogna getostar.",
-        "en": "Pairs with shellfish, grilled fish, chicken with spiced sauces, or mature goat cheeses."
+        "sv": "Passar till skaldjur, grillad fisk, kräftor i smörsås, krämiga ostar och kryddad asiatisk mat",
+        "en": "Pairs with shellfish, grilled fish, lobster in butter sauce, creamy cheeses, and spiced Asian cuisine"
       },
       "sources": [
         {
@@ -1013,16 +1020,23 @@
       "currency": "SEK",
       "launch_date": "2026-07-10",
       "url": "https://www.systembolaget.se/sortiment/?q=93622",
-      "image": "https://imgs.search.brave.com/-NKC--eXrOmRdrpfAg3Ns1ZiHKj14bDGOPUpe72E-6w/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93d3cu/aWRlYWx3aW5lLmNv/bS9tZWRpYS9jYWNo/ZS9wcm9kdWN0X2N1/cnJlbnRfcmF0aW5n/LzAwLWltYWdlcy1l/dGlxLzEwNDcwMy5q/cGc",
+      "image": "https://imgs.search.brave.com/BGuiS4KcEJ1pXV7kc3mJohSRMqlOexWL4d-aD9J2e8k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aW5lZmluZGVy/LnNlL3VwbG9hZC9h/cnRpa2xhci9iaWxk/ZXIvQTEzMzAxNi0x/LUFsYWluLUJydW1v/bnQtQ2glQzMlQTJ0/ZWF1LUJvdXNjYXNz/JUMzJUE5LVZpZS5q/cGc_dz04MTAmZm9y/bWF0PWpwZyZ0cmlt/LnRocmVzaG9sZD0x/NQ",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "en": "Could not summarise (JSONDecodeError: Expecting ',' delimiter: line 10 column 4 (char 1008))"
+        "sv": "Château Bouscassé Vieilles Vignes är en 100% Tannat från gamla vinstockar (50–100 år) på lera-kalksterroir i Maumusson-Laguian, med lång maceration och 14–16 månaders lagring i nya fat. Kritiker och handlare beskriver vinet som distingerat, elegant och rasigt, med god lagringspotential och en mycket fin fylld smak.",
+        "en": "Château Bouscassé Vieilles Vignes is a 100% Tannat from old vines (50–100 years) on clay-limestone terroir in Maumusson-Laguian, with extended maceration and 14–16 months of new-oak aging. Reviewers and merchants describe it as distinguished, elegant and characterful, with strong aging potential and a rich, full palate."
       },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Djup, mörk frukt, kryddig ekfatston, fast tanninstruktur och kraftfull, koncentrerad kropp.",
+        "en": "Deep dark fruit, spicy oak notes, firm tannic structure and a powerful, concentrated body."
+      },
+      "pairing": {
+        "sv": "Passar till grillat rött kött, anka, vildsvin och kraftiga grytor samt lagrad ost.",
+        "en": "Pairs with grilled red meat, duck, wild boar, hearty stews, and aged cheese."
+      },
       "sources": [
         {
           "source": "larvf.com",
@@ -1078,17 +1092,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Denna Pinot Noir från Granville Wine Co. hyllas för sin tydliga uttryck av den järnrika, väldränerade basaltjorden i Dundee Hills och Eola-Amity Hills. Kritiker beskriver den som en ung, strukturerad vin som förtjänar dekantering och uppmärksamhet, med stor potential för utveckling.",
-        "en": "This Pinot Noir from Granville Wine Co. is praised for clearly expressing the iron-rich, free-draining basalt soils of the Dundee Hills and Eola-Amity Hills. Critics describe it as a young, structured wine that deserves decanting and attention, with strong potential for further development."
+        "sv": "En ung, koncentrerad Pinot Noir från Dundee Hills som hyllar den järnrika basaltjorden i Willamette Valley. Kritiker lyfter dess intensitet och rekommenderar dekantering för att fullt uppskatta dess struktur och potential.",
+        "en": "A young, concentrated Pinot Noir from Dundee Hills that pays tribute to the iron-rich basalt soils of the Willamette Valley. Critics highlight its intensity and recommend decanting to fully appreciate its structure and potential."
       },
       "score": 93,
       "taste_notes": {
-        "sv": "Mineraldriven med röda fruktnoter, kryddighet och en frisk, silkeslen struktur som återspeglar den vulkaniska jorden.",
-        "en": "Mineral-driven with red fruit notes, spice, and a fresh, silky structure reflecting the volcanic terroir."
+        "sv": "Mineralton, röd frukt och kryddighet med fast struktur och fräschör, präglad av vulkanisk jord.",
+        "en": "Mineral-driven with red fruit and spice, firm structure and freshness shaped by volcanic soil."
       },
       "pairing": {
-        "sv": "Passar till rostad anka, svamprisotto eller grillad lax med örter.",
-        "en": "Pairs with roasted duck, mushroom risotto, or grilled salmon with herbs."
+        "sv": "Passar till anka, viltfågel eller svamprisotto.",
+        "en": "Pairs with duck, game birds, or mushroom risotto."
       },
       "sources": [
         {
@@ -1140,22 +1154,22 @@
       "currency": "SEK",
       "launch_date": "2026-07-17",
       "url": "https://www.systembolaget.se/sortiment/?q=93432",
-      "image": "https://imgs.search.brave.com/i06gngzjUFJ_90gQkOlSVnFt7R6LXduIcObZqElMfP8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FmZmV0dGVyaWFz/dGF6aW9uZS5pdC9j/ZG4vc2hvcC9maWxl/cy9VZ29sZm9ydGVf/MjAxOV9CcnVuZWxs/b19kaV9Nb250YWxj/aW5vX0RPQ0dfVGVu/dXRhX1Nhbl9HaW9y/Z2lvXy1fQ29sbGVN/YXNzYXJpLmpwZz92/PTE3MTM5MTcyODIm/d2lkdGg9MTEwMA",
+      "image": "https://imgs.search.brave.com/WMkaPbwiCOKtsDkrs8nnKxWtDSXwyoN8lwOBzZGNU58/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2FmZmV0dGVyaWFz/dGF6aW9uZS5pdC9j/ZG4vc2hvcC9maWxl/cy9VZ29sZm9ydGVf/MjAxOV9NYWdudW1f/QnJ1bmVsbG9fZGlf/TW9udGFsY2lub19E/T0NHX1RlbnV0YV9T/YW5fR2lvcmdpb18t/X0NvbGxlTWFzc2Fy/aV9pbl9DYXNzYV9M/ZWdub18xLmpwZz92/PTE3MTM5MTc3ODkm/d2lkdGg9MTEwMA",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Denna Brunello di Montalcino från San Giorgio-godset (del av ColleMassari-gruppen) kommer från vingårdar som gränsar till det ansedda Poggio di Sotto-området i Castelnuovo dell'Abate, vilket ger den liknande klimat- och markförutsättningar. Recensionerna fokuserar mest på ursprung och produktionsdetaljer snarare än detaljerade smakomdömen eller poäng.",
-        "en": "This Brunello di Montalcino from the San Giorgio estate (part of the ColleMassari group) comes from vineyards essentially continuing the acclaimed Poggio di Sotto site in Castelnuovo dell'Abate, benefiting from similar climate and soil conditions. Available sources focus mainly on provenance and production details rather than detailed tasting notes or scores."
+        "sv": "Denna Brunello di Montalcino från San Giorgio, en del av ColleMassari-gruppen, kommer från vingårdar som gränsar till det ansedda Poggio di Sotto-området och delar samma klimat, jord och exponering. Kritikerna lyfter fram vinets ursprung och potential snarare än att ge detaljerade smakbeskrivningar, vilket tyder på ett väl ansett men ännu inte brett betygsatt Brunello.",
+        "en": "This Brunello di Montalcino from San Giorgio, part of the ColleMassari estate group, hails from vineyards essentially contiguous with the celebrated Poggio di Sotto site, sharing its climate, soils, and exposure. Critics emphasize the wine's pedigree and terroir rather than offering detailed tasting notes, suggesting a well-regarded but not yet widely scored Brunello."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Sangiovese Grosso, 13,5% alkohol; specifika smaknoter saknas i tillgängligt material.",
-        "en": "Sangiovese Grosso, 13.5% ABV; specific tasting notes not detailed in available sources."
+        "sv": "Sangiovese Grosso med förväntad struktur, syra och mineralitet typisk för Montalcinos bästa lägen; alkohol 13,5%.",
+        "en": "Sangiovese Grosso showing expected structure, acidity, and minerality typical of Montalcino's top sites; 13.5% ABV."
       },
       "pairing": {
-        "sv": "Passar till rustika kötträtter, grillat lamm eller mognadslagrade ostar, typiskt för klassisk Brunello.",
-        "en": "Pairs with rustic meat dishes, grilled lamb, or aged cheeses, typical of classic Brunello."
+        "sv": "Passar till grillat rött kött, vilt, lammstek och lagrade ostar.",
+        "en": "Pairs with grilled red meats, game, roasted lamb, and aged cheeses."
       },
       "sources": [
         {
@@ -1207,21 +1221,21 @@
       "currency": "SEK",
       "launch_date": "2026-07-03",
       "url": "https://www.systembolaget.se/sortiment/?q=96139",
-      "image": "https://imgs.search.brave.com/x_jdeW43O-Gt0K9E5hHSvk1EHsOkVWDhnnmb2jGjml8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS12aW5pb3UuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/d2luZS1pbmZvLzkx/NTU3L3Zpbi1ibGFu/Yy1zZWMtZm91cmNo/YXVtZS1qZWFuLW1h/cmMtYnJvY2FyZC0y/MDIyLWZyYW5jZS1i/b3VyZ29nbmUtY2hh/Ymxpcy1wcmVtaWVy/LWNydS0xLnBuZw",
+      "image": "https://imgs.search.brave.com/fMNxoPYqT6376_b2wVp0dGH0dnM7mlrTApgdByCX1Jo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS12aW5pb3UuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/d2luZS1pbmZvLzE0/NjA0OC92aW4tYmxh/bmMtZm91cmNoYXVt/ZS1qZWFuLW1hcmMt/YnJvY2FyZC0yMDIw/LWZyYW5jZS1ib3Vy/Z29nbmUtY2hhYmxp/cy1wcmVtaWVyLWNy/dS0xLnBuZw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerkonsensus pekar på en elegant och precis Chablis Premier Cru med god balans mellan fyllighet och syra. Vinet beskrivs som förfinat och mineraliskt med ett saltigt, stenigt avslut, njutbart redan nu men med potential.",
-        "en": "Critical consensus points to an elegant, precise Chablis Premier Cru with a fine balance of body and acidity. The wine is described as refined and mineral-driven, with a saline, stony finish, enjoyable now yet built to age."
+        "sv": "Denna Chablis Premier Cru Fourchaume beskrivs som precis och elegant med fin längd, där balansen mellan fyllighet och syra lyfts fram. Kritiker pekar på en förfinad, saltmineralisk avslutning som gör vinet njutbart redan nu men med potential att utvecklas.",
+        "en": "This Chablis Premier Cru Fourchaume is described as precise and elegant with beautiful length, showing a fine balance between body and acidity. Critics highlight a refined, saline-mineral finish that makes the wine enjoyable now while suggesting further aging potential."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Akacieblomma, kanderad apparelsin, vitt päron, persika, vildblommor, citrongräs och en salt, stenig mineralitet med inslag av rostad hasselnöt.",
-        "en": "Acacia blossom, candied orange, white pear, peach, wildflowers, lemongrass, and a saline, stony minerality with hints of toasted hazelnut."
+        "sv": "Blekt gul färg med silvertoner; doft av akaciablommor, kanderad apelsin och rostad hasselnöt, samt vitt päron, persika, vildblommor, citrongräs och flintsten, med en salt-mineralisk finish.",
+        "en": "Pale yellow with silvery highlights; aromas of acacia blossom, candied orange, and toasted hazelnut, alongside white pear, peach, wildflowers, lemongrass, and riverstone, finishing with a saline-mineral edge."
       },
       "pairing": {
-        "sv": "Passar till vit fisk, rökt lax, hummersallad och champinjonrisotto.",
+        "sv": "Passar till vit fisk, rökt lax, hummersallad och svampristotto.",
         "en": "Pairs with white fish, smoked salmon, lobster salad, and mushroom risotto."
       },
       "sources": [
@@ -1279,17 +1293,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerkonsensus lyfter fram Caparzos Brunello di Montalcino 2021 som en koncentrerad och generös vin med imponerande komplexitet. Flera bedömare (bl.a. Wine Spectator 95p och WineAlign 93p) betonar dess balans mellan kraft och elegans samt utmärkta pris-kvalitetsförhållande.",
-        "en": "Critical consensus highlights Caparzo's Brunello di Montalcino 2021 as a concentrated, opulent wine with impressive complexity. Multiple reviewers (including Wine Spectator's 95 pts and WineAlign's 93 pts) note its balance of power and elegance, along with excellent value for the quality."
+        "sv": "Kritikerkonsensus är mycket positiv: detta är en koncentrerad och elegant Brunello med god djup och balans, ofta nämnd bland Montalcinos toppproducenter. Flera recensenter lyfter fram dess prisvärdhet i förhållande till kvaliteten.",
+        "en": "Critical consensus is highly positive: this is a concentrated, well-balanced Brunello with notable depth, often cited among Montalcino's top producers. Several reviewers highlight its excellent value for the quality delivered."
       },
-      "score": 94,
+      "score": 93,
       "taste_notes": {
-        "sv": "Körsbär, läder och en nyanserad vaniljkrämighet ger ett fylligt och smakrikt intryck.",
-        "en": "Cherry, leather, and a nuanced vanilla creaminess create a full-bodied, flavorful profile."
+        "sv": "Körsbär, läder och vaniljnyanser med en len, krämig fyllighet.",
+        "en": "Cherry, leather, and vanilla nuances with a smooth, creamy richness."
       },
       "pairing": {
-        "sv": "Passar utmärkt till grillat rött kött, vildsvinsragu eller lagrad pecorino.",
-        "en": "Pairs beautifully with grilled red meat, wild boar ragù, or aged pecorino cheese."
+        "sv": "Passar till grillat rött kött, vilträtter och lagrade ostar.",
+        "en": "Pairs with grilled red meat, game dishes, and aged cheeses."
       },
       "sources": [
         {
@@ -1341,22 +1355,22 @@
       "currency": "SEK",
       "launch_date": "2026-07-24",
       "url": "https://www.systembolaget.se/sortiment/?q=95379",
-      "image": "https://imgs.search.brave.com/ER4xYqIBhzDHZgl_l85x0q6hijs_dmjYrlbcF6TWUic/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS12aW5pb3UuY29t/L3dpbmUtaW5mby8y/OTg1MjUvdmluLXJv/dWdlLXNlYy1tYXMt/ZGUtYm9pc2xhdXpv/bi0yMDE5LWZyYW5j/ZS12YWxsZWUtZHUt/cmhvbmUtY2hhdGVh/dW5ldWYtZHUtcGFw/ZS0xLmpwZWc",
+      "image": "https://imgs.search.brave.com/wwAya6wOF_kPnhd57z2LtPEeUKtirIou9FjqXXPhZ-c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS12aW5pb3UuY29t/L3dpbmUtaW5mby8y/NDExMTEvdmluLXJv/dWdlLXNlYy1tYXMt/ZGUtYm9pc2xhdXpv/bi0yMDA1LWZyYW5j/ZS12YWxsZWUtZHUt/cmhvbmUtY2hhdGVh/dW5ldWYtZHUtcGFw/ZS0xLmpwZWc",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Mas de Boislauzons Châteauneuf-du-Pape Tradition beskrivs som ett rikt och komplext uttryck av appellationen, med 2024 års årgång som förväntas bli särskilt levande och frodig. Domänen har en stark historik av framgångsrika årgångar, vilket ger förtroende för kvaliteten även i denna unga vintage.",
-        "en": "Mas de Boislauzon's Châteauneuf-du-Pape Tradition is portrayed as a rich, complex expression of the appellation, with the 2024 vintage expected to be especially vibrant and opulent. The domaine's strong track record across many acclaimed vintages lends confidence to this young wine's potential."
+        "sv": "Kritikerkonsensus pekar mot ett rikt och koncentrerat Châteauneuf-du-Pape från en pålitlig producent med lång historik av starka årgångar. 2024 beskrivs som lovande, kraftfull och opulent, i linje med domänens klassiska stil, men specifika poäng för just denna årgång saknas ännu i underlaget.",
+        "en": "Critical consensus points to a rich, concentrated Châteauneuf-du-Pape from a reliable producer with a long track record of strong vintages. The 2024 is described as promising, powerful and opulent, consistent with the domaine's classic style, though specific scores for this vintage are not yet available."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Mineraldriven med djup fruktighet, byggd på 70% Grenache och 30% Mourvèdre (ibland med inslag av Syrah); galets roulés-terrängen ger struktur och mineralitet.",
-        "en": "Mineral-driven with deep fruit character, built on 70% Grenache and 30% Mourvèdre (sometimes with a touch of Syrah); the rolled-pebble terroir lends structure and minerality."
+        "sv": "Fylligt och opulent med mineralitet från rullstensterrängen och den lerkalkhaltiga jorden; troligen dominerat av Grenache med kryddig Mourvèdre-struktur.",
+        "en": "Full-bodied and opulent with minerality from the galets roulés terroir over clay-limestone soil; likely Grenache-dominant with spicy Mourvèdre structure."
       },
       "pairing": {
-        "sv": "Passar utmärkt till grillat rött kött, lammgryta, vilträtter och mogna ostar.",
-        "en": "Pairs well with grilled red meats, lamb stew, game dishes, and aged cheeses."
+        "sv": "Passar till lammstek, vildsvin, grytor och mognade ostar.",
+        "en": "Pairs with roast lamb, wild boar, stews, and aged cheeses."
       },
       "sources": [
         {
@@ -1413,17 +1427,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Denna Chablis Premier Cru från Montmains-klimatet visar den strama, mineraldrivna stil som är typisk för den svalare vänstra stranden av Serein. Kritiker beskriver ett vin med god struktur och kropp, understruket av en stålig syra som ger spänst, och rekommenderar viss lagring för att låta det mjukna. Sammantaget ett hantverksmässigt, terroirdrivet vitt vin med potential för utveckling.",
-        "en": "This Premier Cru Chablis from the Montmains climat shows the taut, mineral-driven style typical of the cooler left bank of the Serein. Critics note good body and structure, underscored by a steely edge that lends tension, and suggest some cellaring to let it soften. Overall, a well-crafted, terroir-expressive white with aging potential."
+        "sv": "Kritikerna beskriver denna Premier Cru från Laroche som en stram och strukturerad Chablis med tydlig mineralitet, tack vare den kimmeridgiska kalkstensjorden på Serein-flodens vänstra strand. Vinet visar god kropp och spänst, men anses behöva ytterligare lagring för att nå sin fulla potential.",
+        "en": "Critics describe this Laroche Premier Cru as a taut, structured Chablis with pronounced minerality, reflecting the Kimmeridgian limestone soils on the left bank of the Serein. It shows good body and tension but is considered to benefit from further bottle age before drinking."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Krispig och mineralisk med citrusnoter, stram syra och en stålig, spänstig textur; god kropp och struktur med en generös munkänsla under ytan.",
-        "en": "Crisp and mineral-driven with citrus notes, taut acidity, and a steely, tensioned texture; good body and structure with a generous underlying mouthfeel."
+        "sv": "Krispigt och stramt med en stålig kant, citrus- och vita fruktnyanser samt en salin, mineralisk ton.",
+        "en": "Crisp and steely with citrus and white fruit notes, underpinned by a saline, mineral edge."
       },
       "pairing": {
-        "sv": "Passar utmärkt till skaldjur, ostron, fisk med krämiga såser och getost.",
-        "en": "Pairs wonderfully with shellfish, oysters, fish in creamy sauces, and goat cheese."
+        "sv": "Passar till skaldjur, ostron och fisk med krämiga såser.",
+        "en": "Pairs with shellfish, oysters, and fish in creamy sauces."
       },
       "sources": [
         {
@@ -1475,22 +1489,21 @@
       "currency": "SEK",
       "launch_date": "2026-07-03",
       "url": "https://www.systembolaget.se/sortiment/?q=94320",
-      "image": "https://imgs.search.brave.com/8hT1iICZ7QW26vpj-1mlCdFYcR8WzD2bDlk5i6-2IRU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vZ3V0ZXdlaW5l/L2ltYWdlL3VwbG9h/ZC9kcHJfMSxmX2F1/dG8scV9hdXRvOmVj/byxjX2xpbWl0LHdf/MjUwLGhfNjQ1LGRf/d2luZV9kZWZhdWx0/XzIwMjBfMi5wbmcv/djEvcHJvZHVjdHMv/Njk4OTJIZmwucG5n/P19hPUJBQUU2SEdZ",
+      "image": "https://imgs.search.brave.com/ysIhSpzSBjsOidjlDRlkyeX6u-DoexD1pg9fkSJI0h0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90b3Rh/bGdyYW5kY3J1LmNv/bS9jZG4vc2hvcC9m/aWxlcy8xMjcxMjcu/anBnP3Y9MTc3Njc4/Mjg5MCZ3aWR0aD0x/MDgw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Ett av Wagner-Stempels mest ikoniska Grosses Gewächs, hyllat av flera ledande kritiker för sin precision och terroiruttryck. 2023 års version beskrivs som sval, slank och mineralisk – en riktig purist- och terroirvin med lång lagringspotential (2028–2038).",
-        "en": "One of Wagner-Stempel's most iconic Grosses Gewächs wines, praised by multiple top critics for its precision and sense of place. The 2023 vintage is described as cool, lean and mineral-driven — a true purist's and terroir wine with strong aging potential (2028–2038)."
+        "sv": "Heerkretz GG 2023 hyllas enhälligt av kritikerkåren som ett av Wagner-Stempels mest ikoniska viner, med toppbetyg från Lobenberg (98+), Suckling (98), Galloni (97) och Parker (95). Detta är en kylig, strikt och reduktiv Riesling från gammal vinstock på porfyrjord – ett vin för purister och terroirälskare med stor lagringspotential (2028–2038)."
       },
       "score": 97,
       "taste_notes": {
-        "sv": "Limeskal, grönt äpple, saftig mineralitet och frisk syra; stram, reduktiv stil med lång, ren eftersmak.",
-        "en": "Lime zest, green apple, juicy minerality and crisp acidity; a lean, reductive style with a long, clean finish."
+        "sv": "Mineralisk och fräsch med tight syra, citron, grönt äpple och saftig mineralitet; fylligt och runt trots den strikta stilen.",
+        "en": "Mineral-driven and fresh with taut acidity, lime zest and green apple, a juicy minerality, yet full and round despite its lean, reductive style."
       },
       "pairing": {
-        "sv": "Passar till skaldjur, fisk, sushi och lätta kycklingrätter.",
-        "en": "Pairs with shellfish, fish, sushi, and light poultry dishes."
+        "sv": "Passar till skaldjur, fet fisk, ljust kött med citrusnoter samt asiatisk mat med skarpa smaker.",
+        "en": "Pairs with shellfish, rich fish, poultry with citrus notes, and Asian cuisine with bright, zesty flavors."
       },
       "sources": [
         {
@@ -1547,17 +1560,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerkonsensus lyfter fram Vorberg Riserva som ett av Alto Adiges mest ambitiösa vita viner, med stor komplexitet, mineralitet och lagringspotential tack vare druvor från branta, högtbelägna sluttningar. Vinet beskrivs som elegant och sidenlent, format av 12 månaders jäsning och mognad på ekfat.",
-        "en": "Critics consistently describe the Vorberg Riserva as one of Alto Adige's most ambitious white wines, showing great complexity, minerality and aging potential thanks to grapes from steep, high-altitude slopes. The wine is noted as elegant and silky, shaped by 12 months of fermentation and maturation in oak barrels."
+        "sv": "Cantina Terlans Vorberg Pinot Bianco Riserva 2023 beskrivs som ett av Italiens främsta vita viner, med imponerande mineralitet, komplexitet och stor lagringspotential. Den branta, sydvända terrängen och den varsamma vinifieringen med 12 månaders fatlagring ger ett rikt och elegant vin med silkeslen textur.",
+        "en": "Cantina Terlan's Vorberg Pinot Bianco Riserva 2023 is regarded as one of Italy's finest white wines, praised for its impressive minerality, complexity, and strong aging potential. Grown on steep, south-facing slopes and aged for 12 months in oak, it delivers a rich, elegant wine with a silky texture."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Nyanserad och frisk med inslag av gula äpplen, galiamelon, bivax, smör, örter, mandarin och en subtil fatkaraktär.",
-        "en": "Nuanced and fresh, with notes of yellow apple, galia melon, beeswax, butter, herbs, mandarin and a subtle oak character."
+        "sv": "Nyanserad och frisk med inslag av fat, gula äpplen, galiamelon, bivax, smör, örter och mandarin.",
+        "en": "Nuanced and fresh, with notes of oak, yellow apples, galia melon, beeswax, butter, herbs, and mandarin."
       },
       "pairing": {
-        "sv": "Passar till vegetariska rätter, smakrika fiskrätter, ljust kött, wokgrönsaker och exotiska curryrätter.",
-        "en": "Pairs well with vegetarian dishes, flavorful fish, light meats, wok vegetables and exotic curry dishes."
+        "sv": "Passar till vegetariska rätter, smakrika fiskrätter, ljust kött, wokgrönsaker och exotiska currygrytor.",
+        "en": "Pairs well with vegetarian dishes, flavorful fish, light meats, stir-fried vegetables, and exotic curry dishes."
       },
       "sources": [
         {
@@ -1609,22 +1622,22 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=90348",
-      "image": "https://imgs.search.brave.com/wSEvhfXFnUXsDkWaAxj6rsT-7DcbcaupkX8WxbDTuD0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFyYmVycnkuaW8v/X25leHQvaW1hZ2U_/dXJsPWh0dHBzOi8v/bHIwdmhxaDV2cWVo/eGZ6ai5wdWJsaWMu/YmxvYi52ZXJjZWwt/c3RvcmFnZS5jb20v/Y29udGVudC9pbWFn/ZXMvMzAvMDQ3MTdk/LTNlMDEtNDRiZi1i/Mzc1LWUyM2QyNjUw/OGI5YS8yMDIyLTA2/LTA5XzIxLTU2LTQ3/X0lNR18wMzg1Lndl/YnAmdz0zODQwJnE9/NzU",
+      "image": "https://imgs.search.brave.com/kXh9bTPoU2dTNM9UrCOKdRUKBoDbq8ph4nDKzmZzN3I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hY2Vs/bGFycy5jb20uYXUv/Y2RuL3Nob3AvZmls/ZXMvUGhvdG9yb29t/LTIwMjQxMTExXzE4/NTkxMF8xMV81MzB4/QDJ4LnBuZz92PTE3/NTQ5NzkxNDA",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "En rik, fyllig och lagerdelad Gamay Noir från Santa Lucia Highlands granitjordar, som ändå behåller en fräsch, syrarik karaktär. Kritiker beskriver den som en generös men balanserad årgång med lång eftersmak, och den betygsätts genomgående positivt av konsumenter.",
-        "en": "A rich, full and layered Gamay Noir from the granite soils of Santa Lucia Highlands that still retains a fresh, high-acid character. Critics describe it as a generous yet balanced vintage with a long finish, and it is consistently well-rated by consumers."
+        "sv": "Kritikerna är eniga om att 2024 års Gamay Noir från Lucy Wines är en rik, fyllig och lagerdelad vin med fräsch syra och charmig fruktighet från de granitrika jordarna i Santa Lucia Highlands. Det beskrivs som en generös och redan populär tillökning i Lucy-kollektionen, med god balans mellan mognad och friskhet.",
+        "en": "Critics agree that the 2024 Gamay Noir from Lucy Wines is a rich, full and layered wine with bright acidity and charming fruit character, sourced from the granite soils of the Santa Lucia Highlands. It's described as a generous and quickly popular addition to the Lucy collection, showing good balance between ripeness and freshness."
       },
       "score": 76,
       "taste_notes": {
-        "sv": "Svart hallon, svart körsbär, violblomma, boysenbär, fänkålspollen, svartpeppar och tranbär.",
-        "en": "Black raspberry, black cherry, purple flower, boysenberry, fennel pollen, black pepper and cranberry."
+        "sv": "Mörka toner av svart hallon, svart körsbär och lila blommor, med inslag av boysenbär, fänkålspollen, peppar och tranbär.",
+        "en": "Dark notes of black raspberry, black cherry and purple flowers, with hints of boysenberry, fennel pollen, pepper and cranberry."
       },
       "pairing": {
-        "sv": "Passar till charkuterier, rostad fågel, svamprätter och lätt kryddad medelhavsmat.",
-        "en": "Pairs with charcuterie, roasted poultry, mushroom dishes and lightly spiced Mediterranean fare."
+        "sv": "Passar till lätt kött, fjäderfä, charkuterier och grillade grönsaker.",
+        "en": "Pairs with light meats, poultry, charcuterie and grilled vegetables."
       },
       "sources": [
         {
@@ -1676,7 +1689,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=95934",
-      "image": "https://imgs.search.brave.com/1kW7-hzJTFzkat_R-vvWaFKWIMbFiZOCTvS96PBdgeI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/OHdpbmVzLmZyL21l/ZGlhL2NhdGFsb2cv/cHJvZHVjdC9jYWNo/ZS84NWFmYzQzMjc0/NTdjZWNlYmJjZmJm/NWU4MWRmMjdhNy9z/L2Evc2FudG8td2lu/ZXMtc2FudG9yaW5p/LWFzc3lydGlrby0y/MDIyXzFfMS5wbmc",
+      "image": "https://imgs.search.brave.com/ijEEW2sOMUfoMScQiiR_iJJv2mfWlF6LZtz9CkkqgDU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/OHdpbmVzLmNvbS9t/ZWRpYS9jYXRhbG9n/L3Byb2R1Y3QvY2Fj/aGUvNzE5YTBhMjdm/MWQ2MjZmYTNlNmRk/YzA1ZDhhNmYzYWEv/cy9hL3NhbnRvLXdp/bmVzLXNhbnRvcmlu/aS1hc3N5cnRpa28t/MjAyMl8xXzEucG5n",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -1742,7 +1755,7 @@
       "currency": "SEK",
       "launch_date": "2026-08-21",
       "url": "https://www.systembolaget.se/sortiment/?q=94128",
-      "image": "https://imgs.search.brave.com/Et-C54NfGj2vLHuCVaTwZQo4vU3JE1PqYbU2XMK4gpM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bW9ldmVucGljay13/ZWluLmNvbS9tZWRp/YS9jYXRhbG9nL3By/b2R1Y3QvdGh1bWJu/YWlsLzVhZjgzNTI1/OTY1MjJlMDRlNzYz/NzAwYmNmNGQ0NGFm/NDhmMzJhYmYwOTAz/MmY3OGE5ZGIxZTkx/L2ltYWdlLzM0MjY3/MS8yMzN4NzA1LzEx/MS85NS85LzcvOTcx/OC5wbmc",
+      "image": "https://imgs.search.brave.com/n_QU6HWh-PvvdoqMtWXGqP3z3zUCJt_I67Cw-MQT35g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vZ3V0ZXdlaW5l/L2ltYWdlL3VwbG9h/ZC9kcHJfMSxmX2F1/dG8scV9hdXRvOmVj/byxjX2xpbWl0LHdf/MjUwLGhfNjQ1LGRf/d2luZV9kZWZhdWx0/XzIwMjBfMi5wbmcv/djEvcHJvZHVjdHMv/NjEwNzBIZmxfby5w/bmc_X2E9QkFBSFdY/R1k",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -1808,7 +1821,7 @@
       "currency": "SEK",
       "launch_date": "2026-08-07",
       "url": "https://www.systembolaget.se/sortiment/?q=92677",
-      "image": "https://imgs.search.brave.com/wBf_O9d8942S05fMlUMGXEYgLA879H6vKh1EzTY5_kk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMud2luZS5jb20v/d2luZWNvbS9pbWFn/ZS91cGxvYWQvd182/MDAsaF82MDAsZHBy/XzIuMCxjX2ZpdCxx/X2F1dG86Z29vZCxm/bF9wcm9ncmVzc2l2/ZS9iZndoZHd5b2F3/NnByY3BwdzlqMC5q/cGc",
+      "image": "https://imgs.search.brave.com/5Fx_gLVmgi-KQjjo0EwsgIgHER_VRRdXoXa_Oe3pOTw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vdW5qb3VydW52/aW4vZl9hdXRvLGNf/bGltaXQsd18xOTIw/LHFfOTAvcHJvZHVj/dGltZy9jaGF0ZWF1/LWQtYWlndWlsaGUt/Y2FzdGlsbG9uLWNv/dGVzLWRlLWJvcmRl/YXV4LTIwMTQtR181/YzUzMDk4NGVhMmQz/LnBuZw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -1896,7 +1909,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=90164",
-      "image": "https://imgs.search.brave.com/sSEbZj6j3BLidPWTp-BHbGoskWwzi7Eh7ytMnO-i5kg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aWRlYXZpbm9zLmNv/bS9tZWRpYS9jYXRh/bG9nL3Byb2R1Y3Qv/Y2FjaGUvNDBiNDVh/YjNkM2RhNzlkMmJm/MGNjYzE3ZDNkNDUw/YTUvdi9pL3Zpbm8t/emFyYXRlLWZvbnRl/Y29uLXJvc2UuanBn",
+      "image": "https://imgs.search.brave.com/7YOxx1uF75XueXivVwB8QzkkfeMTmTWL-DNtKIE0DXk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dmluaXNzaW11cy5j/b20vaW1nL3Vuc2Fm/ZS9wNTAweC9wbGFp/bi9sb2NhbDovLy9w/cmZtdGdyYW5kZS92/aS96ZnRjcjI0X2Fu/djgwMC5wbmc",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -1918,7 +1931,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=92892",
-      "image": "https://imgs.search.brave.com/zCD_RL1QPonqMVeYso25-Ll674uw-Y9GsrxFAOv7kZU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jaGFw/ZWF1d2luZXMuZXMv/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MTAvQ29udGluby1H/cmFuLVJlc2VydmEt/NzVjbC02MDB4NjAw/LmpwZw",
+      "image": "https://imgs.search.brave.com/LlMq0JgHJAwK5OTwXSUsMXaxvvAcmUJX6P3msxEEc0g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jaGFw/ZWF1d2luZXMuZXMv/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MTAvQ09OVElOTy1W/SU5BLU9MSVZPLTc1/Q0wtTEcwQTI3Mjgt/NjAweDYwMC5qcGc",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -1940,7 +1953,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-24",
       "url": "https://www.systembolaget.se/sortiment/?q=93168",
-      "image": "https://imgs.search.brave.com/lbqDfp5DkFR0Dg3LmetCybcyq8jpiSQviYAoUX_1s8s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iYnIuY29tL3Mv/YmJyLzIwMjA4MzEy/NjczLW1zP2ltZzQw/ND1EZWZhdWx0X1dp/bmUmJFBMUERlc2sk/JmZtdD1hdXRv",
+      "image": "https://imgs.search.brave.com/XVSMNNhkuMjF2_OwQdcKe8ngOBlMbyhGbUG_rOgkETo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iYnIuY29tL3Mv/YmJyLzIwMjA4MzEy/NjczLW1zP2ltZzQw/ND1EZWZhdWx0X1dp/bmUmJFBMUERlc2sk/JmZtdD1hdXRvJnFs/dD1kZWZhdWx0",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2006,7 +2019,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-31",
       "url": "https://www.systembolaget.se/sortiment/?q=93524",
-      "image": "https://imgs.search.brave.com/SQYrtxXR31rwBucDsXSK23cctwGEPsybAxLhVXoGTT4/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93d3cu/dmlucy1sYWx5LmNv/bS85MjU4LXNtYWxs/X2RlZmF1bHQvc2Fu/Y2VycmUtbWFpbmJy/ZS0yMDI0LWRvbWFp/bmUtZHUtcHJlLXNl/bWVsZS5qcGc",
+      "image": "https://imgs.search.brave.com/ncipuwst6FilxmVsCr6t86vBqDOa5dTzNcl9m9fczCo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudml2aW5vLmNv/bS90aHVtYnMvbmY0/elJ0OWxReVc0aE80/Y09uU3BiZ19wYl94/OTYwLnBuZw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2050,7 +2063,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=92082",
-      "image": "https://imgs.search.brave.com/vaamFidFdg3q9k30SZvUujoxUqdTpuvtbOShK6zrzHg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2luZS1zZWFyY2hl/ci5jb20vaW1hZ2Vz/L2xhYmVscy8xNi85/MC8xMDkzMTY5MC5q/cGc_d2lkdGg9Mjg4/JmhlaWdodD0xODAm/Zml0PWJvdW5kcyZj/YW52YXM9Mjg4LDE4/MCZmb3JtYXQ9YXV0/byZhdXRvPWNvbXBy/ZXNzJmRwcj0xJnF1/YWxpdHk9NzA",
+      "image": "https://imgs.search.brave.com/DmzKgZ1btckb_D-i5euQ9xGXbcihTfvF9JXGrS73LNQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZXJv/aC5kZS9jZG4vc2hv/cC9wcm9kdWN0cy9N/YWNvbi1DaGFyZG9u/bmF5X0RvbWFpbmVk/ZXNDcmV0c18yMDAw/eC5qcGc_dj0xNjA4/MTk5NTU4",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2072,7 +2085,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-17",
       "url": "https://www.systembolaget.se/sortiment/?q=94665",
-      "image": "https://imgs.search.brave.com/sfpgYtYM6QesOOSunjlPSlqLtO6nTblv-TZSlEYSteI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c29rb2xpbi5jb20v/bWVkaWEvY2F0YWxv/Zy9wcm9kdWN0L2Nh/Y2hlL2QyZjRjNDQy/NmYyODcwM2ZiMDgy/N2U2N2ZiNzE3Nzg3/LzIvMC8yMDE2LXJv/Y2NhLWRpLW1vbnRl/Z3Jvc3NpLXZpZ25l/dG8tc2FuLW1hcmNl/bGxpbm8tY2hpYW50/aS1jbGFzc2ljby1n/cmFuLXNlbGV6aW9u/ZV8xLmpwZw",
+      "image": "https://imgs.search.brave.com/FHDLA8Fauvfm_uo2X_-V5si7gcrNQC1Pn98GHtEYqJE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudml2aW5vLmNv/bS90aHVtYnMvR3VN/QmQ3aGhTSmFhYlhJ/UE02cUptd19wYl94/OTYwLnBuZw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2160,7 +2173,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=93137",
-      "image": "https://imgs.search.brave.com/QIUpAAu2m_I6Ij4xzuhe0d8_jb4pB8CsB_HOXZSYdyo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy0yb3pw/aDNka3B5L2ltYWdl/cy9zdGVuY2lsLzUw/MHg2NTkvcHJvZHVj/dHMvNjA5NzIyLzU1/MjI0OC9TUlAwMTRf/XzcyMjU5LjE3NjIy/Mjc5NTQuanBnP2M9/MQ",
+      "image": "https://imgs.search.brave.com/1xYwSLED3uoiuesGO0k6UNgiB1Phrn8nusfNySU00f0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vZ3V0ZXdlaW5l/L2ltYWdlL3VwbG9h/ZC9kcHJfMSxmX2F1/dG8scV9hdXRvOmVj/byxjX2xpbWl0LHdf/MjUwLGhfNjQ1LGRf/d2luZV9kZWZhdWx0/XzIwMjBfMi5wbmcv/djEvcHJvZHVjdHMv/NDY2NzFIZmxfby5w/bmc_X2E9QkFBRTZI/R1k",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2182,7 +2195,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-31",
       "url": "https://www.systembolaget.se/sortiment/?q=93454",
-      "image": "https://imgs.search.brave.com/RfYONxXE32F_n76vz2xjl72l03iZKzx-DPeZcsN5wmg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMud2luZS5jb20v/d2luZWNvbS9pbWFn/ZS91cGxvYWQvZV90/cmltL3dfOTAsaF8x/ODAsY19maXQscV9h/dXRvOmJlc3QsZmxf/cHJvZ3Jlc3NpdmUv/c3Z0c2NyMDEyM2Vl/b3ZkZWM5ZXMuanBn",
+      "image": "https://imgs.search.brave.com/LOqP1hl2HsQZHm-yJjI-rCq_OmNej2CV2VLaRZ4QrcA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZW5jb3BhZGViYWxv/bi5jb20vY2RuL3No/b3AvcHJvZHVjdHMv/ZW4tY29wYS1kZS1i/YWxvbi1zaW1wbGUt/ZGVmYXVsdC10aXRs/ZS1nb2RldmFsLXZh/bGRlb3JyYXMtZ29k/ZWxsby0yMDIzLTU2/NDk0MjE4OTY5NDI1/LmpwZz92PTE3NDM0/MTM5MTQmd2lkdGg9/MTk0Ng",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2226,7 +2239,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-17",
       "url": "https://www.systembolaget.se/sortiment/?q=93100",
-      "image": "https://imgs.search.brave.com/JrvJUIypJpVCBBWRzHH0ERUbjmG_wC7ur7UlmvFkMPs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dmluYXRpcy5kZS8z/MzY0OS1kZXRhaWxf/ZGVmYXVsdC9waW5v/dC1ncmlzLXNlbGVj/dGlvbi1kZS1ncmFp/bnMtbm9ibGVzLXNj/aG9md2VnLTIwMTUt/ZG9tYWluZS1mZXJu/YW5kLWVuZ2VsLnBu/Zw",
+      "image": "https://imgs.search.brave.com/vX59oSWpKdyFDwlQcDLsD89nb7I_xowEqrdHaSOwrNA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vdW5qb3VydW52/aW4vaW1hZ2UvdXBs/b2FkL3Byb2R1Y3Rp/bWcvd2VpbmJhY2gt/cmllc2xpbmctR0Mt/c2NobG9zc2Jlcmct/R182MTk3ODkzMTc4/YTAwOV85ODQwNDY3/Ni5wbmc",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2292,7 +2305,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-03",
       "url": "https://www.systembolaget.se/sortiment/?q=94286",
-      "image": "https://imgs.search.brave.com/utCo5wUH2BuDXwh0ShGoKpWv9afNYK72064_MY9Y41Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vaHR0OGc0Y2Qv/aW1hZ2UvdXBsb2Fk/L3dfNjAwLGhfNjAw/LGNfcGFkLGZfYXV0/byxxX2F1dG8sZV9z/aGFycGVuL3YxNzg0/NjIxNjU0L3dwL3Jl/dmlld3MvbGFiZWxz/L3dpbmUvd18xNDc0/MjE0",
+      "image": "https://imgs.search.brave.com/NIfRuy-A002lKZ10qrPFn5qSIRKHodZW8qErHT3wrIQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zaW1v/bndpbmVlbXBvcml1/bWNhMjIyZS56YXB3/cC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMDIvVXZh/TWlyYV9UaGVNaXJh/Q2hhcmRvbm5heS1O/VjEyLndlYnA_c3Jj/PXBuZw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2358,7 +2371,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=93495",
-      "image": "https://imgs.search.brave.com/RZ8hW0rujBpqDAQ04sC8PZbeYgjxiixj1bV-VYjirm0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vdW5qb3VydW52/aW4vZl9hdXRvLGNf/bGltaXQsd18xOTIw/LHFfOTAvcHJvZHVj/dGltZy90aGl2aW4t/Y290ZS1icm91aWxs/eS1zZXB0LXZpZ25l/cy1HXzVkN2JhOGEx/MDE3MDgucG5n",
+      "image": "https://imgs.search.brave.com/fB8YTi0TMTI5nB5gwJ0Hs26BQpqWcjaLAUY82WCUZnM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iYnIuY29tL3Mv/YmJyLzIwMjQ4MDA3/MDUyLW1zP2ltZzQw/ND1EZWZhdWx0X1dp/bmUmJFBMUERlc2sk/JmZtdD1hdXRvJnFs/dD1kZWZhdWx0",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2402,7 +2415,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-24",
       "url": "https://www.systembolaget.se/sortiment/?q=92304",
-      "image": "https://imgs.search.brave.com/u_sOZjOuVyRFSs4X_cz-7uq7KWZrbS6DaTPE3c7YhFo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2FsbGllbm90ZWNh/Lml0LzI1Mzg2OC1o/b21lX2RlZmF1bHQv/YmFyb2xvLXBpZS1y/dXBlc3RyaXMtY2Fw/cGVsbGFuby0yMDE5/LmpwZw",
+      "image": "https://imgs.search.brave.com/USw9DlvNeS4njYG1ZGDjT2PN3RGpS4lyw5u4AFQPgzE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/eHRyYXdpbmUuY29t/L2Nkbi9zaG9wL2Zp/bGVzL3ZvZXJ6aW8t/ZG9sY2V0dG8tZC1h/bGJhLXByaWF2aW5v/LTIwMjRfNjA3NzVf/MV9lZDAzOTg5OC04/MGJlLTQxNWUtOWJh/Zi02NGU0N2Q5OWI4/ZmQud2VicD92PTE3/NzQ2MzE4NzAmd2lk/dGg9MTk0Ng",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2424,7 +2437,7 @@
       "currency": "SEK",
       "launch_date": "2026-08-07",
       "url": "https://www.systembolaget.se/sortiment/?q=91109",
-      "image": "https://imgs.search.brave.com/y0JlXtbiaOGGQA3_-uZk4PGz43_4nOf95Ckgvgbfi-o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9yZS10aGFuLXdp/bmUuY29tLzQ0MTUt/bWVkaXVtX2RlZmF1/bHQvemFnby1kb3Nh/Z2dpby16ZXJvLW1l/dG9kby1jbGFzc2lj/by0yMDIzLWVmZi1i/bGFuYy03NWNsLWl0/YWxpZS12ZW5ldG8u/anBn",
+      "image": "https://imgs.search.brave.com/BXMnb9qLmGDs65thG6d-rlvB2dVzYIRLFbNJ1YYwg0A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9yZS10aGFuLXdp/bmUuY29tLzQ0MTUt/bGFyZ2VfZGVmYXVs/dC96YWdvLWRvc2Fn/Z2lvLXplcm8tbWV0/b2RvLWNsYXNzaWNv/LTIwMjMtZWZmLWJs/YW5jLTc1Y2wtaXRh/bGllLXZlbmV0by5q/cGc",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2468,7 +2481,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-24",
       "url": "https://www.systembolaget.se/sortiment/?q=94096",
-      "image": "https://imgs.search.brave.com/BHq2cBDVyXdVcZkGrjZY-cWI7LML6xT0TGG301JjAYg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2VpbmtvbWJpbmF0/LmNvbS8zNzE0LWhv/bWVfZGVmYXVsdC9j/LWEtaW1taWNoLWJh/dHRlcmllYmVyZy1k/ZXRvbmF0aW9uLXJp/ZXNsaW5nLmpwZw",
+      "image": "https://imgs.search.brave.com/Qg7z3UZxZK6TKF8zoZwqaDI35TMl1qeoguljFYJG7-c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2VpbmRvdGNvbS5k/ZS9tZWRpYS9pbWFn/ZS9lOS9jMS82ZC9J/bW1pY2gtQmF0dGVy/aWViZXJnLURldG9u/YXRpb24tUmllc2xp/bmctMjAyMF82MDB4/NjAwLmpwZw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2490,7 +2503,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-17",
       "url": "https://www.systembolaget.se/sortiment/?q=95022",
-      "image": "https://imgs.search.brave.com/6R2SpMlM4dLPxdETnbFmv8tMtx_tvkOOWna7q1iqjL0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tYXJ0/YS12aW5pLmNvbS9j/ZG4vc2hvcC9wcm9k/dWN0cy9FdG5hLUJp/YW5jby5qcGc_dj0x/NjU1NDcwMjgyJndp/ZHRoPTE0NDU",
+      "image": "https://imgs.search.brave.com/bmwNaMTrUGmCJzaggkZy5zbICAAfIXX2l73pGcsAtjA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bmljaG9sYXN3aW5l/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/L0Jvbm55LURvb24t/VmluLUdyaXMtZGUt/Q2lnYXJlLVJvc2Ut/MjAyMS00MS5qcGcu/d2VicA",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2578,7 +2591,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-31",
       "url": "https://www.systembolaget.se/sortiment/?q=93667",
-      "image": "https://imgs.search.brave.com/S5k0lwVdApaYoYDw42Gp4uLAQJmJSA_gwy9HADY0uqA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zaG9w/LndlaW51bmRnbGFz/LmNvbS9tZWRpYS9p/bWFnZS9iMi9kZS9i/YS9Eb25uaG9mZi1D/aGFyZG9ubmF5LVNf/NjAweDYwMC5qcGc",
+      "image": "https://imgs.search.brave.com/We625r1M-qoXzdKH5ki0QdCtyc15GCvO6_Dyd8McRP4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2Vpbi11bmQtbWVo/ci5kZS9tZWRpYS9l/NC83MS9jOS8xNzYy/NDMwOTQ5L3dlaW5n/dXQtZG9lbm5ob2Zm/LW5haGUtc3R1ZWNr/ZmFzcy1jaGFyZG9u/bmF5LndlYnA",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2622,7 +2635,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-17",
       "url": "https://www.systembolaget.se/sortiment/?q=95445",
-      "image": "https://imgs.search.brave.com/kcuNAsG-EJGyUO4qtj38Jj7li1xoevuYInrsmAip-cs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXNv/dXJjZXMudmluby5j/b20vZGF0YS9vZmZl/cnRhRmlsZUZpbGUv/b2ZmZXJ0YUZpbGVG/aWxlLTMzMTg5My5q/cGc",
+      "image": "https://imgs.search.brave.com/H2doRYHGQsq5lUNziDPSa5FhlHfIeth5r7h1c0C1-Nc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vdW5qb3VydW52/aW4vZl9hdXRvLGNf/bGltaXQsd18xOTIw/LHFfOTAvcHJvZHVj/dGltZy9ldG5hLXJv/c3NvLWJ0bGxlXzY4/YjZhNmE4ZGQ3MjM1/XzM0NTgyMjg5LnBu/Zw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2688,7 +2701,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-10",
       "url": "https://www.systembolaget.se/sortiment/?q=90045",
-      "image": "https://imgs.search.brave.com/uJGSH_1zUTw9D7-WvErlvHOR4s2EHfsnISMSJPIr0DI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93aW5l/ZXhwZXJ0LnB0LzIw/OC1sYXJnZV9kZWZh/dWx0LzAyLTIwMC0w/MDUtMDAwMDMtbXNj/LXZpbmhvLWNhbXBv/bGFyZ28tYmFnYS1j/YXN0ZWxhby10LTIw/MTUtNzUwbWwuanBn",
+      "image": "https://imgs.search.brave.com/wHKNBYvpIpiYBVnCg1Gdi1nU4AgtSw0zoaB34f9c44s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cG9ydHVnYWx2aW5l/eWFyZHMuY29tLzEy/NDIwOC1ob21lX2Rl/ZmF1bHQvY2FtcG9s/YXJnby1iYWdhLWNh/c3RlbGFvLXJlZC0y/MDE3LmpwZw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2710,7 +2723,7 @@
       "currency": "SEK",
       "launch_date": "2026-08-07",
       "url": "https://www.systembolaget.se/sortiment/?q=91279",
-      "image": "https://imgs.search.brave.com/LFcsjbsbmg8J8jwGkFhSa2oxZNNEdfZX4HKdh1OQd4M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bmF0YWxpZW1hY2xl/YW4uY29tL2ltYWdl/cy93aW5lcGlja3Mv/ZmU3ZWE0ZGI1N2U1/NDRiYTlkMThjZjM5/ZTg1NjRjMTIvMzQ1/MzMyLWtlbi1mb3Jy/ZXN0ZXItdGhlLW1p/c2ZpdHMtZ3JlbmFj/aGUtMjAyMi1ib3R0/bGUtMTcxODgyMjQw/NC5qcGc",
+      "image": "https://imgs.search.brave.com/_yUq9_e-s_dQIA5tO4yy6eKnANZNEG4Kp6gAmONM3pQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z29vZGhvcGV3aW5l/cy5ldS9maWxlcy90/aHVtYnMvbW9kX2Vz/aG9wL3Byb2R1a3R5/L2FjcjM2NzUxMTQ5/OTkxMzAyNC00ODYy/MTAuMTUzNjM4MjYz/MS5wbmc_dD0xNzI1/NDU4Nzk1",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2754,7 +2767,7 @@
       "currency": "SEK",
       "launch_date": "2026-08-07",
       "url": "https://www.systembolaget.se/sortiment/?q=95897",
-      "image": "https://imgs.search.brave.com/VbSe4772hIQX3RhSAy4dSXsse-XccEa-w1td--VNtTo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93aW5l/YWxpZ24tcHJvZHVj/dGlvbi5zMy5hbWF6/b25hd3MuY29tL3dp/bmVfYm90dGxlcy8w/MDQwLzM1NDUvd2lu/ZV8xNTQxNjVfd2Vi/LmpwZw",
+      "image": "https://imgs.search.brave.com/GBmWGxDDdscZETA5rBKUgmnLjBeMRI69tGPJZPxopbg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iaXNn/YWFyZC12aW4uZGsv/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MDMvSGVhcnRsYW5k/LXNoaXJhei1kaXJl/Y3RvcnMtY3V0LWF1/c3RyYWxpZW4ucG5n",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2776,7 +2789,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-24",
       "url": "https://www.systembolaget.se/sortiment/?q=92404",
-      "image": "https://imgs.search.brave.com/97bKqAaKGjwPBe5_bzrWhj4-86FhvAeiquPWgbzje4Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGFubmljby5mci9j/ZG4vc2hvcC9maWxl/cy9Sb3V4QWxidXNf/MV8xXzEuanBnP3Y9/MTc0NTg4MjE5NiZ3/aWR0aD00ODQ",
+      "image": "https://imgs.search.brave.com/FKDaSlFRaNw1cmTYd0ymKT4dY3H7sVgEvk-2JOfDVXM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcmVt/aWVyY3J1LmJpei9j/ZG4vc2hvcC9wcm9k/dWN0cy9CT1VSR09H/TkVfQUxJR09URV9B/TEJVU19ET01BSU5F/X1JPVVhfNzVDTF9E/WDAxMS5qcGc_dj0x/NzUyNjkzMzg3Jndp/ZHRoPTE0NDU",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2864,7 +2877,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=9006901",
-      "image": "https://imgs.search.brave.com/nopKu2fHdDoFwqo_RVuF6OP-uAQoAtwKtHPFB7nuAn0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdG9y/ZS5saXNtb3JlLmNv/LnphL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI1LzAyL0xpc21v/cmVzLTIwMjItUm9i/ZXJ0LVBhcmtlci1i/eS1BbnRob255LU1l/dWxsZXItU2NvcmVz/LTAwMi0zNjB4MzAy/LmpwZw",
+      "image": "https://imgs.search.brave.com/OmzZzRkq4Ahd7spFRTC6rrEzirSfV9JyCyFEVGht0bA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aW5lZmluZGVy/LnNlL3VwbG9hZC9h/cnRpa2xhci9iaWxk/ZXIvS1NBMTMwMzIy/LTEtQ3J5c3RhbGx1/bS1XaW5lcy1CYXJy/ZWwtRmVybWVudGVk/LmpwZz93PTMwMCZm/b3JtYXQ9anBnJnRy/aW0udGhyZXNob2xk/PTE1",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2886,7 +2899,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=90153",
-      "image": "https://imgs.search.brave.com/c9O_JNT_O8O76-uLUvbiGUmJE9zx-xtOt4JN9rX-N7s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2luZS1zZWFyY2hl/ci5jb20vaW1hZ2Vz/L2xhYmVscy8xNi80/MS8xMTQzMTY0MS5q/cGc_d2lkdGg9MTc1/JmhlaWdodD0yMzQm/Zml0PWJvdW5kcyZj/YW52YXM9MTgwLDI0/MCZmb3JtYXQ9YXV0/byZhdXRvPWNvbXBy/ZXNzJmRwcj0xJnF1/YWxpdHk9NzA",
+      "image": "https://imgs.search.brave.com/0gXPNcYNluHvYxKkwR0OcnvyBGgWumkbvjLFL-KIi6w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aG9wYnVybnNibGFj/ay5jby51ay9jZG4v/c2hvcC9maWxlcy9z/dG9yZS1jYXJtZXJh/XzIwMjQ0NV8xMzM2/MV84NTYtMDEuanBn/P3Y9MTcxMjMyMjE4/NCZ3aWR0aD0xMjE0",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -2974,7 +2987,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-31",
       "url": "https://www.systembolaget.se/sortiment/?q=94173",
-      "image": "https://imgs.search.brave.com/7L5zoh9Jt8zKeddkLmu6DRsrHQDRHqgKlKH_JHIMCoQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vdW5qb3VydW52/aW4vZl9hdXRvLGNf/bGltaXQsd18xOTIw/LHFfOTAvcHJvZHVj/dGltZy90ZXJyZXMt/ZG9yZWVzLWFuY2ll/bi1HXzY4ZjhlMTk3/ODU0YzMzXzUzMjI3/NDA0LnBuZw",
+      "image": "https://imgs.search.brave.com/gLGtITGnjVDvx4I35YxFx3YrJ67oHm9mCrTRvYJK4jY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vdW5qb3VydW52/aW4vZl9hdXRvLGNf/bGltaXQsd18xOTIw/LHFfOTAvcHJvZHVj/dGltZy90ZXJyZXMt/ZG9yZWVzLWJlYXVq/b2xhaXMtYW5jaWVu/LTIwMTMtRy5wbmc",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -3018,7 +3031,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-10",
       "url": "https://www.systembolaget.se/sortiment/?q=90270",
-      "image": "https://imgs.search.brave.com/SiWM8b98xHgZnkcfdsmvil-eiUw8lW5XVtsGEPYFRZg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9mb3J0/d2luZS5ydS91cGxv/YWQvaWJsb2NrLzJk/Zi9jMHN5ZnY4OTdt/cGxta3gxcHBxZmZy/bDJsa29taXl4dy5q/cGc",
+      "image": "https://imgs.search.brave.com/XJpz2RJnUudPGY-G6vA7mkVqzXwmEKsHGoG8wO0E74U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2luZXRhYmxlLnNl/L2Nkbi1jZ2kvaW1h/Z2VkZWxpdmVyeS9D/U1dwcW9NTWhLbVdO/bThQc2JMMFVRL3dp/bmV0YWJsZS05NTU5/ODAxLXdvaGxtdXRo/LTIwMjIvc21hbGwz/eA",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -3062,7 +3075,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-03",
       "url": "https://www.systembolaget.se/sortiment/?q=95011",
-      "image": "https://imgs.search.brave.com/LLUVeo91yyLqRPNoUh8OhpChgZb_wC6xt11ljcFhq8U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90cmFk/aW5nZ3JhcGVzLmNv/bS9jZG4vc2hvcC9m/aWxlcy9Cb2dsZV9G/YW1pbHlfVmluZXlh/cmRzX09sZF9WaW5l/X1ppbmZhbmRlbF8y/MDIyXy1fRnJvbnRf/TGFiZWwud2VicD92/PTE3NTUxNzE2NTkm/d2lkdGg9NDgw",
+      "image": "https://imgs.search.brave.com/WLf4tS-ydkcVULEMksYo2q1Pir7n9zCtUy36Dz7L3bs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly82N3dp/bmUuY29tL2Nkbi9z/aG9wL2ZpbGVzL3pw/eWVzdnF1a2RqemI0/bmNvYWJzLmpwZz92/PTE3ODYxMjg5MzIm/d2lkdGg9NDgw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -3084,7 +3097,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=92450",
-      "image": "https://imgs.search.brave.com/FiLh4moHCZwHA-PSCB1dXgsr6s9NwzE10kmdW8V2vOk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2hlcnJ5bm90ZXMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzA1L3Rpby1w/ZXBlLWZpbm8tZW4t/cmFtYS0yMDIzLWdv/bnphbGV6LWJ5YXNz/LTYyMHgzNTAuanBn",
+      "image": "https://imgs.search.brave.com/9Ue_cd3ONU8gZ2-2e7uzIQPb_QHnddYoPsf-CIwlAUs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jYXNr/Y2FydGVsLmNvbS9j/ZG4vc2hvcC9wcm9k/dWN0cy9lbl9yYW1h/Xzk1ODNjYmM4LWZm/MDgtNDk2My1iN2Rh/LTJlMTg2YWY2ZjBi/Ny5qcGc_dj0xNjg4/NDg2NzM0JndpZHRo/PTEyMTQ",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -3128,7 +3141,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-31",
       "url": "https://www.systembolaget.se/sortiment/?q=94798",
-      "image": "https://imgs.search.brave.com/7sb3y0YZe_VQToPM3yAYmWfdP37FJSAoFvRkgks5HK0/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93aWpu/b3Bkcm9uay5ubC93/cC1jb250ZW50L3Vw/bG9hZHMvV2hhdHNB/cHAtSW1hZ2UtMjAy/NS0wMS0yOS1hdC0x/MS4zMi4zMzYtMTAw/eDEwMC5qcGVn",
+      "image": "https://imgs.search.brave.com/H9DISrGttfMbXavpT7eEi2XvvAt4zoC8s1L-uBfx9Qs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93aWpu/b3Bkcm9uay5ubC93/cC1jb250ZW50L3Vw/bG9hZHMvV2hhdHNB/cHAtSW1hZ2UtMjAy/NS0wMS0yOS1hdC0x/MS4zMi4zMzYuanBl/Zw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -3216,7 +3229,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=94731",
-      "image": "https://imgs.search.brave.com/FtWSxPelgYFPzkZl2oETqLXwZjOoxtq5swe_P6yxjDo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXNv/dXJjZXMudmluby5j/b20vZGF0YS9vZmZl/cnRhRmlsZUZpbGUv/b2ZmZXJ0YUZpbGVG/aWxlLTM3Njc4OC5q/cGc",
+      "image": "https://imgs.search.brave.com/qEqUMTUpqyK8lkcLSbAoxtSzfkcptJQGbj9CBGPghfg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS12aW5pb3UuY29t/L3dpbmVpbWFnZS90/eXBlL2VmZmVydmVz/Y2VudC9lZmZlcnZl/c2NlbnQtcm9zZS1i/b3R0bGVfNzUucG5n",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -3238,7 +3251,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-31",
       "url": "https://www.systembolaget.se/sortiment/?q=92729",
-      "image": "https://imgs.search.brave.com/9of_Mwnat81-NP-0el-49JK8K9TKVLxKnV36LCDgO-k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dmluZXRpcS5ldS9t/ZWRpYS9jYXRhbG9n/L3Byb2R1Y3QvY2Fj/aGUvOWYxNjljZGE1/NzUwYTY3YTNmYWM1/YzQyNDBlYzE4NGUv/cy9tL3NtbG93YjI0/LnBuZw",
+      "image": "https://imgs.search.brave.com/TN9Vv5hIpXNFTxCxIiIDicLGhefFUC7MfMSUwGdl-T4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dmluZXRpcS5ldS9t/ZWRpYS9jYXRhbG9n/L3Byb2R1Y3QvY2Fj/aGUvOWYxNjljZGE1/NzUwYTY3YTNmYWM1/YzQyNDBlYzE4NGUv/cy9tL3NtbGxnYjIz/MV8xLnBuZw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -3282,7 +3295,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-17",
       "url": "https://www.systembolaget.se/sortiment/?q=90251",
-      "image": "https://imgs.search.brave.com/xGe4gbwuwgmCIJwiC-kfOEExhy-MWegjWQTjwVRYjs4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3VtbWVyaGlsbHdp/bmVzaG9wLmNvbS5h/dS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/NC8wOS8yMDE3LUxv/Z2FuLVdlZW1hbGEt/UGlub3QtTm9pci1P/cmFuZ2UuanBn",
+      "image": "https://imgs.search.brave.com/-mtUxbS7oVcUlPoHvR8btF16mZwdE-W7rkMwIQN36r0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dmF1Y2x1c2VjZWxs/YXJzLmNvbS5hdS9j/ZG4vc2hvcC9maWxl/cy9Mb2dhbl9XZWVt/YWxhX1Bpbm90Tm9p/cjIwMjJfanBnXzI2/NHg5NjAucG5nP3Y9/MTcxMzc3NDE5OA",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -3326,7 +3339,7 @@
       "currency": "SEK",
       "launch_date": "2026-06-05",
       "url": "https://www.systembolaget.se/sortiment/?q=90458",
-      "image": "https://imgs.search.brave.com/0gR3hmdIT31R_4cAO4VWgS89l7OIv-hbcNgPO99ylUI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wYW5h/Y2hlc3dlZGVuLnNl/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI2/LzA1L01vbnRlcmlu/YWxkaS1DQy0yMDI0/LTEucG5n",
+      "image": "https://imgs.search.brave.com/eJ-TbxYFlIutTzLmQnKG8kM67TW5yOLC_SRb2ToQWZc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2luZWRvb3IuaXQv/bWVkaWEvY2F0YWxv/Zy9wcm9kdWN0L2Nh/Y2hlLzdiZWRiOGFk/MzE2ZjIxNWM2M2Uw/ZDY3ZDliNTlkNGEx/L2MvaC9jaGlhbnRp/LWNsYXNzaWNvLW9y/bWFubmktd2luZWRv/b3JfMi5qcGc",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,

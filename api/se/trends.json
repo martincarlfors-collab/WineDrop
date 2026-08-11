@@ -9,7 +9,7 @@
     {
       "week": "2026-33",
       "count": 101,
-      "avgScore": 91.4
+      "avgScore": 91.6
     }
   ],
   "producers": [
@@ -34,14 +34,19 @@
       "avgScore": 96.0
     },
     {
+      "name": "Az. Agr. Casanova di Neri",
+      "count": 1,
+      "avgScore": 95.0
+    },
+    {
       "name": "Trimbach",
       "count": 1,
       "avgScore": 94.0
     },
     {
-      "name": "Caparzo",
+      "name": "Ch. Fonroque",
       "count": 1,
-      "avgScore": 94.0
+      "avgScore": 93.0
     },
     {
       "name": "Evening Land Vineyards",
@@ -54,14 +59,9 @@
       "avgScore": 93.0
     },
     {
-      "name": "Ch. Fonroque",
+      "name": "Caparzo",
       "count": 1,
-      "avgScore": 92.0
-    },
-    {
-      "name": "Gaston Chiquet",
-      "count": 1,
-      "avgScore": 91.0
+      "avgScore": 93.0
     },
     {
       "name": "Deutz",
@@ -70,6 +70,11 @@
     },
     {
       "name": "E Guigal",
+      "count": 1,
+      "avgScore": 90.0
+    },
+    {
+      "name": "Gaston Chiquet",
       "count": 1,
       "avgScore": 90.0
     },
@@ -87,11 +92,6 @@
       "name": "Lucy Wines",
       "count": 1,
       "avgScore": 76.0
-    },
-    {
-      "name": "Az. Agr. Casanova di Neri",
-      "count": 1,
-      "avgScore": null
     },
     {
       "name": "Alma Rosa Winery & Vineyards",

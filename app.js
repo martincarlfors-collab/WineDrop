@@ -45,10 +45,10 @@ const isLimited = (w) =>
 // Färgad efter vintyp. Global så onerror på <img> kan anropa den.
 window.WD_bottle = function (type) {
   const t = String(type || "").toLowerCase();
-  let glass = "#5a1b2b", liquid = "#7a1f38";           // rött (default)
-  if (/mousser|sparkl|champ|cava|prosecco|skum/.test(t)) { glass = "#3f5a3a"; liquid = "#e7d79a"; }
-  else if (/ros/.test(t)) { glass = "#7a3b4a"; liquid = "#eeb6c6"; }
-  else if (/vit|hvit|white|valko|hvid/.test(t)) { glass = "#3f5a3a"; liquid = "#e7dd9c"; }
+  let glass = "#5B2834", liquid = "#8a3a48";           // rött (default) — burgundy
+  if (/mousser|sparkl|champ|cava|prosecco|skum/.test(t)) { glass = "#7D8060"; liquid = "#D5A13B"; }
+  else if (/ros/.test(t)) { glass = "#B56F52"; liquid = "#e7b6a2"; }
+  else if (/vit|hvit|white|valko|hvid/.test(t)) { glass = "#7D8060"; liquid = "#dcc98a"; }
   return `<svg viewBox="0 0 40 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
     <rect x="17" y="3" width="6" height="13" rx="1.5" fill="${glass}"/>
     <path d="M11 22c0-4 2-6 5-7h8c3 1 5 3 5 7v33a5 5 0 0 1-5 5H16a5 5 0 0 1-5-5z" fill="${glass}"/>
