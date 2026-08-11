@@ -9,14 +9,14 @@
     {
       "week": "2026-33",
       "count": 234,
-      "avgScore": 92.0
+      "avgScore": 93.8
     }
   ],
   "producers": [
     {
       "name": "Vietti s.r.l.",
       "count": 9,
-      "avgScore": null
+      "avgScore": 95.0
     },
     {
       "name": "Anora Sweden AB",
@@ -41,7 +41,7 @@
     {
       "name": "Bouchard Père et Fils",
       "count": 4,
-      "avgScore": null
+      "avgScore": 92.0
     },
     {
       "name": "E Guigal",
@@ -91,7 +91,7 @@
     {
       "name": "Domaine William Fèvre",
       "count": 3,
-      "avgScore": null
+      "avgScore": 93.5
     },
     {
       "name": "Le Ragnaie",
@@ -124,19 +124,19 @@
       "avgScore": null
     },
     {
-      "name": "Vietti",
+      "name": "Bodegas Alion",
       "count": 2,
-      "avgScore": 86.0
+      "avgScore": 95.0
     },
     {
       "name": "Brännland Iscider",
       "count": 2,
-      "avgScore": null
+      "avgScore": 94.0
     },
     {
-      "name": "Bodegas Alion",
+      "name": "Domaine de Héritieres Louis Jadot",
       "count": 2,
-      "avgScore": null
+      "avgScore": 90.0
     }
   ]
 }

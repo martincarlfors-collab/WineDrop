@@ -20,17 +20,17 @@
       "volume": 500.0,
       "is_news": false,
       "verdict": {
-        "sv": "Ett biodynamiskt Vin Doux Naturel från Domaine du Traginer som beskrivs som rikt och överdådigt gott, med ett tydligt 'wow-faktor'. Kritiker lyfter fram den söta, mörka körsbärsfrukten och kryddigheten som mycket tilltalande.",
-        "en": "A biodynamic Vin Doux Naturel from Domaine du Traginer described as rich and utterly delicious, delivering a genuine 'wow factor'. Critics highlight its sweet dark cherry fruit and spice as especially appealing."
+        "sv": "Ett rikt och generöst sött rödvin från Domaine du Traginer, gjort på Grenache och Carignan med biodynamisk odling. Recensenter beskriver det som en mycket smakrik och njutbar Vin Doux Naturel med ett tydligt 'wow-faktor'.",
+        "en": "A rich, generous sweet red wine from Domaine du Traginer, made from Grenache and Carignan under biodynamic farming. Reviewers describe it as a highly flavorful and enjoyable Vin Doux Naturel with a clear 'wow factor'."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Mörk körsbär, söta kryddor, rik och fyllig sötma",
-        "en": "Dark cherry, sweet spice, rich and full-bodied sweetness"
+        "sv": "Mörka körsbär, söta kryddor och en fyllig, len sötma.",
+        "en": "Dark cherry, sweet spice, and a full, smooth sweetness."
       },
       "pairing": {
-        "sv": "Passar till chokladdesserter, blåmögelost eller mörk bärpaj",
-        "en": "Pairs with chocolate desserts, blue cheese, or dark berry tart"
+        "sv": "Passar till choklad, mörk bärpaj eller kraftig blåost.",
+        "en": "Pairs with chocolate, dark berry pie, or strong blue cheese."
       },
       "sources": [
         {
@@ -87,11 +87,18 @@
       "volume": 500.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Brännland Ember Äppelglögg är en välrenommerad kryddad iscider i glühwein-stil som fått mycket höga betyg av kritiker, med ett recensionsbetyg på 94 poäng. Kritikerna lyfter fram dess raffinerade balans mellan sötma och kryddighet samt en viss lagringspotential och flexibilitet bortom traditionell glöggkonsumtion.",
+        "en": "Brännland Ember Äppelglögg is a well-regarded spiced ice cider in the glühwein style, earning very high critical marks, including a 94-point score. Critics highlight its refined balance of sweetness and spice, along with some aging potential and versatility beyond traditional glögg drinking."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 94,
+      "taste_notes": {
+        "sv": "Nyanserad, kryddig och söt smak med inslag av fat, röda äpplen, kardemumma, kryddnejlika, saffran, apelsinskal, kanel, ingefära, vanilj, anis och bergamott.",
+        "en": "Nuanced, spicy, sweet flavor with notes of oak, red apples, cardamom, cloves, saffron, orange peel, cinnamon, ginger, vanilla, anise, and bergamot."
+      },
+      "pairing": {
+        "sv": "Passar som sällskapsdryck, serverad varm eller kyld, samt till julbord, kryddiga desserter eller som bas i cocktails.",
+        "en": "Pairs well as a convivial drink, served warm or chilled, alongside holiday spreads, spiced desserts, or as a cocktail base."
+      },
       "sources": [
         {
           "source": "livetsgoda.se",
@@ -147,17 +154,17 @@
       "volume": 375.0,
       "is_news": false,
       "verdict": {
-        "sv": "En pålitlig och uppskattad Pinot Noir från Mendocino/Sonoma County som fått goda betyg, inklusive 92 poäng från James Suckling. Många konsumenter beskriver den som en favorit och återkommande köp, vilket vittnar om dess tillgänglighet och charm trots Pinot Noirs rykte som ett krävande druvslag.",
-        "en": "A reliable and well-regarded Pinot Noir from Mendocino/Sonoma County that has earned solid praise, including 92 points from James Suckling. Many consumers describe it as a favorite and repeat purchase, reflecting its approachability and charm despite Pinot Noir's reputation as a finicky grape."
+        "sv": "En pålitlig och uppskattad Reserve Pinot Noir från Mendocino/Sonoma County som får höga betyg både från kritiker och konsumenter. James Suckling gav den 92 poäng, och den har en stark följarskara med entusiastiska recensioner online.",
+        "en": "A reliable and well-regarded Reserve Pinot Noir from Mendocino/Sonoma County that earns strong marks from both critics and consumers. James Suckling scored it 92 points, and it has a dedicated following with enthusiastic online reviews."
       },
       "score": 92,
       "taste_notes": {
-        "sv": "Björnbär, körsbärstårta, torkade vinbär och subtila kryddiga toner.",
-        "en": "Blackberry, cherry tart, dried currants, and subtle spice notes."
+        "sv": "Björnbär, körsbärstårta, torkade vinbär med subtila kryddiga och jordiga toner.",
+        "en": "Blackberry, cherry tart, dried currants, with subtle spicy and earthy touches."
       },
       "pairing": {
-        "sv": "Passar till grillad lax, rostad kyckling, örtkryddad fläskfilé och medelmogna ostar.",
-        "en": "Pairs with grilled salmon, roasted chicken, herb-crusted pork tenderloin, and medium-aged cheeses."
+        "sv": "Passar till anka, lammrätter, grillad lax eller mjuka ostar.",
+        "en": "Pairs with duck, lamb dishes, grilled salmon, or soft cheeses."
       },
       "sources": [
         {
@@ -214,11 +221,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Kritiker och samlare är mycket positiva till 2022 års Flor de Pingus, med betyg som pendlar kring 94-96 poäng. Vinet beskrivs som rent, öppet, uttrycksfullt och elegant, med en liten andel Garnacha som tillför komplexitet till den Tempranillo-baserade cuvén från Ribera del Duero.",
+        "en": "Critics and collectors are highly enthusiastic about the 2022 Flor de Pingus, with scores hovering around 94-96 points. The wine is described as pure, open, expressive and pretty, with a small percentage of Garnacha adding complexity to the Tempranillo-based Ribera del Duero blend."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 95,
+      "taste_notes": {
+        "sv": "Ren och uttrycksfull frukt, elegant struktur, fin fylld med subtil kryddighet från en liten andel Garnacha.",
+        "en": "Pure and expressive fruit, elegant structure, finely layered with subtle spice from a small portion of Garnacha."
+      },
+      "pairing": {
+        "sv": "Passar till grillat lammkött, mogna ostar och rätter med svarta trattkantareller eller anka.",
+        "en": "Pairs with grilled lamb, aged cheeses, and dishes featuring wild mushrooms or duck."
+      },
       "sources": [
         {
           "source": "spirowines.com",
@@ -274,11 +288,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Château Rocheyron 2022 hyllas enhälligt av kritikerkåren, med poäng mellan 94 och 98 från bland andra Wine Advocate, James Suckling och Jane Anson. Vinet beskrivs som intensivt och elegant, med en biodynamisk precision som återspeglar Peter Sisseck och Silvio Denz vision för Saint-Émilion.",
+        "en": "Château Rocheyron 2022 is unanimously praised by critics, scoring between 94 and 98 points from sources including Wine Advocate, James Suckling, and Jane Anson. The wine is described as intense and elegant, showcasing the biodynamic precision behind Peter Sisseck and Silvio Denz's vision for Saint-Émilion."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 96,
+      "taste_notes": {
+        "sv": "Doftrik bukett av röda och svarta bär, med inslag av smält tjära och tryffel.",
+        "en": "Aromatic bouquet of red and black fruit, with hints of melted tar and truffle."
+      },
+      "pairing": {
+        "sv": "Passar utmärkt till grillad anka, lammstek eller lagrade ostar.",
+        "en": "Pairs wonderfully with grilled duck, roast lamb, or aged cheeses."
+      },
       "sources": [
         {
           "source": "vignobles-silvio-denz.com",
@@ -334,11 +355,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Kritikerna är mycket positiva och ger detta årgångschampagne höga poäng (93–96p) för dess balans mellan kraft och elegans. Beskrivs som en generös men fokuserad och energisk årgång, med toastig rikedom och frisk syra som ger både djup och lagringspotential.",
+        "en": "Critics are highly enthusiastic, awarding this vintage Champagne scores between 93–96 points for its balance of power and finesse. It's described as a generous yet focused and energetic vintage, with toasty richness and vibrant acidity that provide both depth and ageing potential."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 95,
+      "taste_notes": {
+        "sv": "Rostat bröd, brioche, nougat, honung, vanilj, körsbär, svarta vinbär, apelsin/tangerin, grapefrukt, röda äpplen och mineral.",
+        "en": "Toasted bread, brioche, nougat, honey, vanilla, cherry, blackcurrant, tangerine, grapefruit, red apples and mineral notes."
+      },
+      "pairing": {
+        "sv": "Passar till skaldjur, fågel, vitt kött och lagrad ost.",
+        "en": "Pairs with shellfish, poultry, white meats and aged cheese."
+      },
       "sources": [
         {
           "source": "whwc.com",
@@ -394,11 +422,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Don Melchor befäster sin status som Chiles främsta prestigevin och ett globalt riktmärke för Cabernet Sauvignon. Kritiker och rankningar, från James Sucklings Top 100 till svenska Vinliv, lyfter konsekvent vinets elegans, komplexitet och lagringspotential, med 2023 års årgång beskriven som intensiv och superbt definierad.",
+        "en": "Don Melchor continues to affirm its place as Chile's first icon wine and a global benchmark for Cabernet Sauvignon. Critics and rankings, from James Suckling's Top 100 to Sweden's Vinliv, consistently praise its elegance, complexity, and ageing potential, with the 2023 vintage noted for its intensity and superb definition."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 97,
+      "taste_notes": {
+        "sv": "Elegant och komplex Cabernet Sauvignon (96%) med Cabernet Franc och Merlot, intensiva och väldefinierade dofter och smaker präglade av Puente Altos svala klimat och steniga jordar.",
+        "en": "Elegant and complex Cabernet Sauvignon (96%) blended with Cabernet Franc and Merlot, showing intense, superbly defined aromas and flavours shaped by Puente Alto's cool climate and stony soils."
+      },
+      "pairing": {
+        "sv": "Passar till grillad entrecôte, lammstek eller mogna hårdostar.",
+        "en": "Pairs with grilled ribeye steak, roast lamb, or aged hard cheeses."
+      },
       "sources": [
         {
           "source": "livetsgoda.se",
@@ -430,9 +465,9 @@
         },
         {
           "source": "donmelchor.com",
-          "title": "La vendimia 2023 de Don Melchor - Don Melchor",
-          "url": "https://donmelchor.com/la-vendimia-2023-de-don-melchor/",
-          "excerpt": "Hello, You are entering Viña Don Melchor's global website. Do you want to continue here? Yes, continue in global No, go to the USA site Eventos La vendimia 2023 de Don Melchor 19 de julio, 2023 La temporada 2022-2023 se caracterizó por ser cálida y con un total de precipitaciones cercano a la mitad de un año normal, concentradas mayoritariamente en los meses de invierno. Altamente desafiante por las condiciones climáticas de la temporada, la vendimia 2023 de Don Melchor presenta nuevamente vinos que reflejan el carácter único del terroir de Puente Alto. En estas condiciones de temperaturas más",
+          "title": "Don Melchor 2023: Intensity and finesse - Don Melchor",
+          "url": "https://donmelchor.com/en/don-melchor-2023-intensity-and-finesse/",
+          "excerpt": "Hello, You are entering Viña Don Melchor's global website. Do you want to continue here? Yes, continue in global No, go to the USA site Events Don Melchor 2023: Intensity and finesse 25th of May, 2026 The new vintage of Chile’s iconic Cabernet Sauvignon, Don Melchor 2023, composed of 96% Cabernet Sauvignon, 3% Cabernet Franc, and 1% Merlot, stands out for its intense expression and superbly defined aromas and flavours characteristic of its great Puente Alto origin. Don Melchor, the Chilean wine industry’s first icon wine and a global benchmark among the world’s finest Cabernet Sauvignons, pres",
           "lang": "sv"
         }
       ]
@@ -454,11 +489,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Kritiker är enstämmigt positiva till 2021 års Alión och beskriver det som en av de bästa årgångarna på senare tid, med höga poäng från Wine Advocate (96p), Luis Gutiérrez (96p) och Tastingbook (95p). Vinet visar en generös, tillgänglig karaktär med den kraftfulla Ribera del Duero-kärnan intakt, men med en svalare, mer återhållen prägel än vanligt.",
+        "en": "Critics are unanimously enthusiastic about the 2021 Alión, calling it one of the best vintages in recent memory, with high scores from Wine Advocate (96pts), Luis Gutiérrez (96pts) and Tastingbook (95pts). The wine shows a generous, approachable character while retaining Ribera del Duero's powerful core, albeit with a cooler, more restrained expression than usual."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 95,
+      "taste_notes": {
+        "sv": "Fylligt och kraftfullt med tydliga toner av körsbär (kirsch) och jordgubbe, rikt rött frukt-karaktär och en robust, fyllig struktur.",
+        "en": "Full-bodied and powerful with pronounced kirsch and strawberry notes, rich red fruit character, and a robust, generous structure."
+      },
+      "pairing": {
+        "sv": "Passar utmärkt till grillat rött kött, lammstek eller mogna ostar.",
+        "en": "Pairs excellently with grilled red meat, roast lamb, or aged cheeses."
+      },
       "sources": [
         {
           "source": "redneckwinecompany.com",
@@ -514,17 +556,24 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Kritikerkonsensus pekar på en mycket välgjord vit Bourgogne med höga betyg (90–95 poäng) från flera ledande recensenter. Vinet beskrivs som elegant och koncentrerat, typiskt för en premier cru från Beaune.",
+        "en": "Critical consensus points to a very well-made white Burgundy, with high scores (90–95 points) from several leading reviewers. The wine is described as elegant and concentrated, typical of a premier cru from Beaune."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 92,
+      "taste_notes": {
+        "sv": "Fin mineralitet, citrus och vita blommor, med en krämig textur och elegant syra.",
+        "en": "Fine minerality, citrus and white flowers, with a creamy texture and elegant acidity."
+      },
+      "pairing": {
+        "sv": "Passar till skaldjur, vitt kött i gräddsås, eller mogna ostar som Comté.",
+        "en": "Pairs well with shellfish, white meat in cream sauce, or aged cheeses like Comté."
+      },
       "sources": [
         {
           "source": "stationplazawine.com",
           "title": "Bouchard Père & Fils Beaune Clos Saint Landry 2022 750ml - Station Plaza Wine",
           "url": "https://www.stationplazawine.com/products/14662444/bouchard-pere-fils-beaune-clos-saint-landry-2022",
-          "excerpt": "Bouchard Père & Fils Beaune Clos Saint Landry 2022 js 94-95 d 94 wa 89-91 v 89-91 ws 90 SKU: 16111 750ml 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 Add to Cart $135.00 You Save $27.01 (20%) $107.99 Available for: Pickup Delivery Shipping Share Category White Wine Varietal Chardonnay Brand Bouchard Père & Fils Origin France , Burgundy , Côte de Beaune Other vintages Bouchard Père & Fils",
+          "excerpt": "Bouchard Père & Fils Beaune Clos Saint Landry 2022 js 94-95 d 94 v 89-91 wa 89-91 ws 90 SKU: 16111 750ml 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 Add to Cart $135.00 You Save $27.01 (20%) $107.99 Available for: Pickup Delivery Shipping Share Category White Wine Varietal Chardonnay Brand Bouchard Père & Fils Origin France , Burgundy , Côte de Beaune Other vintages Bouchard Père & Fils",
           "lang": "sv"
         },
         {
@@ -574,11 +623,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Kritikerkonsensus är enhällig hög: detta är en ikonisk Priorat-flaggskepp från 2022, en exceptionell årgång med stor koncentration och balans. Vinet beskrivs som allvarligt, harmoniskt och elegant utan överdrift, med kritikerpoäng kring 95–97/100.",
+        "en": "Critical consensus is uniformly high: this is an iconic Priorat flagship from the exceptional 2022 vintage, showing great concentration and balance. The wine is described as serious, harmonious and elegant without excess, with scores ranging roughly 95–97/100."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 96,
+      "taste_notes": {
+        "sv": "Medelhavsdoft med torrt hö och halm, klassiska våta skiffertoner, rund fyllig kropp, fina krittartade tasniner, koncentrerad och elegant.",
+        "en": "Mediterranean nose with dry hay and straw notes, classic wet slate character, round full-bodied palate, fine chalky tannins, concentrated yet elegant."
+      },
+      "pairing": {
+        "sv": "Passar till grillat rött kött, vilträtter, lammstek och lagrad hårdost.",
+        "en": "Pairs with grilled red meat, game dishes, roast lamb, and aged hard cheese."
+      },
       "sources": [
         {
           "source": "1jour1vin.com",
@@ -634,11 +690,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Coulée de Serrant är en av Frankrikes mest legendariska vita viner, en biodynamisk monopol-appellation odlad av familjen Joly sedan medeltiden. 2023 års årgång beskrivs som ett stort millésime med djup, komplexitet och stor lagringspotential.",
+        "en": "Coulée de Serrant is one of France's most legendary white wines, a biodynamic monopole appellation cultivated by the Joly family since medieval times. The 2023 vintage is described as a great vintage, showing depth, complexity, and strong aging potential."
       },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Blank, blekt guldfärgad med silverglans; komplex och djup doft av mogen gul frukt.",
+        "en": "Brilliant pale gold color with silvery hues; complex, deep nose of ripe yellow fruit."
+      },
+      "pairing": {
+        "sv": "Passar till fisk i sås, kräftdjur, mognad getost eller rätter med vitt kött och örter.",
+        "en": "Pairs with fish in sauce, shellfish, aged goat cheese, or white meat dishes with herbs."
+      },
       "sources": [
         {
           "source": "hachette-vins.com",
@@ -694,11 +757,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Kritiker är eniga om att detta är en imponerande, djup Cabernet Sauvignon med god struktur och lång eftersmak. Falstaff gav vinet 93 poäng, och recensenter lyfter fram dess komplexa arom- och smakprofil samt välbalanserade tanniner.",
+        "en": "Critics agree this is an impressive, deep Cabernet Sauvignon with fine structure and a long finish. Falstaff awarded it 93 points, and reviewers highlight its complex aromatic and flavor profile along with well-integrated tannins."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 93,
+      "taste_notes": {
+        "sv": "Rika mörka fruktnoter, cigarrlåda, fin tobak, mörk tryffel och saltiga svarta oliver, med subtila blomiga toner och ek i botten.",
+        "en": "Rich dark fruit, cigar box, fine tobacco, dark truffle, and salty black olive notes, with subtle florals and oak underneath."
+      },
+      "pairing": {
+        "sv": "Passar utmärkt till grillat rött kött, lammstek, vilträtter och lagrade ostar.",
+        "en": "Pairs well with grilled red meat, roast lamb, game dishes, and aged cheeses."
+      },
       "sources": [
         {
           "source": "dutchwineapprentice.com",
@@ -754,11 +824,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Finca Dofí 2022 hyllas som en av de främsta Priorat-vinerna från årgången, med toppbetyg från flera ledande kritiker (Parker 95-97, Suckling 95, Vinous 92). Ett kraftfullt, elegant och koncentrerat vin med stor lagringspotential.",
+        "en": "Finca Dofí 2022 is praised as one of the standout Priorat wines of the vintage, receiving top scores from leading critics (Parker 95-97, Suckling 95, Vinous 92). A powerful, elegant and concentrated wine with excellent aging potential."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 94,
+      "taste_notes": {
+        "sv": "Fylligt och kryddigt med toner av lakrits, mörka bär och en jordig, mineralisk underton; fint integrerad ekfatskaraktär.",
+        "en": "Full-bodied and spicy with notes of licorice, dark berries and an earthy, mineral undertone; finely integrated oak character."
+      },
+      "pairing": {
+        "sv": "Passar till grillat rött kött, vildsvin eller lammstek, samt lagrad hårdost.",
+        "en": "Pairs with grilled red meat, wild boar or roast lamb, as well as aged hard cheese."
+      },
       "sources": [
         {
           "source": "decanter.com",
@@ -814,11 +891,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Kritikerna är något delade i den unga fasen – vissa upplever nosen som mer sluten och stram jämfört med 2021, medan andra beskriver vinet som en lysande representant med finess förenad med kraft. Det råder dock consensus om att vinet har tydlig spänning och energi, med potential att utvecklas vackert om det får ligga minst fem år.",
+        "en": "Critics are somewhat divided on this young vintage – some find the nose more reticent and the palate strict compared to 2021, while others call it a stunning example combining finesse with power. There is consensus, however, that the wine shows real tension and energy, with strong potential to reward at least five years of cellaring."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 95,
+      "taste_notes": {
+        "sv": "Salin, mineralisk och stram med underliggande kraft och spänning; för tillfället något tillbakadragen på nosen.",
+        "en": "Saline, mineral-driven and taut with underlying power and tension; currently somewhat reserved on the nose."
+      },
+      "pairing": {
+        "sv": "Passar utmärkt till ostron, skaldjur, fisk med krämiga såser samt getost.",
+        "en": "Pairs beautifully with oysters, shellfish, fish in creamy sauces, and goat cheese."
+      },
       "sources": [
         {
           "source": "tastingbook.com",
@@ -874,7 +958,7 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "en": "Could not summarise (JSONDecodeError: Expecting ',' delimiter: line 6 column 4 (char 651))"
       },
       "score": null,
       "taste_notes": {},
@@ -934,7 +1018,7 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "en": "Could not summarise (JSONDecodeError: Expecting ',' delimiter: line 10 column 4 (char 849))"
       },
       "score": null,
       "taste_notes": {},
@@ -994,7 +1078,7 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "en": "Could not summarise (JSONDecodeError: Expecting ',' delimiter: line 10 column 4 (char 1087))"
       },
       "score": null,
       "taste_notes": {},
@@ -1008,17 +1092,17 @@
           "lang": "sv"
         },
         {
-          "source": "winespectator.com",
-          "title": "E. Guigal Crozes-Hermitage 2021 | Wine Rating | Wine Spectator",
-          "url": "https://www.winespectator.com/wine/wine-detail/id/1313925/name/e.-guigal-crozes-hermitage-2021/guest",
-          "excerpt": "To see the full review and rating, become a member of WineSpectator.com today. Subscribe Already a Member? Sign In ## E. Guigal Crozes-Hermitage 2021 | $ ## Earthy and savory, offering delicate red fruit merged with … To see the full review and rating become a member of WineSpectator.com Subscribe Today Member Sign In Wine Type and Color Red Still Primary Grape Syrah / Shiraz This dark-skinned red grape most likely originated in France's Rhône Valley, which is still considered its most famous home. Syrah is the sole grape in the reds of the Northern Rhône Valley, but it's also a blending partn",
-          "lang": "sv"
-        },
-        {
           "source": "vivino.com",
           "title": "E. Guigal Hermitage | Vivino Svenska",
           "url": "https://www.vivino.com/sv/e-guigal-hermitage/w/7780",
           "excerpt": "E. Guigal Hermitage är en Rött vin. Tillverkad av Shiraz/Syrah. Kolla in dess betyg och recensioner från världens största vincommunity.",
+          "lang": "sv"
+        },
+        {
+          "source": "winespectator.com",
+          "title": "E. Guigal Crozes-Hermitage 2021 | Wine Rating | Wine Spectator",
+          "url": "https://www.winespectator.com/wine/wine-detail/id/1313925/name/e.-guigal-crozes-hermitage-2021/guest",
+          "excerpt": "To see the full review and rating, become a member of WineSpectator.com today. Subscribe Already a Member? Sign In ## E. Guigal Crozes-Hermitage 2021 | $ ## Earthy and savory, offering delicate red fruit merged with … To see the full review and rating become a member of WineSpectator.com Subscribe Today Member Sign In Wine Type and Color Red Still Primary Grape Syrah / Shiraz This dark-skinned red grape most likely originated in France's Rhône Valley, which is still considered its most famous home. Syrah is the sole grape in the reds of the Northern Rhône Valley, but it's also a blending partn",
           "lang": "sv"
         },
         {
@@ -1054,11 +1138,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Kritikerna är eniga om att detta är en mycket lyckad Barolo Bussia med imponerande struktur och lagringspotential. Betygen från Kerin O'Keefe (95p), Audrey Frick (93p) och Walter Speller (17.5/20) pekar på ett vin av hög klass som ännu inte är redo att drickas – det behöver flaskmognad för att visa sin fulla potential.",
+        "en": "Critics broadly agree this is a highly successful Barolo Bussia with impressive structure and aging potential. Scores from Kerin O'Keefe (95pts), Audrey Frick (93pts) and Walter Speller (17.5/20) point to a wine of serious pedigree that is not yet ready to drink and will reward patience."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 92,
+      "taste_notes": {
+        "sv": "Stram och nyanserad Nebbiolo med fast tanninstruktur, hög syra, mörka körsbär, tjära, rosor och kryddiga toner – en klassisk, kraftfull Barolo-profil.",
+        "en": "Tight and nuanced Nebbiolo with firm tannic structure, high acidity, dark cherry, tar, rose and spice notes – a classic, powerful Barolo profile."
+      },
+      "pairing": {
+        "sv": "Passar till braserat kött, vildsvin, tryffelrätter och lagrade ostar.",
+        "en": "Pairs with braised meats, game, truffle dishes and aged cheeses."
+      },
       "sources": [
         {
           "source": "livetsgoda.se",
@@ -1114,11 +1205,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Vietti Barolo 2021 hyllas som en utmärkt entry-level Barolo med god valuta för pengarna. Kritiker beskriver den som klassisk, kraftfull och elegant, med fina tanniner som mognar väl fram till 2027 och bortom.",
+        "en": "Vietti's Barolo 2021 is praised as an excellent entry-level Barolo offering great value. Critics describe it as classic, powerful and elegant, with fine tannins that will develop nicely through 2027 and beyond."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 95,
+      "taste_notes": {
+        "sv": "Körsbär, svarta körsbär, plommon, rosenblad, tobak, alpina örter och en läderaktig eftersmak.",
+        "en": "Cherry, black cherry, plum, rose petal, tobacco, alpine herbs, and a leathery finish."
+      },
+      "pairing": {
+        "sv": "Passar till grillat rött kött, viltgrytor, lammstek och hårda ostar.",
+        "en": "Pairs with grilled red meat, game stews, roasted lamb, and aged hard cheeses."
+      },
       "sources": [
         {
           "source": "wine.com",
@@ -1174,11 +1272,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Kritiker är eniga om att denna Premier Cru är kraftfull och rik med utmärkt koncentration och mineralitet. Flera recensenter lyfter fram dess balans, intensitet och långa eftersmak som tecken på hög kvalitet.",
+        "en": "Critics agree that this Premier Cru is powerful and rich, with excellent concentration and minerality. Several reviewers highlight its balance, intensity, and long finish as marks of high quality."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 92,
+      "taste_notes": {
+        "sv": "Aromer av örter, citrus och stenig mineralitet, med djupare fruktkaraktär, citronverbena och päron; välbalanserad med fin energi och en beständig eftersmak.",
+        "en": "Aromas of herbs, citrus, and stony minerality, with deeper fruit character, lemon verbena, and pear; well-balanced with fine energy and a persistent finish."
+      },
+      "pairing": {
+        "sv": "Passar utmärkt till fisk och skaldjur, fågel, samt krämiga rätter med örter.",
+        "en": "Pairs well with fish and shellfish, poultry, and creamy dishes with herbs."
+      },
       "sources": [
         {
           "source": "1jour1vin.com",
@@ -1234,11 +1339,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Ett fast strukturerat Beaune Premier Cru med fin balans mellan sötsyra och friskhet. Körsbär och hallon möter subtila ekfat-nyanser i en elegant, väl sammansatt Pinot Noir.",
+        "en": "A firmly structured Beaune Premier Cru with a fine balance of sweetness and tartness. Cherry and raspberry meet subtle oak nuances in an elegant, well-composed Pinot Noir."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 90,
+      "taste_notes": {
+        "sv": "Jordgubbe, körsbär, vinbär och hallon med diskreta ektoner och frisk syra.",
+        "en": "Strawberry, cherry, currant and raspberry with subtle oak tones and lively acidity."
+      },
+      "pairing": {
+        "sv": "Passar till anka, vilt, kycklinggryta och medelmjuka ostar.",
+        "en": "Pairs with duck, game, chicken stew and semi-soft cheeses."
+      },
       "sources": [
         {
           "source": "winespectator.com",
@@ -1256,9 +1368,9 @@
         },
         {
           "source": "vivino.com",
-          "title": "Domaine des Héritiers Louis Jadot Beaune 1er Cru Clos des Couchereaux | Vivino English",
-          "url": "https://www.vivino.com/en/domaine-heritiers-louis-jadot-beaune-1er-cru-clos-des-couchereaux/w/2799",
-          "excerpt": "Domaine des Héritiers Louis Jadot Beaune 1er Cru Clos des Couchereaux is a Red wine. Made from Pinot Noir. Check its rating and reviews from the world’s largest wine community.",
+          "title": "Domaine des Héritiers Louis Jadot Beaune 1er Cru Clos des Couchereaux | Vivino Svenska",
+          "url": "https://www.vivino.com/sv/domaine-heritiers-louis-jadot-beaune-1er-cru-clos-des-couchereaux/w/2799",
+          "excerpt": "Domaine des Héritiers Louis Jadot Beaune 1er Cru Clos des Couchereaux är en Rött vin. Tillverkad av Pinot Noir. Kolla in dess betyg och recensioner från världens största vincommunity.",
           "lang": "sv"
         },
         {
@@ -1294,11 +1406,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "Aalto 2023 hyllas som en modern, exklusiv representant för Ribera del Duero, med Mariano Garcías signatur tydligt närvarande. Kritiker lyfter fram dess eleganta, fylliga karaktär och långa, sammetslena eftersmak.",
+        "en": "Aalto 2023 is praised as a modern, prestigious expression of Ribera del Duero, clearly bearing Mariano García's signature. Critics highlight its elegant, full-bodied character and long, velvety finish."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 92,
+      "taste_notes": {
+        "sv": "Mörk, fruktig doft med kryddor, kanel, lager, vanilj och lätt fatkaraktär; smaken är torr, medelfyllig till fyllig, med balanserade tanniner och lång eftersmak av röda och svarta frukter.",
+        "en": "Dark, fruity aromas with spice, cinnamon, bay leaf, vanilla and subtle oak; the palate is dry, medium to full-bodied, with balanced tannins and a long finish of red and black fruit."
+      },
+      "pairing": {
+        "sv": "Passar till grillat rött kött, lammstek, mogna ostar och kryddiga köttgrytor.",
+        "en": "Pairs with grilled red meat, roast lamb, mature cheeses, and spiced meat stews."
+      },
       "sources": [
         {
           "source": "allnaturalbilbao.com",
@@ -1315,17 +1434,17 @@
           "lang": "sv"
         },
         {
-          "source": "munskankarna.se",
-          "title": "Aalto 2023 - Vinlocus",
-          "url": "https://www.munskankarna.se/sv/vinlocus/tillfalligt-sortiment-31-oktober-2025/aalto-2023",
-          "excerpt": "Tillbaka BETYG 16,5 529:- Prisvärt Druv- eller distrikttypisk Rött vin Aalto 2023 Spanien , Kastilien-León , Ribera del Duero Producent: Bodega Aalto Importör: Divine AB Systembolaget: 95128 BETYG 16,5 529:- Prisvärt Druv- eller distrikttypisk Bedömning Stor, mörkfruktig doft med kryddor, kanel, lagerblad, vanilj, lite dill och fat. Torr, drygt medelfyllig, fruktig smak med medelhög syra, balanserade tanniner och ett svultstigt, långt avslut. 1926 fl. Provning Tillfälligt sortiment 31 oktober 2025 Om vinet Volym 75 cl Alkohol 14.5 % Druvor: 100% tempranillo Om vår bedömning Munskänkarna var fö",
-          "lang": "sv"
-        },
-        {
           "source": "bodeboca.com",
           "title": "Aalto 2023 | Comprar por 39.75 € en Bodeboca",
           "url": "https://www.bodeboca.com/vino/aalto-2023",
           "excerpt": "Un tempranillo de la Ribera del ... mundo. En esta añada 2023 destaca su <strong>buena carga aromática de frutas rojas y especias, anticipo de un paso por boca envolvente, largo y sedoso</strong>....",
+          "lang": "sv"
+        },
+        {
+          "source": "munskankarna.se",
+          "title": "Aalto 2023 - Vinlocus",
+          "url": "https://www.munskankarna.se/sv/vinlocus/tillfalligt-sortiment-31-oktober-2025/aalto-2023",
+          "excerpt": "Tillbaka BETYG 16,5 529:- Prisvärt Druv- eller distrikttypisk Rött vin Aalto 2023 Spanien , Kastilien-León , Ribera del Duero Producent: Bodega Aalto Importör: Divine AB Systembolaget: 95128 BETYG 16,5 529:- Prisvärt Druv- eller distrikttypisk Bedömning Stor, mörkfruktig doft med kryddor, kanel, lagerblad, vanilj, lite dill och fat. Torr, drygt medelfyllig, fruktig smak med medelhög syra, balanserade tanniner och ett svultstigt, långt avslut. 1926 fl. Provning Tillfälligt sortiment 31 oktober 2025 Om vinet Volym 75 cl Alkohol 14.5 % Druvor: 100% tempranillo Om vår bedömning Munskänkarna var fö",
           "lang": "sv"
         },
         {
@@ -1354,11 +1473,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "En Blanc de Blancs Grand Cru från kalkrik jord, gjord uteslutande på Chardonnay. Kritiker beskriver den som nyanserad och frisk, men relativt okomplicerad – en solid, pålitlig champagne snarare än en sensationell upplevelse, med gott pris/kvalitetsförhållande.",
+        "en": "A Blanc de Blancs Grand Cru from chalky soil, made purely from Chardonnay. Critics describe it as nuanced and fresh, though relatively straightforward – a solid, reliable Champagne rather than a spectacular one, offering good value for money."
       },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Gula äpplen, persika, rostat bröd, mineral, fransk nougat och grapefrukt, med krita och friskhet i doften.",
+        "en": "Yellow apples, peach, toasted bread, mineral, French nougat and grapefruit, with chalky, fresh aromas."
+      },
+      "pairing": {
+        "sv": "Passar till kycklingschnitzel med spätzle och surkål, samt andra krispiga, syrliga rätter.",
+        "en": "Pairs with chicken schnitzel, spätzle and sauerkraut, as well as other crisp, tangy dishes."
+      },
       "sources": [
         {
           "source": "livetsgoda.se",
@@ -1414,11 +1540,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "En klassisk och generös Châteauneuf-du-Pape som imponerar med sin balans mellan fräschör och kraft. Kritiker lyfter fram dess redan tillgängliga charm samtidigt som den har struktur för att utvecklas i upp till två decennier.",
+        "en": "A classic, generous Châteauneuf-du-Pape praised for its balance of freshness and power. Critics note it is already delicious young yet has the structure to age gracefully for up to two decades."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 93,
+      "taste_notes": {
+        "sv": "Apelsinblom, hallon, jordgubbe, lakrits och timjan med inslag av mörka körsbär och stenig mineralitet.",
+        "en": "Orange blossom, raspberry, strawberry, licorice and thyme, with notes of dark cherries and gravelly minerality."
+      },
+      "pairing": {
+        "sv": "Passar till lammstek, vilt, provensalska grytor och kryddiga kötträtter.",
+        "en": "Pairs with roast lamb, game, Provençal stews and spiced meat dishes."
+      },
       "sources": [
         {
           "source": "winemadeeasy.com",
@@ -1474,11 +1607,18 @@
       "volume": 750.0,
       "is_news": false,
       "verdict": {
-        "en": "Could not summarise (AttributeError)."
+        "sv": "En klassisk Barolo Ravera med intensiv doft och fyllig, komplex smak. Kritiker lyfter fram dess eleganta, långa finish och aromatiska djup, vilket tyder på en välstrukturerad och lagringsvärdig nebbiolo.",
+        "en": "A classic Barolo Ravera with an intense aroma and full, complex palate. Critics highlight its elegant, long finish and aromatic depth, suggesting a well-structured, age-worthy Nebbiolo."
       },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Röda bär, lakrits, tobak, mynta, cola, potpourri och mörka frukter med kryddiga toner.",
+        "en": "Red berries, licorice, tobacco, mint, cola, potpourri, and dark fruit with spicy nuances."
+      },
+      "pairing": {
+        "sv": "Passar till rödvinsklassiker som grillat rött kött, viltgryta, tryffelrätter och lagrad hårdost.",
+        "en": "Pairs with classic red wine dishes such as grilled red meat, game stew, truffle dishes, and aged hard cheese."
+      },
       "sources": [
         {
           "source": "vinjournalen.se",

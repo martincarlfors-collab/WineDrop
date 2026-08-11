@@ -13,7 +13,7 @@
     {
       "name": "Brännland Ember Äppelglögg",
       "producer": "Brännland Iscider",
-      "score": null,
+      "score": 94,
       "price": 189.0,
       "origin_country": "Sverige",
       "wine_type": "Glögg och Glühwein"
@@ -29,7 +29,7 @@
     {
       "name": "Flor de Pingus",
       "producer": "Dominio de Pingus",
-      "score": null,
+      "score": 95,
       "price": 1199.0,
       "origin_country": "Spanien",
       "wine_type": "Rött vin"
@@ -37,7 +37,7 @@
     {
       "name": "Château Rocheyron Saint-Émilion Grand Cru",
       "producer": "Château Rocheyron SARL.",
-      "score": null,
+      "score": 96,
       "price": 1299.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött vin"
@@ -45,7 +45,7 @@
     {
       "name": "Charles Heidsieck Vintage",
       "producer": "Charles Heidsieck",
-      "score": null,
+      "score": 95,
       "price": 999.0,
       "origin_country": "Frankrike",
       "wine_type": "Mousserande vin"
@@ -53,7 +53,7 @@
     {
       "name": "Don Melchor",
       "producer": "Viña Don Melchor",
-      "score": null,
+      "score": 97,
       "price": 999.0,
       "origin_country": "Chile",
       "wine_type": "Rött vin"
@@ -61,7 +61,7 @@
     {
       "name": "Alion",
       "producer": "Bodegas Alion",
-      "score": null,
+      "score": 95,
       "price": 925.0,
       "origin_country": "Spanien",
       "wine_type": "Rött vin"
@@ -69,7 +69,7 @@
     {
       "name": "Beaune Clos Saint-Landry Premier Cru Bouchard Père et Fils",
       "producer": "Bouchard Père et Fils",
-      "score": null,
+      "score": 92,
       "price": 899.0,
       "origin_country": "Frankrike",
       "wine_type": "Vitt vin"
@@ -77,7 +77,7 @@
     {
       "name": "Clos Mogador",
       "producer": "Clos Mogador",
-      "score": null,
+      "score": 96,
       "price": 899.0,
       "origin_country": "Spanien",
       "wine_type": "Rött vin"
@@ -93,7 +93,7 @@
     {
       "name": "Catena Zapata Birth of Cabernet",
       "producer": "Bodega Catena Zapata",
-      "score": null,
+      "score": 93,
       "price": 849.0,
       "origin_country": "Argentina",
       "wine_type": "Rött vin"
@@ -101,7 +101,7 @@
     {
       "name": "Finca Dofí Alvaro Palacios",
       "producer": "Alvaro Palacios",
-      "score": null,
+      "score": 94,
       "price": 849.0,
       "origin_country": "Spanien",
       "wine_type": "Rött vin"
@@ -109,7 +109,7 @@
     {
       "name": "Chablis Premier Cru Montée de Tonnerre William Fèvre",
       "producer": "Domaine William Fèvre",
-      "score": null,
+      "score": 95,
       "price": 769.0,
       "origin_country": "Frankrike",
       "wine_type": "Vitt vin"
@@ -141,7 +141,7 @@
     {
       "name": "Barolo Bussia Fogliati",
       "producer": "Poderi Fogliati di Annalisa Chiappa",
-      "score": null,
+      "score": 92,
       "price": 629.0,
       "origin_country": "Italien",
       "wine_type": "Rött vin"
@@ -149,7 +149,7 @@
     {
       "name": "Barolo Vietti",
       "producer": "Vietti s.r.l.",
-      "score": null,
+      "score": 95,
       "price": 599.0,
       "origin_country": "Italien",
       "wine_type": "Rött vin"
@@ -157,7 +157,7 @@
     {
       "name": "Chablis Premier Cru Vaillons William Fèvre",
       "producer": "Domaine William Fèvre",
-      "score": null,
+      "score": 92,
       "price": 589.0,
       "origin_country": "Frankrike",
       "wine_type": "Vitt vin"
@@ -165,7 +165,7 @@
     {
       "name": "Beaune Premier Cru Clos des Couchereaux Domaine de Héritieres Louis Jadot",
       "producer": "Domaine de Héritieres Louis Jadot",
-      "score": null,
+      "score": 90,
       "price": 539.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött vin"
@@ -173,7 +173,7 @@
     {
       "name": "Aalto",
       "producer": "Bodega Aalto",
-      "score": null,
+      "score": 92,
       "price": 529.0,
       "origin_country": "Spanien",
       "wine_type": "Rött vin"
@@ -189,7 +189,7 @@
     {
       "name": "Chateauneuf-du-Pape Tradition Domaine de la Janasse",
       "producer": "Domaine de la Janasse",
-      "score": null,
+      "score": 93,
       "price": 479.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött vin"
