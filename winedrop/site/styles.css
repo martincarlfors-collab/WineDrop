@@ -76,6 +76,11 @@ main{padding:14px 16px 30px}
   display:flex;align-items:center;gap:6px;flex-wrap:wrap}
 .meta{color:var(--muted);font-size:.82rem;margin-top:4px}
 .cardright{display:flex;flex-direction:column;align-items:flex-end;gap:7px;flex:0 0 auto}
+.cardsave{flex:0 0 auto;display:flex;align-items:center;justify-content:center;color:var(--muted);
+  padding:2px;margin:-4px -2px -4px 2px;cursor:pointer;align-self:center}
+.cardsave.on{color:var(--ochre)}
+.cardsave svg{width:18px;height:18px}
+.cardsave:active{transform:scale(.9)}
 .price{color:var(--clay);font-weight:600;font-size:.9rem}
 .watchdot{color:var(--ochre);font-size:.85em}
 .tag{font-size:.58rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;
@@ -94,7 +99,10 @@ main{padding:14px 16px 30px}
 /* detalj */
 .detailtop{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
 .back{border:0;background:none;color:var(--wine);font-weight:600;cursor:pointer;font-size:.9rem;padding:6px 0;font-family:inherit}
-.iconbtn{border:0;background:none;color:var(--wine);font-weight:600;cursor:pointer;font-size:.9rem;font-family:inherit}
+.iconbtn{border:0;background:none;color:var(--wine);font-weight:600;cursor:pointer;font-size:.9rem;font-family:inherit;display:inline-flex;align-items:center;gap:4px}
+.iconbtn.on{color:var(--ochre)}
+.iconbtn .mini{width:15px;height:15px}
+.dactions{display:flex;align-items:center;gap:16px}
 .hero{background:var(--soft);border-radius:20px;display:flex;align-items:center;justify-content:center;
   height:210px;margin:4px 0 16px}
 .hero img{max-height:180px;max-width:70%;object-fit:contain}
