@@ -72,7 +72,58 @@ def summarize(wine: Wine, snippets: list[ReviewSnippet], lang: str) -> Summary:
     )
 
 
+_DESCRIBE = """You are a wine writer. Write a short, helpful description of this wine \
+based ONLY on its known facts (producer, region/country, grape or style, vintage). \
+This is a general style description, not a tasting of a specific bottle — keep it honest \
+and avoid over-specific claims. Output BOTH the market language ("{lang}") and English.
+
+Wine: {name} — {producer}, {country}, {vintage}, type: {wine_type}
+
+Reply with ONLY valid JSON:
+{{
+  "verdict": {{ "{lang}": "1-2 sentences", "en": "1-2 sentences" }},
+  "taste_notes": {{ "{lang}": "short", "en": "short" }},
+  "pairing": {{ "{lang}": "pairs with...", "en": "pairs with..." }}
+}}
+Do NOT include a score."""
+
+
+def describe(wine: Wine, lang: str) -> Summary:
+    """Kort AI-beskrivning ur vinets fakta (för viner utan externa recensioner).
+    Sätter aldrig ett betyg — bara text."""
+    if not config.ANTHROPIC_API_KEY:
+        return Summary()
+    try:
+        from anthropic import Anthropic
+    except ImportError:
+        return Summary()
+
+    client = Anthropic(api_key=config.ANTHROPIC_API_KEY)
+    prompt = _DESCRIBE.format(lang=lang, name=wine.name, producer=wine.producer,
+                              country=wine.origin_country, vintage=wine.vintage or "NV",
+                              wine_type=wine.wine_type or "wine")
+    try:
+        msg = client.messages.create(
+            model=config.LLM_MODEL, max_tokens=500,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        raw = _text_of(msg)
+        data = json.loads(raw[raw.find("{"): raw.rfind("}") + 1])
+    except Exception:  # noqa: BLE001
+        return Summary()
+
+    return Summary(
+        verdict=_d(data.get("verdict")),
+        score=None,
+        taste_notes=_d(data.get("taste_notes")),
+        pairing=_d(data.get("pairing")),
+        sources=[],
+    )
+
+
 def _text_of(msg) -> str:
+    """Läs ut textinnehållet ur ett Anthropic-svar, robust mot olika format
+    (typade block-objekt, dict-block, eller redan platt text)."""
     content = getattr(msg, "content", msg)
     if isinstance(content, str):
         return content
