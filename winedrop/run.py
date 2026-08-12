@@ -8,7 +8,10 @@ Kör från winedrop/-mappen:
 """
 from __future__ import annotations
 import argparse
+import os
 import sys
+
+import requests
 
 from core import config
 from core.markets import ALL_CONNECTORS, get_connector
@@ -17,6 +20,21 @@ from core.summarize import summarize, describe
 from core.search import image_search
 from core.schema import Summary
 from core import build_api, demo_data, history, rank
+
+
+def _previous_images(market_code: str) -> dict[str, str]:
+    """Läs redan publicerade bilder (vin-id -> url) från förra körningen, så vi
+    slipper hämta om samma bilder varje gång (sparar Brave-kvot)."""
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    if "/" not in repo:
+        return {}
+    owner, name = repo.split("/", 1)
+    url = f"https://{owner}.github.io/{name}/api/{market_code}/latest.json"
+    try:
+        data = requests.get(url, timeout=20).json()
+        return {w["id"]: w["image"] for w in data.get("wines", []) if w.get("image")}
+    except Exception:  # noqa: BLE001
+        return {}
 
 
 def process_market(conn, limit: int, demo: bool):
@@ -33,13 +51,21 @@ def process_market(conn, limit: int, demo: bool):
     if limit:
         wines = wines[:limit]
 
-    # Hämta en bild per vin via Brave Image Search (flask-ikon som reserv i appen).
-    for i, w in enumerate(wines, 1):
-        if not w.image:
+    # Bilder: återanvänd de vi redan hämtat (från förra körningen), sök bara nya
+    # viner via Brave Image Search. Sparar mängder av Brave-anrop.
+    prev_images = _previous_images(m.code)
+    reused = fetched = 0
+    for w in wines:
+        if w.image:
+            continue
+        if w.id in prev_images:
+            w.image = prev_images[w.id]
+            reused += 1
+        else:
             q = " ".join(x for x in (w.producer, w.name, w.vintage) if x) + " vin"
             w.image = image_search(q, conn.review_lang)
-        if i % 25 == 0:
-            print(f"  [{m.code}] bilder {i}/{len(wines)}", flush=True)
+            fetched += 1
+    print(f"  [{m.code}] bilder: {reused} återanvända, {fetched} nya via sök", flush=True)
 
     # Betygsätt bara vinerna i de TVÅ senaste RIKTIGA släppen. Ett riktigt släpp
     # har många viner — så vi ignorerar enstaka framflyttade framtidsdatum (t.ex.
