@@ -9,7 +9,7 @@
     {
       "week": "2026-33",
       "count": 101,
-      "avgScore": null
+      "avgScore": 87.1
     }
   ],
   "producers": [
@@ -24,6 +24,56 @@
       "avgScore": null
     },
     {
+      "name": "Trimbach",
+      "count": 1,
+      "avgScore": 94.0
+    },
+    {
+      "name": "Caparzo",
+      "count": 1,
+      "avgScore": 94.0
+    },
+    {
+      "name": "WG Dönnhoff",
+      "count": 1,
+      "avgScore": 94.0
+    },
+    {
+      "name": "Az. Agr. Andrea Felici",
+      "count": 1,
+      "avgScore": 94.0
+    },
+    {
+      "name": "Evening Land Vineyards",
+      "count": 1,
+      "avgScore": 93.0
+    },
+    {
+      "name": "Deutz",
+      "count": 1,
+      "avgScore": 92.0
+    },
+    {
+      "name": "Ch. Fonroque",
+      "count": 1,
+      "avgScore": 92.0
+    },
+    {
+      "name": "Château d'Aiguilhe",
+      "count": 1,
+      "avgScore": 92.0
+    },
+    {
+      "name": "Gaston Chiquet",
+      "count": 1,
+      "avgScore": 91.0
+    },
+    {
+      "name": "Terres Dorées",
+      "count": 1,
+      "avgScore": 90.0
+    },
+    {
       "name": "Vietti",
       "count": 1,
       "avgScore": 86.0
@@ -34,67 +84,32 @@
       "avgScore": 83.0
     },
     {
-      "name": "Bollinger",
+      "name": "Heartland Wines",
       "count": 1,
-      "avgScore": null
+      "avgScore": 82.0
     },
     {
-      "name": "Deutz",
+      "name": "Tenuta di Collosorbo",
       "count": 1,
-      "avgScore": null
+      "avgScore": 78.0
+    },
+    {
+      "name": "La Spia",
+      "count": 1,
+      "avgScore": 78.0
+    },
+    {
+      "name": "WG Dr. Hermann",
+      "count": 1,
+      "avgScore": 73.0
+    },
+    {
+      "name": "WG Stefan Meyer",
+      "count": 1,
+      "avgScore": 70.0
     },
     {
       "name": "Az. Agr. Casanova di Neri",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "E Guigal",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Ch. Fonroque",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Gaston Chiquet",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Alma Rosa Winery & Vineyards",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Poderi Colla",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Cobb Wines",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Antonin Guyon",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Evening Land Vineyards",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Trimbach",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Az. Agr. Mauro Veglio",
       "count": 1,
       "avgScore": null
     },
@@ -104,37 +119,22 @@
       "avgScore": null
     },
     {
-      "name": "Alain Brumont",
+      "name": "G.D. Vajra",
       "count": 1,
       "avgScore": null
     },
     {
-      "name": "Granville Wines",
+      "name": "Dom. Roger Champault",
       "count": 1,
       "avgScore": null
     },
     {
-      "name": "ColleMassari",
+      "name": "Dom. de Pré Semelé Julien & Clément Raimbault",
       "count": 1,
       "avgScore": null
     },
     {
-      "name": "Jean-Marc Brocard",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Caparzo",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Mas de Boislauzon",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Wagner Stempel",
+      "name": "Bodegas Godeval",
       "count": 1,
       "avgScore": null
     }
