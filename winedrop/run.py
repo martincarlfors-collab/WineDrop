@@ -41,10 +41,16 @@ def process_market(conn, limit: int, demo: bool):
         if i % 25 == 0:
             print(f"  [{m.code}] bilder {i}/{len(wines)}", flush=True)
 
-    # Betygsätt bara vinerna i de TVÅ senaste släppen (senaste + näst senaste
-    # släppdatum). Övriga får en AI-beskrivning men inget betyg.
-    all_dates = sorted({w.launch_date for w in wines if w.launch_date}, reverse=True)
-    rate_dates = set(all_dates[:2])
+    # Betygsätt bara vinerna i de TVÅ senaste RIKTIGA släppen. Ett riktigt släpp
+    # har många viner — så vi ignorerar enstaka framflyttade framtidsdatum (t.ex.
+    # ett vin som sköts upp) genom att kräva minst MIN_RELEASE viner per datum.
+    MIN_RELEASE = 3
+    counts: dict[str, int] = {}
+    for w in wines:
+        if w.launch_date:
+            counts[w.launch_date] = counts.get(w.launch_date, 0) + 1
+    real_dates = sorted((d for d, c in counts.items() if c >= MIN_RELEASE), reverse=True)
+    rate_dates = set(real_dates[:2]) or set(sorted(counts, reverse=True)[:2])
     print(f"  [{m.code}] betygssätter släpp: {', '.join(sorted(rate_dates)) or '(inga)'}", flush=True)
 
     scored = []
