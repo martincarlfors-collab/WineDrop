@@ -3,154 +3,18 @@
   "market": "se",
   "wines": [
     {
-      "name": "Millésimé Brut",
-      "producer": "Deutz",
-      "score": 90,
-      "price": 799.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Mousserande"
-    },
-    {
-      "name": "Ch. Fonroque",
-      "producer": "Ch. Fonroque",
-      "score": 93,
-      "price": 529.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Seven Springs Pinot Noir",
-      "producer": "Evening Land Vineyards",
-      "score": 93,
-      "price": 469.0,
-      "origin_country": "USA - Övriga stater",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Pouilly Fuissé 1er Cru \"Vers Cras\"",
-      "producer": "Dom. Trouillet",
-      "score": null,
-      "price": 399.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Brunello di Montalcino",
-      "producer": "Caparzo",
-      "score": 94,
-      "price": 359.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Chablis Premier Cru Les Montmains",
-      "producer": "Dom. Laroche",
-      "score": null,
-      "price": 350.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Schweigen Chardonnay",
-      "producer": "WG Friedrich Becker",
-      "score": 94,
-      "price": 299.0,
-      "origin_country": "Tyskland",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "NS della Neve Extra Brut Metodo Classico",
-      "producer": "G.D. Vajra",
-      "score": null,
-      "price": 299.0,
-      "origin_country": "Italien",
-      "wine_type": "Mousserande"
-    },
-    {
-      "name": "Sancerre Côte de Champtin Blanc",
-      "producer": "Dom. Roger Champault",
-      "score": 86,
-      "price": 299.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Ch. d’Aiguilhe",
-      "producer": "Château d'Aiguilhe",
-      "score": 92,
-      "price": 299.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Westhofner Riesling Kalk",
-      "producer": "WG Katharina Wechsler",
-      "score": 90,
-      "price": 239.0,
-      "origin_country": "Tyskland",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Ca' dei Zago Dosaggio Zero",
-      "producer": "Zago",
-      "score": null,
-      "price": 229.0,
-      "origin_country": "Italien",
-      "wine_type": "Mousserande"
-    },
-    {
-      "name": "Rosso di Montalcino",
-      "producer": "Tenuta di Collosorbo",
-      "score": 78,
-      "price": 219.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "The Misfits Grenache",
-      "producer": "Ken Forrester",
-      "score": null,
-      "price": 199.0,
-      "origin_country": "Sydafrika",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Ad Astra",
-      "producer": "Fattoria Nittardi",
-      "score": null,
-      "price": 199.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Director's Cut Shiraz",
-      "producer": "Heartland Wines",
-      "score": 82,
-      "price": 199.0,
-      "origin_country": "Australien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Classico Superiore",
-      "producer": "Az. Agr. Andrea Felici",
-      "score": 94,
-      "price": 189.0,
-      "origin_country": "Italien",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Crianza Blanco",
-      "producer": "Eguren Ugarte",
-      "score": null,
-      "price": 149.0,
-      "origin_country": "Spanien",
-      "wine_type": "Vitt"
-    },
-    {
       "name": "La Grande Année Brut",
       "producer": "Bollinger",
       "score": null,
       "price": 2199.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Mousserande"
+    },
+    {
+      "name": "Millésimé Brut",
+      "producer": "Deutz",
+      "score": null,
+      "price": 799.0,
       "origin_country": "Frankrike",
       "wine_type": "Mousserande"
     },
@@ -169,6 +33,14 @@
       "price": 579.0,
       "origin_country": "Frankrike",
       "wine_type": "Vitt"
+    },
+    {
+      "name": "Ch. Fonroque",
+      "producer": "Ch. Fonroque",
+      "score": null,
+      "price": 529.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
     },
     {
       "name": "Blanc de Blancs d'Aÿ Grand Cru",
@@ -211,6 +83,14 @@
       "wine_type": "Rött"
     },
     {
+      "name": "Seven Springs Pinot Noir",
+      "producer": "Evening Land Vineyards",
+      "score": null,
+      "price": 469.0,
+      "origin_country": "USA - Övriga stater",
+      "wine_type": "Rött"
+    },
+    {
       "name": "Hommage À Hubert",
       "producer": "Trimbach",
       "score": null,
@@ -225,6 +105,14 @@
       "price": 419.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
+    },
+    {
+      "name": "Pouilly Fuissé 1er Cru \"Vers Cras\"",
+      "producer": "Dom. Trouillet",
+      "score": null,
+      "price": 399.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
     },
     {
       "name": "Chablis Premier Cru Les Vaillons Vieilles Vignes",
@@ -267,12 +155,28 @@
       "wine_type": "Vitt"
     },
     {
+      "name": "Brunello di Montalcino",
+      "producer": "Caparzo",
+      "score": null,
+      "price": 359.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
       "name": "Chateauneuf-du-Pape Tradition",
       "producer": "Mas de Boislauzon",
       "score": null,
       "price": 359.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött"
+    },
+    {
+      "name": "Chablis Premier Cru Les Montmains",
+      "producer": "Dom. Laroche",
+      "score": null,
+      "price": 350.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
     },
     {
       "name": "Heerkretz Riesling Grosses Gewächs",
@@ -319,6 +223,38 @@
       "producer": "Ch. La Cabanne",
       "score": null,
       "price": 300.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Schweigen Chardonnay",
+      "producer": "WG Friedrich Becker",
+      "score": null,
+      "price": 299.0,
+      "origin_country": "Tyskland",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "NS della Neve Extra Brut Metodo Classico",
+      "producer": "G.D. Vajra",
+      "score": null,
+      "price": 299.0,
+      "origin_country": "Italien",
+      "wine_type": "Mousserande"
+    },
+    {
+      "name": "Sancerre Côte de Champtin Blanc",
+      "producer": "Dom. Roger Champault",
+      "score": null,
+      "price": 299.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Ch. d’Aiguilhe",
+      "producer": "Château d'Aiguilhe",
+      "score": null,
+      "price": 299.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött"
     },
@@ -523,12 +459,28 @@
       "wine_type": "Rött"
     },
     {
+      "name": "Westhofner Riesling Kalk",
+      "producer": "WG Katharina Wechsler",
+      "score": null,
+      "price": 239.0,
+      "origin_country": "Tyskland",
+      "wine_type": "Vitt"
+    },
+    {
       "name": "Dolcetto d'Alba Priavino",
       "producer": "Az. Agr. Roberto Voerzio",
       "score": null,
       "price": 239.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
+    },
+    {
+      "name": "Ca' dei Zago Dosaggio Zero",
+      "producer": "Zago",
+      "score": null,
+      "price": 229.0,
+      "origin_country": "Italien",
+      "wine_type": "Mousserande"
     },
     {
       "name": "Wehlener Sonneuhr Riesling Kabinett",
@@ -568,6 +520,14 @@
       "score": null,
       "price": 229.0,
       "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Rosso di Montalcino",
+      "producer": "Tenuta di Collosorbo",
+      "score": null,
+      "price": 219.0,
+      "origin_country": "Italien",
       "wine_type": "Rött"
     },
     {
@@ -616,6 +576,30 @@
       "score": null,
       "price": 200.0,
       "origin_country": "Portugal",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "The Misfits Grenache",
+      "producer": "Ken Forrester",
+      "score": null,
+      "price": 199.0,
+      "origin_country": "Sydafrika",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Ad Astra",
+      "producer": "Fattoria Nittardi",
+      "score": null,
+      "price": 199.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Director's Cut Shiraz",
+      "producer": "Heartland Wines",
+      "score": null,
+      "price": 199.0,
+      "origin_country": "Australien",
       "wine_type": "Rött"
     },
     {
@@ -673,6 +657,14 @@
       "price": 199.0,
       "origin_country": "USA - Kalifornien",
       "wine_type": "Rött"
+    },
+    {
+      "name": "Classico Superiore",
+      "producer": "Az. Agr. Andrea Felici",
+      "score": null,
+      "price": 189.0,
+      "origin_country": "Italien",
+      "wine_type": "Vitt"
     },
     {
       "name": "Phermento Lambrusco",
@@ -801,6 +793,14 @@
       "price": 159.0,
       "origin_country": "Australien",
       "wine_type": "Rött"
+    },
+    {
+      "name": "Crianza Blanco",
+      "producer": "Eguren Ugarte",
+      "score": null,
+      "price": 149.0,
+      "origin_country": "Spanien",
+      "wine_type": "Vitt"
     },
     {
       "name": "Chianti Classico",

@@ -9,7 +9,7 @@
     {
       "week": "2026-33",
       "count": 101,
-      "avgScore": 89.6
+      "avgScore": null
     }
   ],
   "producers": [
@@ -24,52 +24,7 @@
       "avgScore": null
     },
     {
-      "name": "Caparzo",
-      "count": 1,
-      "avgScore": 94.0
-    },
-    {
-      "name": "WG Friedrich Becker",
-      "count": 1,
-      "avgScore": 94.0
-    },
-    {
-      "name": "Az. Agr. Andrea Felici",
-      "count": 1,
-      "avgScore": 94.0
-    },
-    {
-      "name": "Ch. Fonroque",
-      "count": 1,
-      "avgScore": 93.0
-    },
-    {
-      "name": "Evening Land Vineyards",
-      "count": 1,
-      "avgScore": 93.0
-    },
-    {
-      "name": "Château d'Aiguilhe",
-      "count": 1,
-      "avgScore": 92.0
-    },
-    {
-      "name": "Deutz",
-      "count": 1,
-      "avgScore": 90.0
-    },
-    {
-      "name": "WG Katharina Wechsler",
-      "count": 1,
-      "avgScore": 90.0
-    },
-    {
       "name": "Vietti",
-      "count": 1,
-      "avgScore": 86.0
-    },
-    {
-      "name": "Dom. Roger Champault",
       "count": 1,
       "avgScore": 86.0
     },
@@ -79,47 +34,12 @@
       "avgScore": 83.0
     },
     {
-      "name": "Heartland Wines",
-      "count": 1,
-      "avgScore": 82.0
-    },
-    {
-      "name": "Tenuta di Collosorbo",
-      "count": 1,
-      "avgScore": 78.0
-    },
-    {
-      "name": "Dom. Trouillet",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "G.D. Vajra",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Zago",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Ken Forrester",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Fattoria Nittardi",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Eguren Ugarte",
-      "count": 1,
-      "avgScore": null
-    },
-    {
       "name": "Bollinger",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Deutz",
       "count": 1,
       "avgScore": null
     },
@@ -134,7 +54,87 @@
       "avgScore": null
     },
     {
+      "name": "Ch. Fonroque",
+      "count": 1,
+      "avgScore": null
+    },
+    {
       "name": "Gaston Chiquet",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Alma Rosa Winery & Vineyards",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Poderi Colla",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Cobb Wines",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Antonin Guyon",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Evening Land Vineyards",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Trimbach",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Az. Agr. Mauro Veglio",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Dom. Trouillet",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Alain Brumont",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Granville Wines",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "ColleMassari",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Jean-Marc Brocard",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Caparzo",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Mas de Boislauzon",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Wagner Stempel",
       "count": 1,
       "avgScore": null
     }
