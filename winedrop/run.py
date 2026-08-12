@@ -13,7 +13,7 @@ import sys
 from core import config
 from core.markets import ALL_CONNECTORS, get_connector
 from core.reviews import fetch_reviews
-from core.summarize import summarize
+from core.summarize import summarize, describe
 from core.search import image_search
 from core.schema import Summary
 from core import build_api, demo_data, history, rank
@@ -41,16 +41,21 @@ def process_market(conn, limit: int, demo: bool):
         if i % 25 == 0:
             print(f"  [{m.code}] bilder {i}/{len(wines)}", flush=True)
 
-    top_n = config.SOUGHT_AFTER_TOP_N or len(wines)
+    # Betygsätt bara vinerna i de TVÅ senaste släppen (senaste + näst senaste
+    # släppdatum). Övriga får en AI-beskrivning men inget betyg.
+    all_dates = sorted({w.launch_date for w in wines if w.launch_date}, reverse=True)
+    rate_dates = set(all_dates[:2])
+    print(f"  [{m.code}] betygssätter släpp: {', '.join(sorted(rate_dates)) or '(inga)'}", flush=True)
+
     scored = []
-    for i, w in enumerate(wines, 1):
-        if i <= top_n:
-            print(f"  [{m.code}] betygsätter {i}/{min(top_n, len(wines))} {w.name}", flush=True)
+    for w in wines:
+        if w.launch_date in rate_dates:
+            print(f"  [{m.code}] betygsätter {w.name} ({w.launch_date})", flush=True)
             reviews = fetch_reviews(w, conn.review_lang)
             summ = summarize(w, reviews, conn.review_lang)
             nrev = len(reviews)
         else:
-            summ = Summary()      # listas med pris, utan betyg
+            summ = describe(w, conn.review_lang)   # AI-beskrivning, utan betyg
             nrev = 0
         scored.append((rank.final_score(w, nrev), w, summ))
 
