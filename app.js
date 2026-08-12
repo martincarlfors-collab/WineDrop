@@ -13,6 +13,7 @@ const state = {
   watch: JSON.parse(localStorage.getItem("wd_watch") || "[]"),  // bevakade producenter
   latestSort: localStorage.getItem("wd_sort") || "rank",        // rank | score | price
   releaseDate: null,   // valt släppdatum (ISO) eller "all"
+  saved: JSON.parse(localStorage.getItem("wd_saved") || "[]"),  // sparade viner (snapshot)
 };
 
 // Formatera ett släppdatum snyggt på användarens språk, t.ex. "fre 21 nov".
@@ -36,6 +37,16 @@ if (!window.I18N[state.lang]) state.lang = "en";
 // ---------- bevakade producenter ----------
 const isWatched = (name) =>
   !!name && state.watch.some((p) => p.toLowerCase() === name.toLowerCase());
+
+// ---------- sparade viner ----------
+const isSaved = (id) => state.saved.some((w) => w.id === id);
+
+function toggleSave(wine) {
+  const i = state.saved.findIndex((w) => w.id === wine.id);
+  if (i >= 0) state.saved.splice(i, 1);
+  else state.saved.unshift(wine);   // senast sparad överst
+  localStorage.setItem("wd_saved", JSON.stringify(state.saved));
+}
 
 // Tillfälligt sortiment / småparti = eftertraktat -> visa badge
 const isLimited = (w) =>
@@ -153,7 +164,7 @@ function renderChrome() {
   $("#offline").textContent = t("offline");
   $("#tabLatest").textContent = t("tabLatest");
   $("#tabExplore").textContent = t("tabExplore");
-  $("#tabTrends").textContent = t("tabTrends");
+  $("#tabMine").textContent = t("tabMine");
 
   const mkt = $("#marketSel");
   mkt.innerHTML = state.markets.map((m) =>
@@ -164,6 +175,11 @@ function renderChrome() {
   lng.innerHTML = Object.keys(window.I18N).map((l) =>
     `<option value="${l}"${l === state.lang ? " selected" : ""}>${l.toUpperCase()}</option>`
   ).join("");
+}
+
+// Bokmärkes-ikon (fylld när sparat).
+function bookmarkSVG(filled) {
+  return `<svg viewBox="0 0 24 24" fill="${filled ? "currentColor" : "none"}" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6.5 3.5h11a1 1 0 0 1 1 1V21l-6.5-3.8L5.5 21V4.5a1 1 0 0 1 1-1z"/></svg>`;
 }
 
 // ---------- kort ----------
@@ -180,7 +196,8 @@ function cardHTML(w, showFlag) {
     <span class="cardright">
       <span class="score ${scoreClass(w.score)}">${w.score ?? t("noScore")}</span>
       ${w.price ? `<span class="price">${Math.round(w.price)} ${esc(w.currency)}</span>` : ""}
-    </span>`;
+    </span>
+    <span class="cardsave ${isSaved(w.id) ? "on" : ""}" role="button" aria-label="${t("save")}">${bookmarkSVG(isSaved(w.id))}</span>`;
 }
 
 function listInto(container, wines, showFlag) {
@@ -194,6 +211,14 @@ function listInto(container, wines, showFlag) {
     el.className = "card";
     el.onclick = () => { state.wines = wines; renderDetail(i); };
     el.innerHTML = cardHTML(w, showFlag);
+    const sv = el.querySelector(".cardsave");
+    if (sv) sv.onclick = (e) => {
+      e.stopPropagation();
+      toggleSave(w);
+      if (state.tab === "mine") { renderMine(); return; }  // uppdatera sparad-listan
+      sv.classList.toggle("on", isSaved(w.id));
+      sv.innerHTML = bookmarkSVG(isSaved(w.id));
+    };
     container.appendChild(el);
   });
 }
@@ -326,56 +351,38 @@ function fillFilter(sel, field, label, wines) {
   if (vals.includes(cur)) el.value = cur;
 }
 
-// ---------- TRENDER ----------
-async function renderTrends() {
-  const body = $("#trendsBody");
-  body.innerHTML = `<p class="empty">${t("loading")}</p>`;
-  let tr;
-  try { tr = await getJSON(`${API}/${state.market}/trends.json`); }
-  catch (e) { body.innerHTML = `<p class="empty">${t("noHistory")}</p>`; return; }
-
-  const weeks = tr.weeks || [];
-  if (!weeks.length) { body.innerHTML = `<p class="empty">${t("noHistory")}</p>`; return; }
-
-  const m = marketByCode(state.market);
+// ---------- MINA VINER ----------
+async function renderMine() {
+  const body = $("#mineBody");
   body.innerHTML = `
-    <h3 class="tsection">${m.flag || ""} ${t("avgScore")} · ${t("week")}</h3>
-    ${sparkline(weeks)}
-    <h3 class="tsection">${t("releases")} / ${t("week")}</h3>
-    ${bars(weeks)}
-    <h3 class="tsection">${t("topProducers")}</h3>
-    <div class="prodlist">${(tr.producers || []).slice(0, 12).map(prodRow).join("")}</div>`;
-}
+    <h3 class="tsection">${t("saved")}</h3><div id="savedList"></div>
+    <h3 class="tsection">${t("followedProducers")}</h3><div id="watchWrap"></div>`;
 
-function sparkline(weeks) {
-  const pts = weeks.map((w) => w.avgScore).filter((v) => v != null);
-  if (pts.length < 2) return `<p class="empty">${t("noHistory")}</p>`;
-  const W = 320, H = 90, pad = 8;
-  const min = Math.min(...pts) - 2, max = Math.max(...pts) + 2;
-  const xs = (i) => pad + (i * (W - 2 * pad)) / (pts.length - 1);
-  const ys = (v) => H - pad - ((v - min) / (max - min || 1)) * (H - 2 * pad);
-  const d = pts.map((v, i) => `${i ? "L" : "M"}${xs(i).toFixed(1)},${ys(v).toFixed(1)}`).join(" ");
-  const dots = pts.map((v, i) => `<circle cx="${xs(i).toFixed(1)}" cy="${ys(v).toFixed(1)}" r="2.5"/>`).join("");
-  return `<svg class="chart" viewBox="0 0 ${W} ${H}"><path d="${d}" fill="none" stroke="var(--wine)" stroke-width="2"/>${dots}
-    <text x="${pad}" y="12" class="axis">${max.toFixed(0)}</text>
-    <text x="${pad}" y="${H - 2}" class="axis">${min.toFixed(0)}</text></svg>`;
-}
+  // Sparade viner
+  if (state.saved.length) listInto($("#savedList"), state.saved, true);
+  else $("#savedList").innerHTML = `<p class="empty">${t("emptySaved")}</p>`;
 
-function bars(weeks) {
-  const vals = weeks.map((w) => w.count);
-  const max = Math.max(1, ...vals);
-  return `<div class="bars">${weeks.map((w) =>
-    `<div class="bar" title="${w.week}: ${w.count}">
-       <span style="height:${(w.count / max) * 60 + 4}px"></span>
-       <em>${w.week.slice(-2)}</em></div>`).join("")}</div>`;
-}
+  // Bevakade producenter
+  const wrap = $("#watchWrap");
+  if (!state.watch.length) {
+    wrap.innerHTML = `<p class="empty">${t("emptyWatch")}</p>`;
+    return;
+  }
+  await marketLatest(state.market);   // se till att någon marknad är laddad
+  const chips = state.watch.map((p) =>
+    `<button class="chip on" data-p="${esc(p)}">★ ${esc(p)}</button>`).join("");
+  wrap.innerHTML = `<div class="chips">${chips}</div><div id="watchWines"></div>`;
+  wrap.querySelectorAll(".chip").forEach((b) => {
+    b.onclick = () => { toggleWatch(b.dataset.p); renderMine(); };
+  });
 
-function prodRow(p) {
-  return `<div class="prow">
-    <span class="score ${scoreClass(p.avgScore ? Math.round(p.avgScore) : null)} sm">${
-      p.avgScore != null ? Math.round(p.avgScore) : t("noScore")}</span>
-    <span class="pname">${esc(p.name)}</span>
-    <span class="pcount">${p.count} ${t("releases").toLowerCase()}</span></div>`;
+  // Viner från bevakade producenter i laddad data (dedup)
+  const seen = {}, wines = [];
+  Object.values(state.cache).forEach((d) => (d.wines || []).forEach((w) => {
+    if (isWatched(w.producer) && !seen[w.id]) { seen[w.id] = 1; wines.push(w); }
+  }));
+  if (wines.length) listInto($("#watchWines"), wines, true);
+  else $("#watchWines").innerHTML = `<p class="empty">${t("noWines")}</p>`;
 }
 
 // ---------- DETALJ ----------
@@ -385,7 +392,10 @@ function renderDetail(i) {
   $("#detailBody").innerHTML = `
     <div class="detailtop">
       <button class="back" id="backBtn">‹ ${t("back")}</button>
-      <button class="iconbtn" id="shareBtn" title="${t("share")}">↗ ${t("share")}</button>
+      <span class="dactions">
+        <button class="iconbtn ${isSaved(w.id) ? "on" : ""}" id="saveBtn"><svg class="mini" viewBox="0 0 24 24" fill="${isSaved(w.id) ? "currentColor" : "none"}" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6.5 3.5h11a1 1 0 0 1 1 1V21l-6.5-3.8L5.5 21V4.5a1 1 0 0 1 1-1z"/></svg>${isSaved(w.id) ? t("savedState") : t("save")}</button>
+        <button class="iconbtn" id="shareBtn" title="${t("share")}">↗ ${t("share")}</button>
+      </span>
     </div>
     <div class="hero">${w.image
       ? `<img src="${esc(w.image)}" alt="" onerror="this.parentNode.innerHTML=window.WD_bottle('${esc(w.wine_type)}')">`
@@ -408,6 +418,7 @@ function renderDetail(i) {
       }</p>` : ""}`;
   $("#backBtn").onclick = () => { try { history.replaceState(null, "", location.pathname); } catch (e) {} showTab(state.tab); };
   $("#shareBtn").onclick = () => doShare(w);
+  $("#saveBtn").onclick = () => { toggleSave(w); toast(isSaved(w.id) ? t("savedState") : t("save")); renderDetail(i); };
   const fb = $("#followBtn");
   if (fb) fb.onclick = () => { toggleWatch(w.producer); renderDetail(i); };
   try { location.hash = `${w.market}/${encodeURIComponent(w.id)}`; } catch (e) {}
@@ -435,14 +446,14 @@ async function openFromHash() {
 function showTab(tab) {
   state.tab = tab;
   $$("#tabbar .tab").forEach((b) => b.classList.toggle("active", b.dataset.tab === tab));
-  const map = { latest: "latestView", explore: "exploreView", trends: "trendsView" };
+  const map = { latest: "latestView", explore: "exploreView", mine: "mineView" };
   $$("main > section").forEach((s) => s.hidden = s.id !== map[tab]);
-  // marknadsväljaren i headern gäller Senaste + Trender, inte Utforska
-  $("#marketControl").style.display = tab === "explore" ? "none" : "flex";
+  // marknadsväljaren i headern gäller Senaste, inte Utforska/Mina viner
+  $("#marketControl").style.display = (tab === "explore" || tab === "mine") ? "none" : "flex";
   window.scrollTo(0, 0);
   if (tab === "latest") renderLatest();
   if (tab === "explore") renderExplore();
-  if (tab === "trends") renderTrends();
+  if (tab === "mine") renderMine();
 }
 
 function bind() {

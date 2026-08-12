@@ -14,7 +14,7 @@ window.I18N = {
     noHistory: "No history yet — trends appear after a few weekly runs.",
     search: "Search name or producer…", follow: "Follow producer",
     following: "Following", share: "Share", copied: "Link copied",
-    watchlist: "Watching", noMatches: "No matches.", limited: "Limited", sortSought: "Sought-after", sortCheapest: "Lowest price",
+    watchlist: "Watching", noMatches: "No matches.", limited: "Limited", sortSought: "Sought-after", sortCheapest: "Lowest price", tabMine: "My wines", saved: "Saved wines", followedProducers: "Followed producers", emptySaved: "Save wines to try with the bookmark in a wine.", emptyWatch: "Follow a producer to collect their releases here.", save: "Save", savedState: "Saved",
   },
   sv: {
     app: "WineDrop", tagline: "Nya vinsläpp, världen över",
@@ -30,7 +30,7 @@ window.I18N = {
     noHistory: "Ingen historik än — trender visas efter några veckokörningar.",
     search: "Sök namn eller producent…", follow: "Följ producent",
     following: "Följer", share: "Dela", copied: "Länk kopierad",
-    watchlist: "Bevakar", noMatches: "Inga träffar.", limited: "Limiterat", sortSought: "Eftertraktade", sortCheapest: "Lägst pris",
+    watchlist: "Bevakar", noMatches: "Inga träffar.", limited: "Limiterat", sortSought: "Eftertraktade", sortCheapest: "Lägst pris", tabMine: "Mina viner", saved: "Sparade viner", followedProducers: "Bevakade producenter", emptySaved: "Spara viner du vill testa via bokmärket i ett vin.", emptyWatch: "Följ en producent så samlas deras släpp här.", save: "Spara", savedState: "Sparat",
   },
   no: {
     app: "WineDrop", tagline: "Nye vinslipp, verden over",
@@ -46,7 +46,7 @@ window.I18N = {
     noHistory: "Ingen historikk ennå — trender vises etter noen ukentlige kjøringer.",
     search: "Søk navn eller produsent…", follow: "Følg produsent",
     following: "Følger", share: "Del", copied: "Lenke kopiert",
-    watchlist: "Følger", noMatches: "Ingen treff.", limited: "Begrenset", sortSought: "Ettertraktet", sortCheapest: "Lavest pris",
+    watchlist: "Følger", noMatches: "Ingen treff.", limited: "Begrenset", sortSought: "Ettertraktet", sortCheapest: "Lavest pris", tabMine: "Mine viner", saved: "Lagrede viner", followedProducers: "Fulgte produsenter", emptySaved: "Lagre viner du vil prøve via bokmerket i en vin.", emptyWatch: "Følg en produsent så samles slippene her.", save: "Lagre", savedState: "Lagret",
   },
   fi: {
     app: "WineDrop", tagline: "Uudet viinijulkaisut, maailmanlaajuisesti",
@@ -62,6 +62,6 @@ window.I18N = {
     noHistory: "Ei historiaa vielä — trendit näkyvät muutaman viikkoajon jälkeen.",
     search: "Hae nimi tai tuottaja…", follow: "Seuraa tuottajaa",
     following: "Seuraat", share: "Jaa", copied: "Linkki kopioitu",
-    watchlist: "Seuraat", noMatches: "Ei osumia.", limited: "Rajoitettu", sortSought: "Halutuimmat", sortCheapest: "Halvin",
+    watchlist: "Seuraat", noMatches: "Ei osumia.", limited: "Rajoitettu", sortSought: "Halutuimmat", sortCheapest: "Halvin", tabMine: "Omat viinit", saved: "Tallennetut viinit", followedProducers: "Seuratut tuottajat", emptySaved: "Tallenna viinejä kirjanmerkillä viinin kohdalla.", emptyWatch: "Seuraa tuottajaa niin julkaisut kerääntyvät tähän.", save: "Tallenna", savedState: "Tallennettu",
   },
 };
