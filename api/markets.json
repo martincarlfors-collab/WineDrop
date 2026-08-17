@@ -6,8 +6,8 @@
     "currency": "SEK",
     "language": "sv",
     "retailer": "Systembolaget",
-    "updated": "2026-08-12",
-    "count": 101
+    "updated": "2026-08-17",
+    "count": 120
   },
   {
     "code": "no",
@@ -16,7 +16,7 @@
     "currency": "NOK",
     "language": "no",
     "retailer": "Vinmonopolet",
-    "updated": "2026-08-12",
+    "updated": "2026-08-17",
     "count": 0
   },
   {
@@ -26,7 +26,7 @@
     "currency": "EUR",
     "language": "fi",
     "retailer": "Alko",
-    "updated": "2026-08-12",
+    "updated": "2026-08-17",
     "count": 0
   },
   {
@@ -36,7 +36,7 @@
     "currency": "CAD",
     "language": "en",
     "retailer": "LCBO",
-    "updated": "2026-08-12",
+    "updated": "2026-08-17",
     "count": 0
   }
 ]

@@ -8,11 +8,46 @@
     },
     {
       "week": "2026-33",
-      "count": 101,
-      "avgScore": 87.1
+      "count": 7,
+      "avgScore": 88.2
+    },
+    {
+      "week": "2026-34",
+      "count": 120,
+      "avgScore": 90.5
     }
   ],
   "producers": [
+    {
+      "name": "La Rioja Alta",
+      "count": 2,
+      "avgScore": 91.5
+    },
+    {
+      "name": "Vietti",
+      "count": 2,
+      "avgScore": 88.5
+    },
+    {
+      "name": "Dr Loosen",
+      "count": 2,
+      "avgScore": 85.5
+    },
+    {
+      "name": "Jim Barry",
+      "count": 2,
+      "avgScore": 70.0
+    },
+    {
+      "name": "Granville Wines",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Tahbilk",
+      "count": 2,
+      "avgScore": null
+    },
     {
       "name": "Dom. Laroche",
       "count": 2,
@@ -24,117 +59,87 @@
       "avgScore": null
     },
     {
-      "name": "Trimbach",
+      "name": "Ch. Haut Bages Liberal",
+      "count": 1,
+      "avgScore": 95.0
+    },
+    {
+      "name": "Comando G",
       "count": 1,
       "avgScore": 94.0
     },
     {
-      "name": "Caparzo",
+      "name": "WG Friedrich Becker",
       "count": 1,
       "avgScore": 94.0
     },
     {
-      "name": "WG Dönnhoff",
+      "name": "WG am Schlipf Schneider",
       "count": 1,
       "avgScore": 94.0
     },
     {
-      "name": "Az. Agr. Andrea Felici",
-      "count": 1,
-      "avgScore": 94.0
-    },
-    {
-      "name": "Evening Land Vineyards",
-      "count": 1,
-      "avgScore": 93.0
-    },
-    {
-      "name": "Deutz",
-      "count": 1,
-      "avgScore": 92.0
-    },
-    {
-      "name": "Ch. Fonroque",
-      "count": 1,
-      "avgScore": 92.0
-    },
-    {
-      "name": "Château d'Aiguilhe",
-      "count": 1,
-      "avgScore": 92.0
-    },
-    {
-      "name": "Gaston Chiquet",
-      "count": 1,
-      "avgScore": 91.0
-    },
-    {
-      "name": "Terres Dorées",
+      "name": "Domaine de la Solitude",
       "count": 1,
       "avgScore": 90.0
     },
     {
-      "name": "Vietti",
+      "name": "Henri Bourgeois",
       "count": 1,
-      "avgScore": 86.0
+      "avgScore": 85.0
     },
     {
-      "name": "Dr Loosen",
-      "count": 1,
-      "avgScore": 83.0
-    },
-    {
-      "name": "Heartland Wines",
-      "count": 1,
-      "avgScore": 82.0
-    },
-    {
-      "name": "Tenuta di Collosorbo",
-      "count": 1,
-      "avgScore": 78.0
-    },
-    {
-      "name": "La Spia",
-      "count": 1,
-      "avgScore": 78.0
-    },
-    {
-      "name": "WG Dr. Hermann",
-      "count": 1,
-      "avgScore": 73.0
-    },
-    {
-      "name": "WG Stefan Meyer",
-      "count": 1,
-      "avgScore": 70.0
-    },
-    {
-      "name": "Az. Agr. Casanova di Neri",
+      "name": "Weingut Bründlmayer",
       "count": 1,
       "avgScore": null
     },
     {
-      "name": "Dom. Trouillet",
+      "name": "Nino Franco",
       "count": 1,
       "avgScore": null
     },
     {
-      "name": "G.D. Vajra",
+      "name": "Gaja",
       "count": 1,
       "avgScore": null
     },
     {
-      "name": "Dom. Roger Champault",
+      "name": "Il Poggione",
       "count": 1,
       "avgScore": null
     },
     {
-      "name": "Dom. de Pré Semelé Julien & Clément Raimbault",
+      "name": "Emilio Moro",
       "count": 1,
       "avgScore": null
     },
     {
-      "name": "Bodegas Godeval",
+      "name": "Vini Franchetti",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "WG Rudolf Fürst",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Bodegas Izadi",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Hedges Family Estate",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Quinta de Chocapalha",
+      "count": 1,
+      "avgScore": null
+    },
+    {
+      "name": "Bodegas Roda",
       "count": 1,
       "avgScore": null
     }

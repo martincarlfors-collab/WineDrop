@@ -3,9 +3,20 @@
   "weeks": [
     {
       "week": "2026-33",
+      "count": 1,
+      "avgScore": 90.0
+    },
+    {
+      "week": "2026-34",
       "count": 0,
       "avgScore": null
     }
   ],
-  "producers": []
+  "producers": [
+    {
+      "name": "Louis Michel",
+      "count": 1,
+      "avgScore": 90.0
+    }
+  ]
 }
