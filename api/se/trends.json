@@ -12,12 +12,17 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-34",
-      "count": 120,
-      "avgScore": 90.5
+      "week": "2026-35",
+      "count": 123,
+      "avgScore": 93.9
     }
   ],
   "producers": [
+    {
+      "name": "Kutch",
+      "count": 2,
+      "avgScore": 95.0
+    },
     {
       "name": "La Rioja Alta",
       "count": 2,
@@ -29,14 +34,14 @@
       "avgScore": 88.5
     },
     {
+      "name": "Tahbilk",
+      "count": 2,
+      "avgScore": 88.0
+    },
+    {
       "name": "Dr Loosen",
       "count": 2,
       "avgScore": 85.5
-    },
-    {
-      "name": "Jim Barry",
-      "count": 2,
-      "avgScore": 70.0
     },
     {
       "name": "Granville Wines",
@@ -44,7 +49,7 @@
       "avgScore": null
     },
     {
-      "name": "Tahbilk",
+      "name": "Jim Barry",
       "count": 2,
       "avgScore": null
     },
@@ -59,9 +64,19 @@
       "avgScore": null
     },
     {
-      "name": "Ch. Haut Bages Liberal",
+      "name": "Louis Roederer",
       "count": 1,
       "avgScore": 95.0
+    },
+    {
+      "name": "WG Rudolf Fürst",
+      "count": 1,
+      "avgScore": 95.0
+    },
+    {
+      "name": "Ch. Haut Bages Liberal",
+      "count": 1,
+      "avgScore": 94.0
     },
     {
       "name": "Comando G",
@@ -119,27 +134,12 @@
       "avgScore": null
     },
     {
-      "name": "WG Rudolf Fürst",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Bodegas Izadi",
+      "name": "Bodegas Orben",
       "count": 1,
       "avgScore": null
     },
     {
       "name": "Hedges Family Estate",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Quinta de Chocapalha",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Bodegas Roda",
       "count": 1,
       "avgScore": null
     }

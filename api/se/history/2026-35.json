@@ -1,7 +1,31 @@
 {
-  "week": "2026-34",
+  "week": "2026-35",
   "market": "se",
   "wines": [
+    {
+      "name": "Blanc de Blancs",
+      "producer": "Louis Roederer",
+      "score": 95,
+      "price": 998.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Mousserande"
+    },
+    {
+      "name": "Falstaff Vineyard Pinot Noir",
+      "producer": "Kutch",
+      "score": null,
+      "price": 669.0,
+      "origin_country": "USA - Kalifornien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "McDougall Ranch Pinot Noir",
+      "producer": "Kutch",
+      "score": 95,
+      "price": 669.0,
+      "origin_country": "USA - Kalifornien",
+      "wine_type": "Rött"
+    },
     {
       "name": "Sito Moresco",
       "producer": "Gaja",
@@ -13,7 +37,7 @@
     {
       "name": "Ch. Haut Bages Liberal",
       "producer": "Ch. Haut Bages Liberal",
-      "score": 95,
+      "score": 94,
       "price": 429.0,
       "origin_country": "Frankrike",
       "wine_type": "Rött"
@@ -61,7 +85,7 @@
     {
       "name": "Bürgstadter Spätburgunder",
       "producer": "WG Rudolf Fürst",
-      "score": null,
+      "score": 95,
       "price": 359.0,
       "origin_country": "Tyskland",
       "wine_type": "Rött"
@@ -76,7 +100,7 @@
     },
     {
       "name": "Chocolate No 4",
-      "producer": "Bodegas Izadi",
+      "producer": "Bodegas Orben",
       "score": null,
       "price": 299.0,
       "origin_country": "Spanien",
@@ -109,7 +133,7 @@
     {
       "name": "Old Vines Cabernet Shiraz",
       "producer": "Tahbilk",
-      "score": null,
+      "score": 88,
       "price": 249.0,
       "origin_country": "Australien",
       "wine_type": "Rött"
@@ -157,7 +181,7 @@
     {
       "name": "Lodge Hill Shiraz",
       "producer": "Jim Barry",
-      "score": 70,
+      "score": null,
       "price": 169.0,
       "origin_country": "Australien",
       "wine_type": "Rött"

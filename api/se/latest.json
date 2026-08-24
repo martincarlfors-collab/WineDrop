@@ -1,8 +1,209 @@
 {
   "market": "se",
-  "week": 34,
-  "updated": "2026-08-17",
+  "week": 35,
+  "updated": "2026-08-24",
   "wines": [
+    {
+      "id": "se-9011501",
+      "market": "se",
+      "name": "Blanc de Blancs",
+      "producer": "Louis Roederer",
+      "wine_type": "Mousserande",
+      "vintage": "2019",
+      "origin_country": "Frankrike",
+      "price": 998.0,
+      "currency": "SEK",
+      "launch_date": "2026-08-21",
+      "url": "https://www.systembolaget.se/sortiment/?q=9011501",
+      "image": "https://imgs.search.brave.com/G9qxRKK7MOWg3ly8x5Rd93CHZKXdnlenpz_9_tE0Kr8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/ZW52aWVkZWNoYW1w/LmNvbS83MzIxLWxh/cmdlX2RlZmF1bHQv/YmxhbmMtZGUtYmxh/bmNzLTIwMTkuanBn",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "sv": "En exceptionell årgång som kritiker hyllar för sin kombination av mognad, koncentration och elegans. Wine Review Online gav 2019 års Blanc de Blancs 95 poäng, och recensenter beskriver den som ett vackert exempel på Chardonnayns potential i Champagne.",
+        "en": "An exceptional vintage praised by critics for its balance of maturity, concentration and elegance. Wine Review Online scored the 2019 Blanc de Blancs 95 points, with reviewers calling it a beautiful showcase for Chardonnay in Champagne."
+      },
+      "score": 95,
+      "taste_notes": {
+        "sv": "Salin energi, blommig friskhet, citrus och clementin, mandelskal och en mineralisk, stenig ton med rassig syra.",
+        "en": "Saline energy, floral freshness, citrus and clementine, almond shell, and a stony minerality with racy acidity."
+      },
+      "pairing": {
+        "sv": "Passar utmärkt till skaldjur, ostron, sushi och lätta fisk- eller fågelrätter.",
+        "en": "Pairs well with shellfish, oysters, sushi, and light fish or poultry dishes."
+      },
+      "sources": [
+        {
+          "source": "app.louis-roederer.com",
+          "title": "Blanc de Blancs 2019 - Champagne Louis Roederer",
+          "url": "https://app.louis-roederer.com/QR/01/09/-/2019/C/",
+          "excerpt": "Blanc de Blancs 2019 Origin Our \"la Côte\" Estate Grape variety 100% Chardonnay Wines in oak 28% Harvest On 13 September 2019 Find out the dates of when the wine was disgorged and released from our cellars Dosage 7 g/l This was a unique year, marked by sunshine and erratic weather, with intense and at times brutal extremes. However, the 2019 wines turned out to be a combination of quality, maturity, and concentration. One word defines this vintage: exceptional! Tasting notes Infused with a fine saline energy, this champagne expresses a spring-like lightness and floral freshness, complemented by",
+          "lang": "sv"
+        },
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for Louis Roederer Blanc de Blancs Brut Millesime - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/louis+roederer+blancdeblanc+brut+millesime+champagne+france",
+          "excerpt": "Many critics score this Champagne Blanc de Blancs wine highly: <strong>Wine Review Online gave the 2019 vintage a score of 95.</strong> Critic tasting note: (2019 vintage) &quot;The 2019 Louis Roederer Blanc de Blancs is a beautiful reminder of why Chardonnay from ...",
+          "lang": "sv"
+        },
+        {
+          "source": "premierchampagne.com",
+          "title": "Louis Roederer Blanc de Blancs 2019 - Premier Champagne",
+          "url": "https://www.premierchampagne.com/products/louis-roederer-blanc-de-blancs-2019.html",
+          "excerpt": "Quick View Louis Roederer Blanc de Blancs 2015 (1.5L Magnum) $224.99",
+          "lang": "sv"
+        },
+        {
+          "source": "mmdusa.net",
+          "title": "Champagne Louis Roederer Blanc de Blancs Vintage 2019",
+          "url": "https://mmdusa.net/?ACT=59&path=pdf%2Ftech-sheet%2Fchampagne-louis-roederer%2Fblanc-de-blancs-vintage%2F2019%2Fscore&size=Letter&orientation=portrait&key=&attachment=1&compress=1&filename=champagne-louis-roederer-blanc-de-blancs-vintage-2019.pdf&default_font=",
+          "excerpt": "%PDF-1.4 %���� 3 0 obj < > /Contents 4 0 R>> endobj 4 0 obj < > stream x��ZYs�F\u0012�g���Tm�U%�����+[�+��m�fk�<� H��a\u0001���?�{~��5��\u0014\u0005)J�V�\"\u00046fz����C}�]��^ :Q�j?��M�����㥞^�(I�, \u000fQd�r��R� �Z�`\u0015�u�ε\\���C/pB/�g~�x~��B�����\u0011�i\u00166\b \u0017\u0006%>��}�U\bq�8\u0011\u0010\u001a��)fҲϥ-i�tu� ��FGa�dq��R߉P\u0017\u0011T����\u0005�\u0012�\u001b�\u001a���G�.F������GO/*;���r��Ϡ��>�ѡ �&1P] �N\u0018��s}��\u0007\u0019X�|�_^��|\u0003 7\u0013�0v�ȥ�1��\u0007 d\u0012�8L�$��ab��op�\u0010�s���$u|O���yF+��1�� f\u0004|z��׼�x����� J;a\u0016�=��\\h�L4�7�\u0012��\u0013\u0007� ϴ~�����D��\u0017�.�Z\u0015J�o�Fmյ���\u0003�\u0017j\u0006�\u0012�'z� \u0016�]:<ŧ�o����0q��1JCǏ=��Z�vk��>3Ұ����\u0004]ת& \u0014�S �=z��q�@(���SP� ���<�ԁp�\u0006/ \u0005N ��;�S_7K\u0011��A�Y긐_]�Z��U���%�\u0017eP�\u0014�Q�A \u0000.FN {\u0006��6(32ry^K0�%�G�˚\u0000",
+          "lang": "sv"
+        },
+        {
+          "source": "yorkcellars.com",
+          "title": "Louis Roederer, Blanc de Blancs Vintage Champagne 2019",
+          "url": "https://www.yorkcellars.com/louis-roederer-blanc-de-blancs-champagne.html",
+          "excerpt": "Biodynamic. 100% Chardonnay. Estate fruit. Elegant, dry, med body. Saline, citrus, clementine orange, almond shell. Riverstone minerality. Racy acidity on the t",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-9229701",
+      "market": "se",
+      "name": "Falstaff Vineyard Pinot Noir",
+      "producer": "Kutch",
+      "wine_type": "Rött",
+      "vintage": "2023",
+      "origin_country": "USA - Kalifornien",
+      "price": 669.0,
+      "currency": "SEK",
+      "launch_date": "2026-08-21",
+      "url": "https://www.systembolaget.se/sortiment/?q=9229701",
+      "image": "https://imgs.search.brave.com/9uVBBFkdnqT4opHlzRxwUZE3eKH7wa9mX1DjYe64UNk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L2VmY2hlY2tvdXQv/a3V0Y2h3aW5lcy9w/cm9kdWN0cy9LdXRj/aC1XaW5lcy0yMDI0/LUt1dGNoLUZhbHN0/YWZmLVZpbmV5YXJk/LVNvbm9tYS1Db2Fz/dC1QaW5vdC1Ob2ly/LXByb2R1Y3QtaW1h/Z2UtMjE1LXNtYWxs/LmpwZw",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "sv": "Underlaget för denna specifika Kutch Falstaff Vineyard Pinot Noir är för begränsat för att ge en tillförlitlig sammanfattning – de flesta källor är kataloglistningar snarare än smakomdömen. Kutch är dock ett välrenommerat producentnamn för Sonoma Coast Pinot Noir, ofta lovordat för sin spänst och mineralitet i systervinerna.",
+        "en": "The available material on this specific Kutch Falstaff Vineyard Pinot Noir is too limited for a reliable critical consensus, as most sources are retail listings rather than tasting notes. Kutch is nonetheless a well-regarded Sonoma Coast Pinot Noir producer, generally praised for tension and mineral-driven style in sibling bottlings."
+      },
+      "score": null,
+      "taste_notes": {
+        "sv": "Troligen elegant, kylig Stillahavskust-pinot med röd frukt, blomighet och fin syra, i linje med husstilen.",
+        "en": "Likely an elegant, cool-climate Pacific Coast Pinot Noir with red fruit, floral lift and fine acidity, consistent with house style."
+      },
+      "pairing": {
+        "sv": "Passar till anka, vildfågel, svampmaträtter eller lax.",
+        "en": "Pairs with duck, game birds, mushroom dishes, or salmon."
+      },
+      "sources": [
+        {
+          "source": "vivino.com",
+          "title": "Kutch Falstaff Vineyard Pinot Noir | Vivino Svenska",
+          "url": "https://www.vivino.com/sv/kutch-wines-llc-falstaff-vineyard-pinot-noir/w/2744585",
+          "excerpt": "Kutch Falstaff Vineyard Pinot Noir är en Rött vin. Kolla in dess betyg och recensioner från världens största vincommunity.",
+          "lang": "sv"
+        },
+        {
+          "source": "kutchwines.com",
+          "title": "Contact — Kutch Wines",
+          "url": "https://www.kutchwines.com/press/parker",
+          "excerpt": "Antonio Galloni, Vinous Decanter Jamie Goode, Wineanorak Jancis Robinson John Gilman, View from the Cellar Robert Parker, The Wine Advocate Vinography The Wine Advocate, Robert Parker 2023 Kutch Pinot Noir Mindego Ridge Vineyard Ridge Top Rating:96 Sourced from a cross-section of upper rows that stretch across Mindego Ridge, rather than from a specific block, the 2023 Pinot Noir Mindego Ridge Vineyard Ridge Top presents distinctly floral and vivid aromas compared to the standard bottling, along with an added degree of tension, lift and mouthfeel depth. The finish is stunning and impeccably bal",
+          "lang": "sv"
+        },
+        {
+          "source": "folkofolk.se",
+          "title": "Kutch Falstaff Vineyard Pinot Noir | folk o folk",
+          "url": "https://folkofolk.se/drycker/vin/rott-vin/kutch-falstaff-vineyard-pinot-noir-1",
+          "excerpt": "Vin Sprit Fynd Inspiration Provningar",
+          "lang": "sv"
+        },
+        {
+          "source": "westgarthwines.com",
+          "title": "Kutch, Falstaff Vineyard Pinot Noir - Westgarth Wines",
+          "url": "https://westgarthwines.com/products/united-states-california-sonoma-coast-kutch-falstaff-vineyard-pinot-noir",
+          "excerpt": "Call today: 310 310 7600 Call today: 310 310 7600 Sign in BUY WINE Bordeaux Burgundy Champagne Rhone Australia Germany Italy Spain Portugal United States SHOW ALL WINES About Us Our Company Our Team Videos News FAQs Menu Cart BUY WINE + Bordeaux Burgundy Champagne Rhone Australia Germany Italy Spain Portugal United States SHOW ALL WINES About Us + Our Company Our Team Videos News FAQs Sign in Return to Wine 2014, Kutch, Falstaff Vineyard Pinot Noir point score Sonoma Coast, California, United States Red ABV - .. 2014 / 12x750ml Vintage 2014 Size 12x750ml Pre-Arrival (ETA 90 - 180 Days) (Priced",
+          "lang": "sv"
+        },
+        {
+          "source": "wineanorak.com",
+          "title": "California exploration: Kutch, visiting their new home and tasting the 2023 new releases – wineanorak.com",
+          "url": "https://wineanorak.com/2025/02/27/california-exploration-kutch-visiting-their-new-home-and-tasting-the-2023-new-releases/",
+          "excerpt": "Please wait while your request is being verified...",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-9208001",
+      "market": "se",
+      "name": "McDougall Ranch Pinot Noir",
+      "producer": "Kutch",
+      "wine_type": "Rött",
+      "vintage": "2023",
+      "origin_country": "USA - Kalifornien",
+      "price": 669.0,
+      "currency": "SEK",
+      "launch_date": "2026-08-21",
+      "url": "https://www.systembolaget.se/sortiment/?q=9208001",
+      "image": "https://imgs.search.brave.com/f5roh0dxCwCO_ue9fzpORws9nF580q6WHLjKtMLB8ok/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93aW5l/YW5vcmFrLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNi8w/Ny92aW5kZWNvbnN0/YW5jZTEtMTMweDkw/LmpwZw",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "sv": "Kutchs McDougall Ranch Pinot Noir 2023 från Sonoma Coast har fått höga betyg, bland annat 95 poäng av Decanter, och beskrivs som ett elegant och detaljerat vin från en högt ansedd vingård nära Hirsch. Tidigare årgångar visar en konsekvent stil med fräsch syra och lång eftersmak.",
+        "en": "Kutch's McDougall Ranch Pinot Noir 2023 from Sonoma Coast has received strong acclaim, including 95 points from Decanter, and is praised as an elegant, detailed wine from a highly regarded vineyard near Hirsch. Previous vintages show a consistent style marked by bright acidity and a long finish."
+      },
+      "score": 95,
+      "taste_notes": {
+        "sv": "Ljus rubinröd färg med doft av jordgubbar och hallon, nyanserad och detaljerad. Fräsch syra, mogna tanniner, kryddighet och lång, balanserad eftersmak.",
+        "en": "Bright ruby color with a nose of strawberries and raspberries, nuanced and detailed. Fresh acidity, ripe tannins, spiciness, and a long, balanced finish."
+      },
+      "pairing": {
+        "sv": "Passar utmärkt till anka, vildfågel, svamprisotto eller lätt kryddad lammrätter.",
+        "en": "Pairs beautifully with duck, game birds, mushroom risotto, or lightly spiced lamb dishes."
+      },
+      "sources": [
+        {
+          "source": "jancisrobinson.com",
+          "title": "Kutch, McDougall Ranch Pinot Noir 2023 Sonoma Coast Wine Review | Jancis Robinson",
+          "url": "https://www.jancisrobinson.com/tastings/297200",
+          "excerpt": "This is a red wine from Sonoma Coast, produced by Kutch. See our expert review of the 2023 on JancisRobinson.com.",
+          "lang": "sv"
+        },
+        {
+          "source": "farrvintners.com",
+          "title": "Pinot Noir McDougall Ranch, Kutch 2023. Fine Wine from U.S.A.",
+          "url": "https://farrvintners.com/wine.php?wine=106978",
+          "excerpt": "We use cookies on our website to provide the best possible experience. By clicking 'Accept and Close' you agree to the use of cookies. You can find out more about how we use cookies here Accept and Close We use cookies on our website to provide the best possible experience. By clicking 'Accept and Close' you agree to the use of cookies. You can find out more about how we use cookies here Accept and Close My Basket Login/Register Pinot Noir McDougall Ranch, Kutch 2023 Region U.S.A. Subregion U.S.A. > California > Sonoma Colour Red Type Still Grape Variety Pinot Noir View all vintages of this wi",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "Kutch McDougall Ranch Pinot Noir | Vivino US",
+          "url": "https://www.vivino.com/US/en/kutch-wines-llc-mcdougall-ranch-pinot-noir/w/2033866",
+          "excerpt": "McDougall Ranch Pinot Noir is a Red wine. See reviews and pricing for this wine.",
+          "lang": "sv"
+        },
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for Kutch McDougall Ranch Pinot Noir - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/kutch+mc+dougalls+ranch+pinot+noir+sonoma+coast+county+north+california+usa",
+          "excerpt": "Critic tasting note: (2021 vintage) &quot;Bright ruby. Strawberries and raspberries nose, nuanced, bright and detailed. Fresh acidity, ripe tannins, red fruits, detailed, nuanced, lovely balance, long finish. Lovely spiciness to it.&quot; - Christer Byklum ... One moment please... ... Free ground shipping or truck delivery on all qualifying $500 orders within a lo More shipping infoShipping info ... 2021 Kutch McDougall Ranch Pinot Noir Sonoma Coast 750ml, United States, California, 750 ml, Case of 12",
+          "lang": "sv"
+        },
+        {
+          "source": "marnetwines.com",
+          "title": "2023 Pinot Noir McDougall Ranch Sonoma Coast – Marnet",
+          "url": "https://marnetwines.com/products/2023-pinot-noir-mcdougall-ranch-sonoma-coast",
+          "excerpt": "Skip to product information Open media 1 in modal 1 / of 1 My Store 2023 Pinot Noir McDougall Ranch Sonoma Coast 2023 Pinot Noir McDougall Ranch Sonoma Coast Regular price $75.00 USD Regular price Sale price $75.00 USD Unit price / per Sale Sold out Quantity ( 0 in cart) Decrease quantity for 2023 Pinot Noir McDougall Ranch Sonoma Coast Increase quantity for 2023 Pinot Noir McDougall Ranch Sonoma Coast Add to cart 95 POINTS, DECANTER \"The McDougall Ranch, located just north of Hirsch and the Cazadero Hills in the Sonoma Coast AVA, is the source of this Pinot Noir crafted by Dan Ricciato, direc",
+          "lang": "sv"
+        }
+      ]
+    },
     {
       "id": "se-92645",
       "market": "se",
@@ -20,24 +221,24 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Sito Moresco är en elegant och balanserad blandning av Nebbiolo och Barbera från Gaja, med fin fruktighet och en lätt rökig ton. Vinet har god djup och komplexitet med inslag av kaffe och choklad, och anses ha potential att utvecklas ytterligare de kommande åren.",
-        "en": "Sito Moresco is an elegant and balanced blend of Nebbiolo and Barbera from Gaja, showing fine berry fruit and a subtle smoky note. The wine offers good depth and complexity with hints of coffee and chocolate, and is considered to have potential for further development in the coming years."
+        "sv": "Gaja Sito Moresco är en elegant och balanserad Langhe DOP-blend av nebbiolo och barbera, som förenar nebbiolons komplexitet med barberans runda fyllighet. Vinet, som jäser separat innan det blandas och lagras 12 månader på ekfat, beskrivs genomgående som smakrikt och väl sammansatt.",
+        "en": "Gaja Sito Moresco is an elegant and balanced Langhe DOP blend of nebbiolo and barbera, combining nebbiolo's complexity with barbera's roundness. Fermented separately before blending and aged for 12 months in oak, it is consistently described as flavorful and well-structured."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Fin bärig arom, elegant struktur, lätt rökighet, inslag av kaffe och choklad, lång eftersmak.",
-        "en": "Fine berry aromatics, elegant structure, subtle smokiness, notes of coffee and chocolate, long finish."
+        "sv": "Körsbär, kakao, skogshallon, ceder, svarta vinbär, peppar, plommon och kryddor.",
+        "en": "Cherry, cocoa, wild raspberry, cedar, blackcurrant, pepper, plum, and spices."
       },
       "pairing": {
-        "sv": "Passar till rött kött, vilträtter, lammstek och mognare ostar.",
-        "en": "Pairs with red meat, game dishes, roast lamb, and matured cheeses."
+        "sv": "Passar till rött kött, viltgryta, lagrade ostar och rustika pastarätter med köttsås.",
+        "en": "Pairs well with red meat, game stews, aged cheeses, and hearty pasta dishes with meat sauce."
       },
       "sources": [
         {
-          "source": "wilsondaniels.com",
-          "title": "GAJA Sito Moresco Langhe DOP | Wine | Wilson Daniels",
-          "url": "https://wilsondaniels.com/wine/gaja/sito-moresco-langhe-dop/",
-          "excerpt": "GAJA Sito Moresco Langhe DOP GAJA Sito Moresco Langhe DOP Sito Moresco combines the complexity of Nebbiolo with the roundness of Barbera. The name derives from Moresco, the previous owner of the parcel in Pajorè vineyard which was purchased in 1979. Details Downloads Vintage Factsheets 2024 (Link opens in new window) 2023 (Link opens in new window) 2022 (Link opens in new window) 2021 (Link opens in new window) Vineyard Profile Mainly Pajorè in Treiso, as well as other vineyards in Barbaresco, La Morra and Serralunga d’Alba. Region Piedmont Appellation Langhe DOP Winemaking Varietal Compositio",
+          "source": "vinsider.se",
+          "title": "Gaja Sito Moresco tillbaka i TS - Vinsider",
+          "url": "https://www.vinsider.se/artiklar/gaja-sito-moresco-tillbaka-i-ts",
+          "excerpt": "Foto: Gaja team Sito Moresco är en blend på nebbiolo och barbera och ger ett komplext och smakrikt vin med toner av körsbär, kakao, skogshallon, ceder, svarta vinbär, peppar, plommon och kryddor. Druvorna till detta Langhe DOP vin kommer från byarna Barbaresco, Treiso (Barbaresco) och Serralunga d’Alba (Barolo) fördelat på 60% nebbiolo och 40% barbera. Druvorna jäser separat och blandas innan de får ligga på ekfat i 12 månader. Gaja Sito Moresco 2024 (9264501) 499kr lanseras 21 augusti i Systembolaget tillfälliga sortiment och finns tillgänglig i vissa butiker samt för beställning online under",
           "lang": "sv"
         },
         {
@@ -48,17 +249,17 @@
           "lang": "sv"
         },
         {
+          "source": "wilsondaniels.com",
+          "title": "GAJA Sito Moresco Langhe DOP | Wine | Wilson Daniels",
+          "url": "https://wilsondaniels.com/wine/gaja/sito-moresco-langhe-dop/",
+          "excerpt": "GAJA Sito Moresco Langhe DOP GAJA Sito Moresco Langhe DOP Sito Moresco combines the complexity of Nebbiolo with the roundness of Barbera. The name derives from Moresco, the previous owner of the parcel in Pajorè vineyard which was purchased in 1979. Details Downloads Vintage Factsheets 2024 (Link opens in new window) 2023 (Link opens in new window) 2022 (Link opens in new window) 2021 (Link opens in new window) Vineyard Profile Mainly Pajorè in Treiso, as well as other vineyards in Barbaresco, La Morra and Serralunga d’Alba. Region Piedmont Appellation Langhe DOP Winemaking Varietal Compositio",
+          "lang": "sv"
+        },
+        {
           "source": "vinjournalen.se",
           "title": "Gaja Sito Moresco Rött vin Systembolaget 9264501 | Vinjournalen.se",
           "url": "https://www.vinjournalen.se/produkter/gaja-sito-moresco-9264501/",
           "excerpt": "Vinjournalen.se har heller ingen koppling till eller kommersiellt samarbete med Systembolaget. ... <strong>Gaja Sito Moresco är ett elegant och balanserat vin från Piemonte i norra Italien</strong>.",
-          "lang": "sv"
-        },
-        {
-          "source": "wine-searcher.com",
-          "title": "Best local price for Gaja Sito Moresco Rosso Langhe - stores near you in Luxembourg",
-          "url": "https://www.wine-searcher.com/find/gaja+sito+moresco+rosso+langhe+piemonte+italy",
-          "excerpt": "Man muss aber schon sagen, dass ... wundern) ... <strong>großartiger Wein zarte rauchige Note fein elegant vielschichtig sehr feine Beeren Aromatik sehr lang etwas Cafe und Schokolade Potential bis 2025</strong> ......",
           "lang": "sv"
         },
         {
@@ -87,17 +288,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "En enhälligt hyllad 2023 från Haut-Bages Libéral, med toppbetyg från Suckling och Vinous (96p) samt starka poäng från Parker och Vinum. Kritikerna beskriver ett medelfylligt till fylligt vin med imponerande djup, spänst och krispiga, väldefinierade tanniner - expansivt men kontrollerat med lång eftersmak.",
-        "en": "A universally acclaimed 2023 from Haut-Bages Libéral, with top scores from Suckling and Vinous (96pts) and strong marks from Parker and Vinum. Critics describe a medium- to full-bodied wine with impressive depth, energy and chalky, well-defined tannins - expansive yet controlled with great length."
+        "sv": "Kritiker är samstämmigt imponerade av 2023 års Haut-Bages Libéral, med höga betyg från bland annat Suckling (96), Vinous (96) och Parker (93-95). Vinet beskrivs som medelfylligt till fylligt med djup, spänst och en fokuserad, krittig tanninstruktur som ger både balans och lagringspotential.",
+        "en": "Critics are broadly impressed by the 2023 Haut-Bages Libéral, with high scores from Suckling (96), Vinous (96) and Parker (93-95). The wine is described as medium- to full-bodied with depth, energy and a focused, chalky tannin structure offering both balance and aging potential."
       },
-      "score": 95,
+      "score": 94,
       "taste_notes": {
-        "sv": "Cassis, grafit, blå och röda bär med en subtil blomsteranstrykning; krispiga, kritiga tanniner och stor spänst.",
-        "en": "Cassis, graphite, blue and red fruit with a subtle floral lift; chalky, vibrant tannins with great tension."
+        "sv": "Krittiga, vibrerande tanniner, fruktig men aldrig alkoholtung, med spänst, fokus och lång eftersmak.",
+        "en": "Chalky, vibrant tannins, fruity yet never overly alcoholic, with tension, focus and a long finish."
       },
       "pairing": {
-        "sv": "Passar till grillat rött kött, lammstek eller lagrade ostar.",
-        "en": "Pairs with grilled red meat, roast lamb, or aged cheeses."
+        "sv": "Passar till lammstek, grillat nötkött eller lagrad ost – en klassisk Pauillac för matlagning.",
+        "en": "Pairs with roast lamb, grilled beef or aged cheese – a classic Pauillac food wine."
       },
       "sources": [
         {
@@ -115,13 +316,6 @@
           "lang": "sv"
         },
         {
-          "source": "wine-searcher.com",
-          "title": "Best local price for Chateau Haut-Bages Liberal - stores near you in Massachusetts, USA",
-          "url": "https://www.wine-searcher.com/find/haut+bages+liberal+pauillac+medoc+bordeaux+france",
-          "excerpt": "Many critics score this Pauillac wine highly: <strong>Vinum Wine Magazine gave the 2023 vintage a score of 95/20</strong>. This wine has won many awards: the Guide Hachette des Vins awarded the 2000 vintage 3 stars coup de cœur and the 2006 vintage 2 stars.",
-          "lang": "sv"
-        },
-        {
           "source": "wineenthusiast.com",
           "title": "Château Haut-Bages Libéral 2023 Barrel Sample (Pauillac) Rating and Review | Wine Enthusiast",
           "url": "https://www.wineenthusiast.com/buying-guide/chateau-haut-bages-liberal-2023-barrel-sample-pauillac/",
@@ -129,10 +323,17 @@
           "lang": "sv"
         },
         {
-          "source": "vintagewineshoppe.net",
-          "title": "2023 Chateau Haut-Bages Liberal, Grand Cru Pauillac | Vintage Wine Shoppe",
-          "url": "https://www.vintagewineshoppe.net/product-page/2023-chateau-haut-bages-liberal-grand-cru-pauillac",
-          "excerpt": "96 Points James Suckling This has an attractive, expressive nose of cassis, graphite, blue and red fruit and a subtle floral lift. Medium- to full-bodied with impressive depth and energy, it shows chalky, vibrant tannins that bring focus and definition. Expansive yet controlled, with great tension and length. A blend of 86% cabernet sauvignon and 14% merlot, aged in new French oak barrels, concrete and amphorae. Already pleasant, but will evolve beautifully with time. 96 Points Vinous The 2023 Haut-Bages Liberal is fabulous. Deep, layered and exquisitely beautiful, the 2023 bristles with tensi",
+          "source": "wine-searcher.com",
+          "title": "Best local price for Chateau Haut-Bages Liberal - stores near you in Massachusetts, USA",
+          "url": "https://www.wine-searcher.com/find/haut+bages+liberal+pauillac+medoc+bordeaux+france",
+          "excerpt": "Many critics score this Pauillac wine highly: <strong>Vinum Wine Magazine gave the 2023 vintage a score of 95/20</strong>. This wine has won many awards: the Guide Hachette des Vins awarded the 2000 vintage 3 stars coup de cœur and the 2006 vintage 2 stars.",
+          "lang": "sv"
+        },
+        {
+          "source": "bighammerwines.com",
+          "title": "2023 Chateau Haut Bages Liberal Pauillac FUTURES 6 x 750ml – BigHammerWines.com",
+          "url": "https://www.bighammerwines.com/products/2023-chateau-haut-bages-liberal-pauillac-futures-6-x-750ml",
+          "excerpt": "Bordeaux Futures Bordeaux Futures: Be First to Experience the Best Wines of Tomorrow Filter and Sort Wines 1 Filter and Sort Wines Featured Most relevant Bestselling Alphabetically, A-Z Alphabetically, Z-A Price - Lowest Price - Highest Date, old to new New Arrivals Sort by In stock only Type Red Wine (17) White Wine (1) Sweet Wine (2) Varietals Cabernet Sauvignon (10) Marsanne (1) Merlot (1) Roussanne (1) Sauvignon Blanc (1) Semillon (1) Price Range / Btl $26 - $50 (5) $51 - $75 (5) $76 - $100 (2) Over $100 (8) Point Rating 90-93 Points (14) 94-97 Points (3) 98-100 Points (4) Country France (",
           "lang": "sv"
         }
       ]
@@ -154,17 +355,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Denna Chardonnay från Granville, odlad organiskt i Willamette Valleys vulkaniska basaltjordar, beskrivs som frisk och tilltalande med fruktdrivna citrontoner. Recensionerna är begränsade men pekar på en välgjord, terroirdriven vit vin från en av Oregons uppåtgående producenter.",
-        "en": "This Chardonnay from Granville, organically farmed in the volcanic basalt soils of the Willamette Valley, is described as tart and appealing with fruit-forward lemon flavors. Reviews are limited but point to a well-made, terroir-driven white from one of Oregon's rising producers."
+        "sv": "Ett fåtal tillgängliga recensioner beskriver denna Chardonnay från Granville Wines som frisk och fruktdriven, med en syrlig karaktär som speglar den vulkaniska basaltjorden i Willamette Valley. Inget samlat kritikerbetyg finns publicerat, men de tillgängliga kommentarerna är positiva och pekar på ett rent, koncentrerat uttryck.",
+        "en": "The limited available critic commentary describes this Chardonnay from Granville Wines as fresh and fruit-forward, with a tart character reflecting the volcanic basalt soils of the Willamette Valley. No aggregated critic score is publicly available, but the existing notes are positive, pointing to a clean, focused expression."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Fruktdriven citron, syrlig och frisk med mineralitet från vulkanisk jord.",
-        "en": "Fruit-forward lemon, tart and crisp with minerality from volcanic soil."
+        "sv": "Syrlig och fruktig med citronton, frisk syra och en mineralisk underton från basaltjorden.",
+        "en": "Tart and fruity with lemon notes, bright acidity, and a mineral undertone from the basalt soils."
       },
       "pairing": {
-        "sv": "Passar till skaldjur, grillad fisk och lätta pastarätter med citronbaserade såser.",
-        "en": "Pairs with shellfish, grilled fish, and light pasta dishes with lemon-based sauces."
+        "sv": "Passar till skaldjur, grillad fisk, fjäderfä och lätta krämiga rätter.",
+        "en": "Pairs with shellfish, grilled fish, poultry, and light creamy dishes."
       },
       "sources": [
         {
@@ -178,7 +379,7 @@
           "source": "granvillewines.com",
           "title": "TRADE — Granville Wine Co.",
           "url": "https://www.granvillewines.com/trade",
-          "excerpt": "Trade Resources Trade & Wholesale Inquiries: hello@granvillewines.com Press & Media Inquiries: renee@granvillewines.com Assets Recent Accolades and Scores Dundee Hills & Eola-Amity Hills Vineyards Map RED Basalt Pinot Noir, Willamette Valley 2024 | 2023 | 2022 Holstein Vineyard Estate Pinot Noir, Dundee Hills 2024 | 2023 | 2022 Dux Vineyard Pinot Noir, Dundee Hills 2024 Louie Reserve Pinot Noir, Dundee Hills 2023 | 2022 Koosah Vineyard Pinot Noir, Eola-Amity Hills 2024 | 2023 | 2022 Temperance Hill Vineyard Pinot Noir, Eola-Amity Hills 2024 | 2023 | 2022 WHITE Basalt Chardonnay, Willamette Val",
+          "excerpt": "Trade Resources Trade & Wholesale Inquiries: hello@granvillewines.com Press & Media Inquiries: renee@granvillewines.com Assets Recent Accolades and Scores Dundee Hills & Eola-Amity Hills Vineyards Map Techsheets RED Basalt Pinot Noir, Willamette Valley 2024 | 2023 | 2022 Holstein Vineyard Estate Pinot Noir, Dundee Hills 2024 | 2023 | 2022 Dux Vineyard Pinot Noir, Dundee Hills 2024 Louie Reserve Pinot Noir, Dundee Hills 2023 | 2022 Koosah Vineyard Pinot Noir, Eola-Amity Hills 2024 | 2023 | 2022 Temperance Hill Vineyard Pinot Noir, Eola-Amity Hills 2024 | 2023 | 2022 WHITE Basalt Chardonnay, Wil",
           "lang": "sv"
         },
         {
@@ -221,17 +422,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerna är samstämmigt positiva och beskriver 2021 års Brunello di Montalcino från Il Poggione som fyllig och rik med en sammetslen textur som är typisk för godset. Årgången anses lyckad tack vare en lång växtsäsong med måttliga sommartemperaturer, vilket gett mogen frukt och god koncentration.",
-        "en": "Critics are consistently positive, describing Il Poggione's 2021 Brunello di Montalcino as fleshed-out and rich with a velvety texture characteristic of the estate. The vintage is considered successful thanks to a long growing season with moderate summer temperatures, yielding ripe fruit and good concentration."
+        "sv": "Kritikerna är eniga om att Il Poggiones Brunello di Montalcino 2021 är fyllig och köttig med en sammetslen textur som är typisk för producenten. Årgången 2021 beskrivs som stark tack vare en lång växtsäsong med måttliga sommartemperaturer, vilket ger vinet extra djup och volym.",
+        "en": "Critics agree that Il Poggione's Brunello di Montalcino 2021 is fleshed out and rich, with a velvety texture that is a signature of the estate. The 2021 vintage is considered strong, benefiting from a long growing season with moderate summer temperatures that adds richness and depth."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Mörka plommon, svarta vinbär, mörk körsbär och kryddiga toner med sammetslen, fyllig struktur.",
-        "en": "Dark plum, blackcurrant, dark cherry and savory spice notes with a velvety, full-bodied structure."
+        "sv": "Mörka körsbär, vildplommon, svarta vinbär och kryddiga, savoriga toner, buret av en sammetslen, fyllig struktur.",
+        "en": "Dark cherry, wild plum, blackcurrant and savory spice notes, carried by a velvety, full-bodied structure."
       },
       "pairing": {
-        "sv": "Passar till grillat rött kött, vilt, lammstek och lagrade ostar.",
-        "en": "Pairs with grilled red meat, game, roast lamb and aged cheeses."
+        "sv": "Passar till grillat rött kött, lammstek, viltgryta eller lagrad pecorino.",
+        "en": "Pairs with grilled red meats, roast lamb, game stew or aged pecorino cheese."
       },
       "sources": [
         {
@@ -256,17 +457,17 @@
           "lang": "sv"
         },
         {
-          "source": "vivino.com",
-          "title": "Tenuta Il Poggione Brunello di Montalcino | Vivino Sverige",
-          "url": "https://www.vivino.com/SE/sv/tenuta-il-poggione-brunello-di-montalcino/w/22175",
-          "excerpt": "Sök efter viner av som passar till viss mat ... From the picturesque hilltop town of Montalcino in Tuscany, Brunello is one of Italy&#x27;s best red wines. Brunello is made totally from Sangiovese, Tuscany&#x27;s flagship grape that is prized for its ability to reflect where it&#x27;s grown. It is typically bolder than Chianti, Tuscany&#x27;s other famous Sangiovese wine. Why not find out for yourself by trying Brunello and Chianti side-by-side? ... Tenuta Il Poggione is one of Montalcino’s major wineries: it covers a surface area of 600 hectares, of which 125 hectares are planted with vines, 70 with olive groves and the rest are a...",
-          "lang": "sv"
-        },
-        {
           "source": "ruepinard.com",
           "title": "Il Poggione, Brunello di Montalcino 2021 (Demi)",
           "url": "https://ruepinard.com/en/product/il-poggione-brunello-di-montalcino-2021-demi",
           "excerpt": "The Il Poggione 2021 Brunello di Montalcino is <strong>fleshed out and rich, showing a velvety texture that is a signature of this estate</strong>. The wine’s added richness and volume provide a strong sounding board for ripe aromas of dark plum and blackcurrant.",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "Tenuta Il Poggione Brunello di Montalcino | Vivino Sverige",
+          "url": "https://www.vivino.com/SE/sv/tenuta-il-poggione-brunello-di-montalcino/w/22175",
+          "excerpt": "Sök efter viner av som passar till viss mat ... From the picturesque hilltop town of Montalcino in Tuscany, Brunello is one of Italy&#x27;s best red wines. Brunello is made totally from Sangiovese, Tuscany&#x27;s flagship grape that is prized for its ability to reflect where it&#x27;s grown. It is typically bolder than Chianti, Tuscany&#x27;s other famous Sangiovese wine. Why not find out for yourself by trying Brunello and Chianti side-by-side? ... Tenuta Il Poggione is one of Montalcino’s major wineries: it covers a surface area of 600 hectares, of which 125 hectares are planted with vines, 70 with olive groves and the rest are a...",
           "lang": "sv"
         }
       ]
@@ -288,17 +489,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritikerna är eniga om att Malleolus 2023 är ett elegant Ribera del Duero-vin som fångar uppmärksamheten redan från första doft. Det beskrivs som väl balanserat med komplexitet som lockar till vidare utforskning, och har uppmärksammats positivt av bland annat Wine Spectator.",
-        "en": "Critics agree that the Malleolus 2023 is an elegant Ribera del Duero wine that captivates from the very first moment. It's described as well-balanced with a complexity inviting further exploration, and has received positive recognition including from Wine Spectator."
+        "sv": "Malleolus 2023 från Emilio Moro beskrivs som ett elegant Ribera del Duero-vin med stor komplexitet redan från första doft. Kritiker lyfter fram dess förfining och den intrikata balansen mellan frukt, mineralitet och kryddighet.",
+        "en": "Malleolus 2023 from Emilio Moro is described as an elegant Ribera del Duero wine with striking complexity from the very first moment. Critics highlight its refinement and the intricate balance between fruit, minerality, and spice."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Delikata mineraler, kryddiga bär, mogna körsbär, med subtila inslag av choklad och vanilj.",
-        "en": "Delicate minerals, spiced berries, ripe cherries, with subtle hints of chocolate and vanilla."
+        "sv": "Delikata mineraltoner, kryddiga bär, mogna körsbär samt subtila inslag av choklad och vanilj.",
+        "en": "Delicate mineral notes, spiced berries, ripe cherries, with subtle hints of chocolate and vanilla."
       },
       "pairing": {
-        "sv": "Passar utmärkt till rätter som experter beskriver som en perfekt matchning – tänk grillat rött kött, lammrätter eller mognadslagrad ost.",
-        "en": "Pairs beautifully with dishes experts describe as a match made in heaven – think grilled red meats, lamb dishes, or aged cheese."
+        "sv": "Passar utmärkt till rött kött, grillade rätter och maträtter med djup smak som kompletterar vinets kryddiga och fruktiga karaktär.",
+        "en": "Pairs wonderfully with red meat, grilled dishes, and rich flavorful meals that complement the wine's spiced and fruity character."
       },
       "sources": [
         {
@@ -309,10 +510,10 @@
           "lang": "sv"
         },
         {
-          "source": "decantalo.com",
-          "title": "Emilio Moro Malleolus 2023 and 2023 Magnum | Decántalo",
-          "url": "https://www.decantalo.com/us/en/malleolus.html",
-          "excerpt": "Emilio Moro Malleolus 2023 is <strong>a red wine that exudes an elegance captivating from the very first moment</strong>. On the nose, it unveils delicate minerals, spiced berries, ripe cherries, and subtle hints of chocolate and vanilla, inviting one to explore ...",
+          "source": "emiliomoro.com",
+          "title": "Vinos Emilio Moro | Bodegas Emilio Moro",
+          "url": "https://www.emiliomoro.com/en/nuestros-vinos/malleolus/",
+          "excerpt": "🍪 Utilizamos cookies Utilizamos cookies propias y de terceros para fines estadísticos y analizar la navegación en nuestra web. Puedes aceptar todas las cookies pulsando el botón “Aceptar” o configurar o rechazar su uso pulsando los botones correspondientes. Para más información y cambiar tus preferencias sobre cookies utiliza el apartado de \"Personalizar\". Personalizar Rechazar Todo Aceptar Todo Preferencias de Consentimiento Ajusta tus preferencias para cada categoría. Seguridad (Necesario) Esencial para el funcionamiento del sitio. Analítica Nos permite medir el tráfico y mejorar el sitio. P",
           "lang": "sv"
         },
         {
@@ -323,17 +524,17 @@
           "lang": "sv"
         },
         {
+          "source": "decantalo.com",
+          "title": "Emilio Moro Malleolus 2023 and 2023 Magnum | Decántalo",
+          "url": "https://www.decantalo.com/us/en/malleolus.html",
+          "excerpt": "Emilio Moro Malleolus 2023 is <strong>a red wine that exudes an elegance captivating from the very first moment</strong>. On the nose, it unveils delicate minerals, spiced berries, ripe cherries, and subtle hints of chocolate and vanilla, inviting one to explore ...",
+          "lang": "sv"
+        },
+        {
           "source": "vinonueva.com",
           "title": "Bodegas Emilio Moro - Ribera del Duero 'Malleolus' 2023 - VinoNueva Fine & Rare Wine Miami",
           "url": "https://vinonueva.com/products/bodegas-emilio-moro-ribera-del-duero-malleolus-2023",
           "excerpt": "New Bodegas Emilio Moro - Ribera del Duero 'Malleolus' 2023 IN STOCK - 24 left in stock $55.00 Email address Notify me when this product is available: Qty Add to cart “Wine is an art. If you know how to listen, it speaks to you, it lets you know when it needs racking and rest. It’s just like a living creature that we have to understand, tend to and care for.” So said Emilio Moro, the founder of the estate that bears his name. Three generations later, this belief is still upheld by José and Javier Moro. Based in the world-famous village of Pesquera de Duero, in the heart of Ribera del Duero, th",
-          "lang": "sv"
-        },
-        {
-          "source": "wine.com",
-          "title": "Emilio Moro Malleolus 2023",
-          "url": "https://www.wine.com/product/emilio-moro-malleolus-2023/4126821",
-          "excerpt": "Over 10,000 wines in stock. FREE shipping for a year with StewardShip. Pro ratings and friendly experts to help you choose from the best selection of red wine, white wine, champagne and more.",
           "lang": "sv"
         }
       ]
@@ -355,24 +556,24 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "En klassisk gran reserva från den frostdrabbade 2017-årgången, med koncentration och struktur trots lägre skördar. Kritiker lyfter fram dess friskhet, eleganta ekkaraktär och långa lagringspotential.",
-        "en": "A classic gran reserva from the frost-affected 2017 vintage, showing concentration and structure despite lower yields. Critics highlight its freshness, elegant oak character, and long aging potential."
+        "sv": "Trots det historiska vårfrostet 2017 lyckades La Rioja Alta skapa en anmärkningsvärt harmonisk och seriös Gran Reserva, där ekfatslagringen är elegant integrerad. Kritiker lyfter fram vinets djup, struktur och stora lagringspotential som en verklig triumf över årgångens svåra förutsättningar.",
+        "en": "Despite the historic spring frost of 2017, La Rioja Alta crafted a remarkably harmonious and serious Gran Reserva with beautifully integrated oak. Critics highlight its depth, structure, and strong aging potential as a true triumph over the vintage's challenging conditions."
       },
       "score": 96,
       "taste_notes": {
-        "sv": "Torr och stram med finkornig textur, smak av vanilj, kokos, grafit och svartpeppar, med en fast men balanserad tanninstruktur.",
-        "en": "Dry and taut with a fine-grained texture, showing vanilla, coconut, graphite, and black pepper notes, backed by firm yet balanced tannins."
+        "sv": "Djup, savory doft av vanilj, musslor, grafit, järn och svartpeppar; fyllig och saftig på gommen med fina, sammetslena tanniner.",
+        "en": "Deep, savory nose of vanilla, mussels, graphite, iron and black pepper; vibrant and juicy on the palate with fine-grained, velvety tannins."
       },
       "pairing": {
-        "sv": "Passar till grillat rött kött, lammstek, mogna ostar eller vilträtter med kryddiga såser.",
-        "en": "Pairs with grilled red meats, roast lamb, aged cheeses, or game dishes with spiced sauces."
+        "sv": "Passar utmärkt till lammstek, mognad ost eller grillat rött kött med kryddiga smaker.",
+        "en": "Pairs well with roast lamb, aged cheese, or grilled red meats with spiced flavors."
       },
       "sources": [
         {
           "source": "wine.com",
           "title": "La Rioja Alta Vina Arana Rioja Gran Reserva 2017 | Wine.com",
           "url": "https://www.wine.com/product/la-rioja-alta-vina-arana-rioja-gran-reserva-2017/3613716",
-          "excerpt": "<strong>Dry and taut with a fine-grained texture, it delivers persistent flavor with a touch of tannic grip reflecting the vintage&#x27;s short cycle following a spring frost</strong>. ... Fabulously classic gran reserva with coconut and vanilla sweet oak, match ...",
+          "excerpt": "<strong>The oak is neatly integrated, and the wine is harmonious and serious, a triumph over the adverse conditions of the year, the year of the big frost</strong>. They didn&#x27;t produce Viña Alberdi or GR 890 that year, and part of the 890 grapes are here.",
           "lang": "sv"
         },
         {
@@ -380,6 +581,13 @@
           "title": "Rioja Gran Reserva, 'Vina Arana', La Rioja Alta - Skurnik Wines & Spirits",
           "url": "https://www.skurnik.com/sku/rioja-reserva-vina-arana-la-rioja-alta-2-2-2-2-2-2-2-2/",
           "excerpt": "Search Search for: La Rioja Alta Rioja Gran Reserva, 'Viña Arana' Rioja Gran Reserva, 'Viña Arana' The basic grape variety is Tempranillo (95%) from Las Cuevas, El Palo and Las Monjas vineyards in Rodezno complemented with 5% Graciano from the Montecillo estate in Fuenmayor • We started the grape harvest with the Tempranillo and some days later we picked the Graciano in Montecillo • All the grapes were placed in small boxes and taken to the winery in refrigerated transport to preserve their integrity • Alcoholic fermentation took place in tanks • Malolactic fermentation took place spontaneousl",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "La Rioja Alta Viña Arana Gran Reserva | Vivino English",
+          "url": "https://www.vivino.com/en/la-rioja-alta-vina-arana-gran-reserva-rioja/w/7311113",
+          "excerpt": "La Rioja Alta Viña Arana Gran Reserva is a Red wine. Made from Tempranillo. Check its rating and reviews from the world’s largest wine community.",
           "lang": "sv"
         },
         {
@@ -394,13 +602,6 @@
           "title": "La Rioja Alta Vina Arana Gran Reserva Rioja 2017 – PJ Wine, Inc.",
           "url": "https://pjwine.com/products/la-rioja-alta-vina-arana-gran-reserva-rioja-2016",
           "excerpt": "Skip to product information Loading... 96 15% off Organic La Rioja Alta Vina Arana Gran Reserva Rioja 2017 Regular price $58.99 Sale price $49.97 Unit price Shipping calculated at checkout. La Rioja Alta Vina Arana Gran Reserva Rioja 2017 is backordered and will ship as soon as it is back in stock. Qty Decrease quantity Increase quantity Add to cart Pickup available at PJ Wine Usually ready in 24 hours View store information Organic 96 points James Suckling Deep, savory nose of vanilla, mussels, graphite, iron and black pepper. Vibrant and juicy, with a medium to full body and fine-grained tan",
-          "lang": "sv"
-        },
-        {
-          "source": "winemadeeasy.com",
-          "title": "La Rioja Alta Viña Arana Gran Reserva 2017 / 750ml",
-          "url": "https://www.winemadeeasy.com/wine/red-wine/red-blends/rioja-alta-vina-arana-gran-rsv-rioja-750-ml-65113.html",
-          "excerpt": "<strong>The oak is neatly integrated, and the wine is harmonious and serious, a triumph over the adverse conditions of the year, the year of the big frost</strong>. They didn&#x27;t produce Viña Alberdi or GR 890 that year, and part of the 890 grapes are here.",
           "lang": "sv"
         }
       ]
@@ -422,17 +623,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Le Cupole är Tenuta di Trinoros mer tillgängliga syskon till flaggskeppet, en Bordeaux-inspirerad cuvée från Toscana som konsekvent beskrivs som sammetslen och lättillgänglig. Kritiker lyfter fram den generösa kvaliteten i förhållande till priset, med mörk frukt, kryddor och läder i en klassisk, varm toscansk stil.",
-        "en": "Le Cupole is the more approachable sibling to Tenuta di Trinoro's flagship, a Bordeaux-inspired blend from Tuscany consistently described as velvety and easy-drinking. Critics highlight its generous quality relative to price, offering dark fruit, spice, and leather in a classic, warm Tuscan style."
+        "sv": "Le Cupole beskrivs genomgående som Tenuta di Trinoros tillgängliga \"andravin\", med en sammetslen och rund karaktär trots en klassisk, kraftfull Bordeaux-inspirerad struktur. Kritiker lyfter fram att vinet levererar lyxig kvalitet till ett mycket överkomligt pris.",
+        "en": "Le Cupole is consistently described as Tenuta di Trinoro's accessible \"second wine,\" offering a velvety, approachable character despite a classic, powerful Bordeaux-inspired structure. Critics highlight that it delivers luxurious quality at a highly attainable price point."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Mörka fruktsmaker, kryddor och läder med sammetslen textur och rund, mjuk struktur.",
-        "en": "Dark fruit flavors, spice and leather with a velvety texture and soft, rounded structure."
+        "sv": "Mörka fruktoner, kryddor och läder i en klassisk, koncentrerad bukett; sammetslen textur med fast tanninstruktur.",
+        "en": "Dark fruit, spice and leather in a classic, concentrated bouquet; velvety texture with firm tannic backbone."
       },
       "pairing": {
-        "sv": "Passar till grillat rött kött, lammgryta, mognare ostar och toscanska charkuterier.",
-        "en": "Pairs with grilled red meats, braised lamb, aged cheeses, and Tuscan charcuterie."
+        "sv": "Passar till grillat rött kött, lammgryta, mognare ostar och kryddiga köttfärsrätter.",
+        "en": "Pairs with grilled red meat, lamb stew, aged cheeses and spiced meat dishes."
       },
       "sources": [
         {
@@ -460,7 +661,7 @@
           "source": "bottleofitaly.com",
           "title": "Toscana Rosso IGT - Le Cupole - Tenuta di Trinoro - Franchetti",
           "url": "https://bottleofitaly.com/en/products/toscana-rosso-igt-le-cupole-tenuta-di-trinoro-franchetti",
-          "excerpt": "Award-Winning Wine Loading product media… Toscana Rosso IGT - Le Cupole - Tenuta di Trinoro - Franchetti 2021 Franchetti Read the description Cabernet Franc, Cabernet Sauvignon, Merlot, Petit Verdot · Toscana Rosso IGT · 75 cl · 2021 -18% 31,29 € Recommended price: 38,13 € This is a manufacturer's recommended retail price provided by manufacturers, suppliers, or vendors. Bottle of Italy uses the Recommended Price as a reference to allow comparison between different prices. More information VAT and Tax incl. Excise and customs charges incl. (EU, CH, US only) Default Title Out of stock ▼ 1 2 3 4",
+          "excerpt": "Award-Winning Wine Loading product media… Toscana Rosso IGT - Le Cupole - Tenuta di Trinoro - Franchetti 2021 Franchetti Read the description Cabernet Franc, Cabernet Sauvignon, Merlot, Petit Verdot · Toscana Rosso IGT · 75 cl · 2021 -18% 31,29 € Recommended price: 38,13 € This is a manufacturer's recommended retail price provided by manufacturers, suppliers, or vendors. Bottle of Italy uses the Recommended Price as a reference to allow comparison between different prices. More information VAT and Tax incl. Excise and customs charges incl. (EU, CH, US only) (41,72 €/ℓ) Default Title Out of sto",
           "lang": "sv"
         },
         {
@@ -489,11 +690,18 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "en": "Could not summarise (JSONDecodeError: Extra data: line 8 column 1 (char 360))"
+        "sv": "Kritikerkonsensus är mycket positiv för denna Spätburgunder från Rudolf Fürst, med betyg som pendlar mellan 94 och 96 poäng hos ledande bedömare. Vinet beskrivs som elegant, sidenmjukt och strukturerat med en tydlig mineralitet från Bürgstadts Buntsandstein-jordar, och anses ha stor lagringspotential fram till 2038.",
+        "en": "Critical consensus is highly positive for this Spätburgunder from Rudolf Fürst, with scores ranging from 94 to 96 points among leading reviewers. The wine is described as elegant, silky and structured, showing clear minerality from Bürgstadt's Buntsandstein soils, with strong ageing potential through 2038."
       },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "score": 95,
+      "taste_notes": {
+        "sv": "Körsbär, mörka och röda bär, hallon, rostade och jordiga toner, skogsbotten, subtil nejlika och elegant fruktkoncentration.",
+        "en": "Cherries, dark and red berries, raspberry, roasted and earthy notes, forest floor, subtle clove and elegant fruit concentration."
+      },
+      "pairing": {
+        "sv": "Passar till anka, vilt, grillat rött kött eller svampbaserade rätter.",
+        "en": "Pairs with duck, game, grilled red meat, or mushroom-based dishes."
+      },
       "sources": [
         {
           "source": "gute-weine.de",
@@ -517,17 +725,17 @@
           "lang": "sv"
         },
         {
-          "source": "koelner-weinkeller.de",
-          "title": "2023 Bürgstadter Berg 1. Lage Spätburgunder Rudolf Fürst",
-          "url": "https://www.koelner-weinkeller.de/2023-Buergstadter-Berg-1.-Lage-Spaetburgunder-Rudolf-Fuerst-10740-23",
-          "excerpt": "Der Bürgstadter Berg hat ehemals zum Centgrafenberg gehört, von einem Teil der Weinberge wird nun das Große Gewächs, von dem andern dieser Wein gemacht. Auf dem Buntsandstein dieser Steillage Spätburgunder anzubauen hat hier eine mehrere Jahrhunderte zurückreichende Tradition. Durch die Teilung gibt es nun von Fürst einen günstigeren Lagenwein, der bereits zeigt, wodurch sich auch der Centgrafenberg auszeichnet: intensive Aromen bei burgundischer Ernsthaftigkeit und Eleganz.",
-          "lang": "sv"
-        },
-        {
           "source": "jancisrobinson.com",
           "title": "Rudolf Fürst, Bürgstadter Centgrafenberg Spätburgunder Grosses Gewächs 2023 Franken Wine Review | Jancis Robinson",
           "url": "https://www.jancisrobinson.com/tastings/311247",
           "excerpt": "This is a red wine from Franken, produced by Rudolf Fürst. See our expert review of the 2023 on JancisRobinson.com.",
+          "lang": "sv"
+        },
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for Weingut Rudolf Furst Burgstadter Berg Spatburgunder - stores near you in New York, USA",
+          "url": "https://www.wine-searcher.com/find/rudolf+furst+berg+spatburgunder+burgstadt+franken+germany",
+          "excerpt": "Critic tasting note: (2023 vintage) &quot;<strong>Ripe raspberry, forest undergrowth, subtle clove, elegant fruit notes, an animated nose</strong>. On the palate, this Bürgstadter Berg wine shows good density, a round, still youthful fruit core, wild cherry notes, ...",
           "lang": "sv"
         }
       ]
@@ -549,17 +757,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Kritiker är eniga om att La Bruja 2024 är ett rent och precist uttryck för Garnacha, format av en svalare årgång, hög höjd och granitjordar. Trots mindre skörd på grund av frost levererar vinet fina, blommiga aromer med god elegans och balans.",
-        "en": "Critics agree that La Bruja 2024 is a pure and precise expression of Garnacha, shaped by a cooler vintage, high altitude, and granite soils. Despite a smaller harvest due to frost, the wine delivers pretty floral aromas with good elegance and balance."
+        "sv": "Kritikerna är samstämmiga: La Bruja 2024 är en ren och precis uttryck för Garnacha från Sierra de Gredos, med lyft arom av vilda jordgubbar, körsbär och blommiga toner av ros och lavendel. Vinet balanserar silkiga tanniner, livlig syra och en mineralisk, granitpräglad eftersmak, vilket ger en elegant och köttig men ändå lätt kropp.",
+        "en": "Critics agree that La Bruja 2024 is a pure, precise expression of Garnacha from the Sierra de Gredos, showing lifted aromas of wild strawberry, cherry, and floral notes of rose and lavender. The wine balances silky tannins, vibrant acidity, and a granite-driven mineral finish, delivering elegance with a light yet expressive palate."
       },
       "score": 94,
       "taste_notes": {
-        "sv": "Violer, vilda örter och röda bär, med fin syra och elegant, fint benad struktur.",
-        "en": "Violets, wild herbs, and red berries, with fine acidity and an elegant, fine-boned structure."
+        "sv": "Vilda jordgubbar, röda körsbär, granatäpple, viol, lavendel, mineralisk finish.",
+        "en": "Wild strawberry, red cherry, pomegranate, violet, lavender, mineral finish."
       },
       "pairing": {
-        "sv": "Passar till grillad lamm, örtkryddad kyckling eller medelhavsrätter med rosmarin och timjan.",
-        "en": "Pairs with grilled lamb, herb-roasted chicken, or Mediterranean dishes featuring rosemary and thyme."
+        "sv": "Passar till spansk tapas, grillat lamm, örtkryddad fjäderfä eller mogna ostar.",
+        "en": "Pairs with Spanish tapas, grilled lamb, herb-roasted poultry, or aged cheeses."
       },
       "sources": [
         {
@@ -591,10 +799,10 @@
           "lang": "sv"
         },
         {
-          "source": "ny.vervewine.com",
-          "title": "Comando G Vinos de Madrid 'La Bruja' 2024",
-          "url": "https://ny.vervewine.com/products/comando-g-la-bruja-2024",
-          "excerpt": "Comando G Vinos de Madrid 'La Bruja' 2024 Comando G Vinos de Madrid 'La Bruja' 2024 Price Regular price $57 99 $57.99 / Title Title 750ml 1.5L Quantity − + DELIVERED ON THE NEXT BUSINESS DAY Shipping calculated at checkout. Add to cart 750ml - $57.99 USD 1.5L - Sold Out [{\"id\":46892761383063,\"title\":\"750ml\",\"option1\":\"750ml\",\"option2\":null,\"option3\":null,\"sku\":\"SK6984a7e6e02b8\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Comando G Vinos de Madrid 'La Bruja' 2024 - 750ml\",\"public_title\":\"750ml\",\"options\":[\"750ml\"],\"price\":5799,\"weight\":1361,\"compare_at",
+          "source": "perrineswine.com",
+          "title": "2024 Comando G \"La Bruja de Rozas\", Sierra de Gredos, Spain – PERRINE's WINE SHOP",
+          "url": "https://perrineswine.com/products/2024-comando-g-la-bruja-de-rozas-sierra-de-gredos-spain",
+          "excerpt": "2024 Comando G \"La Bruja de Rozas\", Sierra de Gredos, Spain The 2024 Comando G \"La Bruja de Rozas\" is a beautifully lifted and aromatic Garnacha, offering notes of wild strawberry, red cherry, and pomegranate, intertwined with floral hints of rose and lavender. The palate is light yet expressive, with silky tannins, vibrant acidity, and a long, mineral-driven finish marked by granite-derived freshness. $49.99 $49.99 0 4 0 Quantity Add to cart There are 4 units left in stock. ABOUT THIS WINE Sourced from high-altitude vineyards around the village of Rozas de Puerto Real in the Sierra de Gredos,",
           "lang": "sv"
         }
       ]
@@ -603,7 +811,7 @@
       "id": "se-93899",
       "market": "se",
       "name": "Chocolate No 4",
-      "producer": "Bodegas Izadi",
+      "producer": "Bodegas Orben",
       "wine_type": "Vitt",
       "vintage": "",
       "origin_country": "Spanien",
@@ -616,52 +824,52 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Det finns inget samlat kritikeromdöme specifikt för denna exakta vin, men Bodegas Izadi som producent får positiva omdömen för sina Rioja-viner med tydlig fatkaraktär och komplexitet. Recensionerna pekar på ett väl hanterat hantverk och en trevlig vinupplevelse vid bodegan.",
-        "en": "There is no consolidated critical score specifically for this exact wine, but producer Bodegas Izadi receives positive remarks for its Rioja wines with pronounced oak character and complexity. Reviews highlight skilled winemaking and an enjoyable winery experience."
+        "sv": "Kritikerna är eniga om att Chocolate No 4 är ett elegant och strukturerat vitt vin med bred, något oljig textur som balanseras fint av en frisk syra. Det uppvisar god koncentration, lång eftersmak och lagringspotential, vilket gör det till ett intressant exempel på Riojas vita druvsammansättningar.",
+        "en": "Critics agree that Chocolate No 4 is an elegant, well-structured white wine with a broad, slightly oily texture balanced by lively acidity. It shows good concentration, a long finish, and aging potential, making it a compelling example of Rioja's white grape blends."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Nyanserat och smakrikt med tydlig fatkaraktär; inslag av plommon, kokos, svarta vinbär, choklad, kanel, vanilj och lagerblad.",
-        "en": "Nuanced and flavorful with clear oak character; notes of plum, coconut, blackcurrant, chocolate, cinnamon, vanilla and bay leaf."
+        "sv": "Fyllig och len på gommen med kryddiga toner, vita blommor och citrusinslag i eftersmaken.",
+        "en": "Full and unctuous on the palate with spicy notes, white flowers, and citrus nuances on the finish."
       },
       "pairing": {
-        "sv": "Passar till mörkt kött, gärna grillat.",
-        "en": "Pairs with dark meats, especially grilled."
+        "sv": "Passar till vit fisk i smörsås, kräftdjur, mogna ostar eller kryddad fjäderfärätt.",
+        "en": "Pairs with white fish in butter sauce, shellfish, mature cheeses, or spiced poultry dishes."
       },
       "sources": [
         {
-          "source": "tripadvisor.com",
-          "title": "Bodegas Izadi - All You SHOULD Know Before Going 2026 (with Reviews)",
-          "url": "https://www.tripadvisor.com/Attraction_Review-g1753653-d3847357-Reviews-Bodegas_Izadi-Villabuena_de_Alava_Province_of_Alava_Basque_Country.html",
-          "excerpt": "Lamentamos que el tiempo no acompañara en esta ocasión, pero estaremos encantados de recibiros de nuevo para que podáis recorrer los viñedos en bici y seguir descubriendo la bodega. Gracias por vuestra recomendación. ¡Hasta pronto! ... A surprise for good, we already knew the wine crianza of Izadi, the visit to the winery very well explained by our guide and very pleasant, later the wine tasting of 10, with details that we had not had in other wineries.",
+          "source": "decantalo.com",
+          "title": "Chocolate 4 | Decántalo",
+          "url": "https://www.decantalo.com/es/es/orben-chocolate-n3.html",
+          "excerpt": "<strong>Este vino es un despliegue de elegancia en boca, mostrando una textura amplia y ligeramente grasa que se contrarresta maravillosamente con su acidez bien equilibrada</strong>. Cada copa ofrece un final persistente que deja una impresión duradera.",
           "lang": "sv"
         },
         {
-          "source": "systembolaget.se",
-          "title": "Izadi Selección, 2021 | Systembolaget",
-          "url": "https://www.systembolaget.se/produkt/vin/izadi-9018101/",
-          "excerpt": "Startsida Sortiment Vin Rött vin Fruktigt & Smakrikt Startsida Sortiment Vin Rött vin Fruktigt & Smakrikt Sätt betyg Spara Vin , Rött vin , Fruktigt & Smakrikt Izadi Selección, 2022 \"\" Spanien , Rioja Flaska · 750 ml · 14 % vol. Produktnummer: Nr 9018101 Nr 9018101 219:- 219 kronor 292 kr/l 292 kronor per liter Nyanserat, fruktigt, smakrikt vin med tydlig fatkaraktär, inslag av plommon, kokos, svarta vinbär, mynta, choklad, lagerblad, kanel och vanilj. Serveras vid cirka 18°C till rätter av mörkt kött, gärna grillat. Fyllighet Strävhet Fruktsyra Laddar ... Allergener Allergener Smakbeskrivning",
+          "source": "verema.com",
+          "title": "Vino Chocolate Nº 4 Blanco en Verema",
+          "url": "https://www.verema.com/vinos/160963-chocolate-n-4-blanco",
+          "excerpt": "<strong>En boca entra tiene buena estructura, con cuerpo, bastante untuoso, marcada acidez y buena persistencia</strong>. En retronasal reaparecen algunas notas especiadas, flores blancas y sensaciones cítricas.",
           "lang": "sv"
         },
         {
-          "source": "riojawine.com",
-          "title": "Bodegas Izadi - Consejo Regulador DOCa Rioja - Riojawine",
-          "url": "https://riojawine.com/en-us/bodegas-rioja/bodegas-izadi/",
-          "excerpt": "Territory Rioja Alavesa Villabuena de Álava Bodegas Izadi Visit store izadi.com 945609086 marketing@izadi.com Travesía Herreria 2 - 5, 01307 Eskuernaga, Araba Tw. Ig. Yt. Ta. Bodegas Izadi was founded in 1987 by Gonzalo Antón, who, together with a group of friends and entrepreneurs from Vitoria, created an innovative project in the heart of Rioja Alavesa. Izadi offers wine lovers a set of experiences that take you into the world of wine and gastronomy, knowing in turn the peculiarities of the area where the grapes are born. Villabuena de Álava, where part of the family was already linked to th",
+          "source": "enoturismo-360.com",
+          "title": "Chocolate Nº 4: vino blanco, riojano y peculiar | Enoturismo 360",
+          "url": "https://enoturismo-360.com/chocolate-no-4-blanco-riojano-y-peculiar/",
+          "excerpt": "En boca, <strong>es amplio, graso y con buena acidez, ofreciendo una persistencia notable y un potencial de guarda que lo hace ideal para quienes disfrutan de vinos que evolucionan con el tiempo</strong>.",
           "lang": "sv"
         },
         {
-          "source": "systembolaget.se",
-          "title": "Bodegas Izadi Orben, 2021 | Systembolaget",
-          "url": "https://www.systembolaget.se/produkt/vin/bodegas-izadi-9574301/",
-          "excerpt": "<strong>Nyanserad, kryddig smak med tydlig fatkaraktär, inslag av mörka körsbär, vanilj, svartpeppar, plommon, kakao, kanel, kaffe och torkade fikon</strong>.",
+          "source": "nuevecuatrouno.com",
+          "title": "Chocolate Nº4, un blanco con mezcla de uvas y añadas",
+          "url": "https://nuevecuatrouno.com/2025/09/17/chocolate-n4-blanco-mezcla-uvas-anadas/",
+          "excerpt": "Bodegas Orben, del grupo Artevino Family Wineries, ha presentado el Nº4 de Chocolate, un coupage de diferentes añadas y variedades riojanas donde se combina la viura y la malvasía (30 por ciento), la garnacha blanca (35 por ciento) y la maturana blanca (35 por ciento).",
           "lang": "sv"
         },
         {
-          "source": "falstaff.com",
-          "title": "Bodegas Izadi in Villabuena de Álava - Falstaff",
-          "url": "https://www.falstaff.com/en/wineries/bodega-izadi",
-          "excerpt": "Discover the best wines with Falstaff scores and tasting notes from Winery Bodegas Izadi in Villabuena de Álava. Top cuisine and fine wines - they go hand in hand.",
+          "source": "elcorreodelvino.com",
+          "title": "Chocolate Nº 4: blanco, riojano y peculiar - EL CORREO DEL VINO",
+          "url": "https://elcorreodelvino.com/chocolate-no-4-blanco-riojano-y-peculiar/",
+          "excerpt": "Loader Please wait while your request is being verified...",
           "lang": "sv"
         }
       ]
@@ -683,17 +891,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "En lysande Chardonnay från Friedrich Becker, betraktad som Tysklands mästare inom bourgogne-stil. Kritiker lyfter fram dess fyllighet, mineralitet och exotiska aromatik, med toppbetyg från både Lobenberg och Falstaff.",
-        "en": "A brilliant Chardonnay from Friedrich Becker, regarded as Germany's master of Burgundian-style wines. Critics highlight its fullness, minerality and exotic aromatics, earning top scores from both Lobenberg and Falstaff."
+        "sv": "Kritikerkonsensus är mycket positiv – flera bedömare ger 93–95 poäng och lyfter fram detta som ett av de bästa exemplen på tysk Chardonnay från Friedrich Becker. Vinet beskrivs som fylligt, briljant och mineraliskt med stor spänning, ett riktigt 'must have' från Pfalz.",
+        "en": "Critical consensus is very positive, with scores ranging 93–95 points, highlighting this as one of Friedrich Becker's finest Chardonnays. The wine is described as full-bodied, brilliant and mineral-driven with great tension, a genuine 'must have' from the Pfalz region."
       },
       "score": 94,
       "taste_notes": {
-        "sv": "Fyllig och rund med mineralisk struktur, exotiska och aromatiska toner, spänning och brillans.",
-        "en": "Full-bodied and round with mineral structure, exotic and aromatic notes, tension and brilliance."
+        "sv": "Fyllig och rund med mineralitet, exotisk arom och fin spänning.",
+        "en": "Full and round with minerality, exotic aromatics and fine tension."
       },
       "pairing": {
-        "sv": "Passar till rikare fisk- och skaldjursrätter, fjäderfä i gräddsås samt mogna ostar.",
-        "en": "Pairs with richer fish and shellfish dishes, poultry in cream sauce, and mature cheeses."
+        "sv": "Passar till kräftdjur, fisk i smörsås, grillad kyckling eller mogna ostar.",
+        "en": "Pairs with shellfish, fish in butter sauce, grilled chicken or mature cheeses."
       },
       "sources": [
         {
@@ -701,13 +909,6 @@
           "title": "Friedrich Becker: Chardonnay Schweigen 2022 - Lobenbergs",
           "url": "https://www.gute-weine.de/produkt/friedrich-becker-chardonnay-schweigen-2022-74153h/",
           "excerpt": "Friedrich Becker: Chardonnay Schweigen 2022 VDP Zum Winzer 95 100 Chardonnay 100% weiß, trocken 13,0% Vol. Trinkreife: 2025–2037 voll & rund mineralisch exotisch & aromatisch Lobenberg: 95/100 Falstaff: 93+/100 Deutschland, Pfalz Allergene: Sulfite, Abfüllerinformation Abfüller / Importeur: Friedrich Becker, Hauptstraße 29, 76889 Schweigen, DEUTSCHLAND Heiner Lobenberg über: Chardonnay Schweigen 2022 95 /100 Wow, direkt beim ersten Schnuppern dieses Ortsweines von Beckers Heimatgemeinde Schweigen wird klar, warum das Weingut der Burgunder-Meister Deutschlands ist. Die Nase ist so wunderbar und",
-          "lang": "sv"
-        },
-        {
-          "source": "wine-in-black.at",
-          "title": "Friedrich Becker Chardonnay Schweigen trocken 2022",
-          "url": "https://www.wine-in-black.at/products/friedrich-becker-chardonnay-schweigen-trocken-2022",
-          "excerpt": "Chardonnay Schweigen trocken 2022 Deutschland, Pfalz Sonderpreis 24,00 €* 0,75l (32,00 €/l) Quantity selector 1 2 3 4 5 6 7 8 9 12 15 18 andere Warenkorb NEU 94 Wine in Black Zum Zoomen über das Bild gehen Klicken Sie zum Zoomen auf das Bild / Friedrich Becker Chardonnay Schweigen trocken 2022 Deutschland Pfalz Weißwein trocken Chardonnay Dies ist ein köstlicher Chardonnay des deutschen Burgunder-Magiers Friedrich Becker! Der Chardonnay ‚Schweigen‘ vereint Fülle und Brillanz, Spannung und Mineralität zu einem „Must Have“ – grandios! Sonderpreis 24,00 €* Inhalt 0,75L | 32,00 €/L Quantity select",
           "lang": "sv"
         },
         {
@@ -722,6 +923,13 @@
           "title": "Weine von Weingut Friedrich Becker (Schweigen) | wein.plus Produzentenbeschreibung",
           "url": "https://weinfuehrer.wein.plus/weingut-friedrich-becker/weine",
           "excerpt": "wein .plus ACHTUNG Sie nutzen einen veralteten Browser und einige Bereiche arbeiten nicht wie erwartet. Bitte aktualisieren Sie Ihren Browser. Chrome Firefox Microsoft Edge Safari Opera Anmelden Herzlich Willkommen! Angemeldet bleiben Ihr Kennwort vergessen? Neu bei wein .plus ? Mitglied werden Mitglied werden DE Ausgewählte Sprache English Deutsch Italiano Français Español Originalinhalte auf Deutsch Land auswählen Deutschland Frankreich Italien Schweiz Spanien Österreich Sonstige Currency € - EUR $ - AUD - Australian Dollar $ - CAD - Canadian Dollar ¥ - CNY - Chinese Yuan Renminbi € - EUR - ",
+          "lang": "sv"
+        },
+        {
+          "source": "wine-in-black.de",
+          "title": "Friedrich Becker Chardonnay Schweigen trocken 2022",
+          "url": "https://www.wine-in-black.de/products/friedrich-becker-chardonnay-schweigen-trocken-2022",
+          "excerpt": "Chardonnay Schweigen trocken 2022 Deutschland, Pfalz Sonderpreis 24,00 €* 0,75l (32,00 €/l) Quantity selector 1 2 3 4 5 6 7 8 9 12 15 18 andere Warenkorb NEU 94 Wine in Black VDP Zum Zoomen über das Bild gehen Klicken Sie zum Zoomen auf das Bild / Friedrich Becker Chardonnay Schweigen trocken 2022 Deutschland Pfalz Weißwein trocken Chardonnay Dies ist ein köstlicher Chardonnay des deutschen Burgunder-Magiers Friedrich Becker! Der Chardonnay ‚Schweigen‘ vereint Fülle und Brillanz, Spannung und Mineralität zu einem „Must Have“ – grandios! Sonderpreis 24,00 €* Inhalt 0,75L | 32,00 €/L Quantity se",
           "lang": "sv"
         },
         {
@@ -750,17 +958,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Ett Red Mountain-vin från Hedges Family Estate, en Bordeaux-inspirerad blend med Cabernet Sauvignon i centrum. Kritiker beskriver en medel- till fylligkroppig stil med god balans mellan jordig mineralitet och frisk syra, samt mjuka, sandiga tanniner.",
-        "en": "A Red Mountain wine from Hedges Family Estate, a Bordeaux-inspired blend centered on Cabernet Sauvignon. Critics describe a medium- to full-bodied style with a nice balance of earthy minerality and fresh acidity, along with soft, sandy tannins."
+        "sv": "Ett kraftfullt rödvin från Red Mountain i Washington, byggt på en blend av Cabernet Sauvignon, Merlot, Syrah, Cabernet Franc och Malbec. Kritiker beskriver en mörk, kryddig frukt med jordig mineralitet och fräsch syra, vilket ger en balanserad och medelfyllig till fyllig vinstil.",
+        "en": "A powerful red blend from Red Mountain, Washington, combining Cabernet Sauvignon, Merlot, Syrah, Cabernet Franc and Malbec. Critics note dark, spicy fruit with earthy minerality and fresh acidity, resulting in a well-balanced, medium- to full-bodied wine."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Intensiv arom av mörka bär, rostade toner, svarta vinbär, fläderbär, svartpeppar, mentol och eukalyptus; jordig mineralitet med saftig syra.",
-        "en": "Intense dark berry aroma with roasted notes, blackcurrant, elderberry, black pepper, menthol, and eucalyptus; earthy minerality with juicy acidity."
+        "sv": "Mörka bär, vinbär, fläderbär, svartpeppar, mentol och eukalyptus, med rostade toner och sandiga tanniner.",
+        "en": "Dark berries, blackcurrant, elderberry, black pepper, menthol and eucalyptus, with roasted notes and sandy tannins."
       },
       "pairing": {
-        "sv": "Passar till grillat rött kött, lammstek, hårdostar och rätter med örter som rosmarin och timjan.",
-        "en": "Pairs with grilled red meat, roast lamb, hard cheeses, and dishes featuring herbs like rosemary and thyme."
+        "sv": "Passar till grillat rött kött, lammstek, viltgryta och lagrade ostar.",
+        "en": "Pairs with grilled red meat, roast lamb, venison stew, and aged cheeses."
       },
       "sources": [
         {
@@ -771,10 +979,10 @@
           "lang": "sv"
         },
         {
-          "source": "wine-searcher.com",
-          "title": "Best local price for Hedges Family Estate Cabernet Sauvignon - stores near you in USA",
-          "url": "https://www.wine-searcher.com/find/hedges+fmly+estate+cab+sauv+red+mnt+washington+usa",
-          "excerpt": "Based on critic scores and price, this wine represents great value. Critic tasting note: (2023 vintage) &quot;<strong>Interesting balance of earthy minerality and fresh, juicy acidity in this medium- to full-bodied wine</strong>.",
+          "source": "vivino.com",
+          "title": "Hedges Family Estate Red Mountain | Vivino English",
+          "url": "https://www.vivino.com/en/hedges-family-estate-red-mountain/w/1553740",
+          "excerpt": "Hedges Family Estate Red Mountain is a Red wine. Made from Shiraz/Syrah, Merlot, Cabernet Sauvignon, Cabernet Franc, Malbec. Check its rating and reviews from the world’s largest wine community.",
           "lang": "sv"
         },
         {
@@ -785,10 +993,10 @@
           "lang": "sv"
         },
         {
-          "source": "vivino.com",
-          "title": "Hedges Family Estate Red Mountain | Vivino English",
-          "url": "https://www.vivino.com/en/hedges-family-estate-red-mountain/w/1553740",
-          "excerpt": "Hedges Family Estate Red Mountain is a Red wine. Made from Shiraz/Syrah, Merlot, Cabernet Sauvignon, Cabernet Franc, Malbec. Check its rating and reviews from the world’s largest wine community.",
+          "source": "wine-searcher.com",
+          "title": "Best local price for Hedges Family Estate Cabernet Sauvignon - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/hedges+fmly+estate+cab+sauv+red+mnt+washington+usa",
+          "excerpt": "Based on critic scores and price, this wine represents great value. Critic tasting note: (2023 vintage) &quot;<strong>Interesting balance of earthy minerality and fresh, juicy acidity in this medium- to full-bodied wine</strong>.",
           "lang": "sv"
         },
         {
@@ -817,24 +1025,24 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "En lovordad Spätburgunder från gamla vinstockar, prisad av Falstaff med 94 poäng för årgång 2023 – det första helt ekologiskt certifierade året för vingården. Beskrivs som en hänförande pinot noir, redo att drickas nu men även med potential att utvecklas ytterligare några år.",
-        "en": "A highly regarded Spätburgunder from old vines, awarded 94 points by Falstaff for the 2023 vintage – the estate's first fully organic-certified year. Described as a ravishing Pinot Noir, delicious to drink now but also capable of further ageing."
+        "sv": "En lysande Spätburgunder från gamla vinstockar utanför Weil am Rhein, hyllad av Falstaff med 94 poäng. Kritiker beskriver den som förtjusande att dricka redan nu, men med potential att utvecklas ytterligare några år på flaska.",
+        "en": "A striking Spätburgunder from old vines near Weil am Rhein, awarded 94 points by Falstaff. Critics describe it as delicious to drink now, with the structure to reward a few more years in bottle."
       },
       "score": 94,
       "taste_notes": {
-        "sv": "Elegant och koncentrerad pinot noir med djup frukt och fin struktur, formad av kalkstensjordar.",
-        "en": "Elegant and concentrated Pinot Noir with deep fruit and fine structure, shaped by limestone soils."
+        "sv": "Elegant och mångfacetterad pinot noir-karaktär, sannolikt med mineralitet från kalkstensjordar, fin fruktkoncentration och balanserad struktur.",
+        "en": "Elegant, multi-layered Pinot Noir character, likely showing limestone-driven minerality, fine fruit concentration and balanced structure."
       },
       "pairing": {
-        "sv": "Passar till anka, viltfågel, grillad lax eller lagrade ostar.",
-        "en": "Pairs with duck, game birds, grilled salmon, or aged cheeses."
+        "sv": "Passar till anka, viltfågel, svamprisotto eller lagrad ost.",
+        "en": "Pairs with duck, game birds, mushroom risotto or aged cheese."
       },
       "sources": [
         {
-          "source": "falstaff.com",
-          "title": "2023 Weil am Rhein Spätburgunder Alte Reben trocken - Weingut am Schlipf – Schneider - Falstaff",
-          "url": "https://www.falstaff.com/at/weine/weingut-am-schlipf-schneider-2023-weil-am-rhein-spaetburgunder-alte-reben-trocken-1",
-          "excerpt": "Der Rotwein Weil am Rhein Spätburgunder Alte Reben trocken, Jahrgang 2023 des Weinguts Weingut am Schlipf – Schneider wurde 2026 von Ulrich Sautter mit <strong>94 Falstaff-Punkten bewertet</strong>.",
+          "source": "swig.co.uk",
+          "title": "Spätburgunder vom Kalkstein Weingut am Schlipf Schneider 2023 – Swig Wines",
+          "url": "https://swig.co.uk/products/spatburgunder-vom-kalkstein-weingut-am-schlipf-schneider-2023",
+          "excerpt": "Spatburgunder vom Kalkstein Weingut am Schlipf Schneider 2023 A ravishing Pinot Noir that is delicious to drink now, or to lay down for a few years. This is the wine previously known as Weiler Spätburgunder , produced from a handful of sites close to the town of Weil... Read more Regular price £27.50 Offer Default Title - Back Soon – + Notify me when available Back Soon Order before 2pm for evening delivery (London only) Order before 2pm for next day delivery (Mainland UK most postcodes - Highlands 2-3 days) Delivery is Monday to Saturday - You will be able to select a preferred delivery day/e",
           "lang": "sv"
         },
         {
@@ -845,10 +1053,10 @@
           "lang": "sv"
         },
         {
-          "source": "henris-diamonds.com",
-          "title": "HENRIS | Weingut am Schlipf – Schneider, Weil am Rhein",
-          "url": "https://www.henris-diamonds.com/w/de/weil-am-rhein/weingut-am-schlipf-schneider",
-          "excerpt": "Keine Ergebnisse gefunden © Weingut am Schlipf – Schneider Weingut am Schlipf – Schneider Lörracher Straße 4 79576 Weil am Rhein Deutschland +49 (0) 7621 72817 Claus Schneider Johannes & Christoph Schneider Johannes & Christoph Schneider ZURÜCK Unsere „Visionäre des Jahres 2025“ haben auch in diesem Jahr wieder eine Kollektion präsentiert, die uns in vollem Umfang begeistern konnte. Der Jahrgang 2023 war ein besonderer für Johannes und Christoph Schneider: Schließlich war er der erste komplett bio-zertifizierte, und er zeigt erneut: Große Weine und substanzielles Nachhaltigkeitsbemühen können ",
+          "source": "falstaff.com",
+          "title": "2023 Weil am Rhein Spätburgunder Alte Reben trocken - Weingut am Schlipf – Schneider - Falstaff",
+          "url": "https://www.falstaff.com/at/weine/weingut-am-schlipf-schneider-2023-weil-am-rhein-spaetburgunder-alte-reben-trocken-1",
+          "excerpt": "Der Rotwein Weil am Rhein Spätburgunder Alte Reben trocken, Jahrgang 2023 des Weinguts Weingut am Schlipf – Schneider wurde 2026 von Ulrich Sautter mit <strong>94 Falstaff-Punkten bewertet</strong>.",
           "lang": "sv"
         },
         {
@@ -859,10 +1067,10 @@
           "lang": "sv"
         },
         {
-          "source": "swig.co.uk",
-          "title": "Spätburgunder vom Kalkstein Weingut am Schlipf Schneider 2023 – Swig Wines",
-          "url": "https://swig.co.uk/products/spatburgunder-vom-kalkstein-weingut-am-schlipf-schneider-2023",
-          "excerpt": "Spatburgunder vom Kalkstein Weingut am Schlipf Schneider 2023 A ravishing Pinot Noir that is delicious to drink now, or to lay down for a few years. This is the wine previously known as Weiler Spätburgunder , produced from a handful of sites close to the town of Weil... Read more Regular price £27.50 Offer Default Title - Back Soon – + Notify me when available Back Soon Order before 2pm for evening delivery (London only) Order before 2pm for next day delivery (Mainland UK most postcodes - Highlands 2-3 days) Delivery is Monday to Saturday - You will be able to select a preferred delivery day/e",
+          "source": "henris-diamonds.com",
+          "title": "HENRIS | Weingut am Schlipf – Schneider, Weil am Rhein",
+          "url": "https://www.henris-diamonds.com/w/de/weil-am-rhein/weingut-am-schlipf-schneider",
+          "excerpt": "Keine Ergebnisse gefunden © Weingut am Schlipf – Schneider Weingut am Schlipf – Schneider Lörracher Straße 4 79576 Weil am Rhein Deutschland +49 (0) 7621 72817 Claus Schneider Johannes & Christoph Schneider Johannes & Christoph Schneider ZURÜCK Unsere „Visionäre des Jahres 2025“ haben auch in diesem Jahr wieder eine Kollektion präsentiert, die uns in vollem Umfang begeistern konnte. Der Jahrgang 2023 war ein besonderer für Johannes und Christoph Schneider: Schließlich war er der erste komplett bio-zertifizierte, und er zeigt erneut: Große Weine und substanzielles Nachhaltigkeitsbemühen können ",
           "lang": "sv"
         }
       ]
@@ -884,17 +1092,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Tahbilk Old Vines Cabernet Shiraz beskrivs som en klassisk, fruktdriven australisk blend med subtil ekfatspåverkan och god balans. Kritiker lyfter fram dess pålitliga kvalitet och utmärkta pris-värde-förhållande som ett tydligt exempel på den 'typiska' australiska cabernet-shiraz-stilen.",
-        "en": "Tahbilk Old Vines Cabernet Shiraz is described as a classic, fruit-driven Australian blend with subtle oak influence and good balance. Critics highlight its reliable quality and excellent value, calling it a textbook example of the 'quintessential' Australian Cabernet-Shiraz style."
+        "sv": "Tahbilk Old Vines Cabernet Shiraz beskrivs som en klassisk, fruktdriven blandning i gammal skola stil, med god balans mellan cabernets vinbärstoner och shiraz plommonighet. Kritiker lyfter fram dess pålitliga kvalitet och goda pris/kvalitetsförhållande över flera årgångar.",
+        "en": "Tahbilk Old Vines Cabernet Shiraz is described as a classic, fruit-driven blend in an old-school style, balancing cabernet's currant notes with shiraz's plummy character. Critics highlight its consistent quality and strong value across multiple vintages."
       },
-      "score": null,
+      "score": 88,
       "taste_notes": {
-        "sv": "Vinbärs- och plommonfrukt, diskret ek, örtiga och kryddiga toner som nejlika och stjärnanis, fast struktur utan grönt eller alltför söta inslag.",
-        "en": "Currant and plum fruit, subtle oak, herbal and spicy notes like clove and star anise, firm structure without green or overly sweet characters."
+        "sv": "Djup granatröd färg, vinbär och plommon, subtil ek, inte kryddig eller grön - en fruktig, klassisk röd blend.",
+        "en": "Deep garnet color, currant and plum notes, subtle oak, not spicy or green - a fruity, classic red blend."
       },
       "pairing": {
-        "sv": "Passar utmärkt till grillat rött kött, lammgryta eller mogna ostar.",
-        "en": "Pairs well with grilled red meat, lamb stew, or mature cheeses."
+        "sv": "Passar till grillat rött kött, lammgryta eller mogna ostar.",
+        "en": "Pairs with grilled red meat, lamb stew, or aged cheeses."
       },
       "sources": [
         {
@@ -912,13 +1120,6 @@
           "lang": "sv"
         },
         {
-          "source": "cellartracker.com",
-          "title": "2017 Tahbilk Old Vines Cabernet - Shiraz - CellarTracker",
-          "url": "https://www.cellartracker.com/m/wines/3751535",
-          "excerpt": "December 14, 2022 - {screwcap, 14.5%} Solid garnet. Proper nose and palate for this classic blend, more in the old-school mould. Not so much oak, a fruit-driven example of curranty cabernet and plummy shiraz. Not spicy, not green, not cocktail! Subtle, hardly apparent oak.",
-          "lang": "sv"
-        },
-        {
           "source": "tahbilk.com.au",
           "title": "Shiraz Cabernet | Tahbilk Winery",
           "url": "https://www.tahbilk.com.au/shiraz-cabernet",
@@ -926,10 +1127,17 @@
           "lang": "sv"
         },
         {
-          "source": "wine-searcher.com",
-          "title": "Best local price for Tahbilk 'Old Vines' Cabernet - Shiraz - stores near you in Texas, USA",
-          "url": "https://www.wine-searcher.com/find/tahbilk+old+vines+cab+sra+central+victoria+australia",
-          "excerpt": "Critic tasting note: (2018 vintage) &quot;<strong>This is perceived by most Aussies as the quintessential Australian blend</strong>. Aromas of yeast extract, old casks, cloves, currants, star anise and flower garden.",
+          "source": "cellartracker.com",
+          "title": "2017 Tahbilk Old Vines Cabernet - Shiraz - CellarTracker",
+          "url": "https://www.cellartracker.com/m/wines/3751535",
+          "excerpt": "December 14, 2022 - {screwcap, 14.5%} Solid garnet. Proper nose and palate for this classic blend, more in the old-school mould. Not so much oak, a fruit-driven example of curranty cabernet and plummy shiraz. Not spicy, not green, not cocktail! Subtle, hardly apparent oak.",
+          "lang": "sv"
+        },
+        {
+          "source": "tastingbook.com",
+          "title": "Old Vines Cabernet Shiraz 2012 Tahbilk Winery | Your personal wine professional | Tastingbook",
+          "url": "https://tastingbook.com/wine/tahbilk_winery/old_vines_cabernet_shiraz__2012",
+          "excerpt": "93 Tb points",
           "lang": "sv"
         }
       ]
@@ -951,17 +1159,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Vinha Mãe framstår som ett kraftfullt och strukturerat rödvin med koncentrerade tanniner och tydlig ny ek. Kritiker pekar på ett behov av lagring för att mjukna och integrera de intensiva smakerna.",
-        "en": "Vinha Mãe emerges as a powerful, structured red with concentrated tannins and pronounced new oak. Critics note it needs aging to soften and integrate its intense flavors."
+        "sv": "Vinha Mãe är en kraftfull och koncentrerad rödvinsblend med fasta tanniner som gynnas av lagring. Kritiker lyfter fram mörka bär, lakrits och mentolinslag från ny ek, tillsammans med toner av kakao och rostat bröd.",
+        "en": "Vinha Mãe is a powerful, concentrated red blend with firm tannins that benefits from aging. Critics highlight dark berry fruit, licorice and minty new-oak notes, alongside hints of cocoa and toasted bread."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Mörka bär som björnbär och krikon, inslag av lakrits och mint från ny ek, samt toner av kakaopulver, torkad dill och varmt brödigt bröd.",
-        "en": "Dark fruits like blackberry and damson, hints of licorice and mint from new oak, along with notes of cocoa powder, dried dill, and warm bread."
+        "sv": "Björnbär, krikon, lakrits, mentol, kakaopulver, torkad dill, rostat bröd.",
+        "en": "Blackberry, damson, licorice, mint, cocoa powder, dried dill, toasted bread."
       },
       "pairing": {
-        "sv": "Passar bra till grillat rött kött, viltgryta eller lagrad ost.",
-        "en": "Pairs well with grilled red meat, game stew, or aged cheese."
+        "sv": "Passar till grillat rött kött, lammgryta och kraftiga ostar.",
+        "en": "Pairs with grilled red meat, lamb stew and robust cheeses."
       },
       "sources": [
         {
@@ -1018,17 +1226,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Sela är Bodegas Rodas yngsta och mest tillgängliga vin, avsett för tidig konsumtion snarare än lagring. Kritiker beskriver det som ett fräscht, fruktdrivet Rioja-vin med subtil ekpåverkan, gjort på gamla vinstockar av Tempranillo med inslag av Garnacha och Graciano.",
-        "en": "Sela is Bodegas Roda's youngest and most approachable wine, made for immediate drinking rather than aging. Critics describe it as a fresh, fruit-forward Rioja with subtle oak influence, crafted from old-vine Tempranillo blended with Garnacha and Graciano."
+        "sv": "Sela från Bodegas Roda framstår som ett nyanserat, fruktigt och smakrikt Riojavin med tydlig rostad fatkaraktär. Kritikerna är eniga om att det är ungt men välbalanserat, med en spännande utveckling framför sig.",
+        "en": "Bodegas Roda's Sela is described as a nuanced, fruit-forward and flavorful Rioja with distinct toasted oak character. Critics agree it is youthful yet well-structured, with promising development ahead."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Levande röda bär, mjuk ekbalans och aromatiska örter i bakgrunden; frukten får ta plats framför diskret fatkaraktär.",
-        "en": "Vibrant red berry fruit, gentle oak integration, and aromatic herbal undertones; the fruit takes center stage over subtle oak."
+        "sv": "Mörka körsbär, plommon, svarta vinbär, kakao, kaffe, vanilj, ceder, lagerblad och dill, med stram medelhög syra och märkbara tanniner.",
+        "en": "Dark cherries, plum, blackcurrant, cocoa, coffee, vanilla, cedar, bay leaf and dill, with firm medium acidity and noticeable tannins."
       },
       "pairing": {
-        "sv": "Passar till grillat rött kött, tapas med chorizo eller mogna ostar.",
-        "en": "Pairs with grilled red meats, tapas with chorizo, or aged cheeses."
+        "sv": "Passar utmärkt till rätter av mörkt kött, gärna grillat, serveras vid cirka 18°C.",
+        "en": "Pairs excellently with dark meat dishes, especially grilled, served at around 18°C (64°F)."
       },
       "sources": [
         {
@@ -1036,6 +1244,20 @@
           "title": "Wine Bodegas Roda Sela - Roda",
           "url": "https://roda.es/en/our-wines/sela",
           "excerpt": "[[ $t('ICEXNEXT_TEXT_RODA') ]] Our wines Bodegas Roda SELA RODA RODA I CIRSION RODA I Blanco Experiences Wine tour and tasting Wine bar Virtual experiences \"Maridajes\" with photography Bodegas RODA About RODA Vineyard Processes Our team Press R&D projects Contact us Club En | Es Our wines Bodegas Roda SELA RODA RODA I CIRSION RODA I Blanco Experiences Wine tour and tasting Wine bar Virtual experiences \"Maridajes\" with photography Bodegas RODA About RODA Vineyard Processes Our team Press R&D projects Contact us Club En | Es Bodegas Roda SELA Our youngest wine From vineyards that are 15 to 30 ye",
+          "lang": "sv"
+        },
+        {
+          "source": "systembolaget.se",
+          "title": "Sela Bodegas Roda, 2024 | Systembolaget",
+          "url": "https://www.systembolaget.se/produkt/vin/sela-9506301/",
+          "excerpt": "Startsida Sortiment Vin Rött vin Fruktigt & Smakrikt Startsida Sortiment Vin Rött vin Fruktigt & Smakrikt Sätt betyg Spara Vin , Rött vin , Fruktigt & Smakrikt Sela Bodegas Roda, 2024 \"\" Spanien , Rioja Flaska · 750 ml · 14 % vol. Produktnummer: Nr 9506301 Nr 9506301 239:- 239 kronor 318:67 kr/l 318 kronor och 67 öre per liter Nyanserat, fruktigt, smakrikt vin med tydlig rostad fatkaraktär, inslag av plommon, kakao, mörka körsbär, kaffe, svarta vinbär, dill, ceder, lagerblad och vanilj. Serveras vid cirka 18°C till rätter av mörkt kött, gärna grillat. Fyllighet Strävhet Fruktsyra Laddar innehå",
+          "lang": "sv"
+        },
+        {
+          "source": "vinsider.se",
+          "title": "Garb tipsar vin - Sela Bodegas Roda 2024 - Vinsider",
+          "url": "https://www.vinsider.se/artiklar/garb-tipsar-vin-sela-bodegas-roda-2024",
+          "excerpt": "Sela Bodegas Roda 2024 Nr 9506301 Pris 239 kronor ”Mörkbärigt med inslag av mörk choklad, kaffetoner och en touch av vanilj. Stram medelhög syra med en lätt textur och tanniner som gör sig uppmärksamma. Fortfarande ungt och har en spännande utveckling framför sig.” Mats Garb, Vinsider 21 augusti 2026 Previous Article Melleruds nya design är en blinkningar till historien Next Article Fredagsdrinken - French 75",
           "lang": "sv"
         },
         {
@@ -1050,20 +1272,6 @@
           "title": "2024 Bodegas Roda SELA, Rioja, Spain (750ml) - Ferry Plaza Wine Merchant",
           "url": "https://fpwm.com/2024-bodegas-roda-sela-rioja-spain-750ml/",
           "excerpt": "Description Bodegas Roda was founded in 1987 on the banks of the Ebro River in Haro, La Rioja, by Mario Rotllant Sola and Carmen de Aguilera Daurella. (They took the first two letters of each of their last names for the name RO-DA.) They sustainably farm old-vine vineyards of only indigenous varietals of Rioja, Tempranillo, Garnacha and Graciano and exclusively produce estate wines. They are best known for their age-worthy Roda, Roda I, and Roda II Reserva bottlings but also make this Sela wine, which is meant for more immediate consumption. This Sela bottling is a blend of Tempranillo with 3%",
-          "lang": "sv"
-        },
-        {
-          "source": "wine.com",
-          "title": "Bodegas Roda Sela Rioja 2024",
-          "url": "https://www.wine.com/product/bodegas-roda-sela-rioja-2024/4129238",
-          "excerpt": "Over 10,000 wines in stock. FREE shipping for a year with StewardShip. Pro ratings and friendly experts to help you choose from the best selection of red wine, white wine, champagne and more.",
-          "lang": "sv"
-        },
-        {
-          "source": "decantalo.com",
-          "title": "Bodegas Roda Sela Tempranillo 2024 and 2022 Magnum",
-          "url": "https://www.decantalo.com/us/en/sela.html",
-          "excerpt": "Brimming with vitality, Roda Sela Tempranillo 2023 is <strong>a red wine that unfolds a symphony of red fruits seemingly dancing in the glass</strong>. On the nose, the oak merely whispers, allowing the fruit to shine against a backdrop of aromatic herbs and ...",
           "lang": "sv"
         }
       ]
@@ -1085,26 +1293,19 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Graci Etna Rosso 2024 beskrivs som ett nyanserat och kryddigt vin med tydlig fatkaraktär, format av vulkaniska jordar och höga höjdlägen på Etnas norra sluttning. Producenten Graci lyfts fram som en av pionjärerna bakom Etnas moderna renässans, med fokus på lokala druvor som Nerello Mascalese.",
-        "en": "Graci Etna Rosso 2024 is described as a nuanced, spicy wine with clear oak character, shaped by volcanic soils and high-altitude vineyards on Etna's northern slope. The producer Graci is highlighted as a pioneer of Etna's modern wine renaissance, focusing on native grapes like Nerello Mascalese."
+        "sv": "Graci Etna Rosso 2024 beskrivs som ett nyanserat och kryddigt vin med tydlig fatkaraktär, typiskt för producentens hantverksmässiga stil på Etnas norra sluttning. Inga kritikerpoäng finns specifikt för denna årgång av Rosso, men den ekologiska och terroirdrivna profilen känns igen från husets övriga viner.",
+        "en": "Graci's Etna Rosso 2024 is described as nuanced and spicy with clear oak character, consistent with the producer's artisanal style on Etna's northern slope. No critic scores were found specifically for this Rosso vintage, but its organic, terroir-driven profile aligns with the estate's broader reputation."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Kryddig med fatkaraktär, körsbär, rökig mineral, sandelträ, choklad, jordgubbar, rosor, lagerblad och vanilj.",
-        "en": "Spicy with oak character, cherry, smoky minerality, sandalwood, chocolate, strawberry, rose, bay leaf and vanilla."
+        "sv": "Körsbär, rökig mineral, sandelträ, choklad, jordgubbar, rosor, lagerblad och vanilj.",
+        "en": "Cherry, smoky minerality, sandalwood, chocolate, strawberries, rose, bay leaf and vanilla."
       },
       "pairing": {
-        "sv": "Passar till lamm- eller nötköttsrätter, serveras runt 18°C.",
-        "en": "Pairs well with lamb or beef dishes, best served around 18°C."
+        "sv": "Passar till lamm- eller nötkött, serveras vid cirka 18°C.",
+        "en": "Pairs with lamb or beef dishes, best served around 18°C (64°F)."
       },
       "sources": [
-        {
-          "source": "vivino.com",
-          "title": "Graci Etna Rosso | Vivino Svenska",
-          "url": "https://www.vivino.com/sv/graci-etna-rosso/w/75659",
-          "excerpt": "Våra vinexperter tror att det här Södra Italien Röda vinet skulle vara en match made in heaven med dessa rätter.",
-          "lang": "sv"
-        },
         {
           "source": "vinsider.se",
           "title": "Etna producenten Graci i tillfälliga sortimentet - Vinsider",
@@ -1113,10 +1314,24 @@
           "lang": "sv"
         },
         {
+          "source": "vivino.com",
+          "title": "Graci Etna Rosso | Vivino Sverige",
+          "url": "https://www.vivino.com/SE/sv/graci-etna-rosso/w/75659",
+          "excerpt": "Etna Rosso är en Rött vin. Tillverkad av Nerello Mascalese. Se recensioner och priser för detta vin.",
+          "lang": "sv"
+        },
+        {
+          "source": "xtrawine.com",
+          "title": "Graci Etna Red DOC 2024 Nerello Mascalese Sicily Wine 75cl | XtraWine",
+          "url": "https://www.xtrawine.com/products/graci-etna-rosso-2024",
+          "excerpt": "Skip to product information Open media 1 in modal Open media 2 in modal 1 / of 2 Show more Graci Sicily Etna DOC Wines Graci Etna Rosso 2024 Red green still Organic and sustainable Skip to product information Open media 1 in modal Open media 2 in modal 1 / of 2 Show more Graci Sicily Etna DOC Wines Regular price €26,00 Regular price €26,00 Sale price Unit price / per Sale Sold out X Quantity ( 0 in cart) Decrease quantity for Graci Etna Rosso 2024 Increase quantity for Graci Etna Rosso 2024 ADD TO CART Notify me when available ADD TO CART Notify me when available Multiple purchases: add more b",
+          "lang": "sv"
+        },
+        {
           "source": "systembolaget.se",
           "title": "Graci Etna Rosso, 2024 | Systembolaget",
           "url": "https://www.systembolaget.se/produkt/vin/graci-9018201/",
-          "excerpt": "Startsida Sortiment Vin Rött vin Kryddigt & Mustigt Startsida Sortiment Vin Rött vin Kryddigt & Mustigt Sätt betyg Spara Vin , Rött vin , Kryddigt & Mustigt Graci Etna Rosso, 2024 \"\" Italien , Sicilien , Etna Flaska · 750 ml · 14,5 % vol. Produktnummer: Nr 9018201 Nr 9018201 239:- 239 kronor 318:67 kr/l 318 kronor och 67 öre per liter Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, rökig mineral, sandelträ, choklad, jordgubbar, rosor, lagerblad och vanilj. Serveras vid cirka 18°C till rätter av lamm- eller nötkött. Fyllighet Strävhet Fruktsyra Laddar ... Innehållsförteckning Innehå",
+          "excerpt": "Startsida Sortiment Vin Rött vin Kryddigt & Mustigt Startsida Sortiment Vin Rött vin Kryddigt & Mustigt Sätt betyg Spara Vin , Rött vin , Kryddigt & Mustigt Graci Etna Rosso, 2024 \"\" Italien , Sicilien , Etna Flaska · 750 ml · 14,5 % vol. Produktnummer: Nr 9018201 Nr 9018201 239:- 239 kronor 318:67 kr/l 318 kronor och 67 öre per liter Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, rökig mineral, sandelträ, choklad, jordgubbar, rosor, lagerblad och vanilj. Serveras vid cirka 18°C till rätter av lamm- eller nötkött. Fyllighet Strävhet Fruktsyra Laddar innehåll Laddar ... Innehållsfö",
           "lang": "sv"
         },
         {
@@ -1124,13 +1339,6 @@
           "title": "Graci Etna Bianco 2024 - Woodland Hills Wine Company",
           "url": "https://whwc.com/graci-etna-bianco-2024/",
           "excerpt": "94 points James Suckling : \"A leesy, mineral wine with sophisticated apricot fruit wrapped in lemon peel and umami depth. Light- to medium-bodied. Crisp and chewy on the palate with refreshing style and a lavish, fruity finish. Drink or hold. (6/4/25)\" 92 points Monica Larner ( Wine Advocate ) : \"The Graci 2024 Etna Bianco (made with 90% Carricante and 10% Catarratto) is a vibrant and fresh white wine with unripe peach, honey and a hint of saffron and a terrific sense of depth. It remains approachable, all the while giving the wine a cheerful near-term drinking window. Drink: 2025-2030. (Jun 2",
-          "lang": "sv"
-        },
-        {
-          "source": "biondivino.com",
-          "title": "Graci Etna Rosato 2024 – Biondivino",
-          "url": "https://biondivino.com/products/graci-etna-rosato-2024",
-          "excerpt": "Graci Etna Rosato 2024 $26.00 Vinity Default Title Quantity Sold Out Talk about fresh as a daisy and firing on all cylinders! Derived entirely from the local specialty in Nerello Mascalese, the fruit sees a feather-light pressing before being transferred to concrete tanks for fermentation and aging. Equal parts vibrant, delicate and punchy; über-pretty cherry, raspberry, rose petal, cassis and sweet herbs bursting on the nose and palate, with a distinct core of savory, flinty minerality that harks to the wine’s volcanic home.",
           "lang": "sv"
         }
       ]
@@ -1152,17 +1360,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Axilium är en Barbera d'Alba från den prestigefyllda Asili-cruen i Barbaresco, framställd av det familjeägda huset Cascina Luisin med traditionella, lågintervenerande metoder. Recensioner och producentbeskrivningar lyfter fram en fyllig, balanserad stil med fruktdriven karaktär och lång eftersmak, snarare än kritikerpoäng.",
-        "en": "Axilium is a Barbera d'Alba sourced from the prestigious Asili cru in Barbaresco, produced by the family-run Cascina Luisin using traditional, low-intervention methods. Sources emphasize a full-bodied, balanced style with fruit-forward character and a long finish rather than critic scores."
+        "sv": "Axilium är en Barbera d'Alba från Cascina Luisin, producerad från en liten parcell i den ansedda Asili-cru i Barbaresco med vinstockar planterade 1965. Vinet framställs med ekologiska metoder och traditionell vinifiering, vilket ger ett uttrycksfullt exempel på druvans karaktär. Recensionerna är begränsade men pekar på ett hantverksmässigt och terroirdrivet vin.",
+        "en": "Axilium is a Barbera d'Alba from Cascina Luisin, made from a tiny parcel in the esteemed Asili cru in Barbaresco with vines planted in 1965. The wine is produced using organic methods and traditional vinification, resulting in an expressive example of the variety's character. Reviews are limited but point to a craft-driven, terroir-focused wine."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Intensiv rubinröd färg med violetta reflexer; arom av körsbär, plommon och röda bär; fyllig, mjuk och balanserad smak med lång eftersmak.",
-        "en": "Deep ruby color with violet hues; aromas of cherry, plum and red berries; full-bodied, soft and balanced palate with a persistent finish."
+        "sv": "Fylligt rött frukt, mineralitet och struktur präglad av kalkstensrik jord; traditionell vinifiering ger djup och komplexitet.",
+        "en": "Rich red fruit, minerality, and structure shaped by limestone-rich soil; traditional vinification lends depth and complexity."
       },
       "pairing": {
-        "sv": "Passar utmärkt till rött kött och lagrade ostar.",
-        "en": "Pairs well with red meats and aged cheeses."
+        "sv": "Passar till grillat kött, vilträtter, och medelmogna ostar.",
+        "en": "Pairs with grilled meats, game dishes, and medium-aged cheeses."
       },
       "sources": [
         {
@@ -1173,13 +1381,6 @@
           "lang": "sv"
         },
         {
-          "source": "serendipitywines.com",
-          "title": "Cascina Luisin - Barbera d'Alba Axilium - Serendipity Wines",
-          "url": "https://serendipitywines.com/product/cascina-luisin-barbera-dalba-axilium/",
-          "excerpt": "Select Market California Market Texas Market National Market Entire Catalog Facebook Instagram YouTube 0 Items Product Search … Cascina Luisin – Barbera d’Alba Axilium 2017 12pk/750ml Price Matrix Stock Quantities Italy Piedmont Wine Red The Facts Origins Italy > Piedmont > Langhe Appellation Alba Varietal Barbera Markets Texas Trade and Media Sales Sheet The Story Roberto owns a tiny sliver of Barbera in the highly regarded cru of Asili (“Axilium” is a play on the name of the cru), in the commune of Barbaresco, and from it he produces a wine that showcases in eye-popping fashion the variety’s",
-          "lang": "sv"
-        },
-        {
           "source": "tedwardwines.com",
           "title": "Cascina Luisin Axilium Barbera d'Alba DOC | T. Edward Wines & Spirits",
           "url": "https://www.tedwardwines.com/products/cascina-luisin-axiulium-barbera-dalba-doc",
@@ -1187,10 +1388,17 @@
           "lang": "sv"
         },
         {
+          "source": "serendipitywines.com",
+          "title": "Cascina Luisin - Barbera d'Alba Axilium - Serendipity Wines",
+          "url": "https://serendipitywines.com/product/cascina-luisin-barbera-dalba-axilium/",
+          "excerpt": "Select Market California Market Texas Market National Market Entire Catalog Facebook Instagram YouTube 0 Items Product Search … Cascina Luisin – Barbera d’Alba Axilium 2017 12pk/750ml Price Matrix Stock Quantities Italy Piedmont Wine Red The Facts Origins Italy > Piedmont > Langhe Appellation Alba Varietal Barbera Markets Texas Trade and Media Sales Sheet The Story Roberto owns a tiny sliver of Barbera in the highly regarded cru of Asili (“Axilium” is a play on the name of the cru), in the commune of Barbaresco, and from it he produces a wine that showcases in eye-popping fashion the variety’s",
+          "lang": "sv"
+        },
+        {
           "source": "seulementproduitsitaliens.fr",
           "title": "Cascina Luisin - Axilium Barbera D'alba - Cod. 14096",
           "url": "https://www.seulementproduitsitaliens.fr/vin/cascina-luisin/14096-cascina-luisin-axilium-barbera-dalba.html",
-          "excerpt": "HOME PAGE > Vins > Cascina Luisin Cascina Luisin - Axilium Barbera d'Alba L'Axilium Barbera d'Alba de Cascina Luisin est un rouge sec du Piémont, 100% Barbera. Robe rubis intense, arôme de cerise et de prune. En bouche, plein, souple et équilibré, finale persistante. Idéal avec viandes rouges et fromages affinés, servi à 16-18°C. Italie - Pi&#233;mont Vin Rouge Sec 100% Barbera Cascina Luisin Axilium Barbera d'Alba - 2023 750 ml 47.72 € Ajouter au panier Couleur Rouge rubis intense avec des reflets violacés. Parfum Intense et fruité, notes de cerise, de prune et de petits fruits rouges, légère",
+          "excerpt": "Verifica Umana / Human Check Per continuare, rispondi alla domanda: Quanto fa 1 + 4? What is 1 + 4? Invia / Submit",
           "lang": "sv"
         },
         {
@@ -1219,17 +1427,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Omdömena går isär: en recensent tycker vinet är för syrligt och tunt i kroppen och beskriver det som en besvikelse, medan en annan lyfter fram en fräsch, balanserad stil med citrusprägel. Sammantaget verkar detta Marsanne vara en smakupplevelse som delar kritikerna, möjligen beroende på om vinet fått mogna tillräckligt.",
-        "en": "Reviews are mixed: one critic finds the wine too acidic and lacking body, calling it a disappointment, while another praises its fresh, balanced style with a citrus-driven profile. Overall, this Marsanne seems to divide critics, possibly depending on bottle maturity."
+        "sv": "Omdömena går isär för denna Marsanne från Tahbilk. Medan en recension lyfter fram ett fräscht och balanserat vin med fin citrusprofil, beskriver en annan det som omoget, syrligt och tunt i kroppen.",
+        "en": "Critical opinion is divided on this Tahbilk Marsanne. One review praises a fresh, balanced wine with elegant citrus character, while another describes it as unready, acidic and lacking body."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Syrlig med citrusinslag; enligt vissa smakar det magert och kroppslöst, enligt andra fräscht och avrundat.",
-        "en": "Acidic with citrus notes; described by some as lean and light-bodied, by others as fresh and rounded."
+        "sv": "Citrusdominans, frisk syra, lätt till medelfyllig kropp; vissa upplever den som mager och syrlig.",
+        "en": "Citrus-forward, crisp acidity, light to medium body; some tasters find it lean and tart."
       },
       "pairing": {
-        "sv": "Passar utmärkt till fisk och skaldjur.",
-        "en": "Pairs excellently with fish and shellfish."
+        "sv": "Passar utmärkt till fisk och skaldjur, samt fjäderfä, fläsk och asiatisk mat med lätt kryddighet.",
+        "en": "Pairs well with fish and shellfish, as well as poultry, pork and lightly spiced Asian cuisine."
       },
       "sources": [
         {
@@ -1247,13 +1455,6 @@
           "lang": "sv"
         },
         {
-          "source": "winecompanion.com.au",
-          "title": "Tahbilk Museum Release Marsanne 2019",
-          "url": "https://winecompanion.com.au/wineries/victoria/nagambie-lakes/tahbilk/wines/white/marsanne/museum-release-marsanne/2019",
-          "excerpt": "Quick Tour Let's take a quick tour of the site, so we can show you some useful features. Begin Tour No Thanks Tahbilk Museum Release Marsanne 2019 Nagambie Lakes Become A Member To View These Tasting Notes Become a Halliday Wine Companion member today to gain access to more than 140,000 tasting notes and ratings. Login Sign Up Buy Now Wishlist Cellar Wine Information Winery Tahbilk Winery Region Nagambie Lakes Wine Region Nagambie Lakes Variety Marsanne Colour White Style Still Vintage 2019 Halliday Rating Members Only Price when Tasted AUD $34.00 Date when tasted 21 Dec 2024 Alcohol 12 % Drin",
-          "lang": "sv"
-        },
-        {
           "source": "vinkatten.superautomatic.com",
           "title": "Tahbilk Marsanne, vitt vin - recension på Vinkatten",
           "url": "https://vinkatten.superautomatic.com/vin/6406/",
@@ -1261,10 +1462,17 @@
           "lang": "sv"
         },
         {
-          "source": "tahbilk.com.au",
-          "title": "Marsanne | Tahbilk Winery",
-          "url": "https://www.tahbilk.com.au/marsanne",
-          "excerpt": "Menu Wine Shop Personal menu Shop Online Log in Join the Wine Club Wine Shop Back Wine Club Promotions Red Wine Back Shiraz Cabernet Sauvignon Cabernet Shiraz Cabernet Franc Grenache Shiraz Mouvedre Mourvedre Nero D'Avola Sangiovese Tempranillo All Reds White Wine Back Marsanne Chardonnay Pinot Gris Riesling Pinot Grigio Roussanne Verdelho Viognier White Blend All Whites Sparkling Rosé Dessert / Fortified View All Our Story Back 100 Year Anniversary Our Wines Back Tahbilk Marsanne Tahbilk Shiraz Tahbilk Cabernet Sauvignon Our Legacy Our Estate Our Winemakers Our Vines Visit Us Back Book The Ce",
+          "source": "winecompanion.com.au",
+          "title": "Tahbilk Museum Release Marsanne 2019",
+          "url": "https://winecompanion.com.au/wineries/victoria/nagambie-lakes/tahbilk/wines/white/marsanne/museum-release-marsanne/2019",
+          "excerpt": "Quick Tour Let's take a quick tour of the site, so we can show you some useful features. Begin Tour No Thanks Tahbilk Museum Release Marsanne 2019 Nagambie Lakes Become A Member To View These Tasting Notes Become a Halliday Wine Companion member today to gain access to more than 140,000 tasting notes and ratings. Login Sign Up Buy Now Wishlist Cellar Wine Information Winery Tahbilk Winery Region Nagambie Lakes Wine Region Nagambie Lakes Variety Marsanne Colour White Style Still Vintage 2019 Halliday Rating Members Only Price when Tasted AUD $34.00 Date when tasted 21 Dec 2024 Alcohol 12 % Drin",
+          "lang": "sv"
+        },
+        {
+          "source": "delectable.com",
+          "title": "2019 Tahbilk Museum Release Marsanne - Delectable",
+          "url": "https://www.delectable.com/wine/tahbilk/museum-release-marsanne/2019",
+          "excerpt": "Tahbilk Museum Release Marsanne Check Price - no ratings - no pro ratings Nagambie Lakes, Central Victoria, Victoria, Australia Marsanne Cream Sauces, Chili & Hot Spicy, Veal, Asian Cuisine, Chicken, Pork, Shellfish, Shellfish, Crab & Lobster, Fish Rate Want Explore related Tahbilk Nagambie Lakes, Central Victoria Marsanne Check Price Top Notes For All Vintages 2022 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2000 1949 --",
           "lang": "sv"
         }
       ]
@@ -1286,13 +1494,13 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Lodge Hill Shiraz får goda men inte enastående omdömen, med betoning på bra valuta för pengarna och en mjuk, mogen stil. Kritiker beskriver den som en pålitlig Clare Valley-shiraz snarare än en toppvinsprestation.",
-        "en": "Lodge Hill Shiraz receives solid but not outstanding reviews, praised mainly for its value and smooth, ripe style. Critics see it as a reliable Clare Valley shiraz rather than a top-tier performer."
+        "sv": "Jim Barrys Lodge Hill Shiraz från Clare Valley beskrivs som ett gott värde-alternativ med mjuk, mogen karaktär och välintegrerade tanniner. Recensionerna är begränsade i antal men konsekventa i sin positiva ton, utan någon enskild kritikerpoäng som sticker ut.",
+        "en": "Jim Barry's Lodge Hill Shiraz from Clare Valley is described as a good-value wine with a soft, ripe character and well-integrated tannins. Reviews are limited in number but consistently positive, without a standout numerical score from major critics."
       },
-      "score": 70,
+      "score": null,
       "taste_notes": {
-        "sv": "Karamell och björnbär, mjuk och mogen på gommen med fina, öppna tanniner och en len avslutning.",
-        "en": "Caramel and blackberry notes, smooth and ripe on the palate with refined, open tannins and a beautiful finish."
+        "sv": "Karamell och björnbär, len och mogen på gommen, fint texturerade tanniner och lång eftersmak.",
+        "en": "Caramel and blackberry notes, smooth and ripe on the palate, with refined, open-textured tannins and a lingering finish."
       },
       "pairing": {
         "sv": "Passar till grillat rött kött, lammgrytor och kraftiga ostar.",
@@ -1315,16 +1523,16 @@
         },
         {
           "source": "jimbarry.com",
-          "title": "2023 Halliday Scores - Jim Barry Wines",
-          "url": "https://www.jimbarry.com/news/2023-halliday-scores",
-          "excerpt": "2023 Halliday Scores - Jim Barry Wines Shopping Cart Login Menu Close Menu Shopping Cart Login Shop Wines Wine Club Visit Jim Barry Wines Cellar Door Vineyard Experiences Accommodation McGrath Foundation About Us Our Story Our Family Jim Barry Vineyards McGrath Foundation News Weddings Social Sharing Share Page 2023 Halliday Wine Companion Scores It is with great pleasure that we share with you our reviews from the 2023 Halliday Wine Companion. As a previous Halliday 'Winery of the Year,' and 5 Red Star Winery, we take particular pride in these results and are grateful to the Halliday team for",
+          "title": "Lodge Hill Shiraz - Jim Barry Wines",
+          "url": "https://www.jimbarry.com/lodge-hill-shiraz-awards-reviews",
+          "excerpt": "Lodge Hill Shiraz - Jim Barry Wines Shopping Cart Login Menu Close Menu Shopping Cart Login Shop Wines Wine Club Visit Jim Barry Wines Cellar Door Vineyard Experiences Accommodation McGrath Foundation About Us Our Story Our Family Jim Barry Vineyards McGrath Foundation News Weddings Lodge Hill Shiraz Awards & Reviews Visit Jim Barry Contact Us Cellar Door Information Australian Distributors International Distributors Terms and Conditions Privacy Policy Trade Media Reviews Products Wine Shop Wine Club 33 Craig Hill Road, Clare SA 5453 Ph: 61 (0) 8 88422261 | Email: communications@jimbarry.com A",
           "lang": "sv"
         },
         {
           "source": "jimbarry.com",
-          "title": "Lodge Hill Shiraz - Jim Barry Wines",
-          "url": "https://www.jimbarry.com/lodge-hill-shiraz-awards-reviews",
-          "excerpt": "Lodge Hill Shiraz - Jim Barry Wines Shopping Cart Login Menu Close Menu Shopping Cart Login Shop Wines Wine Club Visit Jim Barry Wines Cellar Door Vineyard Experiences Accommodation McGrath Foundation About Us Our Story Our Family Jim Barry Vineyards McGrath Foundation News Weddings Lodge Hill Shiraz Awards & Reviews Your Internet Browser is no longer supported. Outdated browsers can expose your computer to security risks To get the best experience using our site, you'll need to upgrade to a newer browser. Update your browser here",
+          "title": "2023 Halliday Scores - Jim Barry Wines",
+          "url": "https://www.jimbarry.com/news/2023-halliday-scores",
+          "excerpt": "2023 Halliday Scores - Jim Barry Wines Shopping Cart Login Menu Close Menu Shopping Cart Login Shop Wines Wine Club Visit Jim Barry Wines Cellar Door Vineyard Experiences Accommodation McGrath Foundation About Us Our Story Our Family Jim Barry Vineyards McGrath Foundation News Weddings Social Sharing Share Page 2023 Halliday Wine Companion Scores It is with great pleasure that we share with you our reviews from the 2023 Halliday Wine Companion. As a previous Halliday 'Winery of the Year,' and 5 Red Star Winery, we take particular pride in these results and are grateful to the Halliday team for",
           "lang": "sv"
         },
         {
@@ -1352,19 +1560,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "Bollingers La Grande Année 2018 är en prestigecuvée av champagne, skapad enbart under exceptionella årgångar från husets bästa Pinot Noir- och Chardonnay-lägen. En kraftfull och strukturerad champagne som förenar elegans med mognadspotential.",
-        "en": "Bollinger's La Grande Année 2018 is a prestige cuvée champagne, produced only in exceptional vintage years from the house's finest Pinot Noir and Chardonnay vineyards. It is a powerful, structured champagne that balances elegance with strong aging potential."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Förväntas visa toner av mogen frukt, brioche, nötter och en fin mineralisk syra, med den karaktäristiska fylliga och toastade Bollinger-stilen.",
-        "en": "Expect notes of ripe fruit, brioche, nuts, and a fine mineral acidity, showcasing Bollinger's characteristic rich, toasty style."
-      },
-      "pairing": {
-        "sv": "Passar till skaldjur, vitt kött, lagrad ost eller som aperitif vid festliga tillfällen.",
-        "en": "Pairs well with seafood, white meat, aged cheese, or as an aperitif for special occasions."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     },
     {
@@ -1384,17 +1583,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Deutz är ett välrenommerat champagnehus från Ay, känt för sin eleganta och precisa stil. Denna millesimerade Brut från 2019 väntas visa den finess och struktur som är typisk för husets årgångschampagne.",
-        "en": "Deutz is a well-regarded Champagne house based in Ay, known for an elegant, precise style. This 2019 vintage Brut is expected to show the finesse and structure typical of the house's vintage Champagnes."
+        "sv": "Deutz Millésimé Brut 2019 är en årgångschampagne från det anrika huset Deutz i Champagne, känt för sin eleganta och precisa stil. Ett gediget val för den som uppskattar klassisk fransk mousserande vin av hög kvalitet.",
+        "en": "Deutz Millésimé Brut 2019 is a vintage Champagne from the esteemed house of Deutz, known for its elegant and precise style. A solid choice for those who appreciate classic French sparkling wine of high quality."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Förvänta dig en torr, frisk mousserande med toner av citrus, mogen äpple, bakverk och en fin, krämig mousse — balanserad syra och en elegant, långfinishad karaktär.",
-        "en": "Expect a dry, crisp sparkling wine with notes of citrus, ripe apple, pastry, and a fine, creamy mousse — balanced acidity and an elegant, long finish."
+        "sv": "Förväntas visa fin mousse, frisk syra och toner av citrus, mogna äpplen och en subtil brödighet från jäslagring.",
+        "en": "Expect fine mousse, crisp acidity, and notes of citrus, ripe apple, and a subtle bready character from lees aging."
       },
       "pairing": {
-        "sv": "Passar utmärkt till skaldjur, sushi, vitt kött och som aperitif.",
-        "en": "Pairs beautifully with shellfish, sushi, white meats, and works well as an aperitif."
+        "sv": "Passar utmärkt till skaldjur, sushi, eller som aperitif vid festliga tillfällen.",
+        "en": "Pairs wonderfully with seafood, sushi, or as an aperitif for festive occasions."
       },
       "sources": []
     },
@@ -1414,10 +1613,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "Casanova di Neri är en av Montalcinos mest ansedda producenter, och deras Brunello 2021 väntas bli ett kraftfullt och strukturerat vin från en klassisk årgång. Ett Sangiovese av hög klass med potential för lagring.",
+        "en": "Casanova di Neri is one of Montalcino's most respected producers, and their 2021 Brunello is expected to be a powerful, structured wine from a classic vintage. A high-quality Sangiovese with good aging potential."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Typiskt för stilen: mogna körsbär, torkade örter, läder och subtil krydda från fatlagring, med fast syra och stram tanninstruktur.",
+        "en": "Typical of the style: ripe cherry, dried herbs, leather and subtle spice from oak aging, with firm acidity and a tight tannic structure."
+      },
+      "pairing": {
+        "sv": "Passar till grillat rött kött, viltgryta, lammstek eller mognadslagrade ostar.",
+        "en": "Pairs with grilled red meat, game stew, roast lamb or aged cheeses."
+      },
       "sources": []
     },
     {
@@ -1436,10 +1644,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "Condrieu från E. Guigal är ett klassiskt vitt vin från norra Rhônedalen, gjort uteslutande på druvan Viognier. Producenten är känd för att göra stilrena och aromatiska tolkningar av appellationen.",
+        "en": "Condrieu from E. Guigal is a classic white wine from the northern Rhône Valley, made exclusively from the Viognier grape. The producer is known for crafting elegant, aromatic expressions of this appellation."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förväntas visa Viogniers typiska aromatik med toner av persika, aprikos och blommor, ofta med en fyllig, len textur och måttlig syra.",
+        "en": "Expect Viognier's typical aromatic profile with notes of peach, apricot and blossom, often paired with a rich, silky texture and moderate acidity."
+      },
+      "pairing": {
+        "sv": "Passar bra till skaldjur, fisk i krämiga såser, fågel eller mjuka ostar.",
+        "en": "Pairs well with seafood, fish in creamy sauces, poultry or soft cheeses."
+      },
       "sources": []
     },
     {
@@ -1481,17 +1698,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "En Blanc de Blancs Champagne från Gaston Chiquet, gjord uteslutande på Chardonnay från grand cru-byn Aÿ. En stilren och mineralisk champagne från ett välrenommerat familjehus.",
-        "en": "A Blanc de Blancs Champagne from Gaston Chiquet, made entirely from Chardonnay grown in the grand cru village of Aÿ. A refined, mineral-driven style from a respected grower-producer."
+        "sv": "En Blanc de Blancs Champagne från Gaston Chiquet, gjord uteslutande på Chardonnay från Grand Cru-byn Aÿ. Ett fint exempel på husets stil – elegant och mineralisk.",
+        "en": "A Blanc de Blancs Champagne from Gaston Chiquet, made entirely from Chardonnay grown in the Grand Cru village of Aÿ. A fine expression of the house style — elegant and mineral-driven."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Förväntas visa fin, krämig mousse, citrus, vita blommor och en krispig, mineralisk ton med god längd.",
-        "en": "Expect fine, creamy bubbles, citrus and white blossom notes, and a crisp, mineral-tinged finish with good length."
+        "sv": "Förväntas visa citrus, vita blommor och krita, med fin mousserande textur och frisk syra typisk för Chardonnay från Aÿ.",
+        "en": "Expect citrus, white flowers and chalky minerality, with a fine mousse and crisp acidity typical of Chardonnay grown in Aÿ."
       },
       "pairing": {
-        "sv": "Passar utmärkt till skaldjur, ostron, sushi eller som aperitif.",
-        "en": "Pairs beautifully with shellfish, oysters, sushi, or simply as an aperitif."
+        "sv": "Passar till skaldjur, ostron, sushi eller som aperitif.",
+        "en": "Pairs with shellfish, oysters, sushi, or as an aperitif."
       },
       "sources": []
     },
@@ -1512,17 +1729,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "En Chardonnay från Alma Rosa Winery i den svalklimatzonen Sta. Rita Hills, Kalifornien, känd för att producera eleganta och friska viner med god syra.",
-        "en": "A Chardonnay from Alma Rosa Winery, sourced from the cool-climate Sta. Rita Hills AVA in California, a region known for producing elegant, fresh wines with vibrant acidity."
+        "sv": "El Jabali Chardonnay från Alma Rosa är ett vitt vin från det svala, maritima Sta. Rita Hills i Kalifornien, känt för sina eleganta och friska chardonnayer. Producenten har ett gott rykte för att göra viner med balans snarare än övermognad frukt.",
+        "en": "El Jabali Chardonnay from Alma Rosa is a white wine from the cool, maritime Sta. Rita Hills in California, an area known for elegant, well-balanced Chardonnays. The producer has a strong reputation for restrained, food-friendly styles rather than overripe fruit."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Förväntas visa citrusfrukt och gröna äpplen, med en frisk mineralitet och en subtil, väl integrerad ekfatston som ger struktur snarare än sötma.",
-        "en": "Expect notes of citrus and green apple, with a crisp mineral edge and subtle, well-integrated oak that lends structure rather than sweetness."
+        "sv": "Förväntas visa citrus, gröna äpplen och päron, med inslag av vit blomma och en frisk syra, ofta med subtil ekfatston och mineralitet.",
+        "en": "Expect citrus, green apple and pear notes, with white floral hints and bright acidity, likely accented by subtle oak and mineral character."
       },
       "pairing": {
-        "sv": "Passar utmärkt till skaldjur, grillad fisk eller kycklingrätter med krämiga såser.",
-        "en": "Pairs well with shellfish, grilled fish, or chicken dishes with creamy sauces."
+        "sv": "Passar bra till skaldjur, grillad fisk, kycklingrätter med krämiga såser eller mjuka ostar.",
+        "en": "Pairs well with shellfish, grilled fish, creamy chicken dishes, or soft cheeses."
       },
       "sources": []
     },
@@ -1543,16 +1760,16 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Bussia Dardi Le Rose är en Barolo från Poderi Colla, gjord på Nebbiolo från den namnkunniga Bussia-zonen i Monforte d'Alba. 2021 väntas ge en klassisk, strukturerad Barolo med god lagringspotential.",
-        "en": "Bussia Dardi Le Rose is a Barolo from Poderi Colla, made from Nebbiolo grown in the renowned Bussia cru in Monforte d'Alba. The 2021 vintage is expected to show a classic, structured Barolo with good aging potential."
+        "sv": "En Barolo från den ansedda Bussia-crun, producerad av Poderi Colla i Piemonte på Nebbiolo-druvan. Ett klassiskt, strukturerat rödvin som förväntas ha god lagringspotential.",
+        "en": "A Barolo from the respected Bussia cru, made by Poderi Colla in Piedmont from the Nebbiolo grape. A classic, structured red wine expected to offer good aging potential."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Typiskt för stilen: dofter av torkade rosor, körsbär, tjära och örter, med fast tannin, hög syra och lång eftersmak.",
-        "en": "Typical of the style: aromas of dried roses, cherry, tar and herbs, with firm tannins, bright acidity and a long finish."
+        "sv": "Typiskt för stilen väntas toner av torkade rosor, körsbär, tjära och örter, med fast tannin och frisk syra.",
+        "en": "Typical of the style, expect notes of dried roses, cherry, tar and herbs, with firm tannin and bright acidity."
       },
       "pairing": {
-        "sv": "Passar till braserat kött, vilt, tryffel och lagrade ostar.",
+        "sv": "Passar till braiserat kött, vilt, tryffelrätter och lagrade ostar.",
         "en": "Pairs with braised meats, game, truffle dishes and aged cheeses."
       },
       "sources": []
@@ -1705,10 +1922,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "En klassisk Chablis Premier Cru från Domaine Laroche, gjord på gamla vinstockar från den ansedda lieu-dit Les Vaillons. Förväntas visa den mineraliska stramhet och rena stil som kännetecknar området, med extra djup från de äldre vinstockarna.",
+        "en": "A classic Chablis Premier Cru from Domaine Laroche, made from old vines in the respected Les Vaillons lieu-dit. Expect the mineral-driven precision and pure style typical of the appellation, with added depth from the vieilles vignes fruit."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Krispig syra, flintig mineralitet, citrus och grönt äpple, ofta med en subtil salinitet och struktur som kan bära viss ekfatslagring.",
+        "en": "Crisp acidity, flinty minerality, citrus and green apple notes, often with a subtle salinity and enough structure to support some oak influence."
+      },
+      "pairing": {
+        "sv": "Passar utmärkt till ostron, skaldjur, grillad fisk och getost.",
+        "en": "Pairs well with oysters, shellfish, grilled fish, and goat cheese."
+      },
       "sources": []
     },
     {
@@ -1727,19 +1953,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "Château Bouscassé Vieilles Vignes är ett kraftfullt rött vin från Madiran, gjort av gamla vinstockars Tannat-druvor av producenten Alain Brumont, känd för sina strukturerade och lagringsvärdiga viner i sydvästra Frankrike.",
-        "en": "Château Bouscassé Vieilles Vignes is a robust red wine from Madiran, made from old-vine Tannat by producer Alain Brumont, renowned for structured, age-worthy wines from southwestern France."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Förväntas ha djup mörk frukt, fasta tanniner och inslag av kryddor och mörk choklad, typiskt för Tannat-baserade Madiran-viner.",
-        "en": "Expect deep dark fruit, firm tannins, and notes of spice and dark chocolate, typical of Tannat-based Madiran wines."
-      },
-      "pairing": {
-        "sv": "Passar utmärkt till grillat rött kött, anka, viltgryta eller lagrade ostar.",
-        "en": "Pairs well with grilled red meat, duck, game stew, or aged cheeses."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     },
     {
@@ -1802,10 +2019,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "En Chablis Premier Cru från det välrenommerade huset Jean-Marc Brocard, med Fourchaumes typiska mineralitet och elegans. Som ung årgång kan vinet med fördel få mogna ytterligare några år.",
+        "en": "A Chablis Premier Cru from the well-regarded house of Jean-Marc Brocard, showing Fourchaume's characteristic minerality and elegance. Being a young vintage, it may benefit from some additional bottle age."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förväntas visa citrus, grönt äpple och en distinkt flintig mineralitet, med god syra och en strimma av vit blomma.",
+        "en": "Expect citrus, green apple and a distinct flinty minerality, with bright acidity and a hint of white flowers."
+      },
+      "pairing": {
+        "sv": "Passar till ostron, skaldjur, fisk i vit sås och get- eller mjuka ostar.",
+        "en": "Pairs with oysters, shellfish, fish in white sauce, and goat or soft cheeses."
+      },
       "sources": []
     },
     {
@@ -1868,10 +2094,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "Ett klassiskt Chablis Premier Cru från Domaine Laroche, en välrenommerad producent känd för sin precisa stil. Les Montmains ligger på Chablis vänstra strand och ger ofta ett friskt, mineraliskt uttryck typiskt för appellationen.",
+        "en": "A classic Chablis Premier Cru from Domaine Laroche, a well-regarded producer known for its precise style. Les Montmains, located on the left bank of the Chablis vineyards, typically offers the fresh, mineral-driven character characteristic of the appellation."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förväntas vara torr och frisk med citrusfrukt, grönt äpple och en tydlig mineralton, ofta med subtila inslag av flinta eller krita som är typiska för Chablis terroir.",
+        "en": "Expected to be dry and crisp with citrus fruit, green apple, and a distinct mineral edge, often with subtle flint or chalk notes typical of Chablis terroir."
+      },
+      "pairing": {
+        "sv": "Passar bra till skaldjur, ostron, vitfisk eller getost.",
+        "en": "Pairs well with shellfish, oysters, white fish, or goat cheese."
+      },
       "sources": []
     },
     {
@@ -1934,10 +2169,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "Lucy Wines gör en lättare, fruktdriven Gamay Noir från Kalifornien, i stil med lättsamma röda viner avsedda att drickas unga och kylda. En avslappnad, tillgänglig tolkning av druvan snarare än en tung, koncentrerad stil.",
+        "en": "Lucy Wines crafts a lighter, fruit-forward Gamay Noir from California, in the vein of easy-drinking reds meant to be enjoyed young and slightly chilled. It's an approachable take on the grape rather than a heavy, concentrated style."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förvänta dig fräscha röda bär, saftig syra och mjuka, runda tanniner med en lätt kropp.",
+        "en": "Expect fresh red berries, juicy acidity, and soft, round tannins with a light body."
+      },
+      "pairing": {
+        "sv": "Passar bra till grillad kyckling, charkuterier, lättare pastarätter eller som en avslappnad vardagsvin, gärna lätt kyld.",
+        "en": "Pairs well with grilled chicken, charcuterie, lighter pasta dishes, or as a relaxed everyday wine, best served slightly chilled."
+      },
       "sources": []
     },
     {
@@ -1957,17 +2201,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Ett fräscht och mineralrikt vitt vin från Santorini, gjort på den inhemska druvan Assyrtiko av kooperativet Santo Wines. Vulkanisk jord och öns torra klimat ger vinet dess karakteristiska syra och saltighet.",
-        "en": "A crisp, mineral-driven white from Santorini, made from the native Assyrtiko grape by the cooperative Santo Wines. The island's volcanic soil and dry climate typically give the wine its signature acidity and salinity."
+        "sv": "Ett fräscht och mineraliskt vitt vin från Santorini, gjort på den lokala druvan Assyrtiko av kooperativet Santo Wines. Vulkanjorden och den torra, blåsiga ön ger vinet dess karakteristiska syra och salta känsla.",
+        "en": "A fresh, mineral-driven white from Santorini made from the local Assyrtiko grape by the cooperative Santo Wines. The volcanic soils and dry, windswept island typically give the wine its bright acidity and saline character."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Citrus, grön äpple och en distinkt salt/mineralisk ton, ofta med inslag av örter och hög, frisk syra.",
-        "en": "Citrus, green apple and a distinct saline, mineral edge, often with herbal notes and bright, high acidity."
+        "sv": "Förväntas vara torrt med citrus, grön äpple och en distinkt mineralisk, saltig ton, ofta med hög syra och lång eftersmak.",
+        "en": "Expect a dry style with citrus, green apple, and a distinct mineral, saline edge, typically high acidity and a long finish."
       },
       "pairing": {
-        "sv": "Passar till skaldjur, grillad fisk, fetaostsallad och medelhavsrätter med oliver och kapris.",
-        "en": "Pairs well with seafood, grilled fish, feta salads and Mediterranean dishes with olives and capers."
+        "sv": "Passar bra till skaldjur, grillad fisk, fetaostsallad och andra medelhavsrätter.",
+        "en": "Pairs well with seafood, grilled fish, feta salads, and other Mediterranean dishes."
       },
       "sources": []
     },
@@ -2009,10 +2253,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "Château La Cabanne är ett känt gods i Pomerol, Bordeaux, som producerar Merlot-dominerade röda viner med den regionens typiska fyllighet och mjukhet. 2023 års årgång är ännu ung och bör med fördel få mogna något innan den öppnas.",
+        "en": "Château La Cabanne is a respected estate in Pomerol, Bordeaux, producing Merlot-dominant red wines known for the region's characteristic richness and plush texture. The 2023 vintage is still young and would likely benefit from some further bottle age."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förväntas ha mörka bär, plommon och en len, sammetsluden struktur med milda tanniner, typiskt för Pomerol.",
+        "en": "Expect dark berries, plum, and a smooth, velvety structure with soft tannins, typical of Pomerol's style."
+      },
+      "pairing": {
+        "sv": "Passar bra till grillat rött kött, anka, lammgryta eller lagrade ostar.",
+        "en": "Pairs well with grilled red meats, duck, lamb stew, or aged cheeses."
+      },
       "sources": []
     },
     {
@@ -2053,19 +2306,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "En klassisk Sancerre från Dom. Roger Champault, gjord på Sauvignon Blanc från Loiredalen i Frankrike. 2024 års vintage förväntas visa den friska, mineraliska stilen som regionen är känd för.",
-        "en": "A classic Sancerre from Dom. Roger Champault, made from Sauvignon Blanc in France's Loire Valley. The 2024 vintage is expected to show the crisp, mineral-driven style the region is known for."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Förväntas ha citrus, gröna äpplen och en flintig mineralitet, med frisk syra typisk för Sauvignon Blanc från Sancerre.",
-        "en": "Expect citrus, green apple, and flinty minerality, with the bright acidity typical of Sauvignon Blanc from Sancerre."
-      },
-      "pairing": {
-        "sv": "Passar till skaldjur, get­ost och lätta fiskrätter.",
-        "en": "Pairs with shellfish, goat cheese, and light fish dishes."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     },
     {
@@ -2128,19 +2372,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "Clos de l'Olive är ett rött vin från Couly-Dutheil i Chinon, Loire, gjort på Cabernet Franc från årgång 2020. En klassisk representant för Loire-dalens friska, örtiga rödviner med god struktur.",
-        "en": "Clos de l'Olive is a red wine from Couly-Dutheil in Chinon, Loire, made from Cabernet Franc from the 2020 vintage. A classic example of the Loire Valley's fresh, herbaceous red wines with good structure."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Typiskt för stilen kan man vänta sig smaker av röda bär, paprika och örter, med frisk syra och medelfylliga, silkiga tanniner.",
-        "en": "Typical of the style, expect flavors of red berries, bell pepper, and herbs, with fresh acidity and medium-bodied, silky tannins."
-      },
-      "pairing": {
-        "sv": "Passar bra till anka, grillat lammkött, charkuterier eller mognare ostar.",
-        "en": "Pairs well with duck, grilled lamb, charcuterie, or aged cheeses."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     },
     {
@@ -2203,10 +2438,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "En rosé Reserva från Contino i Rioja, en producent mest känd för sina röda viner, vilket antyder en mer strukturerad och gastronomisk stil än en typisk lättdrucken rosé.",
+        "en": "A Rosado Reserva from Contino in Rioja, a producer best known for its reds, suggesting a more structured, food-friendly style rather than a simple, easy-drinking rosé."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Troligen torr med inslag av röda bär, citrus och en fyllig, något kryddig karaktär tack vare Riojas druvsammansättning och Reserva-lagring.",
+        "en": "Likely dry, with red berry and citrus notes, plus a fuller, slightly spicy character from Rioja's typical grape blend and Reserva-style aging."
+      },
+      "pairing": {
+        "sv": "Passar bra till tapas, skaldjur, grillad fisk eller lätta kötträtter.",
+        "en": "Pairs well with tapas, seafood, grilled fish, or light meat dishes."
+      },
       "sources": []
     },
     {
@@ -2335,19 +2579,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "Ett vitt vin från Mâcon i Bourgogne, gjort på Chardonnay av Dom. des Crêts. Typisk för appellationen väntas det vara fräscht och tillgängligt med god druvkaraktär.",
-        "en": "A white wine from Mâcon in Burgundy, made from Chardonnay by Dom. des Crêts. True to the appellation, it can be expected to be fresh and approachable with clear varietal character."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Antas ha toner av gula äpplen, citrus och en lätt blommig ton, med frisk syra och måttlig fyllighet, ofta utan påtaglig fatpåverkan.",
-        "en": "Likely to show notes of yellow apple, citrus and light floral tones, with crisp acidity and moderate body, often with little to no oak influence."
-      },
-      "pairing": {
-        "sv": "Passar bra till skaldjur, vit fisk, get- och färskost samt lätta kycklingrätter.",
-        "en": "Pairs well with shellfish, white fish, goat and fresh cheeses, and light chicken dishes."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     },
     {
@@ -2388,10 +2623,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "12 Volts från 4Kilos är ett modernt, fruktdrivet rött vin från Spanien, gjort i en tillgänglig och generös stil. Ett bra val för den som söker ett kraftfullt men lättdrucket rödvin utan krångel.",
+        "en": "12 Volts from 4Kilos is a modern, fruit-forward Spanish red made in an approachable, generous style. A good choice for those looking for a bold yet easy-drinking red without fuss."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Mogen mörk frukt, runda tanniner och en varm, sydlig karaktär, ofta med inslag av kryddor och lite fatpåverkan.",
+        "en": "Ripe dark fruit, round tannins and a warm, southern character, often with hints of spice and subtle oak influence."
+      },
+      "pairing": {
+        "sv": "Passar bra till grillat kött, tapas med chorizo eller kraftiga grytor.",
+        "en": "Pairs well with grilled meats, chorizo-based tapas, or hearty stews."
+      },
       "sources": []
     },
     {
@@ -2455,17 +2699,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Louro do Bolo är Rafael Palacios instegsvin från Valdeorras i nordvästra Spanien, gjort på druvan Godello. Ett fräscht och tillgängligt vitt vin som speglar producentens fokus på mineralitet och elegans.",
-        "en": "Louro do Bolo is Rafael Palacios' entry-level wine from Valdeorras in northwestern Spain, made from the Godello grape. A fresh and approachable white wine reflecting the producer's focus on minerality and elegance."
+        "sv": "Louro do Bolo är Rafael Palacios instegsvin från Valdeorras i Galicien, gjort på druvan Godello. Palacios är en av regionens mest respekterade producenter och detta vin ger en tillgänglig introduktion till hans stil.",
+        "en": "Louro do Bolo is Rafael Palacios' entry-level wine from Valdeorras, Galicia, made from the Godello grape. Palacios is one of the region's most respected producers, and this bottling offers an accessible introduction to his style."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Förväntas vara torrt och friskt med citrusfrukt, gröna äpplen och en salt, mineralisk ton, samt god syra.",
-        "en": "Expected to be dry and crisp, with citrus fruit, green apple, a saline mineral edge, and lively acidity."
+        "sv": "Godello från Valdeorras brukar ge vita viner med frisk syra, citrus- och stenfruktston samt en lätt mineralisk karaktär.",
+        "en": "Godello from Valdeorras typically produces white wines with crisp acidity, citrus and stone fruit notes, and a subtle mineral character."
       },
       "pairing": {
-        "sv": "Passar bra till skaldjur, grillad fisk, sallader och lätta pastarätter.",
-        "en": "Pairs well with seafood, grilled fish, salads, and light pasta dishes."
+        "sv": "Passar bra till skaldjur, fisk, sallader och lätta pastarätter.",
+        "en": "Pairs well with seafood, fish, salads, and light pasta dishes."
       },
       "sources": []
     },
@@ -2486,17 +2730,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Godeval Godello är ett fräscht och rent vitt vin från Valdeorras i Galicien, gjort på den lokala druvan Godello som är känd för sin eleganta fruktighet och mineraliska karaktär. Bodegas Godeval är en av regionens mest ansedda producenter och en pålitlig representant för denna stil.",
-        "en": "Godeval Godello is a fresh, clean white wine from Valdeorras in Galicia, made from the local Godello grape known for its elegant fruitiness and mineral character. Bodegas Godeval is one of the region's most respected producers and a reliable representative of this style."
+        "sv": "Godeval Godello 2024 är ett fräscht vitt vin från Valdeorras i Galicien, gjort på den lokala druvan godello av en producent som specialiserat sig på just denna druva. Ett rent och terrängtroget uttryck av regionen.",
+        "en": "Godeval Godello 2024 is a fresh white wine from Valdeorras in Galicia, made from the local godello grape by a producer specializing in this variety. A clean, terroir-true expression of the region."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Förväntas ha citrus- och stenfruktstoner, en fin mineralitet och frisk syra, ofta med en subtil örtighet eller lätt salthet i eftersmaken.",
-        "en": "Expect citrus and stone fruit notes, fine minerality and crisp acidity, often with a subtle herbal touch or light salinity on the finish."
+        "sv": "Förväntas vara friskt och aromatiskt med toner av citrus, gröna äpplen och örter, ofta med en lätt mineralisk och salt underton typisk för godello.",
+        "en": "Expect a crisp, aromatic profile with notes of citrus, green apple and herbs, often carrying a light mineral and saline undertone typical of godello."
       },
       "pairing": {
-        "sv": "Passar bra till skaldjur, fisk, sallader och lätta pastarätter.",
-        "en": "Pairs well with seafood, fish, salads, and light pasta dishes."
+        "sv": "Passar bra till skaldjur, vitfisk, tapas och lätta pastarätter.",
+        "en": "Pairs well with shellfish, white fish, tapas and light pasta dishes."
       },
       "sources": []
     },
@@ -2516,19 +2760,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "Ett mousserande vin i Extra Brut-stil från Domaine Baud i Jura, Frankrike – en producent känd för sitt arbete med regionens traditionella druvor. Extra Brut innebär en mycket låg dosage, vilket ger ett torrt och rakt uttryck.",
-        "en": "A sparkling wine in the Extra Brut style from Domaine Baud in Jura, France – a producer known for its work with the region's traditional grape varieties. Extra Brut means very low dosage, giving a dry, precise expression."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Förväntas vara torrt och friskt med fin mousse, citrusfrukt, gröna äpplen och en mineralisk ton typisk för Jura.",
-        "en": "Expect a dry, crisp profile with fine bubbles, citrus and green apple fruit, and a mineral edge typical of Jura sparkling wines."
-      },
-      "pairing": {
-        "sv": "Passar bra som aperitif, till skaldjur, färskost eller lätta förrätter.",
-        "en": "Pairs well as an aperitif, with shellfish, fresh cheese, or light starters."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     },
     {
@@ -2569,10 +2804,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "Love You Bunches är ett lättillgängligt, fruktdrivet sangiovese från Stolpman Vineyards i Kalifornien. Ett avslappnat rött vin gjort för att drickas ungt och med glädje.",
+        "en": "Love You Bunches is an easygoing, fruit-forward Sangiovese from Stolpman Vineyards in California. A relaxed red wine made to be enjoyed young and with pleasure."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förväntas ha fräscha röda bär, milda örtiga toner och en lätt, saftig struktur typisk för sangiovese i ett varmare klimat.",
+        "en": "Expect fresh red berries, subtle herbal notes, and a light, juicy structure typical of Sangiovese grown in a warmer climate."
+      },
+      "pairing": {
+        "sv": "Passar bra till pizza, pasta med tomatsås, grillad kyckling eller lätta charkuterier.",
+        "en": "Pairs well with pizza, tomato-based pasta, grilled chicken, or light charcuterie."
+      },
       "sources": []
     },
     {
@@ -2679,10 +2923,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "En Gamay från Côte de Brouilly, ett av Beaujolais mest ansedda cru-områden, producerad av det välrenommerade Château Thivin. Väntas bli en fräsch och fruktig röd vin med god struktur, typisk för denna appellation.",
+        "en": "A Gamay from Côte de Brouilly, one of Beaujolais' most respected cru areas, produced by the well-regarded Château Thivin. Expected to be a fresh, fruit-driven red with good structure, typical of this appellation."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Troligen toner av mörka bär, viol och mineralitet, med frisk syra och silkiga tanniner tack vare Côte de Brouillys vulkaniska jordar.",
+        "en": "Likely notes of dark berries, violet and minerality, with fresh acidity and silky tannins thanks to Côte de Brouilly's volcanic soils."
+      },
+      "pairing": {
+        "sv": "Passar till charkuterier, grillad fågel, svampbaserade rätter eller lätta köttgrytor.",
+        "en": "Pairs with charcuterie, grilled poultry, mushroom-based dishes or light meat stews."
+      },
       "sources": []
     },
     {
@@ -2723,10 +2976,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "En Dolcetto d'Alba från den ansedda producenten Roberto Voerzio, känd för sitt hantverksmässiga arbete i Piemonte. Detta är en ung, fruktig röd vardagsvin avsedd att drickas med relativt liten lagring.",
+        "en": "A Dolcetto d'Alba from the respected producer Roberto Voerzio, known for meticulous, artisanal work in Piedmont. This is a young, fruit-forward red intended for relatively early drinking."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Typiskt för Dolcetto väntas mörka bär som körsbär och plommon, mjuka tanniner, frisk syra och en lätt bitter, mandelaktig avslutning.",
+        "en": "Typical of Dolcetto, expect dark fruit such as cherry and plum, soft tannins, bright acidity, and a subtle bitter almond finish."
+      },
+      "pairing": {
+        "sv": "Passar bra till pastarätter, charkuterier, pizza och lättare köttgrytor.",
+        "en": "Pairs well with pasta dishes, charcuterie, pizza, and lighter meat stews."
+      },
       "sources": []
     },
     {
@@ -2877,10 +3139,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "En Rosso di Montalcino från Tenuta di Collosorbo, gjord på Sangiovese i Toscana. Detta är den yngre, mer tillgängliga syskonvinen till Brunello och bjuder typiskt på fräsch frukt och charm redan i unga år.",
+        "en": "A Rosso di Montalcino from Tenuta di Collosorbo, made from Sangiovese in Tuscany. This is the younger, more approachable sibling to Brunello, typically offering fresh fruit and charm even at a young age."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Körsbär, röda bär och örtiga toner, med frisk syra och mjuka, ungdomliga tanniner.",
+        "en": "Cherry, red berries and herbal notes, with bright acidity and soft, youthful tannins."
+      },
+      "pairing": {
+        "sv": "Passar till pasta med tomatsås, grillad fläskkotlett eller toscansk salumi.",
+        "en": "Pairs with tomato-based pasta, grilled pork chops, or Tuscan cured meats."
+      },
       "sources": []
     },
     {
@@ -2965,10 +3236,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "En lätt och aromatisk röd vinstil från Verduno i Piemonte, gjord på den lokala druvan Pelaverga av det anrika huset Scarpa. Ung årgång som förväntas vara fräsch och lättillgänglig.",
+        "en": "A light, aromatic red style from Verduno in Piedmont, made from the local Pelaverga grape by the historic Scarpa house. As a young vintage, it should show fresh and approachable character."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Typiskt för druvan väntas toner av röda bär, vitpeppar och blommiga inslag, med lätt kropp och frisk syra.",
+        "en": "Typical of the grape, expect red berry notes, white pepper spice, and floral hints, with a light body and bright acidity."
+      },
+      "pairing": {
+        "sv": "Passar till charkuterier, lätta pastarätter, grillad fisk eller fågel samt milda ostar.",
+        "en": "Pairs well with charcuterie, light pasta dishes, grilled fish or poultry, and mild cheeses."
+      },
       "sources": []
     },
     {
@@ -2987,19 +3267,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "Newton Johnson är en av Walker Bays mest ansedda producenter av Pinot Noir, känd för ett elegant och terroirdrivet stil. Denna årgång 2024 förväntas fortsätta traditionen av finstämd fruktighet och frisk syra typisk för regionens svala klimat.",
-        "en": "Newton Johnson is one of Walker Bay's most respected Pinot Noir producers, known for an elegant, terroir-driven style. This 2024 vintage is expected to continue the tradition of refined fruit and bright acidity typical of the region's cool climate."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Förväntas visa röda bär, subtila örtiga toner och en silkeslen, frisk struktur med måttlig fatpåverkan.",
-        "en": "Expected to show red berry fruit, subtle herbal notes, and a silky, fresh structure with moderate oak influence."
-      },
-      "pairing": {
-        "sv": "Passar till anka, grillad lax, svamprisotto eller lätta köttgrytor.",
-        "en": "Pairs with duck, grilled salmon, mushroom risotto, or light meat stews."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     },
     {
@@ -3018,10 +3289,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "Ett rött vin från Campolargo i Bairrada, gjort på de portugisiska druvorna Baga och Castelão. En spännande kombination av Bagas struktur och syra med Castelãos mjukare, fruktiga karaktär.",
+        "en": "A red wine from Campolargo in Bairrada, made from the Portuguese grapes Baga and Castelão. An interesting combination of Baga's structure and acidity with Castelão's softer, fruitier character."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förväntas ha mörka bär, friska syror och en fast tanninstruktur, med inslag av kryddighet och en jordig ton typisk för Bairrada-druvor.",
+        "en": "Expect dark berry fruit, fresh acidity and firm tannic structure, with hints of spice and an earthy note typical of Bairrada grapes."
+      },
+      "pairing": {
+        "sv": "Passar bra till grillat kött, gryträtter och hårdostar.",
+        "en": "Pairs well with grilled meats, stews and hard cheeses."
+      },
       "sources": []
     },
     {
@@ -3085,17 +3365,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Director's Cut Shiraz från Heartland Wines är en fyllig, kraftfull australisk röd vin som representerar en modern, generös stil av Shiraz. Ett tillförlitligt val för den som söker mustig fruktdriven karaktär.",
-        "en": "Director's Cut Shiraz from Heartland Wines is a full-bodied, powerful Australian red representing a modern, generous style of Shiraz. A reliable choice for those seeking rich, fruit-driven character."
+        "sv": "Director's Cut Shiraz från Heartland Wines är en fyllig australisk röd vin som visar upp shiraz-druvans mustiga karaktär. En pålitlig och kraftfull representant för modern australisk shirazstil.",
+        "en": "Director's Cut Shiraz from Heartland Wines is a full-bodied Australian red that showcases the robust character typical of shiraz. A reliable, powerful expression of modern Australian shiraz style."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Förväntas ha mogen mörk frukt som björnbär och plommon, kryddiga toner av peppar och choklad, samt en len fatkaraktär med runda tanniner.",
-        "en": "Expect ripe dark fruit like blackberry and plum, spicy notes of pepper and chocolate, along with smooth oak character and round tannins."
+        "sv": "Förväntade toner av mörka bär, plommon och krydda, med inslag av vanilj och choklad från fatlagring samt mjuka tanniner.",
+        "en": "Expect notes of dark berries, plum and spice, with hints of vanilla and chocolate from oak aging, along with soft tannins."
       },
       "pairing": {
-        "sv": "Passar utmärkt till grillat rött kött, lammgrytor, kryddstarka rätter och mogna ostar.",
-        "en": "Pairs excellently with grilled red meat, lamb stews, spiced dishes, and mature cheeses."
+        "sv": "Passar utmärkt till grillat rött kött, lammgryta eller kraftiga ostar.",
+        "en": "Pairs well with grilled red meat, lamb stew, or robust cheeses."
       },
       "sources": []
     },
@@ -3115,10 +3395,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "En fräsch och rättfram vit Bourgogne från druvan Aligoté, gjord av Dom. Roux i Bourgogne, Frankrike. Aligoté är känt för sin spänstiga syra och lättare karaktär jämfört med Chardonnay, och 2023 års årgång bör ge ett friskt och tillgängligt vin.",
+        "en": "A fresh and straightforward white Burgundy made from the Aligoté grape by Dom. Roux in Burgundy, France. Aligoté is known for its lively acidity and lighter character compared to Chardonnay, and the 2023 vintage should offer a crisp, approachable wine."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förväntade toner av citrus, grönt äpple och en mineralisk, syrlig fräschör.",
+        "en": "Expect notes of citrus, green apple and a mineral, tangy freshness."
+      },
+      "pairing": {
+        "sv": "Passar bra till skaldjur, get- och färskost, samt lätta aptitretare.",
+        "en": "Pairs well with seafood, goat or fresh cheeses, and light appetizers."
+      },
       "sources": []
     },
     {
@@ -3159,10 +3448,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "En elegant rosé från Benanti på Etnas vulkaniska sluttningar, gjord på Nerello Mascalese. Höjdlägena och den mineraliska jorden ger ofta friska, strukturerade roséviner med god lyster.",
+        "en": "An elegant rosé from Benanti on the volcanic slopes of Etna, made from Nerello Mascalese. The high-altitude vineyards and mineral-rich soils typically yield fresh, structured rosés with vibrant character."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förväntas visa toner av röda bär, citrus och en distinkt mineralton, med frisk syra typisk för Etna.",
+        "en": "Expect notes of red berries, citrus, and a distinct mineral edge, supported by the bright acidity typical of Etna wines."
+      },
+      "pairing": {
+        "sv": "Passar bra till skaldjur, lätta pastarätter, siciliansk antipasti eller grillad fisk.",
+        "en": "Pairs well with seafood, light pasta dishes, Sicilian antipasti, or grilled fish."
+      },
       "sources": []
     },
     {
@@ -3203,19 +3501,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "En sydafrikansk Sauvignon Blanc från Lismore Estate, jäst på fat för extra fyllighet och komplexitet. Ett intressant alternativ till den klassiska, stålfermenterade stilen.",
-        "en": "A South African Sauvignon Blanc from Lismore Estate, barrel-fermented for added richness and complexity. An interesting alternative to the classic stainless-steel style."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Förväntad karaktär av citrus och gröna äpplen, mjukad av en krämig, lätt rökig fatnyans och god syra.",
-        "en": "Expect citrus and green apple notes, softened by a creamy, subtly toasty oak character and good acidity."
-      },
-      "pairing": {
-        "sv": "Passar bra till skaldjur, grillad fisk, kyckling med citrusinslag eller krämiga pastarätter.",
-        "en": "Pairs well with shellfish, grilled fish, citrus-marinated chicken, or creamy pasta dishes."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     },
     {
@@ -3234,10 +3523,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "En ung, lättare röd från Bardolino-området i Veneto, gjord i den klassiska lätta och fräscha stilen som regionen är känd för.",
+        "en": "A young, light-bodied red from the Bardolino area in Veneto, crafted in the fresh, easy-drinking style the region is known for."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förväntas vara lätt i kroppen med fräsch syra, röda bär och en mjuk, torr avslutning – typiskt för druvorna corvina, rondinella och molinara.",
+        "en": "Expected to be light-bodied with fresh acidity, red berry notes, and a soft, dry finish — typical of the corvina, rondinella and molinara blend."
+      },
+      "pairing": {
+        "sv": "Passar bra till lätta pastarätter, charkuterier, pizza eller grillad kyckling.",
+        "en": "Pairs well with light pasta dishes, charcuterie, pizza, or grilled chicken."
+      },
       "sources": []
     },
     {
@@ -3256,10 +3554,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "Rabble Cabernet Sauvignon 2023 från Kalifornien är ett fylligt rött vin med den mogna, generösa frukt som regionen är känd för. En pålitlig representant för den kaliforniska Cabernet-stilen.",
+        "en": "Rabble Cabernet Sauvignon 2023 from California is a full-bodied red wine showcasing the ripe, generous fruit character the region is known for. A reliable expression of the California Cabernet style."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Mörka bär som svarta vinbär och björnbär, inslag av vanilj och kryddor från eventuell fatlagring, samt mjuka tanniner och god fyllighet.",
+        "en": "Dark berry notes such as blackcurrant and blackberry, hints of vanilla and spice from likely oak aging, with soft tannins and good body."
+      },
+      "pairing": {
+        "sv": "Passar utmärkt till grillat rött kött, mustiga grytor och lagrade ostar.",
+        "en": "Pairs well with grilled red meat, hearty stews, and aged cheeses."
+      },
       "sources": []
     },
     {
@@ -3362,7 +3669,7 @@
       "currency": "SEK",
       "launch_date": "2026-07-10",
       "url": "https://www.systembolaget.se/sortiment/?q=90270",
-      "image": "",
+      "image": "https://imgs.search.brave.com/YwAbrRfSwG8Bk9kp3XBqcl2ugz6d6gOQSjRXmk_BtCM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d29obG11dGguYXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MTEvV29obG11dGgt/V2ViLU1PLUthbGst/U2NoaWVmZXItMjAy/Mi5wbmc",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -3411,17 +3718,17 @@
       "volume": null,
       "is_news": true,
       "verdict": {
-        "sv": "Bogle Vineyards Old Vine Zinfandel från Kalifornien är ett fylligt, generöst rött vin gjort av gamla vinstockar, känt för sin mjukhet och bär-drivna karaktär. En pålitlig representant för Kaliforniens Zinfandel-stil.",
-        "en": "Bogle Vineyards' Old Vine Zinfandel from California is a full-bodied, generous red wine made from old vines, known for its softness and berry-driven character. It's a reliable representative of California's Zinfandel style."
+        "sv": "Bogle Old Vine Zinfandel från Kalifornien är en fyllig och fruktdriven röd vin med typisk generositet från gamla vinstockar. En pålitlig representant för kaliforniensk Zinfandel-stil till ett bra pris.",
+        "en": "Bogle's Old Vine Zinfandel from California is a full-bodied, fruit-forward red showing the generous character typical of old-vine fruit. A reliable representative of the classic California Zinfandel style at an accessible price."
       },
       "score": null,
       "taste_notes": {
-        "sv": "Mörka bär, kryddor, en touch av vanilj och peppar, med mjuka tanniner och fyllig kropp.",
-        "en": "Dark berries, spice, a touch of vanilla and pepper, with soft tannins and a full body."
+        "sv": "Mogna mörka bär, kryddigt peppar, ekfat med toner av vanilj, mjuka tanniner och en varm, fruktig eftersmak.",
+        "en": "Ripe dark berries, spicy pepper notes, oak-driven vanilla, soft tannins and a warm, fruity finish."
       },
       "pairing": {
-        "sv": "Passar till grillat kött, BBQ-rätter, kryddiga grytor och mogna ostar.",
-        "en": "Pairs with grilled meats, BBQ dishes, spiced stews, and aged cheeses."
+        "sv": "Passar utmärkt till grillat kött, BBQ-rätter, kryddiga korvar och mognad ost.",
+        "en": "Pairs well with grilled meats, BBQ dishes, spicy sausages and aged cheese."
       },
       "sources": []
     },
@@ -3507,10 +3814,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "Enrico IV från Cantine Valenti är ett italienskt vitt vin från den unga årgången 2025. Utan djupare provningsdata kan vi säga att det sannolikt är ett fräscht och tillgängligt vin i traditionell italiensk stil.",
+        "en": "Enrico IV from Cantine Valenti is an Italian white wine from the young 2025 vintage. Without deeper tasting data, it is likely a fresh and approachable wine in a traditional Italian style."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Förväntas vara ett lättare, fruktigt vitt vin med god syra, typiskt för italienska vita druvsorter.",
+        "en": "Expected to be a lighter, fruit-forward white wine with good acidity, typical of Italian white grape varieties."
+      },
+      "pairing": {
+        "sv": "Passar bra till skaldjur, lätta pastarätter, sallader och mild ost.",
+        "en": "Pairs well with seafood, light pasta dishes, salads, and mild cheese."
+      },
       "sources": []
     },
     {
@@ -3529,10 +3845,19 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {},
+      "verdict": {
+        "sv": "Ett vitt vin från Valle Reale i Abruzzo, gjort på det klassiska druvan Trebbiano d'Abruzzo. Producenten är känd för kvalitetsinriktad vinodling i regionen, och detta väntas bli en fräsch och tillgänglig representant för stilen.",
+        "en": "A white wine from Valle Reale in Abruzzo, made from the classic Trebbiano d'Abruzzo grape. The producer is known for quality-focused winemaking in the region, and this is expected to be a fresh, approachable expression of the style."
+      },
       "score": null,
-      "taste_notes": {},
-      "pairing": {},
+      "taste_notes": {
+        "sv": "Typiskt för druvan kan man vänta sig frisk syra, toner av citrus, gröna äpplen och en lätt mandelaktig ton i eftersmaken.",
+        "en": "Typical of the grape, expect crisp acidity, notes of citrus, green apple, and a light almond-like finish."
+      },
+      "pairing": {
+        "sv": "Passar bra till skaldjur, lätta pastarätter, vit fisk och medelhavsinspirerad mat.",
+        "en": "Pairs well with seafood, light pasta dishes, white fish, and Mediterranean-style cuisine."
+      },
       "sources": []
     },
     {
@@ -3639,19 +3964,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "Weemala Pinot Noir från Logan Wines är en tillgänglig australisk tolkning av druvan, tänkt att erbjuda fruktdriven charm och mjuk struktur till ett rimligt pris. En pålitlig vardagsvin i lättare rött stil.",
-        "en": "Weemala Pinot Noir from Logan Wines is an approachable Australian take on the variety, aiming for fruit-forward charm and soft structure at a fair price. A reliable everyday wine in a lighter red style."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Förväntas ha toner av röda bär som körsbär och hallon, med lätt kryddighet och mjuka tanniner typiska för Pinot Noir.",
-        "en": "Expect notes of red berries like cherry and raspberry, with light spice and soft tannins typical of Pinot Noir."
-      },
-      "pairing": {
-        "sv": "Passar bra till anka, lax, svamprisotto eller lättare kötträtter.",
-        "en": "Pairs well with duck, salmon, mushroom risotto, or lighter meat dishes."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     },
     {
@@ -3670,19 +3986,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "En vit crianza från Eguren Ugarte i Rioja, Spanien, med lagring på ek som ger den karaktäristiska crianza-stilen. En vit vin med struktur och lite mer djup än en ung, oekad vit Rioja.",
-        "en": "A white crianza from Eguren Ugarte in Rioja, Spain, aged in oak in line with the crianza classification. A structured white wine with a bit more depth than an unoaked young white Rioja."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Troligen toner av mogen frukt, blommor och en subtil vaniljig eller nötig ton från fatlagringen, med frisk syra och medelfyllig kropp.",
-        "en": "Likely notes of ripe orchard fruit and floral character, with a subtle vanilla or nutty nuance from oak ageing, balanced by fresh acidity and medium body."
-      },
-      "pairing": {
-        "sv": "Passar bra till vitt kött, skaldjur i smörsås, tapas eller mogna ostar.",
-        "en": "Pairs well with white meats, shellfish in butter sauce, tapas, or aged cheeses."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     },
     {
@@ -3701,19 +4008,10 @@
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
-      "verdict": {
-        "sv": "En klassisk Chianti Classico från Castello di Monterinaldi, gjord huvudsakligen på Sangiovese i hjärtat av Toscana. Som ung årgång kan detta vin förväntas vara fräscht och fruktdrivet, med den struktur och syra som är typisk för denna appellation.",
-        "en": "A classic Chianti Classico from Castello di Monterinaldi, made predominantly from Sangiovese in the heart of Tuscany. As a young vintage, it can be expected to show fresh, fruit-forward character along with the structure and acidity typical of this appellation."
-      },
+      "verdict": {},
       "score": null,
-      "taste_notes": {
-        "sv": "Körsbär, röda bär och örtiga toner, med frisk syra och silkiga tanniner som är kännetecknande för Sangiovese-druvan.",
-        "en": "Cherry, red berry and herbal notes, with bright acidity and silky tannins characteristic of the Sangiovese grape."
-      },
-      "pairing": {
-        "sv": "Passar utmärkt till tomatbaserade pastarätter, grillat kött och hårdostar.",
-        "en": "Pairs well with tomato-based pasta dishes, grilled meats, and aged cheeses."
-      },
+      "taste_notes": {},
+      "pairing": {},
       "sources": []
     }
   ]
