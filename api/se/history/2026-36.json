@@ -1,7 +1,31 @@
 {
-  "week": "2026-35",
+  "week": "2026-36",
   "market": "se",
   "wines": [
+    {
+      "name": "Rüdesheim Berg Schlossberg Riesling Trocken",
+      "producer": "WG Georg Breuer",
+      "score": null,
+      "price": 1159.0,
+      "origin_country": "Tyskland",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Bloom´s Field Pinot Noir",
+      "producer": "Dom. de la Côte",
+      "score": 94,
+      "price": 1099.0,
+      "origin_country": "USA - Kalifornien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Rauenthaler Nonnenberg Riesling Trocken",
+      "producer": "WG Georg Breuer",
+      "score": null,
+      "price": 999.0,
+      "origin_country": "Tyskland",
+      "wine_type": "Vitt"
+    },
     {
       "name": "Blanc de Blancs",
       "producer": "Louis Roederer",
@@ -9,6 +33,22 @@
       "price": 998.0,
       "origin_country": "Frankrike",
       "wine_type": "Mousserande"
+    },
+    {
+      "name": "Memorious Pinot Noir",
+      "producer": "Dom. de la Côte",
+      "score": 94,
+      "price": 995.0,
+      "origin_country": "USA - Kalifornien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Osso San Grato Riserva",
+      "producer": "Az. Agr. Antoniolo",
+      "score": null,
+      "price": 839.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
     },
     {
       "name": "Falstaff Vineyard Pinot Noir",
@@ -21,15 +61,31 @@
     {
       "name": "McDougall Ranch Pinot Noir",
       "producer": "Kutch",
-      "score": 95,
+      "score": null,
       "price": 669.0,
       "origin_country": "USA - Kalifornien",
       "wine_type": "Rött"
     },
     {
+      "name": "San Francesco Riserva",
+      "producer": "Az. Agr. Antoniolo",
+      "score": null,
+      "price": 639.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Wehlener Sonnenuhr Riesling Spätlese",
+      "producer": "Joh. Jos. Prüm",
+      "score": 95,
+      "price": 569.0,
+      "origin_country": "Tyskland",
+      "wine_type": "Vitt"
+    },
+    {
       "name": "Sito Moresco",
       "producer": "Gaja",
-      "score": null,
+      "score": 84,
       "price": 499.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
@@ -59,43 +115,11 @@
       "wine_type": "Rött"
     },
     {
-      "name": "Malleolus",
-      "producer": "Emilio Moro",
-      "score": null,
-      "price": 379.0,
-      "origin_country": "Spanien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Viña Arana Gran Reserva",
-      "producer": "La Rioja Alta",
-      "score": 96,
-      "price": 369.0,
-      "origin_country": "Spanien",
-      "wine_type": "Rött"
-    },
-    {
       "name": "Le Cupole",
       "producer": "Vini Franchetti",
       "score": null,
       "price": 359.0,
       "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Bürgstadter Spätburgunder",
-      "producer": "WG Rudolf Fürst",
-      "score": 95,
-      "price": 359.0,
-      "origin_country": "Tyskland",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "La Bruja",
-      "producer": "Comando G",
-      "score": 94,
-      "price": 300.0,
-      "origin_country": "Spanien",
       "wine_type": "Rött"
     },
     {
@@ -133,17 +157,9 @@
     {
       "name": "Old Vines Cabernet Shiraz",
       "producer": "Tahbilk",
-      "score": 88,
-      "price": 249.0,
-      "origin_country": "Australien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Vinha Mae",
-      "producer": "Quinta de Chocapalha",
       "score": null,
       "price": 249.0,
-      "origin_country": "Portugal",
+      "origin_country": "Australien",
       "wine_type": "Rött"
     },
     {
@@ -155,17 +171,9 @@
       "wine_type": "Rött"
     },
     {
-      "name": "Etna Rosso",
-      "producer": "Graci",
-      "score": null,
-      "price": 239.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
       "name": "Superiore Axilium",
       "producer": "Cascina Luisin",
-      "score": null,
+      "score": 80,
       "price": 229.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
@@ -331,12 +339,36 @@
       "wine_type": "Rött"
     },
     {
+      "name": "Malleolus",
+      "producer": "Emilio Moro",
+      "score": null,
+      "price": 379.0,
+      "origin_country": "Spanien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Viña Arana Gran Reserva",
+      "producer": "La Rioja Alta",
+      "score": null,
+      "price": 369.0,
+      "origin_country": "Spanien",
+      "wine_type": "Rött"
+    },
+    {
       "name": "Chablis Premier Cru Fourchaume",
       "producer": "Jean-Marc Brocard",
       "score": null,
       "price": 365.0,
       "origin_country": "Frankrike",
       "wine_type": "Vitt"
+    },
+    {
+      "name": "Bürgstadter Spätburgunder",
+      "producer": "WG Rudolf Fürst",
+      "score": null,
+      "price": 359.0,
+      "origin_country": "Tyskland",
+      "wine_type": "Rött"
     },
     {
       "name": "Brunello di Montalcino",
@@ -384,6 +416,14 @@
       "score": null,
       "price": 329.0,
       "origin_country": "USA - Kalifornien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "La Bruja",
+      "producer": "Comando G",
+      "score": null,
+      "price": 300.0,
+      "origin_country": "Spanien",
       "wine_type": "Rött"
     },
     {
@@ -563,6 +603,14 @@
       "wine_type": "Vitt"
     },
     {
+      "name": "Vinha Mae",
+      "producer": "Quinta de Chocapalha",
+      "score": null,
+      "price": 249.0,
+      "origin_country": "Portugal",
+      "wine_type": "Rött"
+    },
+    {
       "name": "Godeval Godello",
       "producer": "Bodegas Godeval",
       "score": null,
@@ -632,6 +680,14 @@
       "score": null,
       "price": 249.0,
       "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Etna Rosso",
+      "producer": "Graci",
+      "score": null,
+      "price": 239.0,
+      "origin_country": "Italien",
       "wine_type": "Rött"
     },
     {

@@ -12,21 +12,16 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-35",
-      "count": 123,
-      "avgScore": 93.9
+      "week": "2026-36",
+      "count": 130,
+      "avgScore": 91.6
     }
   ],
   "producers": [
     {
-      "name": "Kutch",
+      "name": "Dom. de la Côte",
       "count": 2,
-      "avgScore": 95.0
-    },
-    {
-      "name": "La Rioja Alta",
-      "count": 2,
-      "avgScore": 91.5
+      "avgScore": 94.0
     },
     {
       "name": "Vietti",
@@ -34,9 +29,9 @@
       "avgScore": 88.5
     },
     {
-      "name": "Tahbilk",
+      "name": "La Rioja Alta",
       "count": 2,
-      "avgScore": 88.0
+      "avgScore": 87.0
     },
     {
       "name": "Dr Loosen",
@@ -44,7 +39,27 @@
       "avgScore": 85.5
     },
     {
+      "name": "WG Georg Breuer",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Az. Agr. Antoniolo",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Kutch",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "Granville Wines",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Tahbilk",
       "count": 2,
       "avgScore": null
     },
@@ -69,17 +84,12 @@
       "avgScore": 95.0
     },
     {
-      "name": "WG Rudolf Fürst",
+      "name": "Joh. Jos. Prüm",
       "count": 1,
       "avgScore": 95.0
     },
     {
       "name": "Ch. Haut Bages Liberal",
-      "count": 1,
-      "avgScore": 94.0
-    },
-    {
-      "name": "Comando G",
       "count": 1,
       "avgScore": 94.0
     },
@@ -104,6 +114,16 @@
       "avgScore": 85.0
     },
     {
+      "name": "Gaja",
+      "count": 1,
+      "avgScore": 84.0
+    },
+    {
+      "name": "Cascina Luisin",
+      "count": 1,
+      "avgScore": 80.0
+    },
+    {
       "name": "Weingut Bründlmayer",
       "count": 1,
       "avgScore": null
@@ -114,32 +134,12 @@
       "avgScore": null
     },
     {
-      "name": "Gaja",
-      "count": 1,
-      "avgScore": null
-    },
-    {
       "name": "Il Poggione",
       "count": 1,
       "avgScore": null
     },
     {
-      "name": "Emilio Moro",
-      "count": 1,
-      "avgScore": null
-    },
-    {
       "name": "Vini Franchetti",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Bodegas Orben",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Hedges Family Estate",
       "count": 1,
       "avgScore": null
     }
