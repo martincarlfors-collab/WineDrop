@@ -12,14 +12,14 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-36",
-      "count": 130,
-      "avgScore": 91.6
+      "week": "2026-37",
+      "count": 153,
+      "avgScore": 93.2
     }
   ],
   "producers": [
     {
-      "name": "Dom. de la Côte",
+      "name": "Bodega Noemia",
       "count": 2,
       "avgScore": 94.0
     },
@@ -39,7 +39,27 @@
       "avgScore": 85.5
     },
     {
+      "name": "Bollinger",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Brancaia",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Bodegas Bernabeleva",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "WG Georg Breuer",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Dom. de la Côte",
       "count": 2,
       "avgScore": null
     },
@@ -59,6 +79,11 @@
       "avgScore": null
     },
     {
+      "name": "Dom. Laroche",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "Tahbilk",
       "count": 2,
       "avgScore": null
@@ -69,79 +94,54 @@
       "avgScore": null
     },
     {
-      "name": "Dom. Laroche",
-      "count": 2,
-      "avgScore": null
-    },
-    {
       "name": "Medici Ermete & Figli",
       "count": 2,
       "avgScore": null
     },
     {
-      "name": "Louis Roederer",
+      "name": "Ch. Malescasse",
       "count": 1,
-      "avgScore": 95.0
+      "avgScore": 97.0
     },
     {
-      "name": "Joh. Jos. Prüm",
-      "count": 1,
-      "avgScore": 95.0
-    },
-    {
-      "name": "Ch. Haut Bages Liberal",
+      "name": "WG Bründlmayer",
       "count": 1,
       "avgScore": 94.0
     },
     {
-      "name": "WG Friedrich Becker",
+      "name": "Ata Rangi",
       "count": 1,
       "avgScore": 94.0
     },
     {
-      "name": "WG am Schlipf Schneider",
+      "name": "Dom. Pinson",
       "count": 1,
-      "avgScore": 94.0
+      "avgScore": 93.0
     },
     {
-      "name": "Domaine de la Solitude",
+      "name": "Dom. Raspail-Ay",
       "count": 1,
-      "avgScore": 90.0
+      "avgScore": 93.0
     },
     {
-      "name": "Henri Bourgeois",
+      "name": "WG Heinrich",
       "count": 1,
-      "avgScore": 85.0
+      "avgScore": 93.0
     },
     {
-      "name": "Gaja",
+      "name": "Bodegas Alegre Valgañon",
       "count": 1,
-      "avgScore": 84.0
+      "avgScore": 93.0
     },
     {
-      "name": "Cascina Luisin",
+      "name": "Fontanafredda",
       "count": 1,
-      "avgScore": 80.0
+      "avgScore": 92.0
     },
     {
-      "name": "Weingut Bründlmayer",
+      "name": "M.Chapoutier",
       "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Nino Franco",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Il Poggione",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Vini Franchetti",
-      "count": 1,
-      "avgScore": null
+      "avgScore": 92.0
     }
   ]
 }
