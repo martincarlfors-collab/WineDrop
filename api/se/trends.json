@@ -12,16 +12,21 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-37",
-      "count": 153,
-      "avgScore": 93.2
+      "week": "2026-38",
+      "count": 184,
+      "avgScore": null
     }
   ],
   "producers": [
     {
-      "name": "Bodega Noemia",
-      "count": 2,
-      "avgScore": 94.0
+      "name": "E. Guigal",
+      "count": 4,
+      "avgScore": null
+    },
+    {
+      "name": "WG Von Winning",
+      "count": 3,
+      "avgScore": null
     },
     {
       "name": "Vietti",
@@ -39,17 +44,22 @@
       "avgScore": 85.5
     },
     {
+      "name": "Pio Cesare",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Au Bon Climat",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "Bollinger",
       "count": 2,
       "avgScore": null
     },
     {
-      "name": "Brancaia",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Bodegas Bernabeleva",
+      "name": "Bodega Noemia",
       "count": 2,
       "avgScore": null
     },
@@ -69,6 +79,11 @@
       "avgScore": null
     },
     {
+      "name": "Brancaia",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "Kutch",
       "count": 2,
       "avgScore": null
@@ -80,6 +95,11 @@
     },
     {
       "name": "Dom. Laroche",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Bodegas Bernabeleva",
       "count": 2,
       "avgScore": null
     },
@@ -99,49 +119,29 @@
       "avgScore": null
     },
     {
-      "name": "Ch. Malescasse",
+      "name": "Domaine de la Solitude",
       "count": 1,
-      "avgScore": 97.0
+      "avgScore": 90.0
     },
     {
-      "name": "WG Bründlmayer",
+      "name": "Henri Bourgeois",
       "count": 1,
-      "avgScore": 94.0
+      "avgScore": 85.0
     },
     {
-      "name": "Ata Rangi",
+      "name": "Weingut Bründlmayer",
       "count": 1,
-      "avgScore": 94.0
+      "avgScore": null
     },
     {
-      "name": "Dom. Pinson",
+      "name": "Nino Franco",
       "count": 1,
-      "avgScore": 93.0
+      "avgScore": null
     },
     {
-      "name": "Dom. Raspail-Ay",
+      "name": "Dom. Amélie Guillot",
       "count": 1,
-      "avgScore": 93.0
-    },
-    {
-      "name": "WG Heinrich",
-      "count": 1,
-      "avgScore": 93.0
-    },
-    {
-      "name": "Bodegas Alegre Valgañon",
-      "count": 1,
-      "avgScore": 93.0
-    },
-    {
-      "name": "Fontanafredda",
-      "count": 1,
-      "avgScore": 92.0
-    },
-    {
-      "name": "M.Chapoutier",
-      "count": 1,
-      "avgScore": 92.0
+      "avgScore": null
     }
   ]
 }
