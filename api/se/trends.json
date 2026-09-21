@@ -12,8 +12,8 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-38",
-      "count": 184,
+      "week": "2026-39",
+      "count": 212,
       "avgScore": null
     }
   ],
@@ -21,6 +21,11 @@
     {
       "name": "E. Guigal",
       "count": 4,
+      "avgScore": null
+    },
+    {
+      "name": "Maugeri",
+      "count": 3,
       "avgScore": null
     },
     {
@@ -44,12 +49,27 @@
       "avgScore": 85.5
     },
     {
-      "name": "Pio Cesare",
+      "name": "WG Philipp Kuhn",
       "count": 2,
       "avgScore": null
     },
     {
-      "name": "Au Bon Climat",
+      "name": "Trediberri",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Alain Brumont",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Az. Agr. Giacomo Grimaldi",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "G.D. Vajra",
       "count": 2,
       "avgScore": null
     },
@@ -89,6 +109,16 @@
       "avgScore": null
     },
     {
+      "name": "Pio Cesare",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Au Bon Climat",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "Granville Wines",
       "count": 2,
       "avgScore": null
@@ -111,36 +141,6 @@
     {
       "name": "Jim Barry",
       "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Medici Ermete & Figli",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Domaine de la Solitude",
-      "count": 1,
-      "avgScore": 90.0
-    },
-    {
-      "name": "Henri Bourgeois",
-      "count": 1,
-      "avgScore": 85.0
-    },
-    {
-      "name": "Weingut Bründlmayer",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Nino Franco",
-      "count": 1,
-      "avgScore": null
-    },
-    {
-      "name": "Dom. Amélie Guillot",
-      "count": 1,
       "avgScore": null
     }
   ]
