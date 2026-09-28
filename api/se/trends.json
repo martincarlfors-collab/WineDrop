@@ -12,8 +12,8 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-39",
-      "count": 212,
+      "week": "2026-40",
+      "count": 236,
       "avgScore": null
     }
   ],
@@ -49,6 +49,21 @@
       "avgScore": 85.5
     },
     {
+      "name": "Cobb Wines",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Trimbach",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Alain Voge",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "WG Philipp Kuhn",
       "count": 2,
       "avgScore": null
@@ -59,7 +74,17 @@
       "avgScore": null
     },
     {
+      "name": "Poderi Colla",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "Alain Brumont",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Arianna Occhipinti",
       "count": 2,
       "avgScore": null
     },
@@ -69,7 +94,22 @@
       "avgScore": null
     },
     {
+      "name": "Fontanafredda",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Viñedos del Contino",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "G.D. Vajra",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Marchesi Mazzei",
       "count": 2,
       "avgScore": null
     },
@@ -100,46 +140,6 @@
     },
     {
       "name": "Brancaia",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Kutch",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Pio Cesare",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Au Bon Climat",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Granville Wines",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Dom. Laroche",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Bodegas Bernabeleva",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Tahbilk",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Jim Barry",
       "count": 2,
       "avgScore": null
     }

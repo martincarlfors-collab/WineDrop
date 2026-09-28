@@ -1,7 +1,7 @@
 {
   "market": "se",
-  "week": 39,
-  "updated": "2026-09-21",
+  "week": 40,
+  "updated": "2026-09-28",
   "wines": [
     {
       "id": "se-90613",
@@ -55,27 +55,27 @@
           "lang": "sv"
         },
         {
-          "source": "divinecellar.com",
-          "title": "Gosset Grand Millésime 2015 Champagne - Divine Cellar",
-          "url": "https://www.divinecellar.com/fr/champagnes/1337-gosset-grand-millesime-2015-champagne-3353210099966.html",
-          "excerpt": "La texture est gourmande, généreuse et croquante. ... Gosset Grand Millésime 2015 <strong>est un Champagne tout en fraîcheur et élégance, à dominante Pinot Noir qui se révèle très expressif</strong>.",
+          "source": "cellartracker.com",
+          "title": "2015 Gosset Champagne Brut Grand Millésime, France, Champagne - CellarTracker",
+          "url": "https://www.cellartracker.com/wine.asp?iWine=4321516",
+          "excerpt": "Average of 92.4 points in 27 community wine reviews on 2015 Gosset Champagne Brut Grand Millésime, plus professional notes, label images, wine details, and recommendations on when to drink.",
           "lang": "sv"
         }
       ]
     },
     {
-      "id": "se-9363201",
+      "id": "se-94405",
       "market": "se",
-      "name": "Riserva",
-      "producer": "Giacomo Borgogno",
+      "name": "Pinot Noir Coastlands Vinyard",
+      "producer": "Cobb Wines",
       "wine_type": "Rött",
-      "vintage": "1982",
-      "origin_country": "Italien",
-      "price": 3999.0,
+      "vintage": "2022",
+      "origin_country": "USA - Kalifornien",
+      "price": 795.0,
       "currency": "SEK",
-      "launch_date": "2026-09-17",
-      "url": "https://www.systembolaget.se/sortiment/?q=9363201",
-      "image": "https://imgs.search.brave.com/geMK1yF1xAprurcxWlSwe4506BhhO-ayCOWvNm7xO4Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuampidWNrbGV5/LmNvbS9WaW50YWdl/LzIyMjIzOS90aHVt/Yl8yMTZ4NTQzXzE5/ODgtOTgyNS03NTAu/cG5n",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=94405",
+      "image": "https://imgs.search.brave.com/yrHXQgOxZBojU1PrJcN8HG6JheASZm6qFoDa-NTFq4U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2luZS1zZWFyY2hl/ci5jb20vaW1hZ2Vz/L2xhYmVscy82NC8x/MS8xMDI0NjQxMS5q/cGc_d2lkdGg9NDY2/JmhlaWdodD00MDAm/Zml0PWJvdW5kcw",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,
@@ -87,38 +87,458 @@
       "pairing": {},
       "sources": [
         {
-          "source": "cellartracker.com",
-          "title": "1982 Giacomo Borgogno & Figli Barolo Riserva, Italy, Piedmont, Langhe, Barolo - CellarTracker",
-          "url": "https://www.cellartracker.com/wine.asp?iWine=82248",
-          "excerpt": "Average of 90.8 points in 76 community wine reviews on 1982 Giacomo Borgogno &amp; Figli Barolo Riserva, plus professional notes, label images, wine details, and recommendations on when to drink.",
+          "source": "cobbwines.com",
+          "title": "vinous.com Antonio Galloni January 2025 Vinous 93 pts",
+          "url": "https://cobbwines.com/wp-content/uploads/2025/02/Vinous_Reviews_Galloni_2025.pdf",
+          "excerpt": "Lemon conﬁt, tangerine peel, chamomile and mint are all · layered in the glass. The 2022 is creamy and expressive in the · understated style that is such a signature of Ross Cobb&#x27;s wines. ... There&#x27;s a lot to like here, that much is evident. ... <strong>The 2022 Pinot Noir Coastlands is stellar</strong>.",
           "lang": "sv"
         },
         {
-          "source": "cellartracker.com",
-          "title": "1982 Giacomo Borgogno & Figli Barolo Riserva Classico, Italy, Piedmont, Langhe, Barolo - CellarTracker",
-          "url": "https://www.cellartracker.com/wine.asp?iWine=230388",
-          "excerpt": "Community wine reviews and ratings on 1982 Giacomo Borgogno &amp; Figli Barolo Riserva Classico, plus professional notes, label images, wine details, and recommendations on when to drink.",
+          "source": "wine-searcher.com",
+          "title": "Best local price for 2022 Cobb Coastlands Vineyard Pinot Noir - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/cobb+coastland+pinot+noir+sonoma+coast+county+north+california+usa/2022",
+          "excerpt": "Critic tasting note: (2022 vintage) &quot;<strong>A brilliant, crisp, vivid red that&#x27;s fresh and linear yet full-bodied and packs a punch in terms of flavor</strong>. Black-cherry, black-tea, pine-forest, sour-cherry and rhubarb flavors on medium tannins for a potent, ...",
           "lang": "sv"
         },
         {
-          "source": "reddit.com",
-          "title": "r/wine on Reddit: 1982 Giacomo Borgogno & Figli Barolo Riserva",
-          "url": "https://www.reddit.com/r/wine/comments/1hm5xun/1982_giacomo_borgogno_figli_barolo_riserva/",
-          "excerpt": "I did have the chance to go to dinner with my sales rep at the time and Giorgio and he closed our menus, ordered a 2004 Mont Redon Chateauneuf du Pape Blanc and told us “you’re all having the truffle tasting menu” and handed the menus to our server with a bottle of ‘78 Borgogno Barolo and it was divine. Note: he did not mention that at dinner, nor did I remember to ask him. ... Haha, lovely stories! This wine has clearly not been in the bottle since 1982... you can see how pristine the cork is; I needn&#x27;t have bothered with the waiter&#x27;s friend. The tag on the neck of the bottle reads, &quot;Riserva custodita / L.",
+          "source": "vivino.com",
+          "title": "Cobb Coastlands Vineyard Pinot Noir | Vivino English",
+          "url": "https://www.vivino.com/en/cobb-wines-coastlands-vineyard-pinot-noir/w/1843150",
+          "excerpt": "Sort and explore the best vintages of Cobb Coastlands Vineyard Pinot Noir. ... Only available from external shops. Average price shown ... Only available from external shops. Average price shown ... Popular among Vivino users. More than 100 ratings ... Our wine experts think this Californian Sonoma Coast Pinot Noir Red wine would be a match made in heaven with these dishes.",
           "lang": "sv"
         },
         {
-          "source": "winesipping.wordpress.com",
-          "title": "Giacomo Borgogno e Figli Barolo Riserva 1982, Piedmont, Italy – Odedi's Wine Reviews Blog",
-          "url": "https://winesipping.wordpress.com/2024/06/04/giacomo-borgogno-e-figli-barolo-riserva-1982-piedmont-italy/",
-          "excerpt": "Dark brick in color. Pretty nose of stewed red fruits, light oak, spices, caramel, sweet chocolates notes, smoked meat and black pepper. Light to medium in body with medium acidity. Dry on the palate with raspberries, sweet cherries, cooked plums, earth, light forest floor, tobacco leaf, herbs and light black pepper. Long finish with fine grained tannins and tangy strawberries. This 42 year old Barolo is just gorgeous now. Drinking beautifully with great complexity and mouthfeel. Elegant and rich. Well balanced and powerful. Feels like it still has power in it to last even longer, although I d",
+          "source": "vinlegender.se",
+          "title": "2022 Pinot Noir Coastlands Vineyard - Vinlegender",
+          "url": "https://www.vinlegender.se/dryck/2022-pinot-noir-coastlands-vineyard/",
+          "excerpt": "Vecka 38 2022 Pinot Noir Coastlands Vineyard Cobb Wines , 795 kr , ( nr. 94405 ) , Sonoma County, Kalifornien, USA 100% Pinot Noir Trots att Sonoma Coast sträcker sig över en yta om drygt 202 000 hektar är inte mer än cirka 3 750 hektar planterat med vin. När de första vingårdarna planterades i början och mitten av 1970-talet var Kalifornien fortfarande underutvecklat och pionjärerna här ute vid kusten sågs som smått galna. Efter att ett par firmor gjorde sig omtalade för Chardonnay och Pinot Noir i det vindutsatta, svala, nederbördsrika (om vintern) och karga landskapet, började Sonoma Coast ",
+          "lang": "sv"
+        },
+        {
+          "source": "mynewsdesk.com",
+          "title": "Nyhet! Cobb Wines Pinot Noir Coastlands Vineyard 2022 | Wine Affair Scandinavia AB",
+          "url": "https://www.mynewsdesk.com/se/wineaffair/news/nyhet-cobb-wines-pinot-noir-coastlands-vineyard-2022-513209",
+          "excerpt": "Nyhet — 24 September 2026 06:50 Dela Dela publiceringen Kopiera länk Länk kopierad! Ladda ner Nyhet! Cobb Wines Pinot Noir Coastlands Vineyard 2022 Coastlands Vineyard är vingården där historien om Cobb Wines en gång började. Den planterades av familjen Cobb 1989 och ligger högt och utsatt på den svala Sonoma Coast, bara några kilometer från Stilla havet. Det maritima klimatet med svala vindar och druvor som mognar långsamt ger en intensiv Pinot Noir men samtidigt frisk och med en tydlig känsla av ursprung. 240 flaskor släpps i Systembolagets exklusiva sortiment av Cobb Wines Pinot Noir Coastl",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-93996",
+      "market": "se",
+      "name": "Riesling Grand Cru Geisberg",
+      "producer": "Trimbach",
+      "wine_type": "Vitt",
+      "vintage": "2020",
+      "origin_country": "Frankrike",
+      "price": 749.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=93996",
+      "image": "https://imgs.search.brave.com/Zb4J7viqgFa6ntr-SIPy0jaOlvJw6NNbVRel_fe78JI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGVjYXJyZWRlc3Zp/bnMuY29tLzE0MjUx/LW1lZGl1bV9kZWZh/dWx0L2RvbWFpbmUt/dHJpbWJhY2gtcmll/c2xpbmctZ2Vpc2Jl/cmctZ3JhbmQtY3J1/LTIwMTIuanBn",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "terroirsense.com",
+          "title": "The Greatness That Is Trimbach – TerroirSense Wine Review",
+          "url": "https://terroirsense.com/en/p/10888.html",
+          "excerpt": "The Vineyards: villages, lieux-dits, and the Geisberg and Rosacker grand crus · Trimbach farms grapes from 65 hectares that are owned by the family, plus another 60 hectares under lease. The viticulture is all certified organic since the 2023 vintage. In total, this world-famous Alsace estate produces about 85,000 cases of wine a year, and the wines are well worth seeking out, in my humble opinion. Do you want a classic Riesling wine?",
+          "lang": "sv"
+        },
+        {
+          "source": "palmbay.com",
+          "title": "Maison Trimbach - Grand Cru Geisberg Riesling - Vignoble du Couvent de Ribeauville",
+          "url": "https://www.palmbay.com/wines/maison-trimbach/trimbach-grand-cru-geisberg-riesling-vignoble-du-couvent-de-ribeauville/",
+          "excerpt": "Are you of legal drinking age? No Yes You must be at least 18 years old to enter. Wines Maison Trimbach Grand Cru Geisberg Riesling - Vignoble du Couvent de Ribeauville Maison Trimbach Grand Cru Geisberg Riesling - Vignoble du Couvent de Ribeauville Alsace Grand Cru AOC, Alsace, france Vintage 2018 2017 2016 2015 2013 Awards 97 points Cellar Selection Wine Enthusiast, May 2020 94 points Wine Spectator, February 2023 download Tech Sheet Product Information Product Assets Reviews & Awards Background Since 1626, the Trimbach family have been a reference point for fine Alsace wine. They are also o",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "Trimbach Riesling Alsace Grand Cru 'Geisberg' | Vivino Svenska",
+          "url": "https://www.vivino.com/sv/trimbach-alsace-riesling-alsace-grand-cru-geisberg-alsace-grand-cru-geisberg/w/5402558",
+          "excerpt": "Trimbach Riesling Alsace Grand Cru &#x27;Geisberg&#x27; är en Vitt vin. Kolla in dess betyg och recensioner från världens största vincommunity.",
+          "lang": "sv"
+        },
+        {
+          "source": "trimbach.fr",
+          "title": "Our Wines | Trimbach Alsace Wines - Ribeauville - France",
+          "url": "https://www.trimbach.fr/en/vins-alsace",
+          "excerpt": "Our Alsace wines Our Alsace Trimbach wines are classified in 5 ranges of wines with specificities and qualities specific to each range. Our unmissable classics, our wines from a strict selection of vines from the Réserve range, our Réserve Personnelle wines, the Riesling and Grands Crus Collection, and finally the Vendanges Tardives and Sélections de Grains Nobles. Mainly Riesling, but also Gewurztraminer, Pinot Gris, Noir, Blanc, Sylvaner and Muscat. ​ Our 5 ranges of wines Classic Wines Discover Réserve Wines Discover Réserve Personnelle Wines Discover Riesling & Grands Crus Collection Disco",
+          "lang": "sv"
+        },
+        {
+          "source": "systembolaget.se",
+          "title": "Trimbach Riesling Grand Cru Geisberg, 2020 | Systembolaget",
+          "url": "https://www.systembolaget.se/produkt/vin/trimbach-9399601/",
+          "excerpt": "Sätt betyg Spara Vin , Vitt vin Trimbach Riesling Grand Cru Geisberg, 2020 \"\" Frankrike , Alsace Flaska · 750 ml · 14 % vol. Nr 9399601 Nr 9399601 749:- 749 kronor 998:67 kr/l 998 kronor och 67 öre per liter Drycken finns i begränsad mängd. En smakbeskrivning saknas eftersom drycken inte är provad av Systembolaget. Laddar ... Allergener Standardglas Klimat, miljö, socialt ansvar Produktinformation Råvaror Riesling. Producent Trimbach Allt från Trimbach Årgång 2020 Årgångstabellen för vin Information Uppgifter från producent eller leverantör kan ändras över tid, vilket innebär att bild, förpack",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-94138",
+      "market": "se",
+      "name": "Cornas Les Vieilles Vignes",
+      "producer": "Alain Voge",
+      "wine_type": "Rött",
+      "vintage": "2023",
+      "origin_country": "Frankrike",
+      "price": 699.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=94138",
+      "image": "https://imgs.search.brave.com/u_RsA_u2vBBnMkSIE4nJguOrYRdBnYWLb9RWzL1c9ao/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMubWlsbGVzaW1h/LmNvbS9zMy9hdHRh/Y2hlbWVudHMvaDUz/MXB4L0YxMjNfMjAx/NU5NX2MucG5n",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "alain-voge.com",
+          "title": "AOC Cornas - Les Vieilles Vignes",
+          "url": "https://www.alain-voge.com/fr/cornas/les-vieilles-vignes",
+          "excerpt": "Cornas Appellation contrôlée Les Vieilles Vignes Notre grand classique. C’est la plus ancienne des cuvées du Domaine, créée dans les années 1970 pour valoriser le vieux vignoble familial. Les vignes de cette cuvée sont situées au cœur de l’appellation face à nos premières replantations. Les Vieilles Vignes est le miroir de notre histoire et de notre savoir-faire. L’ensemble du domaine est en culture biologique et biodynamique. Télécharger la fiche technique Commander Voir mon panier TERROIR Situées sur des coteaux à environ 200 mètres d’altitude, avec une exposition sud/sud-est, les vignes de ",
           "lang": "sv"
         },
         {
           "source": "decanter.com",
-          "title": "Borgogno, Riserva, Barolo, Piedmont, Italy, 1982",
-          "url": "https://www.decanter.com/wine-reviews/italy/piedmont/borgogno-riserva-barolo-piedmont-italy-1982-23349/",
-          "excerpt": "Borgogno, Riserva, Barolo, Piedmont, Italy, 1982 My Wines avg price (ex tax) powered by wine-searcher Single Tasting Producer Borgogno Brand Riserva Vintage 1982 Wine Type Still Colour Red Country Italy Region Piedmont Appellation Barolo Sweetness Dry Closure Cork Alcohol 14.00% Body Full Oak Oaked Grapes 100% Nebbiolo",
+          "title": "Alain Voge, Les Vieilles Vignes, Cornas, Rhône, France 2023",
+          "url": "https://www.decanter.com/wine-reviews/france/rhone/alain-voge-les-vieilles-vignes-cornas-rhone-france-2023-89741/",
+          "excerpt": "Alain Voge, Les Vieilles Vignes, Cornas, Rhône, France 2023 My Wines avg price (ex tax) powered by wine-searcher Single Tasting Producer Alain Voge Brand Les Vieilles Vignes Vintage 2023 Wine Type Still Colour Red Country France Region Rhône Appellation Cornas Sweetness Dry Closure Cork Body Medium Oak Lightly Oaked Grapes 100% Syrah / Shiraz",
+          "lang": "sv"
+        },
+        {
+          "source": "hachette-vins.com",
+          "title": "Alain Voge Les Vieilles Vignes 2019 - Cornas - Vin rouge | Guide Hachette des Vins",
+          "url": "https://www.hachette-vins.com/guide-vins/les-vins/alain-voge-les-vieilles-vignes-2019-2023/202361765/",
+          "excerpt": "Vous devez activer Javascript pour profiter du Guide Hachette des Vins. Le vin Le vigneron Appellation Les plats en accord Alain Voge Favori Les Vieilles Vignes 2019 - rouge Vallée du Rhône • Cornas rouge tranquille A boire 30 à 50 € Vin très réussi! Alain Voge Les Vieilles Vignes 2019 rouge : L'avis du Guide Hachette des Vins 2023 Éraflage partiel, fermentation en levures indigènes et élevage de 20 mois en fût (dont 20 % neufs) : tout a été fait en cave pour laisser \"parler\" ces vieilles vignes et leur laisser le temps de s'affiner. Dans le verre, un vin très sombre, qui associe la maturité d",
+          "lang": "sv"
+        },
+        {
+          "source": "1jour1vin.com",
+          "title": "Domaine Alain Voge Cornas Les Vieilles Vignes rouge 2023 | 1jour1vin",
+          "url": "https://www.1jour1vin.com/fr/guide-achat-vin/rhone/vins-cornas/alain-voge/29008-vin-rouge-les-vieilles-vignes-domaine-alain-voge-2023?shopping=21",
+          "excerpt": "21624 avis clients Ventes Guide du vin Vins du Rhône Cornas Alain Voge Domaine Alain Voge - Cornas Les Vieilles Vignes 2023 Domaine Alain Voge - Cornas Les Vieilles Vignes 2023 Cornas | Vin rouge | Bio 95/100 Decanter 94/100 Jeb Dunnuck 93/100 RVF 93/100 Wine Spectator syrah soyeux élégant « Une référence sur Cornas ! » « Des arômes de romarin, de fumée de bois et d'amande. Un beau volume de fruit, plus concentré que la plupart des Cornas 2023. Une acidité vive et chatoyante, avec une pointe saline et une longue finale. Une expression minérale du Cornas, à la fois vive et charpentée. » (Decant",
+          "lang": "sv"
+        },
+        {
+          "source": "paramourduvin.com",
+          "title": "Cornas Les Vieilles Vignes 2023 Rouge - Domaine Alain Voge - Par Amour Du Vin",
+          "url": "https://www.paramourduvin.com/boutique/vins/cornas-les-vieilles-vignes-2023-2987",
+          "excerpt": "Ici, on ne vend pas des étiquettes. On sélectionne des histoires à déboucher Accueil Vins Cornas Les Vieilles Vignes 2023 Ajouter à vos favoris 2023 Cornas Les Vieilles Vignes 2023 Rouge 62,00 € Réf.VR-AV-VV23-75 La cuvée référence du domaine ! La plus ancienne du domaine crée en 1970. Le nez et la bouche sont d’une rare complexité ! Les notes florales, les fruits, les épices et les notes fumées sont soutenus par des tanins fin hors norme capables de supporter les œuvres du temps. C’est tout simplement énorme ! Rhône Domaine Alain Voge Culture : Bio Arômes : Fruité Epicé Puissant Conservation ",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-94016",
+      "market": "se",
+      "name": "Blanc de Blancs Grand Cru Extra Brut",
+      "producer": "André Jacquart",
+      "wine_type": "Mousserande",
+      "vintage": "",
+      "origin_country": "Frankrike",
+      "price": 549.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=94016",
+      "image": "https://imgs.search.brave.com/gAPMx4Bkz-ctuw1gV1L3LgrR-B0qSycgHBztzoT-QJs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2luZS1zZWFyY2hl/ci5jb20vaW1hZ2Vz/L2xhYmVscy80NC8z/MC8xMTcyNDQzMC5q/cGc_d2lkdGg9Mjg4/JmhlaWdodD0xODAm/Zml0PWJvdW5kcyZj/YW52YXM9Mjg4LDE4/MCZmb3JtYXQ9YXV0/byZhdXRvPWNvbXBy/ZXNzJmRwcj0xJnF1/YWxpdHk9NzA",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "vinjournalen.se",
+          "title": "André Jacquart Blanc de Blancs Grand Cru Extra Brut | Vinjournalen | Vinjournalen",
+          "url": "https://www.vinjournalen.se/produkter/mousserande-vin/andre-jacquart-blanc-de-blancs-grand-cru-extra-brut-9401601/",
+          "excerpt": "André Jacquart Blanc de Blancs ... i Frankrike. <strong>Tillverkat av 100% Chardonnay från Grand Cru-byar bjuder det på en frisk och ren karaktär med inslag av citrus, gröna äpplen och en touch av brioche</strong>....",
+          "lang": "sv"
+        },
+        {
+          "source": "munskankarna.se",
+          "title": "André Jacquart Vertus Experiance Extra Brut Premier Cru ...",
+          "url": "https://www.munskankarna.se/sv/vinlocus/Bestallningssortimentet-2020-10-Oktober/andre-jacquart-vertus-experiance-extra-brut-premier-cru-blanc-de-blancs-nv",
+          "excerpt": "Tillbaka BETYG 16,5 369:- Mer än prisvärt Druv- eller distrikttypisk Mousserande vin André Jacquart Vertus Experiance Extra Brut Premier Cru Blanc de Blancs NV Frankrike , Champagne Producent: André Jacquart Systembolaget: 77348 BETYG 16,5 369:- Mer än prisvärt Druv- eller distrikttypisk Bedömning Aromatisk, rökig doft av grillad citron, ylle, brioche, cognac, ek och ett stänk bonvax. Drygt medelfyllig, lätt rustik smak med frisk fruktsyra, rejäl mousse och lång eftersmak med ett uns ekbitterhet i eftersmaken. Provning Beställningssortimentet 2020 10 Oktober Om vinet Volym 75 cl Alkohol 12 % D",
+          "lang": "sv"
+        },
+        {
+          "source": "cellartracker.com",
+          "title": "NV André Jacquart Champagne Premier Cru Experience Extra Brut Blanc de Blancs Vertus, France, Champagne, Champagne Premier Cru - CellarTracker",
+          "url": "https://www.cellartracker.com/wine.asp?iWine=3276851",
+          "excerpt": "100% Chardonnay from estate premier cru Vertus on the southern part of Côte des Blancs with chalky soil farmed under certified HVE 3. Base wine 2020 barrel fermented. No malolactic. Bottled 6/2021. Reserve wine 2018-2019. Disgorged 02/2023. Dosage: 4 g/l 12.5% Abv. Background: The Jacquart family had been Champagne growers for four generations. André Jacquart began bottling in 1958. Now run by his grand-daughter Marie Doyard since 2004 with estate vineyards in in Vertus 1er Cru and Le Mesnil-sur-Oger Grand Cru, Côte des Blancs.",
+          "lang": "sv"
+        },
+        {
+          "source": "cellartracker.com",
+          "title": "NV André Jacquart Champagne Grand Cru Blanc de Blancs Experience Le Mesnil, France, Champagne, Champagne Grand Cru - CellarTracker",
+          "url": "https://www.cellartracker.com/wine.asp?iWine=2972015",
+          "excerpt": "Average of 89.9 points in 108 community wine reviews on NV André Jacquart Champagne Grand Cru Blanc de Blancs Experience Le Mesnil, plus professional notes, label images, wine details, and recommendations on when to drink.",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "N.V. André Jacquart Blanc de Blancs Extra Brut Mesnil Experience Champagne Grand Cru | Vivino English",
+          "url": "https://www.vivino.com/en/andre-jacquart-blanc-de-blancs-extra-brut-mesnil-experience-champagne-grand-cru/w/7412727",
+          "excerpt": "André Jacquart Blanc de Blancs Extra Brut Mesnil Experience Champagne Grand Cru is a Sparkling wine. Made from Chardonnay. Check its rating and reviews from the world’s largest wine community.",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-94018",
+      "market": "se",
+      "name": "Le Bel Ouvrage",
+      "producer": "Dom. Laureau",
+      "wine_type": "Vitt",
+      "vintage": "2022",
+      "origin_country": "Frankrike",
+      "price": 499.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=94018",
+      "image": "https://imgs.search.brave.com/X0s77SjjBj-r0eUP7M1OeV8rjY2ZRIqDMRSYhq_GqFI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zaG9w/Lmxlc2NhdmVzZGV0/YWlsbGV2ZW50LmNv/bS8yODYwLWhvbWVf/ZGVmYXVsdC9WYWxs/ZWUtZHUtUmhvbmUt/U2FpbnQtSm9zZXBo/LURvbWFpbmUtQmVy/bmFyZC1HcmlwYS0y/MDIyLUJsYW5jLmpw/Zw",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "lacaveduchateau.com",
+          "title": "Damien Laureau, Bel Ouvrage 2022 Blanc Loire Savennières 75cl",
+          "url": "https://www.lacaveduchateau.com/damien-laureau-bel-ouvrage-2022-blanc-vdalasabobc22b7ccu1.html",
+          "excerpt": "Main image Click to view image in fullscreen chevron-left chevron-right Damien Laureau, Bel Ouvrage 2022 Blanc Domaine Laureau Loire Appellation : Savennières Voir le stock en boutique Stock disponible en boutique Fermer close-outline check-circle Paris 8ème 4 en stock 31 Av. Franklin Delano Roosevelt 75008 Paris Tél : 01 82 82 33 33 close-circle Pessac Pavillon Catelan Indisponible 135 Av. Jean Jaurès 33600 Pessac Tél : 05 47 50 17 17 close-circle Bordeaux Tourny Indisponible 3 Place Tourny, 33000 Bordeaux Tél : 05 47 50 55 55 Le stock en boutique ne tient pas compte des éventuelles disponibi",
+          "lang": "sv"
+        },
+        {
+          "source": "domainelaureau.com",
+          "title": "Le Bel Ouvrage 2022 *0,75L – Domaine Laureau",
+          "url": "https://domainelaureau.com/produit/le-bel-ouvrage-2022-075l/",
+          "excerpt": "Aller au contenu Le Bel Ouvrage 2023 *0,75L 52,50 € – 306,00 € Plage de prix : 52,50€ à 306,00€ Format : Choisir une option A l'unité Caisse de 6 Effacer quantité de Le Bel Ouvrage 2023 *0,75L Ajouter au panier La puissance du chenin Vinification des coeurs de presse sur des terroirs de schistes et de rhyolite (un micro granit) situés sur le plateau de Savennières, le Bel Ouvrage 2023 est élevé 23 mois sur lies dont 12 mois en fûts de chêne. Un choix d’élevage très long permet d’ arriver à une grande finesse pour ce Bel Ouvrage 2023. L’année 2023 fut paisible et généreuse … jusqu’à ce que les ",
+          "lang": "sv"
+        },
+        {
+          "source": "avis-vin.lefigaro.fr",
+          "title": "Damien Laureau Le Bel Ouvrage, Vin Blanc",
+          "url": "https://avis-vin.lefigaro.fr/vins-champagne/vallee-de-la-loire/anjou/savennieres/d10748-damien-laureau/v10751-damien-laureau-le-bel-ouvrage/vin-blanc",
+          "excerpt": "L'abus d'alcool est dangereux pour la santé. À consommer avec modération. Entrez ici votre recherche Rechercher un domaine, un vin… Rechercher Passer la publicité Passer la publicité Publicité 90 /100 Damien Laureau Le Bel Ouvrage - Blanc Vin blanc Vallée de la Loire À partir de 51 € Les millésimes de ce vin Millésime Prix Note /100 2023 52 € - 2022 51 € - 2020 - - 2018 - - 2016 - - 2015 - - 2012 - - 2011 - - 2010 - - 2009 - - 2008 - 90 2007 - - 2006 - - 2005 - - 2004 - - 2003 - - 2002 - - 2001 - - 2000 - - Copier le lien Lien copié Mail Facebook X Linkedin Messenger WhatsApp Acheter ce vin Se",
+          "lang": "sv"
+        },
+        {
+          "source": "espace-vin.com",
+          "title": "Le Bel Ouvrage - Damien Laureau - Vin Bio - Savennières - Espace Vin",
+          "url": "https://espace-vin.com/boutique/autres-regions/loire/le-bel-ouvrage/",
+          "excerpt": "On trouvera un nez très exotique sur des parfums d&#x27;ananas frais, de citrons verts et pamplemousse ainsi que de fleurs blanches. <strong>Puissance, complexité, droiture et finesse définissent cette cuvée</strong>.",
+          "lang": "sv"
+        },
+        {
+          "source": "chateauloisel.com",
+          "title": "Commentaires de degustation du vin Damien Laureau - Le Bel Ouvrage (blanc).",
+          "url": "http://www.chateauloisel.com/vin/loire/damien-laureau/bel-ouvrage-blanc.htm",
+          "excerpt": "Le petit Guide Loisel des vins Dégustations Vallée de la Loire Les Vins Dernières Dégustations Les Vins du Mois Alsace Beaujolais Bordeaux Bourgogne Champagne Charentes Corse Jura Languedoc / Roussillon Lorraine Normandie Provence Savoie Sud-Ouest Vallée de la Loire Vallée du Rhône Italie Hongrie Liste des Appellations Les Classements Officiels Les Livres sur le vin Plein d'Idées de Cadeaux Présentations de livres Guides de vins DVD sur le vin Les Liens Annuaire du Vin Annuaire Sites de Vignerons Dossier Champagne Terroirs de Champagne Dégustation du Champagne L'Étiquette du Champagne Le Dosag",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-93985",
+      "market": "se",
+      "name": "Fleur de Crussol",
+      "producer": "Alain Voge",
+      "wine_type": "Vitt",
+      "vintage": "2023",
+      "origin_country": "Frankrike",
+      "price": 499.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=93985",
+      "image": "https://imgs.search.brave.com/zj266EJNd94OKcKiQsQoK8M3vAo50VX3CdyxMKKRoH4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tdW5k/b3Zpbi5jb20vNDc1/MS1wcm9kdWN0X2Rl/dGFpbC9zYWludC1w/JUMzJUE5cmF5LWZs/ZXVyLWRlLWNydXNz/b2wtMjAyMy1hbGFp/bi12b2dlLmpwZw",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "cdn.winespectator.com",
+          "title": "Alain Voge St.-Péray Fleur de Crussol 2023 | Wine Rating | Wine Spectator",
+          "url": "https://cdn.winespectator.com/wine/wine-detail/id/1328782/name/alain-voge-st-peray-fleur-de-crussol-2023/guest",
+          "excerpt": "$78, White, Still, France. Tasting note for this wine: Concentrated and savory, with a flinty, smoky dimension and …See the full review, with rating and when to drink!",
+          "lang": "sv"
+        },
+        {
+          "source": "vinous.com",
+          "title": "Domaine Alain Voge Saint-Péray Fleur de Crussol 2023",
+          "url": "https://vinous.com/wines/domaine-alain-voge-saint-peray-fleur-de-crussol/2023",
+          "excerpt": "Prefer the old site? Launch → 2023 Saint-Péray Fleur de Crussol Wine Details Producer Domaine Alain Voge Place of Origin France Saint-Péray Northern Rhône Color White Grape/Blend Vintages Print Wines Make Shelftalkers Reviews & Tasting Notes Loading... Loading... Loading... Loading... Content Advanced Search Articles Videos Maps Engage Events Your Say Consumer Resources Subscriptions & Gifts Sample Submissions Contact Us Vinous About Core Values Press Reference Materials Young Wine Writer Fellowship Products Social © 2026 Vinous Media LLC · Privacy · Terms & Conditions Contact us: 275 W39th St",
+          "lang": "sv"
+        },
+        {
+          "source": "cluboenologique.com",
+          "title": "Alain Voge, Fleur de Crussol 2023 | Club Oenologique",
+          "url": "https://cluboenologique.com/product/white-wine-alain-voge-fleur-de-crussol-marsanne-rhone-2023-75cl/",
+          "excerpt": "These 80 year-old vines are the oldest the Domaine owns in Saint-Péray. They face the beautiful and iconic Château du Crussol. Honeysuckle notes show on the quite interesting nose. <strong>The palate is fine and firm, understated, and has a creamy touch mid-palate</strong>.",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "Alain Voge Fleur de Crussol Saint-Péray | Vivino English",
+          "url": "https://www.vivino.com/en/alain-voge-fleur-de-crussol-saint-peray/w/1799094",
+          "excerpt": "Alain Voge Fleur de Crussol Saint-Péray is a White wine. Made from Marsanne. Check its rating and reviews from the world’s largest wine community.",
+          "lang": "sv"
+        },
+        {
+          "source": "millesima.com",
+          "title": "Alain Voge : Fleur de Crussol 2023 - Millesima.com",
+          "url": "https://www.millesima.com/alain-voge-fleur-de-crussol-2023.html",
+          "excerpt": "Discover your 100% Free Loyalty Programme | Discover Need help? Assistant My account Profile Addresses Checkout Options My orders WishList Premium Log Out No Discount Applicable Alain Voge : Fleur de Crussol 2023 Rhone Valley - Saint-Peray - White - See details Vinous - A. Galloni | 92 €252.00 Incl. VAT ( €42.00 / Unit ) Packaging : a box of 6 Bottles (75cl) 1 x 75CL €44.00 6 x 75CL €252.00 1 2 3 4 Add to cart In-Stock Let's talk about this product! A pairing in mind? A question about the vintage? Comparison with another product? Find the answers here... Virtual assistant All Alain Voge wines ",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-95101",
+      "market": "se",
+      "name": "Bussia",
+      "producer": "Alberto Ballarin",
+      "wine_type": "Rött",
+      "vintage": "2022",
+      "origin_country": "Italien",
+      "price": 499.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=95101",
+      "image": "https://imgs.search.brave.com/3CEcxRoUHcOiahrqJMM9zpnOE6XQPCAihpGIjXBOTCk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kaHdp/bmVzLmRrL2Nkbi9z/aG9wL2NvbGxlY3Rp/b25zL0ZhbGllcm8t/TGFuZ2hlLU5lYmJp/b2xvLTIwMjJfODg0/YmY1ZWQtODlhZS00/OTk4LWExZjUtOTEy/MGJlY2M1OGZmXzQw/MHg0MDAuanBnP3Y9/MTc2MDc3NjQwMg",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for Alberto Ballarin Bussia - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/alberto+ballarin+docg+bussia+barolo+piemonte+italy",
+          "excerpt": "International Wine Challenge International Wine &amp; Spirit Competition Concours Mondial de Bruxelles London Wine Competition Vinofed See All Awards ... <strong>Critics have scored this as the best available Bussia - Barolo wine</strong>.",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "Alberto Ballarin Barolo Bussia | Vivino English",
+          "url": "https://www.vivino.com/en/alberto-ballarin-barolo-bussia/w/10741608",
+          "excerpt": "Alberto Ballarin Barolo Bussia is a Red wine. Made from Nebbiolo. Check its rating and reviews from the world’s largest wine community.",
+          "lang": "sv"
+        },
+        {
+          "source": "wineenthusiast.com",
+          "title": "Alberto Ballarin 2020 Bussia Nebbiolo (Barolo) Rating and Review | Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/alberto-ballarin-2020-bussia-nebbiolo-barolo/",
+          "excerpt": "<strong>This wine greets the nose with a bold spice-forward profile, under which crushed red fruits gently emerge</strong>. It&#x27;s lush and plush, offering a mouthfilling experience complemented by fine tannins that provide a velvety structure. Drink Now - 2040",
+          "lang": "sv"
+        },
+        {
+          "source": "johanlidbyvinhandel.se",
+          "title": "Alberto Ballarin Barolo 2022",
+          "url": "https://www.johanlidbyvinhandel.se/privat/produkt/alberto-ballarin-barolo/",
+          "excerpt": "Bra köp! Allt om Vin maj 2024 (1) Recensioner Skriv ut Alberto Ballarin Azienda Agricola Piemonte Italien Alberto Ballarin Barolo 2022 Art.nr: 56813 Nyanserat och elegant med frisk syra, tydlig men balanserad tanninstruktur och inslag av rosor, viol, röda körsbär, fat och mineral. Lång eftersmak. Pris 465 kr Typ Rött vin Jordbruk Hållbart jordbruk Lägg till i favoritlistan Ta bort från favoritlistan Till Systembolaget Fläsk Lamm Nöt Vilt 16-18 Fakta Land: Italien Region: Piemonte Producent: Alberto Ballarin Azienda Agricola Antal per kolli: 12 Druvsammansättning: 100% Nebbiolo Alkoholprocent: ",
+          "lang": "sv"
+        },
+        {
+          "source": "bottleofitaly.com",
+          "title": "Barolo Bussia DOCG Nebbiolo – Ballarin",
+          "url": "https://bottleofitaly.com/en-us/products/barolo-bussia-docg-ballarin",
+          "excerpt": "Loading product media… Barolo Bussia DOCG - Ballarin 2021 Ballarin Read the description Nebbiolo · Barolo DOCG · 75 cl · 2021 -9% $68.49 Recommended price: $75.15 This is a manufacturer's recommended retail price provided by manufacturers, suppliers, or vendors. Bottle of Italy uses the Recommended Price as a reference to allow comparison between different prices. More information VAT and Tax incl. Excise and customs charges incl. (EU, CH, US only) ($91.32/ℓ) Default Title 5 In Stock Ship to: Italy Germany France Austria Netherlands Belgium Bulgaria Croatia Czech Republic Denmark Estonia Finla",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-92128",
+      "market": "se",
+      "name": "Ch. Marquis de Terme",
+      "producer": "Ch. Marquis de Terme",
+      "wine_type": "Rött",
+      "vintage": "2018",
+      "origin_country": "Frankrike",
+      "price": 499.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=92128",
+      "image": "https://imgs.search.brave.com/CMC3bSUL6sNSgQ3jmNTZRUTnApT0_q1xDinFWmw_glw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aGFjaGV0dGUtdmlu/cy5jb20vdXBsb2Fk/cy9tZWRpYS92aW5z/LXBhcnRlbmFpcmVz/LzM4NjYvdmluXzU5/NTZkNGYwYWMxNmEy/MWE5NWFkZWM5MDBi/YzAyZmZhLmpwZw",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "hachette-vins.com",
+          "title": "Château Marquis de Terme 2018 - Margaux - Vin rouge | Guide Hachette des Vins",
+          "url": "https://www.hachette-vins.com/guide-vins/les-vins/ch-marquis-de-terme-2018-2022/202205501/",
+          "excerpt": "Vous devez activer Javascript pour profiter du Guide Hachette des Vins. Le vin Le vigneron Appellation Les plats en accord Château Marquis de Terme Favori 2018 • 4e cru clas. - rouge Bordelais • Margaux rouge tranquille A boire Vin remarquable! Château Marquis De Terme 2018 rouge : L'avis du Guide Hachette des Vins 2022 Si le bois est encore très présent au nez comme en bouche, l'intensité des arômes de fruits rouges et noirs mûrs du premier, l'amplitude et la solide matière tannique de la seconde ne laissent planer aucun doute sur la qualité et le potentiel de cette belle bouteille de garde. ",
+          "lang": "sv"
+        },
+        {
+          "source": "millesima.fr",
+          "title": "Château Marquis de Terme 2018 - Millesima.fr",
+          "url": "https://www.millesima.fr/chateau-marquis-de-terme-2018.html",
+          "excerpt": "Découvrez votre Programme de Fidélité 100% Gratuit | Découvrir Besoin d'aide ? Assistant Mon compte Mon profil Mes adresses Moyens de paiement Mes commandes WishList Premium Déconnexion Origine garantie Produits en provenance directe des propriétés Livraison Offert dès 300 € d'achats de vins livrables Paiement sécurisé Visa, American Express, Mastercard... Château Marquis de Terme 2018 4e cru classé - Bordeaux - Margaux - Rouge - Détails Parker | 91 J. Robinson | 16+ Decanter | 91 Wine Spectator | 93 J. Suckling | 94 Vinous - A. Galloni | 91 The Wine Independent | 90 Alexandre Ma | 92 Vinous N",
+          "lang": "sv"
+        },
+        {
+          "source": "nataliemaclean.com",
+          "title": "Château Marquis de Terme 2018 Expert Wine Review: Natalie MacLean",
+          "url": "https://www.nataliemaclean.com/wine-reviews/chateau-marquis-de-terme-2018/340662",
+          "excerpt": "Expert Review of Château Marquis de Terme: From the Bordeaux wine region, Château Marquis De Terme 2018 is a 4e cru Margaux, dry... Natalie&#x27;s Score &gt;",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "2018 Château Marquis de Terme Margaux (Grand Cru Classé) | Vivino English",
+          "url": "https://www.vivino.com/en/chateau-marquis-de-terme-margaux-grand-cru-classe/w/79272?year=2018",
+          "excerpt": "Château Marquis de Terme Margaux (Grand Cru Classé) is a Red wine. Made from Cabernet Sauvignon. This wine has 723 mentions of oaky notes (oak, tobacco, vanilla).",
+          "lang": "sv"
+        },
+        {
+          "source": "wineandco.com",
+          "title": "Château Marquis De Terme 2018 - wineandco",
+          "url": "https://www.wineandco.com/chateau-marquis-de-terme-2018-21139-fr-eur-fr.html",
+          "excerpt": "... Deep garnet-purple colored, the 2018 Marquis de Terme gives up <strong>bold blackberry compote, blueberry pie and crème de cassis scents with nuances of menthol, tobacco and cedar chest</strong>.",
           "lang": "sv"
         }
       ]
@@ -147,17 +567,17 @@
       "pairing": {},
       "sources": [
         {
-          "source": "weingut-philipp-kuhn.de",
-          "title": "Weingut Philipp Kuhn | Riesling Große Gewächse 2024",
-          "url": "https://www.weingut-philipp-kuhn.de/riesling-gg-2024",
-          "excerpt": "<strong>Sein Saumagen schließlich ist ein ganz bisschen weniger furztrocken und das tut auch nicht weh</strong>.",
-          "lang": "sv"
-        },
-        {
           "source": "gute-weine.de",
           "title": "Philipp Kuhn: Riesling Saumagen Großes Gewächs 2024 - Lobenbergs",
           "url": "https://www.gute-weine.de/produkt/philipp-kuhn-riesling-saumagen-grosses-gewaechs-2024-73925h/",
           "excerpt": "Philipp Kuhn: Riesling Saumagen Großes Gewächs 2024 VDP Zum Winzer 98 100 Riesling 100% weiß, trocken 13,0% Vol. Trinkreife: 2028–2053 mineralisch frische Säure Lobenberg: 98/100 Suckling: 95/100 Weinwisser: 96–98/100 Decanter: 96/100 Falstaff: 96/100 Galloni: 95–97/100 Mosel Fine Wines: 95/100 Deutschland, Pfalz Allergene: Sulfite, Abfüllerinformation, Zutaten, Nährwertangaben Abfüller / Importeur: Philipp Kuhn, Großkalbacher Str. 20, 67229 Laumersheim, DEUTSCHLAND Zutaten: Trauben Konservierungsstoffe / Antioxidantien : Sulfite (E220–E224) 100ml enthalten durchschnittlich Zucker 0,2 g Kohlen",
+          "lang": "sv"
+        },
+        {
+          "source": "weingut-philipp-kuhn.de",
+          "title": "Weingut Philipp Kuhn | Riesling Große Gewächse 2024",
+          "url": "https://www.weingut-philipp-kuhn.de/riesling-gg-2024",
+          "excerpt": "<strong>Sein Saumagen schließlich ist ein ganz bisschen weniger furztrocken und das tut auch nicht weh</strong>.",
           "lang": "sv"
         },
         {
@@ -171,7 +591,7 @@
           "source": "wine-searcher.com",
           "title": "Best local price for Weingut Philipp Kuhn Saumagen Riesling Grosses Gewachs - stores near you in Arizona, USA",
           "url": "https://www.wine-searcher.com/find/philip+kuhn+saumagen+riesling+grosses+gewachs+kallst+pfalz+germany",
-          "excerpt": "Critic tasting note: (<strong>2024</strong> vintage) &quot;Subtle aroma, flint, smoke, lemons, pomelo, kumquat, fennel green, caraway seeds, mustard seeds. Firm structure and good extract on the palate, silky phenolics, ripe acidity, tightly interwoven with mineral ...",
+          "excerpt": "I love the tension between the ... one another beautifully on the very bright, succulent palate. <strong>Long chalky finish with excellent citrusy freshness</strong>. Drinkable now, but best from 2024....",
           "lang": "sv"
         },
         {
@@ -179,126 +599,6 @@
           "title": "Philipp Kuhn Riesling Saumagen Grosses Gewächs (GG) 2024 kaufen & bestellen | Silkes Weinkeller",
           "url": "https://www.silkes-weinkeller.de/wein/weisswein/philipp-kuhn-riesling-saumagen-grosses-gewaechs-gg-2024.html",
           "excerpt": "Gratisprodukt wurde Ihrem Warenkorb hinzugefügt! Erste Bewertung abgeben Auf den Merkzettel Philipp Kuhn Riesling Saumagen Grosses Gewächs (GG) 2024 bio vegan UVP 41,90 € 39,90 € ¹ 53,20 € / l ab 120 € versandkostenfrei (D) sonst bio vegan Versandkosten 5,99 € Versandkosten versandkostenfrei in D ab 120 € Bestellwert Flasche(n) Fl In den Warenkorb Bestellen Lieferzeit: 2-3 Werktage Wenige Exemplare auf Lager | Steckbrief Weinart Weißwein Geschmack trocken Weinstil komplex, mineralisch Land Deutschland Anbaugebiet Pfalz Weingut Philipp Kuhn Rebsorte Riesling Appellation Pfalz QbA Jahrgang 2024 ",
-          "lang": "sv"
-        }
-      ]
-    },
-    {
-      "id": "se-9298201",
-      "market": "se",
-      "name": "Contrada Volpare Frontebosco Bianco Superiore",
-      "producer": "Maugeri",
-      "wine_type": "Vitt",
-      "vintage": "2024",
-      "origin_country": "Italien",
-      "price": 459.0,
-      "currency": "SEK",
-      "launch_date": "2026-09-17",
-      "url": "https://www.systembolaget.se/sortiment/?q=9298201",
-      "image": "https://imgs.search.brave.com/O1bX_bfiwDSCjan-muaVV9tOHoZUFpfCqLng1gBN5Fc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZXRpbGlrYS5pdC8x/Njc0MS1sYXJnZV9k/ZWZhdWx0L2V0bmEt/YmlhbmNvLXN1cGVy/aW9yZS1kb2MtZnJv/bnRlYm9zY28tMjAy/MC1tYXVnZXJpLmpw/Zw",
-      "assortment": "Tillfälligt sortiment",
-      "volume": null,
-      "is_news": true,
-      "verdict": {
-        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
-      },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
-      "sources": [
-        {
-          "source": "vivino.com",
-          "title": "Maugeri Contrada Volpare Frontebosco Etna Bianco Superiore | Vivino Italia",
-          "url": "https://www.vivino.com/IT/it/maugeri-contrada-volpare-frontebosco-etna-bianco-superiore/w/10645687",
-          "excerpt": "Contrada Volpare Frontebosco Etna Bianco Superiore è un Vino bianco. Da uve Carricante. Vedi le recensioni e i prezzi per questo vino.",
-          "lang": "sv"
-        },
-        {
-          "source": "redneckwinecompany.com",
-          "title": "Maugeri Etna Bianco Superiore Contrada Volpare 2024 - 750ml – Redneck Wine Company",
-          "url": "https://redneckwinecompany.com/products/maugeri-etna-bianco-superiore-contrada-volpare-2023-750ml",
-          "excerpt": "Maugeri Etna Bianco Superiore Contrada Volpare 2024 - 750ml Maugeri Etna Bianco Superiore Contrada Volpare 2024 - 750ml Price Regular price $49.97 $49.97 / Low stock - 4 items left Quantity − + Shipping calculated at checkout. Add to cart Default Title - $49.97 USD Winemaker Notes Very pale yellow in the glass; aroma and flavor of wet stones, with hints of mixed Mediterranean herbs and citrus peel; bright acidity in the mouth, palate-staining concentration, lovely minerally white wine. Very reminiscent of Chablis. Estate bottled. Winery Description Eastern Sicily: 83 terraces, stretching betwe",
-          "lang": "sv"
-        },
-        {
-          "source": "vinonueva.com",
-          "title": "Maugeri Etna Bianco - Superiore Contrada Volpare 2024 - VinoNueva Fine & Rare Wine Miami",
-          "url": "https://vinonueva.com/products/maugeri-etna-bianco-superiore-contrada-volpare-2024",
-          "excerpt": "Maugeri Etna Bianco - Superiore Contrada Volpare 2024 IN STOCK - 9 left in stock $50.00 Email address Notify me when this product is available: Qty Add to cart Mount Etna, the volcano that dominates the north-eastern corner of the island of Sicily, has become famous for red wine since 2000 or so, and with good reason; the red wines produced on the northern and southern faces of the mountain are among the best in Italy. I think that the white wines grown on the east face of Etna, around the town of Milo, are at least as interesting, mineral and deep and very ageable. (The denomination Etna Bian",
-          "lang": "sv"
-        },
-        {
-          "source": "mowse.blogspot.com",
-          "title": "Wine -- Mise en abyme: Maugeri Contrada Volpare Etna Bianco Superiore 2024 and 2022: ViniMilo 2025 MasterClass on Etna white wine identity",
-          "url": "http://mowse.blogspot.com/2025/09/maugeri-contrada-volpare-etna-bianco.html?m=1",
-          "excerpt": "Pages (Move to ...) Home About Book Reviews Establishments Soil Types ▼ Friday, September 26, 2025 Maugeri Contrada Volpare Etna Bianco Superiore 2024 and 2022: ViniMilo 2025 MasterClass on Etna white wine identity The second set of wines tasted at the ViniMilo 2025 White Grape Identity of Etna Masterclass was from the Maugeri estate. Brandon and I visited this producer during ViniMilo 2024 and I reported on that here . In that post I pointed out that Robert Camuto (writing in Wine Spectator) had identified Maugeri as one of the wineries to watch. Since then, the accolades have continued to po",
-          "lang": "sv"
-        },
-        {
-          "source": "305wines.com",
-          "title": "Maugeri Etna Bianco Superiore Contrada Volpare 2024 – 305 Wines",
-          "url": "https://305wines.com/products/maugeri-etna-bianco-superiore-contrada-volpare-2024",
-          "excerpt": "Your Cart Maugeri Etna Bianco Superiore Contrada Volpare 2024 Italy, Sicily Vintage: 2023 Alc: 13% by volume Bottle Size: 750ml From Etna Bianco Superiore DOC in Sicily, Italy, Maugeri Etna Bianco Superiore Contrada Volpare 2024 is a dry white... Price: $48.97 $55.00 Default Title Vendor: 305 Wines SKU : Type: Wine Quantity: - + Add to Cart View My wishlist Add to wishlist Click Here to be notified by email when Maugeri Etna Bianco Superiore Contrada Volpare 2024 becomes available. Share Share Product Description Shipping details Reviews Italy, Sicily Vintage: 2023 Alc: 13% by volume Bottle Si",
-          "lang": "sv"
-        }
-      ]
-    },
-    {
-      "id": "se-9304501",
-      "market": "se",
-      "name": "Contrada Praino Frontemare Bianco Superiore",
-      "producer": "Maugeri",
-      "wine_type": "Vitt",
-      "vintage": "2024",
-      "origin_country": "Italien",
-      "price": 459.0,
-      "currency": "SEK",
-      "launch_date": "2026-09-17",
-      "url": "https://www.systembolaget.se/sortiment/?q=9304501",
-      "image": "https://imgs.search.brave.com/5Z8hiauZ8H76tuLdWZguJlGXIl8KJRVspbJ4MwEZxC8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/OHdpbmVzLmNvbS9t/ZWRpYS9jYXRhbG9n/L3Byb2R1Y3QvY2Fj/aGUvOTk1N2EwMjJm/MGMyYTFkMzI4MGRi/ZmIyOTgwODk1NTcv/bS9hL21hdWdlcmkt/Y29udHJhZGEtcHJh/aW5vLWZyb250ZW1h/cmUtZXRuYS1iaWFu/Y28tc3VwZXJpb3Jl/LTIwMjQucG5n",
-      "assortment": "Tillfälligt sortiment",
-      "volume": null,
-      "is_news": true,
-      "verdict": {
-        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
-      },
-      "score": null,
-      "taste_notes": {},
-      "pairing": {},
-      "sources": [
-        {
-          "source": "8wines.com",
-          "title": "Maugeri Contrada Praino Frontemare Etna Bianco Superiore 2024 | 8Wines",
-          "url": "https://8wines.com/wines/maugeri-contrada-praino-frontemare-etna-bianco-superiore-2024",
-          "excerpt": "Wines White Carricante Italy Sicily Maugeri Maugeri Contrada Praino Frontemare Etna Bianco Superiore 2024 INCL 20% VAT Get 1 reward point for every €1 you spend Earn 1 reward point for every €1 you spend, valid for 80 days from the date of purchase. Redeem your points on your next order; 20 points equal €1 off. Maugeri Contrada Praino Frontemare Etna Bianco Superiore 2024 2024 750ml White 12.5% Carricante Carricante Maugeri Sicily Italy Vintage: 2024 Size: 750ml Type: White Alcohol: 12.5% Varietal: Carricante Grapes: Carricante Winery: Maugeri Region: Sicily Country: Italy Organic Boutique 97 ",
-          "lang": "sv"
-        },
-        {
-          "source": "vivino.com",
-          "title": "Maugeri Frontemare Contrada Praino Bianco Superiore",
-          "url": "https://www.vivino.com/it/maugeri-frontemare-contrada-praino-bianco-superiore/w/12468761",
-          "excerpt": "Acquista su Vivino, la più grande piattaforma al mondo dedicata al vino con le recensioni degli utenti. Ottieni le migliori offerte sui vini perfetti per i tuoi gusti.",
-          "lang": "sv"
-        },
-        {
-          "source": "wine-searcher.com",
-          "title": "Best local price for Maugeri 'Frontemare' Contrada Praino Etna Bianco Superiore - stores near you in New Jersey, USA",
-          "url": "https://www.wine-searcher.com/find/maugeri+frontemare+contrada+prasino+bianco+superior+etna+sicilia+italy",
-          "excerpt": "Ein top Etna Bianco mit guten Reserven. ... Fresh and crunchy with sliced lemon, spiced pear and cooked apple with bright acidity. Medium body, with a solid and layered core of fruit. It’s bright yet deep with plenty of structure and fruit. Flinty and minerally at the end. Drink or hold. ... See score for this with a PRO subscription. ... Vintage Critics Score Avg. Price (ex-tax) All 93 / 100 $ 82 2024 – $ 84 2023 94 / 100 $ 81 2022 93 / 100 $ 78",
-          "lang": "sv"
-        },
-        {
-          "source": "enoteca-maggiolini.it",
-          "title": "Etna DOC Bianco Superiore Contrada Praino \"Frontemare\" 2024 - Maugeri - Enoteca Maggiolini",
-          "url": "https://www.enoteca-maggiolini.it/negozio/bevande/vini/etna-doc-bianco-superiore-contrada-praino-frontemare-2024-maugeri/",
-          "excerpt": "PREMI E RICONOSCIMENTI Maugeri Etna DOC Bianco Superiore Contrada Praino \"Frontemare\" 2024 - Maugeri € 59,00 Ottenuto da Carricante in purezza coltivato nel vigneto \"Frontemare\" di Contrada Praino, questo Etna Bianco Superiore 2024 interpreta il versante orientale del vulcano con profondità e precisione. Mela, agrumi, scorza di limone ed erbe aromatiche si accompagnano a sfumature minerali e delicatamente fumé. Il sorso coniuga struttura, freschezza e una morbida trama cremosa, sostenuta da una marcata sapidità e da un finale lungo, teso e marino. 6 disponibili Etna DOC Bianco Superiore Contra",
-          "lang": "sv"
-        },
-        {
-          "source": "enotecacorona.com",
-          "title": "Maugeri Frontemare Etna Bianco Superiore DOC",
-          "url": "https://www.enotecacorona.com/vini/16828-maugeri-frontemare-etna-bianco-superiore-doc.html",
-          "excerpt": "Il microclima particolarissimo della zona e la fertilità del suolo vulcanico offrono alla vite un’ambientazione ideale e conferiscono all&#x27;uva caratteristiche uniche. Così il legame tra i vini della Cantina Maugeri e la terra dell&#x27;Etna scorre nella vigna e si sublima nella bottiglia.",
           "lang": "sv"
         }
       ]
@@ -334,6 +634,13 @@
           "lang": "sv"
         },
         {
+          "source": "67wine.com",
+          "title": "Trediberri Barolo del Comune di La Morra 2022 750ml | 67Wine",
+          "url": "https://67wine.com/products/trediberri-barolo-del-comune-di-la-morra-2022-750ml",
+          "excerpt": "67Wine Trediberri Barolo del Comune di La Morra 2022 750ml SKU: 210000060288 ISBN: 8055681511651 🇫🇷 A quiet charmer. Precision and purity as its strengths — lively acidity. 90+ Title Default Title Variants Default Title - $74.99 $74.99 $84.99 you save $10.00 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 Add to cart Description Trediberri Barolo del Comune di La Morra — Piedmont 2022 Trediberri is one of La Morra’s most exciting young estates — a small, precision-focused domaine that has quickly earned a reputation for wines of exceptional purity and finesse. Their Barolo del Comune di La Mor",
+          "lang": "sv"
+        },
+        {
           "source": "winesolutions.com",
           "title": "Trediberri Barolo del Comune di la Morra DOCG 2022 – Wine Solutions",
           "url": "https://www.winesolutions.com/products/trediberri-barolo-2022",
@@ -348,17 +655,130 @@
           "lang": "sv"
         },
         {
-          "source": "winemadeeasy.com",
-          "title": "Trediberri Barolo del Comune di La Morra 2022 / 750ml",
-          "url": "https://www.winemadeeasy.com/wine/red-wine/nebbiolo/trediberri-barolo-del-comune-di-la-morra-750-ml-65907.html",
-          "excerpt": "- Jeb Dunnuck - April 2026 Including ... opened the day prior and one freshly opened. <strong>Both showed beautifully, offering notes of framboise, pressed flowers, and juicy mandarin orange</strong>....",
+          "source": "chambersstwines.com",
+          "title": "Trediberri 2022 Barolo del Comune di La Morra – Chambers Street Wines",
+          "url": "https://chambersstwines.com/products/trediberri-2022-barolo-del-comune-di-la-morra",
+          "excerpt": "Sidebar CATEGORIES Shop by type Red White Rosé Skin Contact (Orange) Sparkling Sweet & Fortified Small Format Large Format Mixed Cases Shop by country Australia/New Zealand/South Africa Austria Burgenland Carnuntum Kamptal Thermenregion Vienna Wachau Wagram Central/South America Eastern Europe France Alsace Beaujolais Bordeaux Burgundy Champagne Gard Jura Languedoc-Roussillon Loire Valley Misc. France Rhone Valley Southwest Savoie/Bugey Germany Baden Franken Mosel-Saar-Ruwer Nahe Pfalz Rheingau Rheinhessen Wurttemberg Italy Abruzzo Calabria Campania Friuli-Venezia Giulia Lazio Liguria Lombardi",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-93908",
+      "market": "se",
+      "name": "Askesäng",
+      "producer": "Kullabergs Vingård",
+      "wine_type": "Vitt",
+      "vintage": "2024",
+      "origin_country": "Sverige",
+      "price": 399.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=93908",
+      "image": "https://imgs.search.brave.com/JEpXtJQlp72BBvv0AtIB49l5Zm2uu5TJtYRhDXcXBOw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dmluam91cm5hbGVu/LnNlL19uZXh0L2lt/YWdlLz91cmw9aHR0/cHM6Ly93d3cuYWRt/aW4udmluam91cm5h/bGVuLnNlL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzAyL2Fz/a2VzYW5nLWt1bGxh/YmVyZ3MtdmluZ2Fy/ZC0yMDIyLTk0NTA2/MDEuanBnJnc9NjQw/JnE9NzU",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "vinjournalen.se",
+          "title": "Kullabergs Vingård Askesäng 2024 – Fylligt vitt vin | Vinjournalen",
+          "url": "https://www.vinjournalen.se/produkter/vitt-vin/kullabergs-vingard-askesang-9390801/",
+          "excerpt": "Upptäck Kullabergs Vingård Askesäng 2024, <strong>ett fylligt och smakrikt svenskt vitt vin med toner av päron, gröna äpplen och vanilj</strong>.",
           "lang": "sv"
         },
         {
-          "source": "67wine.com",
-          "title": "Trediberri Barolo del Comune di La Morra 2022 750ml | 67Wine",
-          "url": "https://67wine.com/products/trediberri-barolo-del-comune-di-la-morra-2022-750ml",
-          "excerpt": "67Wine Trediberri Barolo del Comune di La Morra 2022 750ml SKU: 210000060288 ISBN: 8055681511651 🇫🇷 A quiet charmer. Precision and purity as its strengths — lively acidity. 90+ Title Default Title Variants Default Title - $74.99 $74.99 $84.99 you save $10.00 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 Add to cart Description Trediberri Barolo del Comune di La Morra — Piedmont 2022 Trediberri is one of La Morra’s most exciting young estates — a small, precision-focused domaine that has quickly earned a reputation for wines of exceptional purity and finesse. Their Barolo del Comune di La Mor",
+          "source": "systembolaget.se",
+          "title": "Kullabergs Vingård Askesäng, 2024 | Systembolaget",
+          "url": "https://www.systembolaget.se/produkt/vin/kullabergs-vingard-9390801/",
+          "excerpt": "Sätt betyg Spara Vin , Vitt vin , Fylligt & Smakrikt Kullabergs Vingård Askesäng, 2024 \"\" Sverige Flaska · 750 ml · 14,5 % vol. Nr 9390801 Nr 9390801 399:- 399 kronor 532 kr/l 532 kronor per liter Nyanserad, något aromatisk, mycket frisk smak med inslag av fat, päron, gröna äpplen, svartvinbärsblad, krusbär, smör, grillad citron och vanilj. Serveras vid 10-12°C till vegetariskt eller till smakrika rätter av fisk eller ljust kött. Sötma Fyllighet Fruktsyra Laddar ... Innehållsförteckning Smakbeskrivning Passar till Standardglas Klimat, miljö, socialt ansvar Produktinformation Råvaror Souvignier",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "Kullabergs Vingård Askesäng | Vivino Svenska",
+          "url": "https://www.vivino.com/sv/kullabergs-vingard-askesang/w/8386603",
+          "excerpt": "Kullabergs Vingård Askesäng är en Vitt vin. Tillverkad av Solaris, Souvignier Gris. Kolla in dess betyg och recensioner från världens största vincommunity.",
+          "lang": "sv"
+        },
+        {
+          "source": "munskankarna.se",
+          "title": "Vinlocus munskankarna.se",
+          "url": "https://www.munskankarna.se/sv/vinlocus/tillfalligt-sortiment-25-september-2026/askesang-2024",
+          "excerpt": "Tillbaka BETYG 14,5 399:- Ej prisvärt Druv- eller distrikttypisk Vitt vin Askesäng 2024 Sverige , Skåne Producent: Kullabergs Vingård Importör: Kullabergs Vingård Systembolaget: 9390801 BETYG 14,5 399:- Ej prisvärt Druv- eller distrikttypisk Bedömning Avrundad doft av rökt medvurst, inlagd persika, grönt äpple, krusbär och gula plommon. Torr, drygt medelfyllig, relativt viskös, nyanserad smak av mogen frukt och fat, medelhög syra och en bra längd med liten metallisk klang. 1000 fl. Provning Tillfälligt sortiment 25 september 2026 Om vinet Volym 75 cl Alkohol 14.5 % Druvor: souvignier gris , so",
+          "lang": "sv"
+        },
+        {
+          "source": "pinvino.se",
+          "title": "Kullabergs Vingård Askesäng 2024 - Vitt vin – Pinvino",
+          "url": "https://pinvino.se/product/kullabergs-vingard-askesang-2024",
+          "excerpt": "Startsida Vinväljaren Topplistor Vinlistor Maträtter Producenter Sök Vinprovning Nyhet Om Pinvino Nyhetsbrev Hitta i butik Välj butik för att se var varan lagerförs och hur du hittar den. Produktinformation Information Värde Druvor Donauriesling , Solaris , Souvignier gris Producent Kullabergs Vingård Sortiment Tillfälligt sortiment Läs mer på Systembolaget Sötma Torrt Sött Fyllighet Lätt Fylligt Syra Låg Hög Fatkaraktär Ingen Mycket Utforska våra favoritviner inom olika kategorier och prisklasser. Du kan alltid filtrera på närmsta Systembolag. Vitt vin Donauriesling Vitt vin under 300 kronor ",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-94249",
+      "market": "se",
+      "name": "Roncaglie",
+      "producer": "Poderi Colla",
+      "wine_type": "Rött",
+      "vintage": "2022",
+      "origin_country": "Italien",
+      "price": 399.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=94249",
+      "image": "https://imgs.search.brave.com/yUh4qecSsgRilrdVT9Lig81Llz1_SGRHq_Y2C-h8qig/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly92aW5p/YmlhbmNoaXJvc3Np/LmNvbS81MzgyLWxh/cmdlX2RlZmF1bHQv/YmFyYmFyZXNjby1y/b25jYWdsaWUtMjAy/Mi1wb2RlcmktY29s/bGEuanBn",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "vinous.com",
+          "title": "Poderi Colla Barbaresco Roncaglie 2022",
+          "url": "https://vinous.com/wines/poderi-colla-barbaresco-roncaglie/2022",
+          "excerpt": "Prefer the old site? Launch → 2022 Barbaresco Roncaglie Wine Details Producer Poderi Colla Place of Origin Italy Barbaresco Piedmont Color Red Grape/Blend Vintages Print Wines Make Shelftalkers Reviews & Tasting Notes Loading... Loading... Content Advanced Search Articles Videos Maps Engage Events Your Say Consumer Resources Subscriptions & Gifts Sample Submissions Contact Us Vinous About Core Values Press Reference Materials Young Wine Writer Fellowship Products Social © 2026 Vinous Media LLC · Privacy · Terms & Conditions Contact us: 275 W39th St Floor 10 New York NY 10018 USA",
+          "lang": "sv"
+        },
+        {
+          "source": "vinibianchirossi.com",
+          "title": "Barbaresco Roncaglie 2022 - Poderi Colla | Vinibianchirossi",
+          "url": "https://vinibianchirossi.com/en/red-wines-vines-and-names-barbaresco/3280-barbaresco-roncaglie-2022-poderi-colla.html",
+          "excerpt": "Barbaresco Roncaglie 2022 by Poderi Colla: elegant and refined Nebbiolo from the Roncaglie cru in Barbaresco. Harmonious and age-worthy.",
+          "lang": "sv"
+        },
+        {
+          "source": "podericolla.it",
+          "title": "Barbaresco DOCG Roncaglie • Poderi Colla",
+          "url": "https://www.podericolla.it/en/wine/barbaresco-docg-roncaglie/",
+          "excerpt": "A &#x27;classic&#x27; Barbaresco with the elegance of the <strong>Roncaglie</strong> cru: rich, enveloping and intense in the mouth. Personality and pleasantness with a very long finish of smooth tannins, and great ageing potential.",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "Poderi Colla Tenuta Roncaglia Roncaglie Barbaresco | Vivino English",
+          "url": "https://www.vivino.com/en/colla-tenuta-roncaglia-roncaglie-barbaresco-barbaresco/w/7798329",
+          "excerpt": "Poderi Colla Tenuta Roncaglia Roncaglie Barbaresco is a Red wine. Made from Nebbiolo. Check its rating and reviews from the world’s largest wine community.",
+          "lang": "sv"
+        },
+        {
+          "source": "vinous.com",
+          "title": "Poderi Colla",
+          "url": "https://vinous.com/producers/poderi-colla--2?article_id=2782",
+          "excerpt": "Prefer the old site? Launch → Poderi Colla From Barbaresco: The Highs & Lows of 2016-2020 (Oct 2020) by Antonio Galloni Reviews Wines Sort by Vintage Content Advanced Search Articles Videos Maps Engage Events Your Say Consumer Resources Subscriptions & Gifts Sample Submissions Contact Us Vinous About Core Values Press Reference Materials Young Wine Writer Fellowship Products Social © 2026 Vinous Media LLC · Privacy · Terms & Conditions Contact us: 275 W39th St Floor 10 New York NY 10018 USA",
           "lang": "sv"
         }
       ]
@@ -409,16 +829,16 @@
         },
         {
           "source": "brumont.fr",
-          "title": "Montus Blanc Sec",
-          "url": "https://www.brumont.fr/fr/vin/16/montus-blanc-sec",
-          "excerpt": "Pacherenc du Vic-Bilh sec est une des plus vieilles appellations : mot magique, mythique, synonyme de respect, d'impérial et de secret. « Le dompteur de cépages et auteur de grands vins, Alain Brumont, a créé un grand sec à Montus » (Pierre Casamayor). Axé sans relâche sur l'expérimentation de barriques depuis 20 ans, Château Montus sec bénéficie pleinement de ces efforts : la particularité de ce vin réside en effet dans sa vinification et son élevage en barriques de 600 litres, appelées demi-muids, dont l'épaisseur du bois dépasse les 4 centimètres. L'impact du bois sur le vin est réduit, ave",
+          "title": "Nos Vins",
+          "url": "https://www.brumont.fr/fr/NosVins",
+          "excerpt": "Vins de domaines Montus Blanc Sec Pacherenc du Vic-Bilh Montus Rouge Madiran Montus Prestige Madiran Montus XL Madiran La Tyre Madiran Sélection d'Alain Brumont Le Pinot noir d'Alain Brumont Vin de France Les Jardins Philosophiques Pacherenc du Vic-Bilh Bouscassé Madiran Argile Rouge Madiran Menhir Côtes de Gascogne Vieilles Vignes Madiran Larmes Célestes Pacherenc du Vic-Bilh Vendémiaire Pacherenc du Vic-Bilh Brumaire Pacherenc du Vic-Bilh Frimaire Pacherenc du Vic-Bilh Vins de domaines Montus Blanc Sec Pacherenc du Vic-Bilh Montus Rouge Madiran Montus Prestige Madiran Montus XL Madiran La Ty",
           "lang": "sv"
         },
         {
-          "source": "12bouteilles.com",
-          "title": "Château Montus vins de Madiran, Brumont, Vente en Ligne | 12bouteilles",
-          "url": "https://www.12bouteilles.com/fr/chateau-montus/4579-le-blanc-d-alain-brumont-2022.html",
-          "excerpt": "Le Blanc d'Alain Brumont 2024 France - Sud-Ouest - Pacherenc du vic-bilh - Blanc - Ce vin est disponible en : - Bouteille (75cl) - 10.90€ / bouteille - Caisse de 12 bouteilles (75cl) - 9.99€ / bouteille 10,90 € Soit 10,90 € / bouteille NOTES DE DÉGUSTATIONS CARACTÉRISTIQUES Format Bouteille (75cl) - 10,90 € Caisse de 12 bouteilles (75cl) - 119,90 € add remove Ajouter au panier Profitez de la 12ème bouteille offerte en choisissant le format : Caisse de 12 bouteilles. Prix dégressif appliqué automatiquement",
+          "source": "brumont.fr",
+          "title": "Montus Blanc Sec",
+          "url": "https://www.brumont.fr/fr/vin/16/montus-blanc-sec",
+          "excerpt": "Pacherenc du Vic-Bilh sec est une des plus vieilles appellations : mot magique, mythique, synonyme de respect, d'impérial et de secret. « Le dompteur de cépages et auteur de grands vins, Alain Brumont, a créé un grand sec à Montus » (Pierre Casamayor). Axé sans relâche sur l'expérimentation de barriques depuis 20 ans, Château Montus sec bénéficie pleinement de ces efforts : la particularité de ce vin réside en effet dans sa vinification et son élevage en barriques de 600 litres, appelées demi-muids, dont l'épaisseur du bois dépasse les 4 centimètres. L'impact du bois sur le vin est réduit, ave",
           "lang": "sv"
         }
       ]
@@ -447,6 +867,13 @@
       "pairing": {},
       "sources": [
         {
+          "source": "festligare.se",
+          "title": "Kanonkop Estate Pinotage 2023 - rött vin - Festligare",
+          "url": "https://festligare.se/drycker/vin/rott-vin/kanonkop-estate-pinotage-2023",
+          "excerpt": "<strong>Kanonkop Pinotage 2023 är ett uttrycksfullt rödvin som visar varför både producenten och druvan har blivit så uppskattade världen över</strong>.",
+          "lang": "sv"
+        },
+        {
           "source": "kanonkop.co.za",
           "title": "Pinotage 2023 WINEMAKER Abrie Beeslaar COMPOSITION 100% Pinotage ORIGIN",
           "url": "https://kanonkop.co.za/wp-content/uploads/2025/12/Kanonkop-Pinotage-2023-Factsheet.pdf",
@@ -454,17 +881,10 @@
           "lang": "sv"
         },
         {
-          "source": "wine-searcher.com",
-          "title": "Best local price for Kanonkop Estate Pinotage - stores near you in USA",
-          "url": "https://www.wine-searcher.com/find/kanonkop+estate+pinotage+stellenbosch+coastal+western+cape+south+africa",
-          "excerpt": "Critic tasting note: (2022 vintage) &quot;<strong>This is a fragrant pinotage, showing mint-chocolate, cedar, cherry, spiced-plum and nutmeg aromas</strong>. Firm, spicy and full-bodied on the palate with firm yet ripe tannins and a long, spicy and focused finish.",
-          "lang": "sv"
-        },
-        {
           "source": "vivino.com",
           "title": "Kanonkop Pinotage | Vivino English",
           "url": "https://www.vivino.com/en/kanonkop-pinotage/w/56164",
-          "excerpt": "Kanonkop Pinotage is a Red wine. Check its rating and reviews from the world’s largest wine community.",
+          "excerpt": "This grape is a genetic cross between picky Pinot Noir and prolific Cinsault, aka Hermitage. Created by scientist Abraham Perold in 1925 at Stellenbosch University, Pinotage was made by and for South Africa.",
           "lang": "sv"
         },
         {
@@ -509,8 +929,8 @@
         {
           "source": "drouhin.com",
           "title": "Santenay | Maison Joseph Drouhin",
-          "url": "https://www.drouhin.com/fr_FR/vin/santenay/2023",
-          "excerpt": "Nos Appellations Retour localiser Santenay 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 2000 2023 TÉLÉCHARGER LA FICHE localiser Service Garde Consommation optimale : 5 à 8 ans Potentiel de garde : 10 ans Température de service 16°C Cépage Pinot Noir Vignoble Commune de production de l’appellation : Santenay. Le site : au sud de la Côte de Beaune, un charmant village adossé au Mont de Sène. Histoire & tradition : ce vieux village était célèbre du temps des Romains par les eaux thermales de sa source, nommées « Santinae aquae",
+          "url": "https://www.drouhin.com/en_US/wine/santenay/2023",
+          "excerpt": "Our wines Return localise Santenay 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 2000 2023 DOWNLOAD THE SHEET localise Service Cellaring Optimal consumption: 5 to 8 years Ageing potential: 10 years Tasting temperature 16°C (61-62°F) Grape variety Pinot Noir Vineyard Producing commune : Santenay. Site : Santenay is a charming village, at the southern end of the Côte de Beaune, below the Mont de Sène. History & tradition : this ancient village was already famous in Roman times for its hot springs named « Santinae Aquae » (healt",
           "lang": "sv"
         },
         {
@@ -528,10 +948,10 @@
           "lang": "sv"
         },
         {
-          "source": "vivino.com",
-          "title": "Joseph Drouhin Santenay | Vivino Français",
-          "url": "https://www.vivino.com/fr/joseph-drouhin-santenay/w/24149",
-          "excerpt": "Prix moyen affiché ... Disponible uniquement dans des boutiques externes. Prix moyen affiché ... <strong>Nos experts trouvent que ce vin Côte de Beaune rouge serait parfait avec ces plats</strong>.",
+          "source": "dreyfusashby.com",
+          "title": "Santenay – Dreyfus, Ashby & Co.",
+          "url": "https://dreyfusashby.com/product/joseph-drouhin-santenay/",
+          "excerpt": "Santenay https://dreyfusashby.com/wp-content/uploads/2024/05/Santenay.wav Categories: Burgundy , France , Pinot Noir , Red Wine , RedBlend , Village Reds Tags: Drouhin , Drouhin Family of Wines , Fine wine , Pinot Noir , Veronique , Veronique Drouhin Product ID: 22153 Description Description Joseph Drouhin Santenay DESCRIPTION: Located nearly in the Southern end of the Côte de Beaune, after Chassagne-Montrachet, Santenay is a pretty, quiet village producing lovely red wines from Pinot Noir. It is a rather large appellation, with the vineyards having a more southerly exposure due to the change ",
           "lang": "sv"
         },
         {
@@ -539,6 +959,186 @@
           "title": "Best local price for Joseph Drouhin Santenay - stores near you in USA",
           "url": "https://www.wine-searcher.com/find/joseph+drouhin+santenay+cote+de+beaune+burgundy+france",
           "excerpt": "Several important critics have rated this Santenay wine highly. Critic tasting note: (2022 vintage) &quot;Barrel-aged wine blended in tank. Tank sample. Mouth-filling ripe, charming fruit with red-cherry flavours. Firm finish. Jancis Robinson&quot; - JancisRobinson.com ... All 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 2000 1999 1995 1994 1988 1985 1983 1978 1976 1970 1964 1962 1959 1952 1949",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-93738",
+      "market": "se",
+      "name": "Il Frappato",
+      "producer": "Arianna Occhipinti",
+      "wine_type": "Rött",
+      "vintage": "2023",
+      "origin_country": "Italien",
+      "price": 369.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=93738",
+      "image": "https://imgs.search.brave.com/xpvsrFnyZhhrYq9xxWdbuzUdixbHryVvKiLDoCKMKqw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zZi5m/bGF0aXJvbi13aW5l/cy5jb20vY2RuL3No/b3AvZmlsZXMvQm90/dGxlLW9mLUFyaWFu/bmEtT2NjaGlwaW50/aS1UZXJyZS1TaWNp/bGlhbmUtSWwtRnJh/cHBhdG8tMjAyMy1S/ZWQtV2luZS1GbGF0/aXJvbi1TRl8xMDI0/eDEwMjQuanBnP3Y9/MTc1MzMyMDY0OA",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "wineenthusiast.com",
+          "title": "Arianna Occhipinti 2023 Il Frappato Frappato (Terre Siciliane) Rating and Review | Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/arianna-occhipinti-2023-il-frappato-frappato-terre-siciliane/",
+          "excerpt": "On the nose, violets, wild cherries and wild strawberries pop above a backbone of pepper and crushed herbs. The palate has an incredible freshness, but also profundity. Frappato always feels especially connected to the earth, tethered to something deep underneath us. Arianna has",
+          "lang": "sv"
+        },
+        {
+          "source": "cellartracker.com",
+          "title": "2023 Arianna Occhipinti Il Frappato, Italy, Sicily, Terre Siciliane - CellarTracker",
+          "url": "https://www.cellartracker.com/wine.asp?iWine=5289748",
+          "excerpt": "Texture: Silky, lifted, almost ... Conclusion Quality Assessment: <strong>Very good to outstanding a benchmark example of Frappato showing purity, elegance, and authenticity of Vittoria terroir</strong>....",
+          "lang": "sv"
+        },
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for Arianna Occhipinti Il Frappato Terre Siciliane IGT - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/arianna+occhipinti+frappato+terre+siciliane+igp+sicilia+italy",
+          "excerpt": "<strong>A number of critics have rated this Terre Siciliane IGT wine extremely highly</strong>. ... Frappato was born from my childhood dream of making a wine that tastes like the land I work, the air I breathe, and my own thoughts.",
+          "lang": "sv"
+        },
+        {
+          "source": "empirewine.com",
+          "title": "Arianna Occhipinti Il Frappato IGT 2023 :: Italian Red",
+          "url": "https://www.empirewine.com/wine/arianna-occhipinti-il-frappato-igt-2023-h72230/",
+          "excerpt": "100% Frappato that is <strong>succulent, precise, bright and a lively frappato</strong>. The nose shows notes of forest berries, sour cherries, forest floor, pebbles and mild spices. It’s light- to medium-bodied with silky tannins.",
+          "lang": "sv"
+        },
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for 2023 Arianna Occhipinti Il Frappato Terre Siciliane IGT - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/arianna+occhipinti+frappato+terre+siciliane+igp+sicilia+italy/2023",
+          "excerpt": "International Wine Challenge ... Critic tasting note: (2023 vintage) &quot;<strong>A super-focused, polished, light and fresh wine with gentle aromas of wax, black pepper and wild strawberries</strong>....",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-94396",
+      "market": "se",
+      "name": "La LLorona",
+      "producer": "Veronica Ortega",
+      "wine_type": "Vitt",
+      "vintage": "2024",
+      "origin_country": "Spanien",
+      "price": 350.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=94396",
+      "image": "https://imgs.search.brave.com/DSJw01q7rYhWnLjxMztm7lvRhbBj8dwV6-x_FaCD83s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tYXJp/ZGFlLmliZXJpYS5j/b20vOTUzOS1tZWRp/dW1fZGVmYXVsdC92/ZXJvbmljYS1vcnRl/Z2EtbGEtbGxvcm9u/YS0yMDI0LmpwZw",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "peak-wines.com",
+          "title": "Verónica Ortega La Llorona 2024 - Peak Wines",
+          "url": "https://peak-wines.com/products/veronica_ortega_la_llorona_2024",
+          "excerpt": "Rising Star Sold out Go to item 1 Go to item 2 Verónica Ortega La Llorona 2024 La Llorona is Verónica Ortega’s new top white, a serious single-village Godello from Pieros. It combines citrus brightness, subtle flor-like notes and salty minerality with a fine, creamy texture. Read more Sale price € 35,75 Tax included. Y per L + shipping Stored to perfection. Ready to ship Sold out Out of stock Free storage No cellar? No problem! All wines which you buy at our store include free storage. Find out more Shipping & Returns Orders are dispatched promptly from our climate-controlled facility and ship",
+          "lang": "sv"
+        },
+        {
+          "source": "gourmethunters.com",
+          "title": "Verónica Ortega La Llorona 2024 - Comprar Vino Blanco con Crianza - Bierzo - Verónica Ortega",
+          "url": "https://www.gourmethunters.com/es/Ver%C3%B3nica+Ortega+La+Llorona+2024",
+          "excerpt": "La uva que da vida a <strong>Verónica Ortega La Llorona</strong> se despalilla con suavidad, seguida de una maceración pelicular corta, apenas una noche, suficiente para tensar el perfil aromático sin desdibujarlo.",
+          "lang": "sv"
+        },
+        {
+          "source": "maridae.iberia.com",
+          "title": "Verónica Ortega | La Llorona 2024 - Maridae - IBERIA",
+          "url": "https://maridae.iberia.com/blanco/16002-veronica-ortega-la-llorona-2024.html",
+          "excerpt": "La Llorona es el vino blanco elaborado con uva Godello de grano menudo por Verónica Ortega en el Bierzo. Nos sigue sorprendiendo una añada más por su carácter mineral, el que le aportan los suelos arenosos de Pieros, un pueblo con cultivos a altura, en el Bierzo.",
+          "lang": "sv"
+        },
+        {
+          "source": "decantalo.com",
+          "title": "Verónica Ortega La Llorona 2024 | Decántalo",
+          "url": "https://www.decantalo.com/es/es/veronica-ortega-la-llorona.html",
+          "excerpt": "Verónica Ortega La Llorona 2024 es un vino blanco sumamente encantador que fascina con <strong>aromas a melocotón maduro, sutiles toques de manzanilla y un fresco fondo cítrico que evoca recuerdos de limones recién cortados y un toque de hinojo</strong>.",
+          "lang": "sv"
+        },
+        {
+          "source": "puravid.com",
+          "title": "Verónica Ortega La Llorona Blanco 2024",
+          "url": "https://puravid.com/es/blanco/veronica-ortega-la-llorona-blanco-2024-15479/",
+          "excerpt": "El vino es un monovarietal de Godello de grano pequeño procedente de un viñedo de 35 años de suelos arenosos situado a unos 500 metros de altura. Se realiza un despalillado total de la uva y una maceración pelicular de 8 horas antes de fermentar de manera espontánea con levaduras autóctonas. Realiza una crianza en barricas de roble francés usadas de 225l 500l y 600l ... España y se instala en Valtuille de Abajo en el 2012.Verónica Ortega o la joven promesa del vino español.",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-91183",
+      "market": "se",
+      "name": "Côte de Brouilly Lieu-dit Brulhié",
+      "producer": "Ch. De La Chaize",
+      "wine_type": "Rött",
+      "vintage": "2023",
+      "origin_country": "Frankrike",
+      "price": 349.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=91183",
+      "image": "https://imgs.search.brave.com/O9AmnRYtAdDsFNRz7G0MLpDVkMHeJgSXbKtCEe7qz5o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dmluLXRlcnJvaXIu/ZnIvMTQyNi1sYXJn/ZV9kZWZhdWx0L2No/YXRlYXUtZGUtbGEt/Y2hhaXplLWNvdGUt/ZGUtYnJvdWlsbHkt/YnJ1bGhpZS0yMDIy/LmpwZw",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "chateaudelachaize.fr",
+          "title": "CÔTE DE BROUILLY Lieu-dit \"BRULHIÉ\" | Château de La Chaize",
+          "url": "https://www.chateaudelachaize.fr/fr_FR/vin/cote-de-brouilly-lieu-dit-brulhie/2023",
+          "excerpt": "Château de La Chaize Le domaine Vignoble & Savoir-faire Nos vins Où trouver nos vins ? Actualités & Presse Photothèque Visites & expériences Newsletter Abonnez-vous ! En saisissant votre adresse e-mail ci-dessous, vous acceptez de recevoir notre newsletter qui présente nos dernières collections, nos évènements et nos offres exclusives. S'INSCRIRE Informations Mentions légales Cookies Politique de cookie Politique de confidentialité Nous contacter Château de La Chaize, 500 route de La Chaize - 69460 Odenas, France +33 4 74 03 41 05 contact@chateaudelachaize.fr Visites : +33 6 13 07 92 76 Nous s",
+          "lang": "sv"
+        },
+        {
+          "source": "vinous.com",
+          "title": "Château de la Chaize Côte de Brouilly Brulhié 2023",
+          "url": "https://vinous.com/wines/chateau-de-la-chaize-cote-de-brouilly-brulhie/2023",
+          "excerpt": "Prefer the old site? Launch → 2023 Côte de Brouilly Brulhié Wine Details Producer Château de la Chaize Place of Origin France Côte de Brouilly Beaujolais Color Red Grape/Blend Vintages Print Wines Make Shelftalkers Reviews & Tasting Notes Loading... Loading... Importer Details Vintus Imports to: United States Address: 48 W 38th St, New York, NY 10018 Phone: (914) 769-3000 Email: info@vintus.com Website: https://vintus.com Content Advanced Search Articles Videos Maps Engage Events Your Say Consumer Resources Subscriptions & Gifts Sample Submissions Contact Us Vinous About Core Values Press Refe",
+          "lang": "sv"
+        },
+        {
+          "source": "npwines.com",
+          "title": "Château de La Chaize Brouilly 2023 – Nicholas Pearce Wines Inc",
+          "url": "https://www.npwines.com/products/domaine-du-ch-teau-de-la-chaize-brouilly",
+          "excerpt": "Close (esc) Red Wine Gamay Organic Dry Light Bodied 750ml 13% alc./vol Château de La Chaize Brouilly 2023 Beaujolais , France 92 points - Wine Align Regular price $34.95 per bottle ( $419.40 per case) 12 bottles per case / Default Title - $419.40 CAD Quantity − + Only 7 items in stock! Add to cart [{\"id\":42444382437594,\"title\":\"Default Title\",\"option1\":\"Default Title\",\"option2\":null,\"option3\":null,\"sku\":\"100031-1\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Château de La Chaize Brouilly 2023\",\"public_title\":null,\"options\":[\"Default Title\"],\"price\":419",
+          "lang": "sv"
+        },
+        {
+          "source": "chateaudelachaize.fr",
+          "title": "CÔTE DE BROUILLY",
+          "url": "https://www.chateaudelachaize.fr/en_US/winepdf/cote-de-brouilly-lieu-dit-brulhie/2023",
+          "excerpt": "%PDF-1.4 %��� 1 0 obj << /BM /Normal /ca 1 >> endobj 2 0 obj << /BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter /FlateDecode /Height 1698 /Subtype /Image /Type /XObject /Width 1200 /Length 3 0 R >> stream x�� ��\u000em9� C�\u0000�yo\u0000�ˬLu�\bA�$���ܲ U\u0005\u0018\u0017�VFФ�E���h �����������\u0017��#���� *Q* T�a���� �~�������������� *Q��v{�P\"�GԏzZ{��*�=T H� ��\u001an�W+VHGO,r~�b�t�m��R�&���W;����\u0016\u0006��\u0007����+�� ��\u0012��zC�\u0016TЙ�H�� � �؅K��n'�\u00028n? �y�_*�Sꢊ���� #�Rt��G�$��� �d��@\u0007U���뉘��_�ST���! ����ߊ�?r$��>~����U�@Ĳ�j���%�������\u001b1��|%�7��ҿ�w �oۙ�~> \u0007\u0000~i��ZoHZ���\u001b�W�oQT�󝝋�Y�?W׶�ܢ�1��ń !?w�w�����7�W\u0012�]Hݿ-����g��C�����؋ ��\u0015�zI����G�|",
+          "lang": "sv"
+        },
+        {
+          "source": "insideburgundy.com",
+          "title": "2023, Côte de Brouilly Brulhié, Château de la Chaize",
+          "url": "https://insideburgundy.com/wine/2023-cote-de-brouilly-brulhie-chateau-de-la-chaize/",
+          "excerpt": "2023, Côte de Brouilly Brulhié, Château de la Chaize RESTRICTED Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Mauris turpis nunc, blandit et, volutpat molestie, porta ut, ligula. Proin viverra, ligula sit amet ultrices semper, ligula arcu tristique sapien, a accumsan nisi mauris ac eros. Vivamus elementum semper nisi. Tasting: RESTRICTED, RESTRICTED, RESTRICTED, RESTRICTED, RESTRICTED. Star rating: NA 100pt score: RESTRICTED You are now entering the subscriber area I",
           "lang": "sv"
         }
       ]
@@ -567,17 +1167,17 @@
       "pairing": {},
       "sources": [
         {
-          "source": "svd.se",
-          "title": "Recension: Giacomo Grimaldi Barolo Piccole Vigne",
-          "url": "https://www.svd.se/a/G3gdQq/barolo-piccole-vigne",
-          "excerpt": "Pär Strömberg Publicerad 2022-03-08 16:32 Följ skribent Sluta följa Andra årgången av detta vin från familjevineriet högst upp i byn Barolo. Körsbär, viol och rosor med frisk syra, fyllig frukt och klättrande tanniner.",
-          "lang": "sv"
-        },
-        {
           "source": "vivino.com",
           "title": "Giacomo Grimaldi Barolo | Vivino Svenska",
           "url": "https://www.vivino.com/sv/it-giacomo-grimaldi-barolo/w/1227190",
           "excerpt": "<strong>Våra vinexperter tror att det här Barolo vinet skulle vara en match made in heaven med dessa rätter</strong>.",
+          "lang": "sv"
+        },
+        {
+          "source": "svd.se",
+          "title": "Recension: Giacomo Grimaldi Barolo Piccole Vigne",
+          "url": "https://www.svd.se/a/G3gdQq/barolo-piccole-vigne",
+          "excerpt": "Pär Strömberg Publicerad 2022-03-08 16:32 Följ skribent Sluta följa Andra årgången av detta vin från familjevineriet högst upp i byn Barolo. Körsbär, viol och rosor med frisk syra, fyllig frukt och klättrande tanniner.",
           "lang": "sv"
         },
         {
@@ -627,17 +1227,17 @@
       "pairing": {},
       "sources": [
         {
-          "source": "labouteillerie.com",
-          "title": "St-Joseph - François Villard - \"Poivre et Sol\" 2023",
-          "url": "https://www.labouteillerie.com/saint-joseph/16650-st-joseph-francois-villard-poivre-et-sol-2023.html",
-          "excerpt": "Disponible  Ajouter au panier  Aperçu rapide  Supprimer du panier Liste de souhaits Saint Joseph St-Joseph- Vignoble Deleu - \"Litote\" 2024 Prix 36,00 €",
-          "lang": "sv"
-        },
-        {
           "source": "domainevillard.com",
           "title": "2.18 Poivre et Sol – Domaine François Villard",
           "url": "https://www.domainevillard.com/fiche-poivre-et-sol/",
           "excerpt": "2022 SAINT-JOSEPH POIVRE ET SOL 2023 Localisation et vignoble ORIGINES : Commune de Nord de l'appellation CEPAGES : 100% Syrah SOL : Granite décomposé & quartz AGE : 20 ans Dégustation Un nez fin et délicat annonçant la richesse des fruits noirs. En bouche, des arômes puissants de mûres et myrtilles s'allient à une élégance et une structure impressionnante, soutenues par des tanins parfaitement fondus. Association et conservation MILLESIME : 2023 GARDE : 12 ans ASSOCIATION : Rougaille saucisse, boudin noir, tournedos ... Télécharger la fiche technique Download the technical sheet",
+          "lang": "sv"
+        },
+        {
+          "source": "labouteillerie.com",
+          "title": "St-Joseph - François Villard - \"Poivre et Sol\" 2023",
+          "url": "https://www.labouteillerie.com/saint-joseph/16650-st-joseph-francois-villard-poivre-et-sol-2023.html",
+          "excerpt": "Disponible  Ajouter au panier  Aperçu rapide  Supprimer du panier Liste de souhaits Saint Joseph St-Joseph- Vignoble Deleu - \"Litote\" 2024 Prix 36,00 €",
           "lang": "sv"
         },
         {
@@ -648,17 +1248,17 @@
           "lang": "sv"
         },
         {
+          "source": "v2vin.com",
+          "title": "Poivre et Sol 2023 - François Villard",
+          "url": "https://www.v2vin.com/3486-poivre-et-sol-2023-francois-villard.html",
+          "excerpt": "Prix 28,90 € Prix de base 31,00 € 75cl 18+/20 Coudoulet de Beaucastel Blanc 2022 M'alerter",
+          "lang": "sv"
+        },
+        {
           "source": "vcommevin.com",
           "title": "François Villard Poivre et Sol rouge 2023 - Saint-Joseph",
           "url": "https://vcommevin.com/francois-villard/3408-francois-villard-poivre-et-sol-rouge-2023.html",
           "excerpt": " Aperçu rapide François Villard DePoncins blanc 2023 Condrieu Rhône Blanc Prix 51,80 € La bouteille de 75 cl + 52 Points Fidélité + 104 Points Privilège",
-          "lang": "sv"
-        },
-        {
-          "source": "vinatis.com",
-          "title": "Saint-Joseph - Poivre et Sol - Francois Villard 2023 - Francois Villard",
-          "url": "https://www.vinatis.com/81262-saint-joseph-poivre-et-sol-2023-domaine-francois-villard",
-          "excerpt": "FOIRE AUX VINS : + de 650 références jusqu'à -34% › J'en profite Livraison en France Localisation Les prix et les options de livraison peuvent varier selon le pays. Pays de livraison Allemagne Autriche Belgique Bulgarie Croatie Danemark Espagne Estonie Finlande France Grande-Bretagne Grèce Hongrie Italie Lettonie Lituanie Luxembourg Pays-bas Portugal République Tchèque Roumanie Slovaquie Slovénie Suède Langue Français Deutsch English Italiano Español Português PT Nederlands You will be redirected to for a better shopping experience. Mettre à jour Espace pro Aide Se connecter Panier Search Ferm",
           "lang": "sv"
         }
       ]
@@ -687,17 +1287,10 @@
       "pairing": {},
       "sources": [
         {
-          "source": "systembolaget.se",
-          "title": "Hacienda López de Haro Gran Reserva, 2017 | Systembolaget",
-          "url": "https://www.systembolaget.se/produkt/vin/hacienda-lopez-de-haro-9265601/",
-          "excerpt": "Sätt betyg Spara Vin , Rött vin , Kryddigt & Mustigt Hacienda López de Haro Gran Reserva, 2017 \"\" Spanien , Rioja Flaska · 750 ml · 14 % vol. Nr 9265601 Nr 9265601 299:- 299 kronor 398:67 kr/l 398 kronor och 67 öre per liter Komplex, kryddig, något utvecklad smak med tydlig fatkaraktär, inslag av mörka körsbär, tobak, dill, fikon, kakao, pomerans och vanilj. Serveras vid cirka 18°C till rätter av mörkt kött. Fyllighet Strävhet Fruktsyra Laddar innehåll Laddar ... Innehållsförteckning Smakbeskrivning Passar till Standardglas Klimat, miljö, socialt ansvar Produktinformation Råvaror Tempranillo o",
-          "lang": "sv"
-        },
-        {
-          "source": "haciendalopezdeharo.com",
-          "title": "Gran Reserva - Hacienda López de Haro",
-          "url": "https://www.haciendalopezdeharo.com/vinos/hacienda-lopez-de-haro-gran-reserva/",
-          "excerpt": "Selección de viñedos viejos de producción moderada, situados en las terrazas del Ebro en torno a San Vicente de la Sonsierra, sobre suelos pobres que favorecen la concentración y el equilibrio.",
+          "source": "vinguiden.com",
+          "title": "Hacienda López de Haro Gran Reserva 2017 - Vinguiden",
+          "url": "https://vinguiden.com/sortiment/hacienda-lopez-de-haro-gran-reserva/",
+          "excerpt": "Hacienda Monasterio Reserva 797 kr KÖP",
           "lang": "sv"
         },
         {
@@ -708,17 +1301,264 @@
           "lang": "sv"
         },
         {
-          "source": "vinart.es",
-          "title": "Hacienda López de Haro Reserva 2017: Análisis y Comparativa de un Vino Excepcional",
-          "url": "https://vinart.es/hacienda-lopez-de-haro-reserva-2017/",
-          "excerpt": "Hacienda López de Haro Reserva 2017: ¡<strong>Un vino que cautiva los sentidos y deleita el paladar</strong>! Proveniente de una de las bodegas más prestigiosas de la región de Rioja, este Reserva es un verdadero tesoro enológico.",
+          "source": "systembolaget.se",
+          "title": "Hacienda López de Haro Gran Reserva, 2017 | Systembolaget",
+          "url": "https://www.systembolaget.se/produkt/vin/hacienda-lopez-de-haro-9265601/",
+          "excerpt": "Sätt betyg Spara Vin , Rött vin , Kryddigt & Mustigt Hacienda López de Haro Gran Reserva, 2017 \"\" Spanien , Rioja Flaska · 750 ml · 14 % vol. Nr 9265601 Nr 9265601 299:- 299 kronor 398:67 kr/l 398 kronor och 67 öre per liter Komplex, kryddig, något utvecklad smak med tydlig fatkaraktär, inslag av mörka körsbär, tobak, dill, fikon, kakao, pomerans och vanilj. Serveras vid cirka 18°C till rätter av mörkt kött. Fyllighet Strävhet Fruktsyra Laddar ... Innehållsförteckning Smakbeskrivning Passar till Standardglas Klimat, miljö, socialt ansvar Produktinformation Råvaror Tempranillo och graciano. Urs",
           "lang": "sv"
         },
         {
-          "source": "haciendalopezdeharo.com",
-          "title": "Reserva - Hacienda López de Haro",
-          "url": "https://www.haciendalopezdeharo.com/vinos/hacienda-lopez-de-haro-reserva/",
-          "excerpt": "La sutileza y el equilibrio de un clásico reserva riojano.",
+          "source": "wine-searcher.com",
+          "title": "Best local price for Hacienda Lopez de Haro Gran Reserva - stores near you in Switzerland",
+          "url": "https://www.wine-searcher.com/find/hacienda+lopez+de+haro+grand+rsrv+doca+rioja+alta+spain",
+          "excerpt": "2009 Vintage Tasted: Dec 2017 · About Wine &amp; Spirits Magazine · 92 / 100 · Wine &amp; Spirits Magazine · 2008 Vintage Tasted: Dec 2016 · About Wine &amp; Spirits Magazine · Where more than 24 Critics scores exist, only the first 24 are displayed. For completeness we may include critic scores in our aggregation that we do not display. See more See less · (24) 4.5 · 24 ratings · 5 · 13 · 4 · 8 · 3 · 3 · 2 · 0 · 1 · 0 · Hacienda Lopez de Haro Gran Reserva, Rioja DOCa, Spain ·",
+          "lang": "sv"
+        },
+        {
+          "source": "vivavinomat.se",
+          "title": "Hacienda López de Haro Gran Reserva - Viva vin o mat",
+          "url": "https://vivavinomat.se/sortiment/hacienda-lopez-de-haro-gran-reserva/",
+          "excerpt": "Maison Vialade Côtes du Roussillon Villages 99 kr Höstens nyhet i samarbete med Tina Nordström - 1 september landar ett generöst rött vin på hyllorna på Systembolaget, som skapat för det dukade bordet. KÖP",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-92687",
+      "market": "se",
+      "name": "Alta Langa Blanc de Blancs",
+      "producer": "Fontanafredda",
+      "wine_type": "Mousserande",
+      "vintage": "2021",
+      "origin_country": "Italien",
+      "price": 299.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=92687",
+      "image": "https://imgs.search.brave.com/HOn2KUNC_4zwVPxzh-gWcnqjvpxhCMLTmb2-W6VMESw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby92/ZW50aXMvcHJvZC90/cjpuLXByb2R1Y3Rf/ZnVsbF9pbWFnZV96/b29tYWJsZS9jb250/ZW50L2ltYWdlcy9w/cm9kb3R0aS82MC85/MC82MDkwMzkvMjAy/MzEwMTcwNTMzMTc0/MzguanBn",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "systembolaget.se",
+          "title": "Fontanafredda Alta Langa Blanc de Blancs, 2021 | Systembolaget",
+          "url": "https://www.systembolaget.se/produkt/vin/fontanafredda-9268701/",
+          "excerpt": "Sätt betyg Spara Vin , Mousserande vin , Torrt vitt Fontanafredda Alta Langa Blanc de Blancs, 2021 \"\" Italien , Piemonte , Alta Langa Flaska · 750 ml · 12,5 % vol. Nr 9268701 Nr 9268701 299:- 299 kronor 398:67 kr/l 398 kronor och 67 öre per liter Nyanserad, något utvecklad, mycket frisk smak med inslag av gula äpplen, rostat bröd, persika, honung, fransk nougat och grapefrukt. Serveras vid 8-10°C som aperitif, till rätter av fisk eller skaldjur eller till salta snacks. Sötma Fyllighet Fruktsyra Laddar ... Allergener Smakbeskrivning Passar till Standardglas Klimat, miljö, socialt ansvar Produkt",
+          "lang": "sv"
+        },
+        {
+          "source": "altalangadocg.com",
+          "title": "Blanc de Blancs - Alta Langa Docg",
+          "url": "https://www.altalangadocg.com/en/wines/alta-langa-docg-blanc-de-blancs-fontanafredda/",
+          "excerpt": "It is a vintage Alta Langa, 100% Chardonnay with at least 30 months of aging on its lees; it is cultivated at an altitude of 600m where the land is white clay with layers of chalky sand.",
+          "lang": "sv"
+        },
+        {
+          "source": "falstaff.com",
+          "title": "2021 Limited Edition Alta Langa DOCG Brut - Fontanafredda - Falstaff",
+          "url": "https://www.falstaff.com/nordics/wines/fontanafredda-2021-limited-edition-alta-langa-docg-brut",
+          "excerpt": "The sparkling wine Limited Edition Alta Langa DOCG Brut, vintage 2021 from the winery Fontanafredda has been rated in 2025 by Simon Staffler, Othmar Kiem with <strong>92 Falstaff points</strong>.",
+          "lang": "sv"
+        },
+        {
+          "source": "vino.com",
+          "title": "Alta Langa DOCG Extra Brut Blanc de Blancs 2021 Fontanafredda fontanafreddaaltalangaextrabrutblancdeblancs2021",
+          "url": "https://www.vino.com/sv/dettaglio/alta-langa-extra-brut-blanc-de-blancs-docg-fontanafredda-2021.html",
+          "excerpt": "Observera att cookies i denna webbläsare är inaktiverade, vissa funktioner på webbplatsen är inte tillgängliga. För att alla funktioner på den här webbplatsen ska fungera måste du aktivera JavaScript. För instruktioner om hur du aktiverar JavaScript i din webbläsare klicka här . Fri frakt Lojalitetskort Är du proffs? Gå med i VINO.COM PRO Valuta: € EUR Leverera till: Italien Språk: Ange språk, leveranssätt och valuta Språk: Deutsch English Español Français Italiano Nederlands Svenska Leverera till: Belgien Danmark Finland Frankrike Italien Monaco Nederländerna Schweiz Slovakien Spanien Storbri",
+          "lang": "sv"
+        },
+        {
+          "source": "bottleofitaly.com",
+          "title": "Spumante Alta Langa DOCG Blanc de Blancs Extra Brut - Fontanafredda",
+          "url": "https://bottleofitaly.com/en-us/products/spumante-alta-langa-docg-blanc-de-blancs-extra-brut-fontanafredda",
+          "excerpt": "Loading product media… Spumante Alta Langa DOCG Blanc de Blancs Extra Brut - Fontanafredda 2021 Fontanafredda Read the description Chardonnay, Pinot Nero · Alta Langa DOCG · 75 cl · 2021 -17% $31.27 Recommended price: $37.63 This is a manufacturer's recommended retail price provided by manufacturers, suppliers, or vendors. Bottle of Italy uses the Recommended Price as a reference to allow comparison between different prices. More information VAT and Tax incl. Excise and customs charges incl. (EU, CH, US only) ($41.69/ℓ) 📦 Case Price (-8%) (valid for 6 bottles or multiples thereof) $28.76 You s",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-94028",
+      "market": "se",
+      "name": "Otira Glacial Stones Single Vineyard Sauvignon Blanc",
+      "producer": "Clos Henri",
+      "wine_type": "Vitt",
+      "vintage": "2024",
+      "origin_country": "Nya Zeeland",
+      "price": 299.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=94028",
+      "image": "https://imgs.search.brave.com/5wbwFPiARN80jyr26CCxn7ofEq-yW7po43t0UAlgI68/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93aW5l/b25saW5lZGVsaXZl/cnkuY29tL2Nkbi9z/aG9wL2ZpbGVzL3N2/LW90aXJhLXNiLXBy/b2R1Y3RfMTAyNHgx/MDI0XzA4MzZhMGJi/LWNlYzktNGRjYS04/ODBkLWIxNGU0MWNi/YjY5NV8xMDB4Lndl/YnA_dj0xNzU4NjQ5/MzU2",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "wine.com",
+          "title": "Clos Henri Otira Sauvignon Blanc 2024 | Wine.com",
+          "url": "https://www.wine.com/product/clos-henri-otira-sauvignon-blanc-2024/3538160",
+          "excerpt": "<strong>The wine has a smell of fresh sheets, crisp, crushed shells, white spice and ocean air</strong>. I appreciate the length and stretch of this wine—it fully extends and lingers, and there is a textural pulsing and undulation.",
+          "lang": "sv"
+        },
+        {
+          "source": "redneckwinecompany.com",
+          "title": "Clos Henri Otira Glacial Stones Sauvignon Blanc 2024 - 750ml – Redneck Wine Company",
+          "url": "https://redneckwinecompany.com/products/clos-henri-otira-glacial-stones-sauvignon-blanc-2024-750ml",
+          "excerpt": "Clos Henri Otira Glacial Stones Sauvignon Blanc 2024 - 750ml Clos Henri Otira Glacial Stones Sauvignon Blanc 2024 - 750ml Price Regular price $28.97 $28.97 / Quantity − + Shipping calculated at checkout. Sold Out Default Title - Sold Out 96pts Robert Parker's Wine Advocate The 2024 Otira Glacial Stones Sauvignon Blanc is just such a fantastic wine. I love it every year. Mineral tension, poise and elongated shape are the hallmarks of this wine. The wine has a smell of fresh sheets, crisp, crushed shells, white spice and ocean air. I appreciate the length and stretch of this wine—it fully extend",
+          "lang": "sv"
+        },
+        {
+          "source": "wineenthusiast.com",
+          "title": "Clos Henri 2024 Otira Glacial Stones Sauvignon Blanc (Marlborough) Rating and Review | Wine Enthusiast",
+          "url": "https://www.wineenthusiast.com/buying-guide/clos-henri-2024-otira-glacial-stones-sauvignon-blanc-marlborough/",
+          "excerpt": "It&#x27;s <strong>concentrated, flavorsome, but never forced or over-made</strong>. There&#x27;s pronounced minerality—like stones, shells and fresh cut meadow crunching underfoot—and salted margarita vibes,",
+          "lang": "sv"
+        },
+        {
+          "source": "esow.com",
+          "title": "Clos Henri Sauvignon Blanc - Otira Glacial Stones Single Vineyard 2024 - Empire State Of Wine",
+          "url": "https://www.esow.com/wines/2022-Clos-Henri-Sauvignon-Blanc-Otira-Glacial-Stones-Single-Vineyard-w26492632y",
+          "excerpt": "<strong>The wine has a smell of fresh sheets, crisp, crushed shells, white spice and ocean air</strong>. I appreciate the length and stretch of this wine—it fully extends and lingers, and there is a textural pulsing and undulation.",
+          "lang": "sv"
+        },
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for Clos Henri 'Otira Glacial Stones' Sauvignon Blanc - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/clos+henri+otira+glacial+stone+sauv+blanc+marlborough+new+zealand/1/usa",
+          "excerpt": "Based on critic scores and price, this wine represents outstanding value. Critic tasting note: (2024 vintage) &quot;<strong>Very classy with a fragrant nose of ripe lemons, subtle elderflowers, hay and lime zest, accented by a touch of sea spray</strong>.",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-95617",
+      "market": "se",
+      "name": "Chardonnay",
+      "producer": "Tyler Winery",
+      "wine_type": "Vitt",
+      "vintage": "2024",
+      "origin_country": "USA - Kalifornien",
+      "price": 299.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=95617",
+      "image": "https://imgs.search.brave.com/ez96HqJmVxekDfEp9MB_yGo1jGSqqcQBc9kDlKzbNyo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2luZXNvbHV0aW9u/cy5jb20vY2RuL3No/b3AvZmlsZXMvUGlj/dHVyZTFfNTIzMmU4/MDYtNWE1Yy00MjZk/LTljNDctZmJlNDFm/NGU4NmFjLmpwZz92/PTE3ODA5NTYzNjUm/d2lkdGg9MTA4MA",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "wine.com",
+          "title": "Tyler Winery Santa Barbara County Chardonnay 2024",
+          "url": "https://www.wine.com/product/tyler-winery-santa-barbara-county-chardonnay-2024/4125588",
+          "excerpt": "Over 10,000 wines in stock. FREE shipping for a year with StewardShip. Pro ratings and friendly experts to help you choose from the best selection of red wine, white wine, champagne and more.",
+          "lang": "sv"
+        },
+        {
+          "source": "tylerwinery.com",
+          "title": "Tyler Winery",
+          "url": "https://www.tylerwinery.com/",
+          "excerpt": "JOIN OUR MAILING LIST Stay connected on public releases, events, and more. Interested in guaranteed access to all of our wines? Sign up to our Favored Allocation Membership .",
+          "lang": "sv"
+        },
+        {
+          "source": "decantnapa.com",
+          "title": "Tyler Chardonnay, Santa Barbara County, California 2024 – DECANT Napa Bottle Shop & Bar",
+          "url": "https://decantnapa.com/products/tyler-chardonnay-santa-barbara-county-california-2024",
+          "excerpt": "Soils across these vineyards include loam, sandy loam, clay loam, shale, and chert — predominantly marine sediment derived, contributing the mineral and saline character associated with Santa Barbara County Chardonnay. VINIFICATION: Grapes hand-harvested at night into half-ton bins.",
+          "lang": "sv"
+        },
+        {
+          "source": "bonvinselections.com",
+          "title": "Tyler Winery, Chardonnay Santa Barbara County (2024)",
+          "url": "https://www.bonvinselections.com/p/TRBQ8?version=7421418",
+          "excerpt": "If you experience difficulty accessing the PDF, view detailed instructions on how to download it. Tyler Winery, Chardonnay Santa Barbara County (2024) Producer Tyler Winery Category Wine - Still - White Grape Chardonnay Region California, United States Subregion Santa Barbara County About the product About the producer About the product About the producer Product Description Though we had a relatively cold, dry winter with variable flowering, the fruit from slightly varied points of ripeness at vintage worked well to provide both ripe flavors, but also charming underlying structure and acidity",
+          "lang": "sv"
+        },
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for Tyler Chardonnay - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/tylers+chard+santa+rita+hill+barbara+county+central+coast+california+usa",
+          "excerpt": "What does Chardonnay taste like? Despite its global success,... ... Mushrooms broadly fit the same matches as roasted vegetables:... Several important critics have rated this Sta Rita Hills wine highly. This is one of the most popular wines from the region (with Wine-Searcher users). Interest in this wine has been less conspicuous during the year. Widely available in America and Europe. A large number of vintages are available.",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-94220",
+      "market": "se",
+      "name": "Reserva",
+      "producer": "Viñedos del Contino",
+      "wine_type": "Rött",
+      "vintage": "2021",
+      "origin_country": "Spanien",
+      "price": 299.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=94220",
+      "image": "https://imgs.search.brave.com/WiKbJBw87xWFGJ2tbDFrlzzsWyP9G3QCKxxdm1yv8V4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZW5jb3BhZGViYWxv/bi5jb20vY2RuL3No/b3AvcHJvZHVjdHMv/Ym9kZWdhLXZpbmVk/b3MtZGVsLWNvbnRp/bm8tc2ltcGxlLWRl/ZmF1bHQtdGl0bGUt/Y29udGluby1yZXNl/cnZhLTIwMjAtNTY0/OTM5MzIxMTgzNTMu/anBnP3Y9MTc0MzQx/Mzg5MyZ3aWR0aD0z/NzAlMjAzNzB3",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for 2021 CVNE Vinedos del Contino 'Contino' Reserva - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/c+v+n+e+vinedo+contino+rsrv+doca+rioja+alavesa+spain/2021",
+          "excerpt": "Aged for 12 months in barrel, using a combination of mostly used barrels with around 10% new oak, all French. 300,000 bottles produced. <strong>The tannins are beautifully polished and elegant, with a truly delicious tannic texture</strong>.",
+          "lang": "sv"
+        },
+        {
+          "source": "gourmethunters.com",
+          "title": "Contino Reserva 2021 and 2019 | Gourmet Hunters",
+          "url": "https://www.gourmethunters.com/en_US/Contino+Reserva+2021",
+          "excerpt": "Contino Reserva has a <strong>fruity, floral and balsamic intensity in perfect balance with spicy notes</strong>. On the palate, it is long and silky, revealing ripe tannins.",
+          "lang": "sv"
+        },
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for CVNE Vinedos del Contino 'Contino' Reserva - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/c+v+n+e+vinedo+contino+rsrv+doca+rioja+alavesa+spain",
+          "excerpt": "CVNE Vinedos del Contino &#x27;Contino&#x27; Reserva, Rioja DOCa, Spain · Excellent · 1974 Vintage Saved: 21-Feb-2026 · February 2026. Amazing color. No bricking. Medium body. No tannins. Beam of pure fruit. Fresh. Long on palate. Spectacular wine. Very Good · 2011 Vintage Saved: 19-Aug-2023 · 2011 Smooth. Good value. Save for later · Excellent · Saved: 27-Nov-2022 · Tried in Bahrein · Very Good · 2016 Vintage Saved: 17-Nov-2021 ·",
+          "lang": "sv"
+        },
+        {
+          "source": "munskankarna.se",
+          "title": "Vinlocus munskankarna.se",
+          "url": "https://www.munskankarna.se/sv/vinlocus/tillfalligt-sortiment-25-september-2026/contino-reserva-2021",
+          "excerpt": "Tillbaka BETYG 15 299:- Prisvärt Druv- eller distrikttypisk Rött vin Contino Reserva 2021 Spanien , Rioja Producent: Viñedos del Contino Importör: WineWorld AB Systembolaget: 9422001 BETYG 15 299:- Prisvärt Druv- eller distrikttypisk Bedömning Dämpad doft av jord, undervegetation, rött äpple, mörka körsbär, björnbärsmarmelad, vanilj och en aning dillfrö. Torr, medelfyllig, syrligt mörkbärig och kryddig smak, medelhög syra, robusta tanniner och ett mörkt, lite jordigt och syrligt avslut. 2400 fl. Provning Tillfälligt sortiment 25 september 2026 Om vinet Volym 75 cl Alkohol 14 % Druvor: 86% temp",
+          "lang": "sv"
+        },
+        {
+          "source": "jancisrobinson.com",
+          "title": "Contino, Reserva 2021 Rioja Wine Review | Jancis Robinson",
+          "url": "https://www.jancisrobinson.com/tastings/320245",
+          "excerpt": "This is a red wine from Rioja, produced by Contino. See our expert review of the 2021 on JancisRobinson.com.",
           "lang": "sv"
         }
       ]
@@ -821,17 +1661,17 @@
           "lang": "sv"
         },
         {
-          "source": "merchantofwine.com",
-          "title": "Calabretta, Nerello Mascalese Vigne Vecchie 2016 | Merchant of Wine",
-          "url": "https://merchantofwine.com/products/calabretta-nerello-mascalese-vigne-vecchie-sicily-italy-2016",
-          "excerpt": "Skip to content 323-406-2016 office@merchantofwine.com Browse wine deals for unbeatable savings! View deals Spend $300+, get $40 flat-rate U.S. shipping! (per case) Shop now Shipping Refunds Menu 323-406-2016 office@merchantofwine.com facebook instagram linkedin tiktok youtube Log in Age verification Merchant of Wine is an online wine retailer. By clicking 'ENTER,' you confirm that you are 21 years of age or older and legally permitted to consume alcohol. Enter Loading image: 1 Calabretta, Nerello Mascalese, Vigne Vecchie, Sicily, Italy, 2016 Sale price $35.95 Regular price $42.00 Save $6.05 S",
-          "lang": "sv"
-        },
-        {
           "source": "amantivino.com",
           "title": "Calabretta Nerello Mascalese Vigne Vecchie 2016 750ml - Amanti Vino",
           "url": "https://www.amantivino.com/products/14731661/calabretta-nerello-mascalese-vigne-vecchie-2016",
-          "excerpt": "Calabretta Nerello Mascalese Vigne ... slopes of Mt. Etna, <strong>this complex, concentrated red offers plenty of earthy, mushroomy funk mingled with bright red fruit, floral undertones, and elegant minerality</strong>....",
+          "excerpt": "Calabretta Nerello Mascalese Vigne Vecchie 2016 SKU: 44360 750ml 12+ Bottles $35.99 /bottle Best Value 1 2 3 4 5 6 7 8 9 10 11 12 13 Add to Cart $39.99 $39.99 Available for: Pickup Delivery Shipping Share Category Red Wine Varietal Nerello Mascalese Brand Calabretta Origin Italy , Sicily , Etna From a 7-hectare vineyard of 60-to-80-year-old vines on the slopes of Mt. Etna, this complex, concentrated red offers plenty of earthy, mushroomy funk mingled with bright red fruit, floral undertones, and elegant minerality. Drink now or age further. Food Pairing Chicken cacciatore, sausages, game Produ",
+          "lang": "sv"
+        },
+        {
+          "source": "thecellardor.com",
+          "title": "2016 Calabretta Nerello Mascalese Vigne Vecchie Sicilia IGT | The Cellar d'Or",
+          "url": "https://thecellardor.com/calabretta-nerello-mascalese-vigne-vecchie-sicilia-igt-2016-750ml/",
+          "excerpt": "Description Dynamite example of old vines from Etna. Structured and intense without being too tight to drink young. Bouquet of red fruits, tobacco, and earth.",
           "lang": "sv"
         },
         {
@@ -839,6 +1679,66 @@
           "title": "Calabretta Nerello Mascalese Vigne Vecchie, Sicily, Italy 2016 – Caves Wine Shop",
           "url": "https://caveswineshop.com/products/calabretta-vigne-vecchie-nerello-mascalese-sicily-italy",
           "excerpt": "Home / $30 - $50 / Calabretta Nerello Mascalese Vigne Vecchie, Sicily, Italy 2016 Italian Red Calabretta Nerello Mascalese Vigne Vecchie, Sicily, Italy 2016 $37.00 Select variant Add to Cart Notify me when this product is available: 100% Nerello Mascalese Practicing Organic View winemaker fact sheet Since the winery’s founding in 1900, the Calabretta family has farmed and produced wines from Etna’s ancient indigenous varieties—including Nerello Mascalese and Nerello Cappuccio—in the mountain’s unique noble vineyards. The estate has been described as “a thousand miles away” from other Italian w",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-92111",
+      "market": "se",
+      "name": "Le Puy",
+      "producer": "Jean Maurice Raffault",
+      "wine_type": "Rött",
+      "vintage": "2024",
+      "origin_country": "Frankrike",
+      "price": 279.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=92111",
+      "image": "https://imgs.search.brave.com/BaUr_aAFk01ZtEy4Zdx6wks9bstOk_4-OrmdKV9-xHo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aGFjaGV0dGUtdmlu/cy5jb20vdXBsb2Fk/cy9tZWRpYS92aW5z/LXBhcnRlbmFpcmVz/LzA2L3Zpbl80YzBj/ODdmNWY3ODQ1YmVk/MTcwOTc3YjFjZTdl/YTY1NC5wbmc",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "hachette-vins.com",
+          "title": "Domaine Jean-Maurice Raffault Le Puy 2021 - Chinon - Vin rouge | Guide Hachette des Vins",
+          "url": "https://www.hachette-vins.com/guide-vins/les-vins/dom-jean-maurice-raffault-le-puy-2021-2024/202478798/",
+          "excerpt": "Vous devez activer Javascript pour profiter du Guide Hachette des Vins. Le vin Le vigneron Appellation Les plats en accord Domaine Jean-Maurice Raffault Favori Le Puy 2021 - rouge Vallée de la Loire et Centre • Chinon rouge tranquille A boire 15 à 20 € Vin très réussi! Domaine Jean-maurice Raffault Le Puy 2021 rouge : L'avis du Guide Hachette des Vins 2024 Un 2021 ambitieusement élevé qui porte pour l'heure la marque de son élevage : des notes torréfiées au nez comme en bouche, mais aussi de la tenue, de la matière, une structure affirmée et un potentiel qui ne fait pas de doute. À laisser en ",
+          "lang": "sv"
+        },
+        {
+          "source": "hachette-vins.com",
+          "title": "Jean-Maurice Raffault | Guide Hachette des Vins",
+          "url": "https://www.hachette-vins.com/guide-vins/producteurs/49845/jean-maurice-raffault/",
+          "excerpt": "Vous devez activer Javascript pour profiter du Guide Hachette des Vins. Le vigneron Informations pratiques Les vins Jean-maurice Raffault Les ancêtres de Rodolphe Raffault cultivaient déjà la vigne sous Louis XIV, il y a quatorze générations de cela. Aujourd'hui, le vigneron, qui a repris l'exploitation en 1997, dispose d'immenses caves et d'un vignoble de 44 ha en bio, réparti sur plusieurs terroirs qu'il vinifie séparément. Appellations Chinon s NOS VINS SIMILAIRES JEAN-MAURICE RAFFAULT Chinon Vallée de la loire et centre Nos offres partenaires LA BOUTIQUE DU GUIDE HACHETTE DES VINS Les gran",
+          "lang": "sv"
+        },
+        {
+          "source": "cavemonplaisir.fr",
+          "title": "Jean-Maurice Raffault - Le Puy - La CAVE MONPLAISIR",
+          "url": "https://cavemonplaisir.fr/produit/domaine-jean-maurice-raffault-le-puy-2019/",
+          "excerpt": "zoom Hover zoom Hover Full Screen Jean-Maurice Raffault – Le Puy Millésime 2024 Cépage : Cabernet franc Le Puy se reparti sur 1,20 hectares et sur nos meilleurs coteaux argilo-calcaire (Turonien supérieur) cette parcelle est situé en pente sud, sud-ouest, surplombant la vallée de la Vienne et de la Loire. Commande disponible en France Métropolitaine uniquement. Catégorie : Domaine Jean-Maurice Raffault Description Description Reparti sur 1,20 hectares et sur nos meilleurs coteaux argilo-calcaire, cette parcelle se situé en pente sud, sud-ouest, surplombant la vallée de la Vienne et de la Loire",
+          "lang": "sv"
+        },
+        {
+          "source": "hachette-vins.com",
+          "title": "Jean-Maurice Raffault Le Puy 2019 - Chinon - Vin rouge | Guide Hachette des Vins",
+          "url": "https://www.hachette-vins.com/guide-vins/les-vins/jean-maurice-raffault-le-puy-2019-2022/202247392/",
+          "excerpt": "Vous devez activer Javascript pour profiter du Guide Hachette des Vins. Le vin Le vigneron Appellation Les plats en accord Jean-Maurice Raffault Favori Le Puy 2019 - rouge Vallée de la Loire et Centre • Chinon rouge tranquille A boire 15 à 20 € Vin remarquable! Jean-maurice Raffault Le Puy 2019 rouge : L'avis du Guide Hachette des Vins 2022 Rodolphe Raffault signe un vin de haute expression, élevé 18 mois en barriques, drapé dans une impressionnante robe sombre et ouvert sur de belles nuances florales et fruitées. Tonique mais sans agressivité, la bouche prend appui sur une structure bien en p",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "Jean-Maurice Raffault Le Puy Chinon | Vivino Svenska",
+          "url": "https://www.vivino.com/sv/jean-maurice-raffault-le-puy-chinon/w/1582707",
+          "excerpt": "Jean-Maurice Raffault Le Puy Chinon är en Rött vin. Tillverkad av Cabernet Franc. Kolla in dess betyg och recensioner från världens största vincommunity.",
           "lang": "sv"
         }
       ]
@@ -877,7 +1777,7 @@
           "source": "vinonueva.com",
           "title": "Maugeri Etna Bianco - Superiore Contrada Volpare 2024 - VinoNueva Fine & Rare Wine Miami",
           "url": "https://vinonueva.com/products/maugeri-etna-bianco-superiore-contrada-volpare-2024",
-          "excerpt": "Maugeri Etna Bianco - Superiore Contrada Volpare 2024 IN STOCK - 9 left in stock $50.00 Email address Notify me when this product is available: Qty Add to cart Mount Etna, the volcano that dominates the north-eastern corner of the island of Sicily, has become famous for red wine since 2000 or so, and with good reason; the red wines produced on the northern and southern faces of the mountain are among the best in Italy. I think that the white wines grown on the east face of Etna, around the town of Milo, are at least as interesting, mineral and deep and very ageable. (The denomination Etna Bian",
+          "excerpt": "Maugeri Etna Bianco - Superiore Contrada Volpare 2024 IN STOCK - 6 left in stock $50.00 Email address Notify me when this product is available: Qty Add to cart Mount Etna, the volcano that dominates the north-eastern corner of the island of Sicily, has become famous for red wine since 2000 or so, and with good reason; the red wines produced on the northern and southern faces of the mountain are among the best in Italy. I think that the white wines grown on the east face of Etna, around the town of Milo, are at least as interesting, mineral and deep and very ageable. (The denomination Etna Bian",
           "lang": "sv"
         },
         {
@@ -964,6 +1864,66 @@
       ]
     },
     {
+      "id": "se-90481",
+      "market": "se",
+      "name": "Moulin-à-Vent Champ de Cour",
+      "producer": "Ch. de Jacques - Louis Jadot",
+      "wine_type": "Rött",
+      "vintage": "2023",
+      "origin_country": "Frankrike",
+      "price": 251.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=90481",
+      "image": "https://imgs.search.brave.com/hQg_jq6a_0EBp9Kz1PikNUOSyYMHQZkeBgHtfe0PF_w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zMy1h/cC1ub3J0aGVhc3Qt/MS5hbWF6b25hd3Mu/Y29tL3ZpbmljYS1w/dWJsaWMvcHVibGlj/L2ltYWdlcy9wb3N0/X3Bob3Rvcy9hY3Rp/dmUvNDE2OS9iYXpl/bTRlcDFieDZiNjMy/eHB5bDFubm05L2wu/anBnPzE1NzQzNTI0/Mjk",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "shop.louisjadot.com",
+          "title": "MOULIN-À-VENT 2023 - Boutique Louis Jadot",
+          "url": "https://shop.louisjadot.com/produit/moulin-a-vent-2023/",
+          "excerpt": "MOULIN-À-VENT 2023 Château des Jacques Village Ce vin produit par le Château des Jacques est un assemblage des huit grands terroirs de Moulin-à-Vent : Rochegrès, Carquelin, Champ de Cour, Thorins, Vérillats, la Roche, la Rochelle et les Caves. Riches, puissants, ces vins traduisent parfaitement les grandes qualités de l’appellation : élégance du fruit, souplesse des tanins, fraîcheur. Sa palette d’accords avec la gastronomie est particulièrement large. Cette bouteille de caractère saura parfaitement accompagner de la charcuterie, une côte de bœuf ou encore un barbecue. Fiche technique 19,20 € ",
+          "lang": "sv"
+        },
+        {
+          "source": "vinovoss.com",
+          "title": "Louis Jadot Château des Jacques Moulin-à-Vent 2023",
+          "url": "https://vinovoss.com/wine/louis-jadot-chateau-des-jacques-moulin-a-vent/",
+          "excerpt": "2015 Amin Leetsi · 1y Intense and full-bodied wine with a long aging potential, presenting a cohesive evenness of fruit, acidity, and tannins. The wine's rich profile and intense profiles are well-supported by a high level of maturity, making it a reliable highlight for cellar time. The wine's dimensional and layered profile, with undertones of ripe fruits, oak, tobacco, and spices, is a testament to its aging potential. A fantastic deal for its price, with a lingering aftertaste and captivating comprehensively complexity. A well-crafted wine with a long shelf life. ($30 USD in Korea) 4.1/5.",
+          "lang": "sv"
+        },
+        {
+          "source": "lechais.com",
+          "title": "Moulin à Vent \"Château des Jacques\" Louis Jadot 2023 | Le Chais",
+          "url": "https://www.lechais.com/moulin-a-vent-chateau-des-jacques-louis-jadot.html",
+          "excerpt": "La Foire aux Vins est lancÃ©e ! Profitez de nos offres | â­ Nos clients nous donnent 4,7/5 (+300 avis) - 20 % Moulin Ã Vent \"ChÃ¢teau des Jacques\" Louis Jadot 2023 Moulin Ã Vent 2023 Rouge France Format bouteille de 75 cl 18 â¬60 14 â¬ 88 Disponible ð· Moulin-Ã -Vent \"ChÃ¢teau des Jacques\" â Louis Jadot Le Moulin-Ã -Vent \"ChÃ¢teau des Jacques\" de Louis Jadot est un grand vin rouge du Beaujolais, issu de lâun des crus les plus rÃ©putÃ©s de la rÃ©gion. ÃlaborÃ© Ã partir de Gamay , il exprime toute la richesse et la profondeur du terroir de Moulin-Ã -Vent , rÃ©putÃ© pour produire des vi",
+          "lang": "sv"
+        },
+        {
+          "source": "decanter.com",
+          "title": "Louis Jadot, Château des Jacques, Beaujolais, Moulin-à-Vent",
+          "url": "https://www.decanter.com/wine-reviews/france/burgundy/louis-jadot-chateau-des-jacques-beaujolais-moulin-a-vent-13502/",
+          "excerpt": "Louis Jadot, Château des Jacques, Beaujolais, Moulin-à-Vent My Wines avg price (ex tax) powered by wine-searcher Panel Tasting 87 Tasted by: Andy Howard MW , James Lawther MW , Matt Wilkin MS (at Decanter magazine's September 2017 issue Cru Beaujolais 2015 panel tasting, 12 Jun 2017) Drinking Window: 2017 - 2020 An elegant style with firm yet integrated tannins and reviving acidity in unison with juicy dark fruit and smoky, fleshy notes - boasts precision and focus. Producer Louis Jadot Brand Château des Jacques Vintage 2015 Wine Type Still Colour Red Country France Region Burgundy Appellation",
+          "lang": "sv"
+        },
+        {
+          "source": "wine-searcher.com",
+          "title": "Best local price for Louis Jadot Chateau des Jacques Moulin-a-Vent - stores near you in USA",
+          "url": "https://www.wine-searcher.com/find/louis+jadot+de+jacques+moulin+a+vent+beaujolais+france",
+          "excerpt": "Ranked second among the wines from this region with respect to number of awards won: This wine has won the Sakura Awards Gold award for the 2022 vintage and the 2020 vintage. This Moulin-a-Vent wine has received good scores from various critics. This is the most searched for wine from the region (by Wine-Searcher users). Interest in this wine has fallen off relative to previous years. ... This wine is a blend made from our eight great terroirs of Moulin-A-Vent : Rochegrès, Carquelin, Champ de Cour, Thorins les Vérillats, La Roche, la Rochelle and Les Caves.",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
       "id": "se-92456",
       "market": "se",
       "name": "'a Rina Etna Rosso",
@@ -990,14 +1950,14 @@
           "source": "vivino.com",
           "title": "Girolamo Russo 'a Rina Etna Rosso | Vivino Svenska",
           "url": "https://www.vivino.com/sv/girolamo-russo-a-rina-etna-rosso/w/1172856",
-          "excerpt": "Sortera och utforska de bästa årgångarna av Girolamo Russo &#x27;a Rina Etna Rosso. ... Endast tillgängligt från externa butiker. Genomsnittligt pris visas ... <strong>Denna årgång är bättre än något annat år för detta vin</strong>.",
+          "excerpt": "Girolamo Russo &#x27;a Rina Etna Rosso är en Rött vin. Tillverkad av Nerello Mascalese. Kolla in dess betyg och recensioner från världens största vincommunity.",
           "lang": "sv"
         },
         {
           "source": "primalwine.com",
           "title": "Girolamo Russo 'A Rina Etna Rosso 2024 | Organic Sicily Red – Primal Wine",
           "url": "https://primalwine.com/products/girolamo-russo-a-rina-etna-rosso-organic-wine",
-          "excerpt": "Choosing a selection results in a full page refresh. Girolamo Russo Girolamo Russo 'A Rina Etna Rosso 2024 Price: $50.00 Tasting notes 'A Rina shows the supple red-fruit character of Nerello Mascalese set against an earthy structure that reflects Etna's volcanic soils. Reviewers note red-fruit tones such as raspberry and pomegranate alongside floral notes and fresh acidity. The wine reflects the mineral intensity of Etna's volcanic terrain. More info Organic Low Sulfites Body : level 2 of 4 Fruit : level 2 of 4 Tannin : level 2 of 4 Acidity : level 4 of 4 Raspberry Pomegranate Cherry Earth Qua",
+          "excerpt": "Choosing a selection results in a full page refresh. Girolamo Russo Sold Out Girolamo Russo 'A Rina Etna Rosso 2024 Price: $50.00 Enter your email address below to be notified when this product is back in stock. Email me when Girolamo Russo 'A Rina Etna Rosso 2024 is back in stock Email address Notify me Tasting notes 'A Rina shows the supple red-fruit character of Nerello Mascalese set against an earthy structure that reflects Etna's volcanic soils. Reviewers note red-fruit tones such as raspberry and pomegranate alongside floral notes and fresh acidity. The wine reflects the mineral intensit",
           "lang": "sv"
         },
         {
@@ -1008,17 +1968,17 @@
           "lang": "sv"
         },
         {
-          "source": "systembolaget.se",
-          "title": "'a Rina Etna Rosso, 2024 | Systembolaget",
-          "url": "https://www.systembolaget.se/produkt/vin/a-rina-9245601/",
-          "excerpt": "Sätt betyg Spara Vin , Rött vin , Kryddigt & Mustigt 'a Rina Etna Rosso, 2024 \"\" Italien , Sicilien , Etna Flaska · 750 ml · 14,5 % vol. Nr 9245601 Nr 9245601 251:- 251 kronor 334:67 kr/l 334 kronor och 67 öre per liter Nyanserad, kryddig smak med inslag av fat, körsbär, rökig mineral, hallon, blodapelsin, lagerblad, vitpeppar och jordgubbar. Serveras vid cirka 16°C till vegetariskt eller till rätter av fläsk- eller lammkött, exempelvis pizza eller tomatbaserad pasta. Fyllighet Strävhet Fruktsyra Laddar innehåll Laddar ... Innehållsförteckning Smakbeskrivning Passar till Standardglas Klimat, m",
-          "lang": "sv"
-        },
-        {
           "source": "vinklubben.se",
           "title": "'a Rina Etna Rosso - Vinklubben",
           "url": "https://www.vinklubben.se/vin/rott/a-rina-etna-rosso",
           "excerpt": "Röda viner · Volym · 750 ml · Volym · Alkoholhalt · 14.0 % Alkoholhalt · Artikelnummer · 92456 · Artikelnummer · Producent · Girolamo Russo · Producent · Importör · Budbreak AB · Importör · Till Systembolaget · Hur fungerar det?",
+          "lang": "sv"
+        },
+        {
+          "source": "pasanellaandson.com",
+          "title": "Girolamo Russo 'a Rina Etna Rosso 2024 – Pasanella & Son",
+          "url": "https://pasanellaandson.com/products/girolamo-russo-a-rina-etna-rosso-2020",
+          "excerpt": "$43.99 $0.00 Girolamo Russo 'a Rina Etna Rosso 2024 From the volcanic slopes of Mt. Etna, this red blend is more reminiscent of elegant Nebbiolo or Pinot Noir than of hot lava. Perhaps not surprising coming from a thoughtful former pianist. Juicy yet complex. Default Title - Sold Out Quantity Sold Out • $43.99",
           "lang": "sv"
         }
       ]
@@ -1064,7 +2024,7 @@
           "source": "artlaieta.wine",
           "title": "Awards Archives - Art Laietà",
           "url": "https://artlaieta.wine/category/awards/",
-          "excerpt": "Specifically, Alta Alella Laietà has been named “Premium Catalan Sparkling Wine of the Year”. “There’s a <strong>zesty, citrus-bitter palate cut with sea-salt savour, never heavy yet energetic and harmonious</strong>.",
+          "excerpt": "Other highly rated wines include: Mirgin Reserva 2021 <strong>(93 points</strong>), LAIETÀ Gran Reserva 2020 (92 points), Mirgin Rosé Reserva 2021 (91 points), LAIETÀ Rosé Gran Reserva 2020 (91 points), Cau d’en Genís 2023 White (92 points), Cau d’en ...",
           "lang": "sv"
         },
         {
@@ -1108,16 +2068,16 @@
       "sources": [
         {
           "source": "falstaff.com",
-          "title": "2024 Riesling Kamptal DAC Terrassen - Weingut Rabl - Falstaff",
-          "url": "https://www.falstaff.com/at/weine/weingut-rudolf-rabl-2024-riesling-kamptal-dac-terrassen-1",
-          "excerpt": "Weingut Rudolf Rabl · Kamptal, Niederösterreich, Österreich · Süß- und Dessertwein · Gelber Muskateller · 8% 94 · 2021 Riesling Kamptal DAC Reserve Ried Schenkenbichl Alte Reben · Weingut Rudolf Rabl · Kamptal, Niederösterreich, Österreich · Weißwein · Riesling ·",
+          "title": "2024 Riesling Kamptal DAC Langenlois - Weingut Rabl - Falstaff",
+          "url": "https://www.falstaff.com/at/weine/weingut-rudolf-rabl-2024-riesling-kamptal-dac-langenlois-2",
+          "excerpt": "Der Weißwein Riesling Kamptal DAC Langenlois, Jahrgang 2024 des Weinguts Weingut Rabl wurde 2025 von Peter Moser mit <strong>90 Falstaff-Punkten bewertet</strong>.",
           "lang": "sv"
         },
         {
           "source": "falstaff.com",
-          "title": "2024 Riesling Kamptal DAC Langenlois - Weingut Rabl - Falstaff",
-          "url": "https://www.falstaff.com/at/weine/weingut-rudolf-rabl-2024-riesling-kamptal-dac-langenlois-2",
-          "excerpt": "Weingut Rudolf Rabl · Kamptal, Niederösterreich, Österreich · Weißwein · Grüner Veltliner · 13,5% 94 · 2022 Riesling Kamptal DAC Reserve Ried Schenkenbichl Alte Reben · Weingut Rudolf Rabl · Kamptal, Niederösterreich, Österreich · Weißwein · Riesling ·",
+          "title": "2024 Riesling Kamptal DAC Terrassen - Weingut Rabl - Falstaff",
+          "url": "https://www.falstaff.com/at/weine/weingut-rudolf-rabl-2024-riesling-kamptal-dac-terrassen-1",
+          "excerpt": "Der Weißwein Riesling Kamptal DAC Terrassen, Jahrgang 2024 des Weinguts Weingut Rabl wurde 2025 von Peter Moser mit <strong>89 Falstaff-Punkten bewertet</strong>.",
           "lang": "sv"
         },
         {
@@ -1131,14 +2091,14 @@
           "source": "falstaff.com",
           "title": "2024 Weißburgunder Kamptal DAC Langenlois - Weingut Rudolf Rabl - Falstaff",
           "url": "https://www.falstaff.com/de/weine/weingut-rudolf-rabl-2024-weissburgunder-kamptal-dac-langenlois",
-          "excerpt": "<strong>91 Falstaff-Punkte im Burgunder Niederösterreich Trophy 2025 (weiß).</strong> Aus der Region Kamptal, Österreich. Helles Goldgelb, silberfarbene Reflexe.",
+          "excerpt": "Der Weißwein Weißburgunder Kamptal DAC Langenlois, Jahrgang 2024 des Weinguts Weingut Rudolf Rabl wurde 2025 von Peter Moser mit <strong>91 Falstaff-Punkten bewertet</strong>.",
           "lang": "sv"
         },
         {
-          "source": "cellartracker.com",
-          "title": "CellarTracker",
-          "url": "https://www.cellartracker.com/wine.asp?iWine=679634",
-          "excerpt": "This website is using a security service to protect itself from online attacks. The service requires full cookie support in order to view the website · Please enable cookies on your browser and try again",
+          "source": "falstaff.com",
+          "title": "Weingut Rabl in Langenlois - Falstaff",
+          "url": "https://www.falstaff.com/de/winzer/weingut-rudolf-rabl",
+          "excerpt": "2024 Riesling Kamptal DAC Langenlois Ried Schenkenbichl Alte Reben · Weingut Rabl · Kamptal, Niederösterreich, Österreich · Weißwein · Riesling · 13% 94 · 2023 Grüner Veltliner Kamptal DAC Reserve Ried Dechant Alte Reben · Weingut Rudolf Rabl · Kamptal, Niederösterreich, Österreich ·",
           "lang": "sv"
         }
       ]
@@ -1181,13 +2141,6 @@
           "lang": "sv"
         },
         {
-          "source": "wineandbee.com",
-          "title": "Quintessence 2021 – Château Pesquié | Ventoux Rouge – Rhône Sud",
-          "url": "https://www.wineandbee.com/vin-rouge/273-chateau-pesquie-quintessence-ventoux-rouge.html",
-          "excerpt": "En savoir plus sur le Château Pesquié. ... Au palais, <strong>le vin se montre à la fois puissant et complexe avec des arômes de torréfaction en final</strong> ... Roman K. le · 24 Mars 2024 (Château Pesquié Quintessence rouge 2021 - Ventoux bio) :",
-          "lang": "sv"
-        },
-        {
           "source": "avis-vin.lefigaro.fr",
           "title": "Château Pesquié Quintessence, Vin Rouge",
           "url": "https://avis-vin.lefigaro.fr/vins-champagne/vallee-du-rhone/sud-meridional/ventoux/d11692-chateau-pesquie/v11699-chateau-pesquie-quintessence/vin-rouge",
@@ -1195,10 +2148,17 @@
           "lang": "sv"
         },
         {
-          "source": "decantalo.ch",
-          "title": "Château Pesquié Quintessence Rouge 2023 | Decántalo",
-          "url": "https://www.decantalo.ch/fr/chateau-pesquie-quintessence-rouge.html",
-          "excerpt": "En résulte Château Pesquié Quintessence Rouge, <strong>un vin rouge complexe, soyeux et puissant</strong> qui s&#x27;est imposé comme l&#x27;un des vins de référence de l&#x27;AOC Ventoux.",
+          "source": "1jour1vin.com",
+          "title": "Château Pesquié Ventoux Quintessence Red 2022 | 1jour1vin",
+          "url": "https://www.1jour1vin.com/en/guide-achat-vin/rhone/vins-ventoux/pesquie/28168-vin-rouge-quintessence-chateau-pesquie-2022",
+          "excerpt": "21624 customer reviews Sales Wine Guide Rhône Wines Ventoux Pesquié Château Pesquié - Ventoux Quintessence rouge 2022 Château Pesquié - Ventoux Quintessence rouge 2022 Ventoux | Red wine | Organic 5/5 (1 customers) 94/100 Jeb Dunnuck 93/100 Wine Enthusiast 92-94/100 Robert Parker Syrah black fruits roasted a safe bet \"A true gem of the estate\" \"A blend of 80% Syrah and 20% Grenache, fermented in concrete and then aged in equal parts in concrete, demi-muids, and barrels, the 2022 Ventoux Quintessence seems to be one of the best examples of this cuvée I’ve tasted. On the nose, impressive aromas ",
+          "lang": "sv"
+        },
+        {
+          "source": "wineandbee.com",
+          "title": "Quintessence 2021 – Château Pesquié | Ventoux Rouge – Rhône Sud",
+          "url": "https://www.wineandbee.com/vin-rouge/273-chateau-pesquie-quintessence-ventoux-rouge.html",
+          "excerpt": "En savoir plus sur le Château Pesquié. ... Au palais, <strong>le vin se montre à la fois puissant et complexe avec des arômes de torréfaction en final</strong> ... Roman K. le · 24 Mars 2024 (Château Pesquié Quintessence rouge 2021 - Ventoux bio) :",
           "lang": "sv"
         }
       ]
@@ -1234,10 +2194,17 @@
           "lang": "sv"
         },
         {
+          "source": "casapablo.es",
+          "title": "ramón do casar nobre 2024",
+          "url": "https://casapablo.es/tienda/en/vinos/ramon-do-casar-nobre-2024",
+          "excerpt": "Discover <strong>Ramón do Casar Nobre 2024</strong>, an elegant red wine from the Ribeiro DO, with fruity aromas and a spicy touch, perfect to accompany meats and tapas.",
+          "lang": "sv"
+        },
+        {
           "source": "wine-searcher.com",
           "title": "Best local price for Ramon do Casar 'Nobre' - stores near you in Florida, USA",
           "url": "https://www.wine-searcher.com/find/ramon+cazar+noble+ribeiro+galicia+spain",
-          "excerpt": "Critic tasting note: (2019 vintage) &quot;<strong>Youthful straw colour with a green hue</strong>. The nose displays some new oak and toasted notes with passion fruit, lemongrass and lime. Well-built palate, good extract and substance with a crisp acidity, nice layers ...",
+          "excerpt": "Ramon do Casar &#x27;Nobre&#x27;, Ribeiro, Spain · Excellent · 2017 Vintage Saved: 9-Jul-2022 · Dinner with Ed in Granada · Vintage Critics Score Avg. Price (ex-tax) All 92 / 100 – 2024 90 / 100 – 2023 94 / 100 – 2022 90 / 100 – 2021 97 / 100 – 2020 94 / 100 – 2019 92 / 100 – 2018 91 / 100 – 2017 93 / 100 – ·",
           "lang": "sv"
         },
         {
@@ -1248,17 +2215,190 @@
           "lang": "sv"
         },
         {
-          "source": "casapablo.es",
-          "title": "ramón do casar nobre 2024",
-          "url": "https://casapablo.es/tienda/en/vinos/ramon-do-casar-nobre-2024",
-          "excerpt": "Discover <strong>Ramón do Casar Nobre 2024</strong>, an elegant red wine from the Ribeiro DO, with fruity aromas and a spicy touch, perfect to accompany meats and tapas.",
-          "lang": "sv"
-        },
-        {
           "source": "vinosyaguardientes.com",
           "title": "Ramón do Casar Nobre 22.95 € - vinosyaguardientes.com",
           "url": "https://vinosyaguardientes.com/wine/ramon-do-casar-nobre/",
           "excerpt": "Ramón do Casar Nobre <strong>es un vino con buena estructura y con un perfecto equilibrio entre untuosidad y frescura</strong>.",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-90133",
+      "market": "se",
+      "name": "Albariño",
+      "producer": "Bodegas Albamar",
+      "wine_type": "Vitt",
+      "vintage": "2024",
+      "origin_country": "Spanien",
+      "price": 220.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=90133",
+      "image": "https://imgs.search.brave.com/7uJ1ucuPVSlDW7S0BnTsc9VQPMDASvNeYa0nAeeX884/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kZW52/ZXJ3aW5lbWVyY2hh/bnQuY29tL2Nkbi9z/aG9wL2ZpbGVzL1BD/MDkwNDA4X2U0Y2Vl/OGRhLWQxMjctNDVl/MS05MWE2LTQ4ZDgy/OGEzYWFiNi5qcGc_/dj0xNzY1MzM1Njgw/JndpZHRoPTY0MA",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "wine.com",
+          "title": "Bodegas Albamar Albarino 2024 | Wine.com",
+          "url": "https://www.wine.com/product/bodegas-albamar-albarino-2024/3456085",
+          "excerpt": "Albarino · Region · Rias Baixas, Spain · Producer · Bodegas Albamar · Vintage · 2024 · Size · 750ML · ABV · 12.5% Features · Green · Edit · 0.0 Not For Me NaN/NaN/N · 93 James Suckling · Angular, saline and vertical, this reflects the house and regional styles.",
+          "lang": "sv"
+        },
+        {
+          "source": "sf.flatiron-wines.com",
+          "title": "Bodegas Albamar Rias Baixas Albarino 2024 – Flatiron SF",
+          "url": "https://sf.flatiron-wines.com/products/bodegas-albamar-rias-baixas-albarino-2024",
+          "excerpt": "Loading... Sold out Bodegas Albamar Rias Baixas Albarino 2024 No reviews $31 99 Unit price Bodegas Albamar Rias Baixas Albarino 2024 is backordered and will ship as soon as it is back in stock. Qty Decrease quantity Increase quantity Sold out Use code 10OFF to get 10% off 12+ bottles Use code 10OFF to get 10% off 12+ bottles The kind of Albarino that reminds you why the grape earned its reputation. Bodegas Albamar sits in O Salnes, the heart of Rias Baixas, where winemaker Xurxo Alba farms granitic, sandy soils right up against the Atlantic. His family grew Albarino here for generations before",
+          "lang": "sv"
+        },
+        {
+          "source": "vivino.com",
+          "title": "Albamar Albariño | Vivino English",
+          "url": "https://www.vivino.com/en/albamar-albarino/w/1637220",
+          "excerpt": "Incredibly fruit forward for an “old world” wine, Albariño sings the song of relaxed and fulfilling Spanish coastal life.",
+          "lang": "sv"
+        },
+        {
+          "source": "vinetrail.co.uk",
+          "title": "Vine Trail | Bodegas Albamar - Rías Baixas 2024",
+          "url": "https://www.vinetrail.co.uk/growers/bodegas-albamar/bodegas-albamar-rias-baixas",
+          "excerpt": "This is made by Xurxo Alba, one of the most talented young winemakers in the region, well respected by fellow leading winemakers, who positively fizzes with energy and ideas. The vines come from many different plots, planted in sandy, granitic soils close to the Atlantic (in places 25m away) and his main production is of this delicious wine, one of the very few albariño in the region to be made via natural, indigenous yeasts.",
+          "lang": "sv"
+        },
+        {
+          "source": "pjwine.com",
+          "title": "Bodegas Albamar Rias Baixas Albarino 2024 – PJ Wine, Inc.",
+          "url": "https://pjwine.com/products/bodegas-albamar-rias-baixas-albarino-2020",
+          "excerpt": "Skip to product information Loading... 93 14% off Bodegas Albamar Rias Baixas Albarino 2024 Regular price $28.99 Sale price $24.97 Unit price Shipping calculated at checkout. Bodegas Albamar Rias Baixas Albarino 2024 is backordered and will ship as soon as it is back in stock. Qty Decrease quantity Increase quantity Add to cart Pickup available at PJ Wine Usually ready in 24 hours View store information Natural / Sustainable 93 points Wine Advocate The 2024 Albamar is the entry-level white here, produced with grapes from different plots. It's still very young, but it has no reduction. It is a ",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-3501",
+      "market": "se",
+      "name": "Indian Wells Cabernet Sauvignon",
+      "producer": "Ch. Ste Michelle",
+      "wine_type": "Rött",
+      "vintage": "2022",
+      "origin_country": "USA - Övriga stater",
+      "price": 199.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=3501",
+      "image": "https://imgs.search.brave.com/ESi1pxO3zsSSrNxNbMutSXnrHhS7GuGjJyuLoOSN_EI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93aW5l/b25zYWxlLmNvbS9j/ZG4vc2hvcC9wcm9k/dWN0cy9DaGF0ZWF1/U3RlTWljaGVsbGVD/YWJlcm5ldFNhdXZp/Z25vbjIwMTdfNjAw/eC5qcGc_dj0xNjIy/MjM0ODU2",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "vinerepublic.com",
+          "title": "Château Ste. Michelle Indian Wells Cabernet Sauvignon 2022 750ml - Vine Republic",
+          "url": "https://www.vinerepublic.com/products/14295728/chateau-ste-michelle-indian-wells-cabernet-sauvignon-2022",
+          "excerpt": "Château Ste. Michelle Indian Wells Cabernet Sauvignon 2022 we 90 SKU: 06952 750ml 1 2 3 4 5 6 7 8 9 10 11 Add to Cart $14.98 $14.98 Available for: Pickup Delivery Shipping Share Category Red Wine Varietal Cabernet Sauvignon Brand Château Ste. Michelle Since 1967, the dedicated winemakers at Chateau Ste. Michelle have crafted some of the most spectacular wines in the world - notably through the meticulous approach to Indian Wells. Specially selected and carefully aged, this premier Cabernet Sauvignon showcases a lush texture and concentrated flavors of blackberry and black cherry. Blend: 85% Ca",
+          "lang": "sv"
+        },
+        {
+          "source": "winemadeeasy.com",
+          "title": "Chateau Ste. Michelle Indian Wells Cabernet Sauvignon 2022 / 750ml",
+          "url": "https://www.winemadeeasy.com/wine/red-wine/cabernet-sauvignon/chateau-ste-michelle-indian-wells-cabernet-sauvignon-750-ml-62150.html",
+          "excerpt": "Chateau Ste. Michelle&#x27;s 2022 Indian Wells Cabernet Sauvignon <strong>showcases the best of Washington&#x27;s Columbia Valley, blending rich Cabernet with a touch of Syrah for added depth and structure</strong>.",
+          "lang": "sv"
+        },
+        {
+          "source": "ste-michelle.com",
+          "title": "2022 Indian Wells Cabernet Sauvignon",
+          "url": "https://www.ste-michelle.com/2022-indian-wells-cabernet-sauvignon/5637773834.p",
+          "excerpt": "View Full Product Page Columbia Valley 2022 Indian Wells Cabernet Sauvignon The Indian Wells Cabernet is our warm climate ripe, jammy ‘New World’ style of Cabernet Sauvignon. This premier Cabernet Sauvignon showcases a lush texture and concentrated flavors of blackberry and black cherry. Product Price Club QTY 750 ml $20.00 $20.00 DOWNLOAD FACTSHEET PDF Tasting Notes The Indian Wells Cabernet is our warm climate ripe, jammy ‘New World’ style of Cabernet Sauvignon. This premier Cabernet Sauvignon showcases a lush texture and concentrated flavors of blackberry and black cherry. WINE ANALYSIS Ble",
+          "lang": "sv"
+        },
+        {
+          "source": "ste-michelle.com",
+          "title": "Indian Wells Cabernet Sauvignon Columbia Valley - Chateau Ste. Michelle",
+          "url": "https://www.ste-michelle.com/indian-wells-cabernet-sauvignon-columbia-valley",
+          "excerpt": "← Back To Wines COLUMBIA VALLEY Indian Wells Cabernet Sauvignon Tasting Notes The Indian Wells Cabernet is our warm climate ripe, jammy ‘New World’ style of Cabernet Sauvignon. This premier Cabernet Sauvignon showcases a lush texture and concentrated flavors of blackberry and black cherry. Wine Analysis Blend: 85% Cabernet Sauvignon, 12% Syrah, 3% Merlot Winemaking Notes: 18 months in 75% neutral oak, 20% American oak and 5% French oak TA: 0.56g/100mL PH: 3.83 Alcohol: 14.5% Where to Buy Find convenient online stores and local delivery services to purchase Chateau Ste. Michelle Wine.",
+          "lang": "sv"
+        },
+        {
+          "source": "woodswholesalewine.com",
+          "title": "2022 Chateau Ste. Michelle Indian Wells Cabernet Sauvignon, Columbia V – Woods Wholesale Wine",
+          "url": "https://www.woodswholesalewine.com/products/2022-chateau-ste-michelle-indian-wells-cabernet-sauvignon-columbia-valley-usa-750ml",
+          "excerpt": "Skip to Content My shopping cart Your cart is currently empty. Continue Shopping HEAT WARNING To help protect your wine during periods of extreme heat, we may place orders on a weather hold when temperatures are not suitable for safe transit. Customers may choose to: • Hold their order until weather conditions improve. • Request complimentary cool packs. • Upgrade to FedEx 2-Day Air or Overnight service for an additional charge. • Authorize shipment via standard ground service despite weather conditions. Please note that cool packs provide limited protection and cannot prevent heat damage duri",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-90177",
+      "market": "se",
+      "name": "Round Mountain Sauvignon Blanc",
+      "producer": "Stark-Condé Wines",
+      "wine_type": "Vitt",
+      "vintage": "2024",
+      "origin_country": "Sydafrika",
+      "price": 191.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=90177",
+      "image": "https://imgs.search.brave.com/XqqPk0u1jtWNWloftpqgVn7Oeglvf7IbDSTAXJZCfjw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jYXBy/ZW8uY29tL21lZGlh/LzA4LzU2LzVmLzE3/Mjg5ODkxMDgvVXZh/JTIwTWlyYSUyMFRo/ZSUyME1pcmElMjBD/YWJlcm5ldCUyMFNh/dXZpZ25vbiUyMDIw/MThfMS5wbmc_dHM9/MTc4NDU0MzQwMw",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "vivino.com",
+          "title": "Stark-Condé Round Mountain Sauvignon Blanc | Vivino English",
+          "url": "https://www.vivino.com/en/za-stark-conde-round-mountain-sauvignon-blanc-franschhoek/w/5175985",
+          "excerpt": "Stark-Condé Round Mountain Sauvignon Blanc is a White wine. Check its rating and reviews from the world’s largest wine community.",
+          "lang": "sv"
+        },
+        {
+          "source": "vinklubben.se",
+          "title": "Stark-Condé Round Mountain Sauvignon Blanc - Vinklubben",
+          "url": "https://www.vinklubben.se/vin/vitt/stark-conde-round-mountain-sauvignon-blanc",
+          "excerpt": "Välkommen till den största vinklubben på nätet!",
+          "lang": "sv"
+        },
+        {
+          "source": "stark-conde.co.za",
+          "title": "Our Wines - Cabernet Sauvignon - Stark-Condé Wines",
+          "url": "https://stark-conde.co.za/our-wines/",
+          "excerpt": "Our Signature Varietal Cabernet Sauvignon Stellenbosch Three Pines Oude Nektar Classic Estate Wines Stellenbosch Range Cabernet Sauvignon Syrah Petite Sirah High Altitude Single-Vineyard Three Pines Cabernet Sauvignon Syrah Limited Release Cabernet Sauvignon Oude Nektar More Information Classic White Wines Stellenbosch Range Chenin Blanc Sauvignon Blanc Field Blend Our Wines Our wines are made using organically-grown estate grapes. The winemaking is kept as simple and natural as possible and cellar practices are traditional. The pressed juice is fermented with natural yeasts, and the wines in ",
+          "lang": "sv"
+        },
+        {
+          "source": "stark-conde.co.za",
+          "title": "Stark-Condé Round Mountain Sauvignon Blanc Jonkershoek Valley 2024",
+          "url": "https://stark-conde.co.za/wp-content/uploads/2025/07/sc_fact_rm_sauvignonblanc_24.pdf",
+          "excerpt": "%PDF-1.7 %���� 1 0 obj < > endobj 2 0 obj < >stream application/pdf sc_fact_rm_sauvignonblanc_24 2025-06-25T12:19:48+02:00 2025-06-25T12:19:48+02:00 2025-06-25T12:19:48+02:00 Adobe Illustrator 29.5 (Macintosh) 188 256 JPEG /9j/4AAQSkZJRgABAgEAAAAAAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAAAAAAAEA AQAAAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAAC8AwER AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAA",
+          "lang": "sv"
+        },
+        {
+          "source": "stark-conde-shop.co.za",
+          "title": "Round Mountain Sauvignon Blanc - Stark-Condé Wines",
+          "url": "https://stark-conde-shop.co.za/products/round-mountain-sauvignon-blanc",
+          "excerpt": "Home / Products / Round Mountain Sauvignon Blanc Round Mountain Sauvignon Blanc R 285.00 Translation missing: en.products.notify_form.description: Notify me when this product is available: Round Mountain Sauvignon Blanc 2025 2024 2023 2022 2021 2020 2019 2018 2017 Round Mountain Sauvignon Blanc 2025 2024 2023 2022 2021 2020 2019 2018 2017 Qty Add to Cart This single-vineyard Sauvignon Blanc is made from a high elevation vineyard block which has consistently produced fruit with concentration and excellent natural acidity. The wine is made using traditional winemaking practices and is fermented ",
           "lang": "sv"
         }
       ]
@@ -1347,17 +2487,17 @@
       "pairing": {},
       "sources": [
         {
-          "source": "vinous.com",
-          "title": "Te Mata Estate Syrah 2024",
-          "url": "https://vinous.com/wines/te-mata-estate-syrah/2024",
-          "excerpt": "Prefer the old site? Launch → 2024 Syrah Wine Details Producer Te Mata Estate Place of Origin New Zealand Hawke's Bay Color Red Grape/Blend Vintages Print Wines Make Shelftalkers Reviews & Tasting Notes Loading... Loading... Importer Details Wilson Daniels Imports to: United States Address: 1300 Main Street, Suite 300, Napa, CA 94559 Phone: 707.963.9661 Email: sales@wilsondaniels.com Website: https://wilsondaniels.com Content Advanced Search Articles Videos Maps Engage Events Your Say Consumer Resources Subscriptions & Gifts Sample Submissions Contact Us Vinous About Core Values Press Referenc",
-          "lang": "sv"
-        },
-        {
           "source": "cellartracker.com",
           "title": "2024 Te Mata Estate Syrah, New Zealand, North Island, Hawke's Bay - CellarTracker",
           "url": "https://www.cellartracker.com/wine.asp?iWine=5461821",
           "excerpt": "Community wine reviews and ratings on 2024 Te Mata Estate Syrah, plus professional notes, label images, wine details, and recommendations on when to drink.",
+          "lang": "sv"
+        },
+        {
+          "source": "vinous.com",
+          "title": "Te Mata Estate Syrah 2024",
+          "url": "https://vinous.com/wines/te-mata-estate-syrah/2024",
+          "excerpt": "Prefer the old site? Launch → 2024 Syrah Wine Details Producer Te Mata Estate Place of Origin New Zealand Hawke's Bay Color Red Grape/Blend Vintages Print Wines Make Shelftalkers Reviews & Tasting Notes Loading... Loading... Importer Details Wilson Daniels Imports to: United States Address: 1300 Main Street, Suite 300, Napa, CA 94559 Phone: 707.963.9661 Email: sales@wilsondaniels.com Website: https://wilsondaniels.com Content Advanced Search Articles Videos Maps Engage Events Your Say Consumer Resources Subscriptions & Gifts Sample Submissions Contact Us Vinous About Core Values Press Referenc",
           "lang": "sv"
         },
         {
@@ -1417,7 +2557,7 @@
           "source": "fozgourmet.com",
           "title": "Vinho Branco Pormenor 2024, 75cl • Douro | Foz Gourmet",
           "url": "https://fozgourmet.com/produto/vinho-branco-pormenor-2024-75cl-douro/",
-          "excerpt": "Vinho Branco Pormenor 2024 , 75cl • Douro Códega do Larinho , Malvasia Fina , Rabigato ✓ Compre Pormenor na Foz Gourmet. Apresenta uma cor cristalina e palha, revelando no nariz, aromas frescos, fruta citrina e de caroço, muito leve. Na prova, apresenta bom volume de boca, salgado, acidez marcante, curiosa e cativante. Um vinho com muita personalidade, equilibrado e elegante, com notas de fruta cítrica e final de boca médio e redondo. Acompanha bem, pratos de peixe grelhado e mariscos, carnes brancas e massas. James Suckling Robert Parker 12,95 € IVA Em stock Quantidade de Vinho Branco Pormeno",
+          "excerpt": "Vinho Branco Pormenor 2024 , 75cl • Douro Códega do Larinho , Malvasia Fina , Rabigato ✓ Compre Pormenor na Garrafeira Foz Gourmet. Apresenta uma cor cristalina e palha, revelando no nariz, aromas frescos, fruta citrina e de caroço, muito leve. Na prova, apresenta bom volume de boca, salgado, acidez marcante, curiosa e cativante. Um vinho com muita personalidade, equilibrado e elegante, com notas de fruta cítrica e final de boca médio e redondo. Acompanha bem, pratos de peixe grelhado e mariscos, carnes brancas e massas. James Suckling Robert Parker 12,95 € IVA Em stock Quantidade de Vinho Bra",
           "lang": "sv"
         },
         {
@@ -1428,17 +2568,17 @@
           "lang": "sv"
         },
         {
-          "source": "empirewine.com",
-          "title": "Pormenor Douro Branco 2024 :: Other White Wines",
-          "url": "https://www.empirewine.com/wine/pormenor-douro-branco-2024-h77135/",
-          "excerpt": "<strong>The wine was then aged on the fine lees in order to achieve a good balance between fruit and minerality</strong>. As per all of Pormenor&#x27;s wines, minimum human intervention during the cellar work is achieved by avoiding any kind of additives.",
-          "lang": "sv"
-        },
-        {
           "source": "wine-searcher.com",
           "title": "Best local price for Pormenor Branco - stores near you in USA",
           "url": "https://www.wine-searcher.com/find/pormenor+blanco+douro+portugal",
           "excerpt": "Lightly, chewily tannic but ... deeper and somehow darker than the 2024. <strong>A sophisticated and mouth-watering wine that expresses the Douro more than the grape varieties</strong>....",
+          "lang": "sv"
+        },
+        {
+          "source": "empirewine.com",
+          "title": "Pormenor Douro Branco 2024 :: Other White Wines",
+          "url": "https://www.empirewine.com/wine/pormenor-douro-branco-2024-h77135/",
+          "excerpt": "<strong>The wine was then aged on the fine lees in order to achieve a good balance between fruit and minerality</strong>. As per all of Pormenor&#x27;s wines, minimum human intervention during the cellar work is achieved by avoiding any kind of additives.",
           "lang": "sv"
         }
       ]
@@ -1474,17 +2614,17 @@
           "lang": "sv"
         },
         {
-          "source": "sf.flatiron-wines.com",
-          "title": "G.D. Vajra Langhe Nebbiolo J.C. Clare 2025 – Flatiron SF",
-          "url": "https://sf.flatiron-wines.com/products/g-d-vajra-langhe-nebbiolo-j-c-clare-2025",
-          "excerpt": "Loading... G.D. Vajra Langhe Nebbiolo J.C. Clare 2025 No reviews $27 99 Unit price G.D. Vajra Langhe Nebbiolo J.C. Clare 2025 is backordered and will ship as soon as it is back in stock. Qty Decrease quantity Increase quantity Add to cart Use code 10OFF to get 10% off 12+ bottles Use code 10OFF to get 10% off 12+ bottles Thomas Jefferson tasted Nebbiolo in Piedmont in 1787 and described something that sounds nothing like Barolo: light, fresh, faintly sweet, a little fizzy. Two centuries later the Sacramento grocer Darrell Corti passed that quote to his old friend Aldo Vaira, and the Clare J.C.",
-          "lang": "sv"
-        },
-        {
           "source": "buywinesonline.com",
           "title": "G.D. Vajra Nebbiolo Clare J.C. 2025 (750 ml)",
           "url": "https://buywinesonline.com/products/g-d-vajra-nebbiolo-clare-j-c-2025-750-ml",
           "excerpt": "Roll over image to zoom in Click on image to zoom / G.D. Vajra Nebbiolo Clare J.C. 2025 (750 ml) Save 0 G.D. Vajra Price: Sale price $19.95 / Stock: In stock Quantity: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 Add to cart Quantity 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 Add to cart G.D. Vajra Nebbiolo Clare J.C. 2025 (750 ml) Tasting Note",
+          "lang": "sv"
+        },
+        {
+          "source": "sf.flatiron-wines.com",
+          "title": "G.D. Vajra Langhe Nebbiolo J.C. Clare 2025 – Flatiron SF",
+          "url": "https://sf.flatiron-wines.com/products/g-d-vajra-langhe-nebbiolo-j-c-clare-2025",
+          "excerpt": "Loading... G.D. Vajra Langhe Nebbiolo J.C. Clare 2025 No reviews $27 99 Unit price G.D. Vajra Langhe Nebbiolo J.C. Clare 2025 is backordered and will ship as soon as it is back in stock. Qty Decrease quantity Increase quantity Add to cart Use code 10OFF to get 10% off 12+ bottles Use code 10OFF to get 10% off 12+ bottles Thomas Jefferson tasted Nebbiolo in Piedmont in 1787 and described something that sounds nothing like Barolo: light, fresh, faintly sweet, a little fizzy. Two centuries later the Sacramento grocer Darrell Corti passed that quote to his old friend Aldo Vaira, and the Clare J.C.",
           "lang": "sv"
         },
         {
@@ -1495,10 +2635,10 @@
           "lang": "sv"
         },
         {
-          "source": "empirewine.com",
-          "title": "G.D. Vajra Nebbiolo Langhe 2025 :: Italian Red",
-          "url": "https://www.empirewine.com/wine/gd-vajra-nebbiolo-langhe-2025-h73523/",
-          "excerpt": "Blend: 100% Nebbiolo ... &quot;This is <strong>fresh and bursting with strawberry, cherry and rose hip flavors</strong>. Finishes crisp and juicy, with a light line of tannins. Shows fine balance and length.",
+          "source": "winesolutions.com",
+          "title": "G.D. Vajra Langhe Nebbiolo Claré J.C. 2025",
+          "url": "https://www.winesolutions.com/products/g-d-vajra-langhe-nebbiolo-clare-j-c-2025",
+          "excerpt": "G.D. Vajra Langhe Nebbiolo Claré J.C. 2025 LANGHE G.D. Vajra Langhe Nebbiolo Claré J.C. 2025 LANGHE Price Regular price $22 99 $22.99 / $20.99 on 6+ bottles (code: 6saves2) 100% Nebbiolo fruit from their young Nebbiolo vineyards. Winemaking: Fruit was picked between September 17th and 29th. 1/5th whole cluster fermented. After a short maceration, the wine was racked to finish fermentation off the skins. The wine underwent a gentler extraction to preserve some natural freshness. Very short aging in a closed stainless steel vat prior to bottling on February 16th, 2023. 90 pts Dunnuck (Fricke) \"T",
           "lang": "sv"
         }
       ]
@@ -1541,13 +2681,6 @@
           "lang": "sv"
         },
         {
-          "source": "vivino.com",
-          "title": "Grimaldi Luigino Dolcetto d'Alba | Vivino Svenska",
-          "url": "https://www.vivino.com/sv/grimaldi-luigino-dolcetto-d-alba/w/1145641",
-          "excerpt": "Grimaldi Luigino Dolcetto d&#x27;Alba är en Rött vin. Kolla in dess betyg och recensioner från världens största vincommunity.",
-          "lang": "sv"
-        },
-        {
           "source": "munskankarna.se",
           "title": "Dolcetto d'Alba 2022 - Vinlocus",
           "url": "https://www.munskankarna.se/sv/vinlocus/tillfalligt-sortiment-4-oktober-2024/dolcetto-dalba-2022",
@@ -1555,10 +2688,17 @@
           "lang": "sv"
         },
         {
-          "source": "wine-searcher.com",
-          "title": "Giacomo Grimaldi Dolcetto d'Alba, Piedmont, Italy",
-          "url": "https://www.wine-searcher.com/find/giacomo+grimaldi+dolcetto+d+alba+piemonte+italy",
-          "excerpt": "The genius shortcut to your favorite wines and spirits. Find and compare prices across merchants, keep up with wine news, learn wine regions &amp; grape varieties.",
+          "source": "vivino.com",
+          "title": "Grimaldi Luigino Dolcetto d'Alba | Vivino Svenska",
+          "url": "https://www.vivino.com/sv/grimaldi-luigino-dolcetto-d-alba/w/1145641",
+          "excerpt": "Grimaldi Luigino Dolcetto d&#x27;Alba är en Rött vin. Kolla in dess betyg och recensioner från världens största vincommunity.",
+          "lang": "sv"
+        },
+        {
+          "source": "vinjournalen.se",
+          "title": "Grimaldi Dolcetto d'Alba Rött Vin Systembolaget 205401 | Vinjournalen.se",
+          "url": "https://www.vinjournalen.se/produkter/grimaldi-dolcetto-dalba-205401/",
+          "excerpt": "Grimaldi Dolcetto d&#x27;Alba är ett fantastiskt vin som kommer från den vackra regionen Alba i Italien. <strong>Med sin intensiva rubinröda färg och doft av mogna körsbär och örter, lockar det direkt till sig uppmärksamhet</strong>.",
           "lang": "sv"
         }
       ]
@@ -1597,7 +2737,7 @@
           "source": "liquorsinc.com",
           "title": "Scala Cirò Rosato 2024 750ml - Liquors Inc.",
           "url": "https://www.liquorsinc.com/products/13285743/scala-ciro-rosato-2024",
-          "excerpt": "Cirò Rosato Scala, is a wine produced with Gaglioppo grapes, native to Calabrese, in Cirò Marittima, in Calabria by the Scala family company, located in a splendid old farmhouse surrounded by vineyards. A soft pressing of the grapes is followed by fermentation in steel and a very short refinement ...",
+          "excerpt": "Scala Cirò Rosato 2024 SKU: 35359 750ml 1 2 3 4 5 6 7 8 9 10 11 12 Add to Cart $16.99 You Save $3.00 (18%) $13.99 Available for: Pickup Delivery Shipping Share Category Rosé Wine Varietal Gaglioppo Brand Scala Origin Italy , Calabria , Cirò Alcohol/vol 13.5% Cirò Rosato Scala, is a wine produced with Gaglioppo grapes, native to Calabrese, in Cirò Marittima, in Calabria by the Scala family company, located in a splendid old farmhouse surrounded by vineyards. A soft pressing of the grapes is followed by fermentation in steel and a very short refinement of 2-3 months before bottling. The result i",
           "lang": "sv"
         },
         {
@@ -1608,17 +2748,17 @@
           "lang": "sv"
         },
         {
-          "source": "yianniswine.com",
-          "title": "Scala - Cirò Rosato 2024 (750ml)",
-          "url": "https://www.yianniswine.com/wines/Scala-Ciro-Rosato-2024-w98482162b",
-          "excerpt": "Wine Store - Yiannis Wine Shop. Search our inventory to find the best wine store at the best prices.",
-          "lang": "sv"
-        },
-        {
           "source": "vosselections.com",
           "title": "Scala Cirò Rosato - VOS Selections",
           "url": "https://vosselections.com/product/ciro-rosato-2/",
           "excerpt": "You are here: Home 1 / Products 2 / Wine 3 / Scala Cirò Rosato Scala Cirò Rosato Country Italy Region Calabria Producer Scala Size 750mL Style Rosé Practices Biodynamic , Certified Organic , Organic Grapes Gaglioppo Other Features Vegan 100% Gaglioppo from estate vineyards located in Cirò (Crotone district), with a south/south-east exposure – sand and clay soil. The vines were planted in 1987 and 1997 and are trained in espalier. The grapes are hand-picked during the first half of October. After removing the stalks, the grapes ferment for about 24 hours, then about 60% of the must is drawn off",
+          "lang": "sv"
+        },
+        {
+          "source": "centrobibite.it",
+          "title": "Scala Cirò Bianco DOC 2024 - Scala",
+          "url": "https://www.centrobibite.it/vini-bianchi/scala-ciro-bianco-2024-doc-996.html",
+          "excerpt": "Vini bianchi Cirò Bianco Classico DOC Biologico 2025 Santa Venere F417 9,30 € Il Cirò Bianco Classico DOC Biologico di Santa Venere è un vino che incarna l'autenticità della Calabria. Con il suo paglierino luminoso, offre un naso fine con delicate note minerali, fiori bianchi, erbette aromatiche, mentolo, nespolo e agrumi. Al palato, è fresco, abbastanza sapido, con un'acidità spiccata e un finale ottimo. Affinato per 5 mesi in... Aggiungi al carrello",
           "lang": "sv"
         }
       ]
@@ -1650,7 +2790,7 @@
           "source": "systembolaget.se",
           "title": "Montelapio Fiano di Avellino Villa Matilde, 2025 | Systembolaget",
           "url": "https://www.systembolaget.se/produkt/vin/montelapio-fiano-di-avellino-9003201/Anders/",
-          "excerpt": "Sätt betyg Spara Vin , Vitt vin , Friskt & Fruktigt Montelapio Fiano di Avellino Villa Matilde, 2025 \"\" Italien , Kampanien , Fiano di Avellino Flaska · 750 ml · 13 % vol. Nr 9003201 Nr 9003201 172:- 172 kronor 229:33 kr/l 229 kronor och 33 öre per liter Nyanserad, fruktig smak med inslag av gula äpplen, honungsmelon, apelsinblommor, örter, vit persika och citron. Serveras vid 8-10°C till vegetariskt eller till rätter av fisk eller skaldjur, exempelvis pizza. Sötma Fyllighet Fruktsyra Laddar innehåll Laddar ... Innehållsförteckning Smakbeskrivning Passar till Standardglas Klimat, miljö, social",
+          "excerpt": "Sätt betyg Spara Vin , Vitt vin , Friskt & Fruktigt Montelapio Fiano di Avellino Villa Matilde, 2025 \"\" Italien , Kampanien , Fiano di Avellino Flaska · 750 ml · 13 % vol. Nr 9003201 Nr 9003201 172:- 172 kronor 229:33 kr/l 229 kronor och 33 öre per liter Nyanserad, fruktig smak med inslag av gula äpplen, honungsmelon, apelsinblommor, örter, vit persika och citron. Serveras vid 8-10°C till vegetariskt eller till rätter av fisk eller skaldjur, exempelvis pizza. Sötma Fyllighet Fruktsyra Laddar ... Innehållsförteckning Smakbeskrivning Passar till Standardglas Klimat, miljö, socialt ansvar Produkt",
           "lang": "sv"
         },
         {
@@ -1661,10 +2801,17 @@
           "lang": "sv"
         },
         {
+          "source": "munskankarna.se",
+          "title": "Montelapio Fiano di Avellino 2024 - Vinlocus",
+          "url": "https://www.munskankarna.se/sv/vinlocus/tillfalligt-sortiment-12-september-2025/montelapio-fiano-di-avellino-2024",
+          "excerpt": "Tillbaka BETYG 14 170:- Mer än prisvärt Vitt vin Montelapio Fiano di Avellino 2024 Italien , Kampanien , Fiano di Avellino Producent: Villa Matilde Importör: Nigab AB Systembolaget: 90032 BETYG 14 170:- Mer än prisvärt Bedömning Ungdomlig doft av akacia, honungsmelon, persika och våt sten. Torr, medelfyllig, fräscht fruktig smak med medelhög syra och en frisk, elegant längd med stenig mineralitet. 7200 fl. Provning Tillfälligt sortiment 12 september 2025 Om vinet Volym 75 cl Alkohol 13 % Druvor: 100% fiano Om vår bedömning Munskänkarna var först i Sverige med att regelbundet recensera viner. U",
+          "lang": "sv"
+        },
+        {
           "source": "jancisrobinson.com",
           "title": "Villa Matilde Wine | Ratings & Reviews by Jancis Robinson (MW)",
           "url": "https://www.jancisrobinson.com/producers/villa-matilde",
-          "excerpt": "Villa Matilde Wine—detailed tasting notes, scores and expert reviews from Jancis Robinson (MW) and her team.",
+          "excerpt": "Italian new releases 2025 – the centre, south and islands Tuscan surprises and exciting movements in Puglia, plus new entries from Abruzzo and Campania.",
           "lang": "sv"
         },
         {
@@ -1673,12 +2820,65 @@
           "url": "https://www.shop.savourwineandcheese.com/Villa-Matilde-Fiano-di-Avellino-Montelapio-Docg-48388393948848484.htm",
           "excerpt": "<strong>Dry and sapid with complex aromas &amp; flavors of white flowers, apple and a mineral character typical of wines originating from volcanic soils</strong>. Delicious with mozzarella.",
           "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-93356",
+      "market": "se",
+      "name": "Belguardo Bronzone",
+      "producer": "Marchesi Mazzei",
+      "wine_type": "Rött",
+      "vintage": "2023",
+      "origin_country": "Italien",
+      "price": 169.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=93356",
+      "image": "https://imgs.search.brave.com/jfql4glOoyZ-QaAoWPxMBqV_hvZqLo7xB9jA1Adm1eU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXNv/dXJjZXMudmluby5j/b20vZGF0YS9vZmZl/cnRhRmlsZUZpbGUv/b2ZmZXJ0YUZpbGVG/aWxlLTI4MzI1MC5q/cGc",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "vinsmart.se",
+          "title": "Belguardo Maremma Marchesi Mazzei, 2023 – betyg, smak & vintips | Vinsmart",
+          "url": "https://www.vinsmart.se/wines/belguardo-maremma-marchesi-mazzei-2023",
+          "excerpt": "Åldersgräns vinsmart.se innehåller alkoholreklam som riktar sig till alla som är över 25 år. Jag är under 25 år Jag är över 25 år Text Link Belguardo Maremma Marchesi Mazzei, 2023 Mazzei Belguardo är ett av vinerna som produceras av Mazzei. Det är en blandning av druvor som ofta inkluderar Sangiovese, Merlot och Cabernet Sauvignon. Detta vin kännetecknas av sin eleganta struktur, mörka fruktsmaker och subtila kryddiga toner. Det är ett utmärkt exempel på den typ av kvalitetsvin som Mazzei strävar efter att producera, med en balans mellan fruktighet och syra, vilket gör det till en utmärkt följ",
+          "lang": "sv"
         },
         {
-          "source": "munskankarna.se",
-          "title": "Montelapio Fiano di Avellino 2024 - Vinlocus",
-          "url": "https://www.munskankarna.se/sv/vinlocus/tillfalligt-sortiment-12-september-2025/montelapio-fiano-di-avellino-2024",
-          "excerpt": "Tillbaka BETYG 14 170:- Mer än prisvärt Vitt vin Montelapio Fiano di Avellino 2024 Italien , Kampanien , Fiano di Avellino Producent: Villa Matilde Importör: Nigab AB Systembolaget: 90032 BETYG 14 170:- Mer än prisvärt Bedömning Ungdomlig doft av akacia, honungsmelon, persika och våt sten. Torr, medelfyllig, fräscht fruktig smak med medelhög syra och en frisk, elegant längd med stenig mineralitet. 7200 fl. Provning Tillfälligt sortiment 12 september 2025 Om vinet Volym 75 cl Alkohol 13 % Druvor: 100% fiano Om vår bedömning Munskänkarna var först i Sverige med att regelbundet recensera viner. U",
+          "source": "vintedge.se",
+          "title": "Belguardo Maremma Marchesi Mazzei | VintEdge",
+          "url": "https://www.vintedge.se/produkter/belguardo-maremma-marchesi-mazzei/",
+          "excerpt": "Azisa Vitt vin 183 kr inkl moms",
+          "lang": "sv"
+        },
+        {
+          "source": "vinborsen.se",
+          "title": "Belguardo Maremma, Marchesi Mazzei, 2023 ... - Vinbörsen",
+          "url": "https://vinborsen.se/product/24606653/belguardo-maremma-marchesi-mazzei-2019",
+          "excerpt": "... <strong>Detta är ett pangvin som förvånar med både sin kryddiga smakrikedom, sin vitala stil och sin välsnickrade textur</strong>. Imponerande koncentration och kraft utan att vara en regelrätt käftsmäll, här finns även en tillbakalutad finstämdhet!",
+          "lang": "sv"
+        },
+        {
+          "source": "superiore.de",
+          "title": "Tenuta Belguardo | Superiore.de",
+          "url": "https://www.superiore.de/en/wine/tuscany-maremma/tenuta-belguardo/",
+          "excerpt": "Back Filter Prices Ascending Prices Descending Bestsellers New Arrivals “Belguardo” Vermentino Maremma Toscana DOC 2025 Tenuta Belguardo | Mazzei | Tuscany Belguardo – the beautiful view. The Mazzei family gave their Maremma estate this name in 1997, and it's a fitting one: from the hills between Grosseto and Montiano, the view stretches all the way to the Tyrrhenian Sea, which lies just ten kilometres away. This proximity is not merely a romantic detail – it is terroir. The sea breezes cool the vineyards every day, slowing down the ripening process and preserving the freshness that characteri",
+          "lang": "sv"
+        },
+        {
+          "source": "vino.com",
+          "title": "Maremma Toscana DOC Vermentino Superiore Belguardo V 2023 Marchesi Mazzei mazzeicodiceV2023",
+          "url": "https://www.vino.com/en/dettaglio/toscana-igt-vermentino-codice-v-marchesi-mazzei-2023.html",
+          "excerpt": "Please note: Cookies are disabled in this browser, so some features of the site may not be available. To use all the features of this site, you need to enable JavaScript. For instructions on how to enable JavaScript in your browser, click here . Free shipping Fidelity Card Are you a professional? Join VINO.COM PRO Currency: € EUR Ship to: Italy Language: Set your language, shipping and currency preferences Language: Deutsch English Español Français Italiano Nederlands Svenska Ship to: Austria Belgium Czechia Denmark Finland France Germany Italy Monaco Netherlands Slovakia Spain Sweden Switzerl",
           "lang": "sv"
         }
       ]
@@ -1721,6 +2921,13 @@
           "lang": "sv"
         },
         {
+          "source": "wine-searcher.com",
+          "title": "Best local price for Valiano Chianti Classico DOCG - stores near you in Singapore",
+          "url": "https://www.wine-searcher.com/find/valiano+docg+chianti+cls+tuscany+italy",
+          "excerpt": "This Chianti Classico wine has received good scores from various critics. Critic tasting note: (2023 vintage) &quot;<strong>Floral and fresh, showing bright, ripe yet focused red cherries alongside roses and subtle spices</strong>.",
+          "lang": "sv"
+        },
+        {
           "source": "winetable.se",
           "title": "Valiano Chianti Classico — Wine Table",
           "url": "https://www.winetable.se/drycker/valiano-chianti-classico/",
@@ -1728,20 +2935,95 @@
           "lang": "sv"
         },
         {
-          "source": "wine-searcher.com",
-          "title": "Best local price for Valiano Chianti Classico DOCG - stores near you in Singapore",
-          "url": "https://www.wine-searcher.com/find/valiano+docg+chianti+cls+tuscany+italy",
-          "excerpt": "Vincenzo Arnese, Raffles Hotel at the OWO. ... <strong>Dry, fragrant and complex</strong>. Very juicy with firm tannins. Well structured. Ageing potential. ... Cherry, dark berries and apple skin flavours.",
-          "lang": "sv"
-        },
-        {
           "source": "systembolaget.se",
           "title": "Valiano Chianti Classico, 2023 | Systembolaget",
           "url": "https://www.systembolaget.se/produkt/vin/valiano-9256501/",
-          "excerpt": "Sätt betyg Spara Vin , Rött vin , Kryddigt & Mustigt Valiano Chianti Classico, 2023 \"\" Italien , Toscana , Chianti Classico Flaska · 750 ml · 14 % vol. Nr 9256501 Nr 9256501 166:- 166 kronor 221:33 kr/l 221 kronor och 33 öre per liter Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, nougat, jordgubbar, kakao, salvia, svart te, ceder och pomerans. Serveras vid 16-18°C till rätter av mörkt kött, gärna grillat. Fyllighet Strävhet Fruktsyra Odling & Produktion Eko Miljöcertifierad Socialt ansvar Förpackning Lägre klimatavtryck Laddar innehåll Laddar ... Allergener Innehållsförteckning S",
+          "excerpt": "Sätt betyg Spara Vin , Rött vin , Kryddigt & Mustigt Valiano Chianti Classico, 2023 \"\" Italien , Toscana , Chianti Classico Flaska · 750 ml · 14 % vol. Nr 9256501 Nr 9256501 166:- 166 kronor 221:33 kr/l 221 kronor och 33 öre per liter Nyanserad, kryddig smak med fatkaraktär, inslag av körsbär, nougat, jordgubbar, kakao, salvia, svart te, ceder och pomerans. Serveras vid 16-18°C till rätter av mörkt kött, gärna grillat. Fyllighet Strävhet Fruktsyra Odling & Produktion Eko Miljöcertifierad Socialt ansvar Förpackning Lägre klimatavtryck Laddar ... Allergener Innehållsförteckning Smakbeskrivning P",
           "lang": "sv"
         }
       ]
+    },
+    {
+      "id": "se-94566",
+      "market": "se",
+      "name": "Côtes du Rhône",
+      "producer": "Dom. Gassier",
+      "wine_type": "Rött",
+      "vintage": "2022",
+      "origin_country": "Frankrike",
+      "price": 151.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-25",
+      "url": "https://www.systembolaget.se/sortiment/?q=94566",
+      "image": "https://imgs.search.brave.com/bdFxZYro7_sZuHa5iH_xnQn_5j3lsqXTzhQOQ9a37RI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kaXZp/bmUuc2Uvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjQvMDEvZ2Fz/c2llci1jb3Rlcy1k/dS1yaG9uZTItMjE3/eDgwMC5qcGc",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {
+        "en": "Could not summarise (AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'reques)"
+      },
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": [
+        {
+          "source": "vivino.com",
+          "title": "Domaine Gassier Côtes du Rhône | Vivino Svenska",
+          "url": "https://www.vivino.com/sv/domaine-gassier-southern-rhone-cotes-du-rhone/w/7358321",
+          "excerpt": "Domaine Gassier Côtes du Rhône är en Rött vin. Tillverkad av Shiraz/Syrah, Grenache, Mourvedre. Kolla in dess betyg och recensioner från världens största vincommunity.",
+          "lang": "sv"
+        },
+        {
+          "source": "winespectator.com",
+          "title": "Michel Gassier Côtes du Rhône 2022 | Wine Rating | Wine Spectator",
+          "url": "https://www.winespectator.com/wine/wine-detail/id/1315827/name/michel-gassier-c%C3%B4tes-du-rh%C3%B4ne-2022/guest",
+          "excerpt": "To see the full review and rating, become a member of WineSpectator.com today. Subscribe Already a Member? Sign In ## Michel Gassier Côtes du Rhône 2022 | $ ## A stylish red, with strappy red licorice and up-front … To see the full review and rating become a member of WineSpectator.com Subscribe Today Member Sign In Wine Type and Color Red Still Primary Grape Grenache Grenache is the French name for the red grape known as Garnacha in Spain and Cannonau in Italy. Today, Grenache is the star of red blends in France's Southern Rhône Valley, reaching its pinnacle in Châteauneuf-du-Pape. It is wide",
+          "lang": "sv"
+        },
+        {
+          "source": "munskankarna.se",
+          "title": "Gassier Côtes du Rhône 2022 - Vinlocus",
+          "url": "https://www.munskankarna.se/sv/vinlocus/tillfalligt-sortiment-13-september-2024/gassier-cotes-du-rhone-2022",
+          "excerpt": "Tillbaka BETYG 14 149:- Fynd Rött vin Gassier Côtes du Rhône 2022 Frankrike , Rhône Producent: Domaine Gassier Importör: Divine AB Systembolaget: 94566 BETYG 14 149:- Fynd Bedömning Ung, medelstor doft av söta, mörka bär, söta mörka plommon och kryddor. Fyllig, sötfruktig smak, knappt medelhög syra och medelhög strävhet och ett fruktigt, sött och eldigt avslut. 15 %. 27000 fl. Provning Tillfälligt sortiment 13 september 2024 Om vinet Volym 75 cl Alkohol 15 % Druvor: 75% grenache , 15% mourvèdre , 10% syrah Om vår bedömning Munskänkarna var först i Sverige med att regelbundet recensera viner. U",
+          "lang": "sv"
+        },
+        {
+          "source": "cellartracker.com",
+          "title": "2022 Michel Gassier Côtes du Rhône",
+          "url": "https://www.cellartracker.com/wine.asp?iWine=5011800",
+          "excerpt": "This website is using a security service to protect itself from online attacks. The service requires full cookie support in order to view the website · Please enable cookies on your browser and try again",
+          "lang": "sv"
+        },
+        {
+          "source": "fieldblendselections.com",
+          "title": "Domaine Gassier — Field Blend Selections",
+          "url": "https://www.fieldblendselections.com/domaine-gassier",
+          "excerpt": "Domaine Gassier Costières de Nîmes, France Located in the Costières de Nîmes AOC in the Southern Rhône, Domaine Gassier is a 5th generation, family-owned winery that makes a range of certified organic wines that overdeliver for the price. The Costières de Nîmes is the southernmost appellation of the Rhône valley, and it occupies a unique space between two distinct topographical and cultural areas. Avignon, located just to the northwest is the historic home of the “ false Pope ,” and is the heart of the Châteauneuf-du-Pape AOC, where a terroir that includes galets stones adds to the structure a",
+          "lang": "sv"
+        }
+      ]
+    },
+    {
+      "id": "se-9363201",
+      "market": "se",
+      "name": "Riserva",
+      "producer": "Giacomo Borgogno",
+      "wine_type": "Rött",
+      "vintage": "1982",
+      "origin_country": "Italien",
+      "price": 3999.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-17",
+      "url": "https://www.systembolaget.se/sortiment/?q=9363201",
+      "image": "https://imgs.search.brave.com/geMK1yF1xAprurcxWlSwe4506BhhO-ayCOWvNm7xO4Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuampidWNrbGV5/LmNvbS9WaW50YWdl/LzIyMjIzOS90aHVt/Yl8yMTZ4NTQzXzE5/ODgtOTgyNS03NTAu/cG5n",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {},
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": []
     },
     {
       "id": "se-9450601",
@@ -2592,6 +3874,50 @@
       "launch_date": "2026-08-07",
       "url": "https://www.systembolaget.se/sortiment/?q=90083",
       "image": "https://imgs.search.brave.com/U95d3CqCwkUCF_gRGicpEDJYWIQqUME7euAKDriPMeY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYwNzA3Ni9maWxl/cy82NTg1MjUyOS8z/MDB4NDAweDIvZXZl/bmluZy1sYW5kLXZp/bmV5YXJkcy1sYS1z/b3VyY2UtMjAyMi1w/aW5vdC1ub2lyLXMu/anBn",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {},
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": []
+    },
+    {
+      "id": "se-9298201",
+      "market": "se",
+      "name": "Contrada Volpare Frontebosco Bianco Superiore",
+      "producer": "Maugeri",
+      "wine_type": "Vitt",
+      "vintage": "2024",
+      "origin_country": "Italien",
+      "price": 459.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-17",
+      "url": "https://www.systembolaget.se/sortiment/?q=9298201",
+      "image": "https://imgs.search.brave.com/O1bX_bfiwDSCjan-muaVV9tOHoZUFpfCqLng1gBN5Fc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZXRpbGlrYS5pdC8x/Njc0MS1sYXJnZV9k/ZWZhdWx0L2V0bmEt/YmlhbmNvLXN1cGVy/aW9yZS1kb2MtZnJv/bnRlYm9zY28tMjAy/MC1tYXVnZXJpLmpw/Zw",
+      "assortment": "Tillfälligt sortiment",
+      "volume": null,
+      "is_news": true,
+      "verdict": {},
+      "score": null,
+      "taste_notes": {},
+      "pairing": {},
+      "sources": []
+    },
+    {
+      "id": "se-9304501",
+      "market": "se",
+      "name": "Contrada Praino Frontemare Bianco Superiore",
+      "producer": "Maugeri",
+      "wine_type": "Vitt",
+      "vintage": "2024",
+      "origin_country": "Italien",
+      "price": 459.0,
+      "currency": "SEK",
+      "launch_date": "2026-09-17",
+      "url": "https://www.systembolaget.se/sortiment/?q=9304501",
+      "image": "https://imgs.search.brave.com/5Z8hiauZ8H76tuLdWZguJlGXIl8KJRVspbJ4MwEZxC8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/OHdpbmVzLmNvbS9t/ZWRpYS9jYXRhbG9n/L3Byb2R1Y3QvY2Fj/aGUvOTk1N2EwMjJm/MGMyYTFkMzI4MGRi/ZmIyOTgwODk1NTcv/bS9hL21hdWdlcmkt/Y29udHJhZGEtcHJh/aW5vLWZyb250ZW1h/cmUtZXRuYS1iaWFu/Y28tc3VwZXJpb3Jl/LTIwMjQucG5n",
       "assortment": "Tillfälligt sortiment",
       "volume": null,
       "is_news": true,

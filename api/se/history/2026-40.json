@@ -1,5 +1,5 @@
 {
-  "week": "2026-39",
+  "week": "2026-40",
   "market": "se",
   "wines": [
     {
@@ -11,11 +11,67 @@
       "wine_type": "Mousserande"
     },
     {
-      "name": "Riserva",
-      "producer": "Giacomo Borgogno",
+      "name": "Pinot Noir Coastlands Vinyard",
+      "producer": "Cobb Wines",
       "score": null,
-      "price": 3999.0,
+      "price": 795.0,
+      "origin_country": "USA - Kalifornien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Riesling Grand Cru Geisberg",
+      "producer": "Trimbach",
+      "score": null,
+      "price": 749.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Cornas Les Vieilles Vignes",
+      "producer": "Alain Voge",
+      "score": null,
+      "price": 699.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Blanc de Blancs Grand Cru Extra Brut",
+      "producer": "André Jacquart",
+      "score": null,
+      "price": 549.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Mousserande"
+    },
+    {
+      "name": "Le Bel Ouvrage",
+      "producer": "Dom. Laureau",
+      "score": null,
+      "price": 499.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Fleur de Crussol",
+      "producer": "Alain Voge",
+      "score": null,
+      "price": 499.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Bussia",
+      "producer": "Alberto Ballarin",
+      "score": null,
+      "price": 499.0,
       "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Ch. Marquis de Terme",
+      "producer": "Ch. Marquis de Terme",
+      "score": null,
+      "price": 499.0,
+      "origin_country": "Frankrike",
       "wine_type": "Rött"
     },
     {
@@ -27,26 +83,26 @@
       "wine_type": "Vitt"
     },
     {
-      "name": "Contrada Volpare Frontebosco Bianco Superiore",
-      "producer": "Maugeri",
-      "score": null,
-      "price": 459.0,
-      "origin_country": "Italien",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Contrada Praino Frontemare Bianco Superiore",
-      "producer": "Maugeri",
-      "score": null,
-      "price": 459.0,
-      "origin_country": "Italien",
-      "wine_type": "Vitt"
-    },
-    {
       "name": "Barolo del Comune di la Morra",
       "producer": "Trediberri",
       "score": null,
       "price": 429.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Askesäng",
+      "producer": "Kullabergs Vingård",
+      "score": null,
+      "price": 399.0,
+      "origin_country": "Sverige",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Roncaglie",
+      "producer": "Poderi Colla",
+      "score": null,
+      "price": 399.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
     },
@@ -75,6 +131,30 @@
       "wine_type": "Rött"
     },
     {
+      "name": "Il Frappato",
+      "producer": "Arianna Occhipinti",
+      "score": null,
+      "price": 369.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "La LLorona",
+      "producer": "Veronica Ortega",
+      "score": null,
+      "price": 350.0,
+      "origin_country": "Spanien",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Côte de Brouilly Lieu-dit Brulhié",
+      "producer": "Ch. De La Chaize",
+      "score": null,
+      "price": 349.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
       "name": "Barolo",
       "producer": "Az. Agr. Giacomo Grimaldi",
       "score": null,
@@ -99,6 +179,38 @@
       "wine_type": "Rött"
     },
     {
+      "name": "Alta Langa Blanc de Blancs",
+      "producer": "Fontanafredda",
+      "score": null,
+      "price": 299.0,
+      "origin_country": "Italien",
+      "wine_type": "Mousserande"
+    },
+    {
+      "name": "Otira Glacial Stones Single Vineyard Sauvignon Blanc",
+      "producer": "Clos Henri",
+      "score": null,
+      "price": 299.0,
+      "origin_country": "Nya Zeeland",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Chardonnay",
+      "producer": "Tyler Winery",
+      "score": null,
+      "price": 299.0,
+      "origin_country": "USA - Kalifornien",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Reserva",
+      "producer": "Viñedos del Contino",
+      "score": null,
+      "price": 299.0,
+      "origin_country": "Spanien",
+      "wine_type": "Rött"
+    },
+    {
       "name": "Vom Ranker Spätburgunder Trocken",
       "producer": "WG Schloss Schönberg",
       "score": null,
@@ -115,6 +227,14 @@
       "wine_type": "Rött"
     },
     {
+      "name": "Le Puy",
+      "producer": "Jean Maurice Raffault",
+      "score": null,
+      "price": 279.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
       "name": "Etna Bianco Superiore",
       "producer": "Maugeri",
       "score": null,
@@ -128,6 +248,14 @@
       "score": null,
       "price": 259.0,
       "origin_country": "Australien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Moulin-à-Vent Champ de Cour",
+      "producer": "Ch. de Jacques - Louis Jadot",
+      "score": null,
+      "price": 251.0,
+      "origin_country": "Frankrike",
       "wine_type": "Rött"
     },
     {
@@ -168,6 +296,30 @@
       "score": null,
       "price": 229.0,
       "origin_country": "Spanien",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Albariño",
+      "producer": "Bodegas Albamar",
+      "score": null,
+      "price": 220.0,
+      "origin_country": "Spanien",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Indian Wells Cabernet Sauvignon",
+      "producer": "Ch. Ste Michelle",
+      "score": null,
+      "price": 199.0,
+      "origin_country": "USA - Övriga stater",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Round Mountain Sauvignon Blanc",
+      "producer": "Stark-Condé Wines",
+      "score": null,
+      "price": 191.0,
+      "origin_country": "Sydafrika",
       "wine_type": "Vitt"
     },
     {
@@ -227,10 +379,34 @@
       "wine_type": "Vitt"
     },
     {
+      "name": "Belguardo Bronzone",
+      "producer": "Marchesi Mazzei",
+      "score": null,
+      "price": 169.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
       "name": "Chianti Classico",
       "producer": "Valiano",
       "score": null,
       "price": 166.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Côtes du Rhône",
+      "producer": "Dom. Gassier",
+      "score": null,
+      "price": 151.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Riserva",
+      "producer": "Giacomo Borgogno",
+      "score": null,
+      "price": 3999.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
     },
@@ -545,6 +721,22 @@
       "price": 469.0,
       "origin_country": "USA - Övriga stater",
       "wine_type": "Rött"
+    },
+    {
+      "name": "Contrada Volpare Frontebosco Bianco Superiore",
+      "producer": "Maugeri",
+      "score": null,
+      "price": 459.0,
+      "origin_country": "Italien",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Contrada Praino Frontemare Bianco Superiore",
+      "producer": "Maugeri",
+      "score": null,
+      "price": 459.0,
+      "origin_country": "Italien",
+      "wine_type": "Vitt"
     },
     {
       "name": "Reserve Chardonnay",
