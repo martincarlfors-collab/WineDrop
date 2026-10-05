@@ -12,24 +12,39 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-40",
-      "count": 236,
+      "week": "2026-41",
+      "count": 267,
       "avgScore": null
     }
   ],
   "producers": [
+    {
+      "name": "Louis Jadot",
+      "count": 4,
+      "avgScore": null
+    },
+    {
+      "name": "Terre del Barolo",
+      "count": 4,
+      "avgScore": null
+    },
     {
       "name": "E. Guigal",
       "count": 4,
       "avgScore": null
     },
     {
-      "name": "Maugeri",
+      "name": "Crystallum",
       "count": 3,
       "avgScore": null
     },
     {
       "name": "WG Von Winning",
+      "count": 3,
+      "avgScore": null
+    },
+    {
+      "name": "Maugeri",
       "count": 3,
       "avgScore": null
     },
@@ -49,67 +64,17 @@
       "avgScore": 85.5
     },
     {
-      "name": "Cobb Wines",
+      "name": "WG Dönnhoff",
       "count": 2,
       "avgScore": null
     },
     {
-      "name": "Trimbach",
+      "name": "Campolargo",
       "count": 2,
       "avgScore": null
     },
     {
-      "name": "Alain Voge",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "WG Philipp Kuhn",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Trediberri",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Poderi Colla",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Alain Brumont",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Arianna Occhipinti",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Az. Agr. Giacomo Grimaldi",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Fontanafredda",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Viñedos del Contino",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "G.D. Vajra",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Marchesi Mazzei",
+      "name": "Nino Negri",
       "count": 2,
       "avgScore": null
     },
@@ -139,7 +104,42 @@
       "avgScore": null
     },
     {
+      "name": "Cobb Wines",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Trimbach",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "Brancaia",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Alain Voge",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Kutch",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Pio Cesare",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Au Bon Climat",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Poderi Colla",
       "count": 2,
       "avgScore": null
     }
