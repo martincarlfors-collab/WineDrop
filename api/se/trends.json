@@ -12,19 +12,19 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-41",
-      "count": 267,
+      "week": "2026-42",
+      "count": 304,
       "avgScore": null
     }
   ],
   "producers": [
     {
-      "name": "Louis Jadot",
+      "name": "Telmo Rodríguez - Ladeiras do Xil",
       "count": 4,
       "avgScore": null
     },
     {
-      "name": "Terre del Barolo",
+      "name": "Louis Jadot",
       "count": 4,
       "avgScore": null
     },
@@ -34,12 +34,32 @@
       "avgScore": null
     },
     {
-      "name": "Crystallum",
+      "name": "Terre del Barolo",
+      "count": 4,
+      "avgScore": null
+    },
+    {
+      "name": "Telmo Rodríguez - Bodega Lanzaga",
+      "count": 3,
+      "avgScore": null
+    },
+    {
+      "name": "Oakridge Wines",
+      "count": 3,
+      "avgScore": null
+    },
+    {
+      "name": "Au Bon Climat",
       "count": 3,
       "avgScore": null
     },
     {
       "name": "WG Von Winning",
+      "count": 3,
+      "avgScore": null
+    },
+    {
+      "name": "Crystallum",
       "count": 3,
       "avgScore": null
     },
@@ -64,17 +84,7 @@
       "avgScore": 85.5
     },
     {
-      "name": "WG Dönnhoff",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Campolargo",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Nino Negri",
+      "name": "Valdespino",
       "count": 2,
       "avgScore": null
     },
@@ -130,16 +140,6 @@
     },
     {
       "name": "Pio Cesare",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Au Bon Climat",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Poderi Colla",
       "count": 2,
       "avgScore": null
     }
