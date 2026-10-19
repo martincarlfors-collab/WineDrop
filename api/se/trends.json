@@ -12,15 +12,15 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-42",
-      "count": 304,
+      "week": "2026-43",
+      "count": 332,
       "avgScore": null
     }
   ],
   "producers": [
     {
-      "name": "Telmo Rodríguez - Ladeiras do Xil",
-      "count": 4,
+      "name": "Penfolds",
+      "count": 8,
       "avgScore": null
     },
     {
@@ -34,12 +34,22 @@
       "avgScore": null
     },
     {
+      "name": "Telmo Rodríguez - Ladeiras do Xil",
+      "count": 4,
+      "avgScore": null
+    },
+    {
       "name": "Terre del Barolo",
       "count": 4,
       "avgScore": null
     },
     {
-      "name": "Telmo Rodríguez - Bodega Lanzaga",
+      "name": "Alain Brumont",
+      "count": 3,
+      "avgScore": null
+    },
+    {
+      "name": "Au Bon Climat",
       "count": 3,
       "avgScore": null
     },
@@ -49,7 +59,7 @@
       "avgScore": null
     },
     {
-      "name": "Au Bon Climat",
+      "name": "Telmo Rodríguez - Bodega Lanzaga",
       "count": 3,
       "avgScore": null
     },
@@ -84,7 +94,27 @@
       "avgScore": 85.5
     },
     {
+      "name": "Louis Roederer",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Dom. Faiveley",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "Valdespino",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Kullabergs Vingård",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Fattoria Nittardi",
       "count": 2,
       "avgScore": null
     },
@@ -110,36 +140,6 @@
     },
     {
       "name": "Az. Agr. Antoniolo",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Cobb Wines",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Trimbach",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Brancaia",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Alain Voge",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Kutch",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Pio Cesare",
       "count": 2,
       "avgScore": null
     }
