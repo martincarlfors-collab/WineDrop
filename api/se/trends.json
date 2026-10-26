@@ -12,8 +12,8 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-43",
-      "count": 332,
+      "week": "2026-44",
+      "count": 355,
       "avgScore": null
     }
   ],
@@ -21,6 +21,11 @@
     {
       "name": "Penfolds",
       "count": 8,
+      "avgScore": null
+    },
+    {
+      "name": "La Spinetta",
+      "count": 5,
       "avgScore": null
     },
     {
@@ -44,17 +49,12 @@
       "avgScore": null
     },
     {
-      "name": "Alain Brumont",
+      "name": "Trimbach",
       "count": 3,
       "avgScore": null
     },
     {
-      "name": "Au Bon Climat",
-      "count": 3,
-      "avgScore": null
-    },
-    {
-      "name": "Oakridge Wines",
+      "name": "Az. Agr. Roberto Voerzio",
       "count": 3,
       "avgScore": null
     },
@@ -64,7 +64,17 @@
       "avgScore": null
     },
     {
+      "name": "Oakridge Wines",
+      "count": 3,
+      "avgScore": null
+    },
+    {
       "name": "WG Von Winning",
+      "count": 3,
+      "avgScore": null
+    },
+    {
+      "name": "Au Bon Climat",
       "count": 3,
       "avgScore": null
     },
@@ -75,6 +85,11 @@
     },
     {
       "name": "Maugeri",
+      "count": 3,
+      "avgScore": null
+    },
+    {
+      "name": "Alain Brumont",
       "count": 3,
       "avgScore": null
     },
@@ -94,27 +109,12 @@
       "avgScore": 85.5
     },
     {
+      "name": "Bosquet des Papes",
+      "count": 2,
+      "avgScore": null
+    },
+    {
       "name": "Louis Roederer",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Dom. Faiveley",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Valdespino",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Kullabergs Vingård",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Fattoria Nittardi",
       "count": 2,
       "avgScore": null
     },
