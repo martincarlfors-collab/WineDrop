@@ -12,8 +12,8 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-44",
-      "count": 355,
+      "week": "2026-45",
+      "count": 382,
       "avgScore": null
     }
   ],
@@ -55,6 +55,11 @@
     },
     {
       "name": "Az. Agr. Roberto Voerzio",
+      "count": 3,
+      "avgScore": null
+    },
+    {
+      "name": "Vignoble des Cabottes",
       "count": 3,
       "avgScore": null
     },
@@ -135,11 +140,6 @@
     },
     {
       "name": "Dom. de la Côte",
-      "count": 2,
-      "avgScore": null
-    },
-    {
-      "name": "Az. Agr. Antoniolo",
       "count": 2,
       "avgScore": null
     }

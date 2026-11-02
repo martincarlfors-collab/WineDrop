@@ -1,7 +1,359 @@
 {
-  "week": "2026-44",
+  "week": "2026-45",
   "market": "se",
   "wines": [
+    {
+      "name": "Don Melchor",
+      "producer": "Viña Don Melchor",
+      "score": null,
+      "price": 999.0,
+      "origin_country": "Chile",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Pianrosso",
+      "producer": "Ciacci Piccolomini",
+      "score": null,
+      "price": 649.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Pouilly-Fuissé Premier Cru Les Perrières Tête de Cru",
+      "producer": "Dom. J A Ferret",
+      "score": null,
+      "price": 649.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Riserva 10 Anni La Serra",
+      "producer": "Agriviticola Voerzio Martini",
+      "score": null,
+      "price": 629.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Châteauneuf-du-Pape",
+      "producer": "Le Vieux Donjon",
+      "score": null,
+      "price": 599.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Chianti Classico Riserva",
+      "producer": "Castell'in Villa",
+      "score": null,
+      "price": 599.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Chante Le Merle Vieilles Vignes",
+      "producer": "Bosquet des Papes",
+      "score": null,
+      "price": 559.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Barolo del Comune di Verduno",
+      "producer": "Fratelli Alessandria",
+      "score": null,
+      "price": 539.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Pinot Gris Grand Cru Osterberg",
+      "producer": "Trimbach",
+      "score": null,
+      "price": 499.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Marions Vineyard Pinot Noir",
+      "producer": "Schubert Wines",
+      "score": null,
+      "price": 498.0,
+      "origin_country": "Nya Zeeland",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Giachini",
+      "producer": "Carlo Revello & Figli",
+      "score": null,
+      "price": 459.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Barolo",
+      "producer": "Paolo Scavino",
+      "score": null,
+      "price": 429.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Amarone della Valpolicella",
+      "producer": "La Collina dei Ciliegi",
+      "score": null,
+      "price": 429.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Fronholz Riesling",
+      "producer": "Dom. Ostertag",
+      "score": null,
+      "price": 399.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Les Terrasses",
+      "producer": "Álvaro Palacios",
+      "score": null,
+      "price": 399.0,
+      "origin_country": "Spanien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Saint-Joseph",
+      "producer": "Dom. Jean-Claude Marsanne",
+      "score": null,
+      "price": 389.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Friedelsheimer Rosengarten Chardonnay",
+      "producer": "Scheuermann",
+      "score": null,
+      "price": 371.0,
+      "origin_country": "Tyskland",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Barolo",
+      "producer": "Vigneti Luigi Oddero & Figli",
+      "score": null,
+      "price": 369.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Langhe Nebbiolo di Sanfrancesco",
+      "producer": "Az. Agr. Roberto Voerzio",
+      "score": null,
+      "price": 329.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "1583 Albariño de Fefiñanes",
+      "producer": "Bodegas del Palacio de Fefiñanes",
+      "score": null,
+      "price": 300.0,
+      "origin_country": "Spanien",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "La Nevera Maturana Blanca",
+      "producer": "Bodegas Nivarius",
+      "score": null,
+      "price": 299.0,
+      "origin_country": "Spanien",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Barbera Il Cerreto",
+      "producer": "Az. Agr. Roberto Voerzio",
+      "score": null,
+      "price": 299.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Kabinett Riesling",
+      "producer": "WG Sybille Kuntz",
+      "score": null,
+      "price": 289.0,
+      "origin_country": "Tyskland",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Orben",
+      "producer": "Bodegas Izadi",
+      "score": null,
+      "price": 279.0,
+      "origin_country": "Spanien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Mâcon-Chardonnay Echenault de Serre",
+      "producer": "Domain des Crêts",
+      "score": null,
+      "price": 269.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Clos Cormerais Inspirations Sur Lie",
+      "producer": "Dom. Ménard-Gaborit",
+      "score": null,
+      "price": 259.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Gimblett Gravels Chardonnay",
+      "producer": "Trinity Hill",
+      "score": null,
+      "price": 249.0,
+      "origin_country": "Nya Zeeland",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Chianti Classico",
+      "producer": "Riecine",
+      "score": null,
+      "price": 249.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Moulin à Vent Très Vieille Vigne Les Caves",
+      "producer": "Dom. Anita",
+      "score": null,
+      "price": 239.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Gabaxo",
+      "producer": "Olivier Riviere",
+      "score": null,
+      "price": 229.0,
+      "origin_country": "Spanien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Grenache Carignan",
+      "producer": "Ministry of Clouds",
+      "score": null,
+      "price": 229.0,
+      "origin_country": "Australien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Kaiserstuhl Spätburgunder",
+      "producer": "WG Salwey",
+      "score": null,
+      "price": 225.0,
+      "origin_country": "Tyskland",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "G de Ch. Guiraud",
+      "producer": "Ch. Guiraud",
+      "score": null,
+      "price": 220.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Landscape Pinot Noir",
+      "producer": "Small Wonder",
+      "score": null,
+      "price": 200.0,
+      "origin_country": "Australien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Ember",
+      "producer": "Brännland iscider",
+      "score": null,
+      "price": 199.0,
+      "origin_country": "Sverige",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Alvarinho Reserva",
+      "producer": "Valados de Melgaço",
+      "score": null,
+      "price": 199.0,
+      "origin_country": "Portugal",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Langhe Nebbiolo Ciabot Russ",
+      "producer": "Az. Agr. Mario Gagliasso",
+      "score": null,
+      "price": 189.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Ried Hasel Grüner Veltliner",
+      "producer": "WG Birgit Eichinger",
+      "score": null,
+      "price": 180.0,
+      "origin_country": "Österrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Tres Viñas Blanco Reserva",
+      "producer": "Baron de Ley",
+      "score": null,
+      "price": 179.0,
+      "origin_country": "Spanien",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Di Fatto",
+      "producer": "Az. Agr. Tacchino",
+      "score": null,
+      "price": 179.0,
+      "origin_country": "Italien",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Ch. de la Gravelle",
+      "producer": "Vignobles Günther-Chéreau",
+      "score": null,
+      "price": 175.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Noble Reserve Trockenbeerenauslese",
+      "producer": "Kraacher",
+      "score": null,
+      "price": 159.0,
+      "origin_country": "Österrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Beaune Premier Cru Les Grèves Vignes de l'Enfant Jésus",
+      "producer": "Vignoble des Cabottes",
+      "score": null,
+      "price": 1999.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Rött"
+    },
+    {
+      "name": "Chevalier-Montrachet Grand Cru",
+      "producer": "Vignoble des Cabottes",
+      "score": null,
+      "price": 5999.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
     {
       "name": "Vigneto Starderi Vürsù",
       "producer": "La Spinetta",
@@ -31,158 +383,6 @@
       "producer": "La Spinetta",
       "score": null,
       "price": 1499.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Timorasso Derthona",
-      "producer": "La Spinetta",
-      "score": null,
-      "price": 999.0,
-      "origin_country": "Italien",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Pouilly-Fuissé Premier Cru Les Perrières Tête de Cru",
-      "producer": "Dom. J A Ferret",
-      "score": null,
-      "price": 649.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Chianti Classico Riserva",
-      "producer": "Castell'in Villa",
-      "score": null,
-      "price": 599.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Chante Le Merle Vieilles Vignes",
-      "producer": "Bosquet des Papes",
-      "score": null,
-      "price": 559.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Pinot Gris Grand Cru Osterberg",
-      "producer": "Trimbach",
-      "score": null,
-      "price": 499.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Giachini",
-      "producer": "Carlo Revello & Figli",
-      "score": null,
-      "price": 459.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Les Terrasses",
-      "producer": "Álvaro Palacios",
-      "score": null,
-      "price": 399.0,
-      "origin_country": "Spanien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Saint-Joseph",
-      "producer": "Dom. Jean-Claude Marsanne",
-      "score": null,
-      "price": 389.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Barolo",
-      "producer": "Vigneti Luigi Oddero & Figli",
-      "score": null,
-      "price": 369.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Langhe Nebbiolo di Sanfrancesco",
-      "producer": "Az. Agr. Roberto Voerzio",
-      "score": null,
-      "price": 329.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Barbera Il Cerreto",
-      "producer": "Az. Agr. Roberto Voerzio",
-      "score": null,
-      "price": 299.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Mâcon-Chardonnay Echenault de Serre",
-      "producer": "Domain des Crêts",
-      "score": null,
-      "price": 269.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Clos Cormerais Inspirations Sur Lie",
-      "producer": "Dom. Ménard-Gaborit",
-      "score": null,
-      "price": 259.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Chianti Classico",
-      "producer": "Riecine",
-      "score": null,
-      "price": 249.0,
-      "origin_country": "Italien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Moulin à Vent Très Vieille Vigne Les Caves",
-      "producer": "Dom. Anita",
-      "score": null,
-      "price": 239.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "Grenache Carignan",
-      "producer": "Ministry of Clouds",
-      "score": null,
-      "price": 229.0,
-      "origin_country": "Australien",
-      "wine_type": "Rött"
-    },
-    {
-      "name": "G de Ch. Guiraud",
-      "producer": "Ch. Guiraud",
-      "score": null,
-      "price": 220.0,
-      "origin_country": "Frankrike",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Alvarinho Reserva",
-      "producer": "Valados de Melgaço",
-      "score": null,
-      "price": 199.0,
-      "origin_country": "Portugal",
-      "wine_type": "Vitt"
-    },
-    {
-      "name": "Di Fatto",
-      "producer": "Az. Agr. Tacchino",
-      "score": null,
-      "price": 179.0,
       "origin_country": "Italien",
       "wine_type": "Rött"
     },
@@ -329,6 +529,22 @@
       "price": 2199.0,
       "origin_country": "Frankrike",
       "wine_type": "Mousserande"
+    },
+    {
+      "name": "Beaune Premier Cru Clos Saint-Landry Monopole",
+      "producer": "Vignoble des Cabottes",
+      "score": null,
+      "price": 999.0,
+      "origin_country": "Frankrike",
+      "wine_type": "Vitt"
+    },
+    {
+      "name": "Timorasso Derthona",
+      "producer": "La Spinetta",
+      "score": null,
+      "price": 999.0,
+      "origin_country": "Italien",
+      "wine_type": "Vitt"
     },
     {
       "name": "Rauenthaler Nonnenberg Riesling Trocken",
