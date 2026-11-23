@@ -12,8 +12,8 @@
       "avgScore": 88.2
     },
     {
-      "week": "2026-47",
-      "count": 382,
+      "week": "2026-48",
+      "count": 390,
       "avgScore": null
     }
   ],
@@ -49,22 +49,17 @@
       "avgScore": null
     },
     {
-      "name": "Trimbach",
-      "count": 3,
-      "avgScore": null
-    },
-    {
-      "name": "Az. Agr. Roberto Voerzio",
-      "count": 3,
-      "avgScore": null
-    },
-    {
       "name": "Vignoble des Cabottes",
       "count": 3,
       "avgScore": null
     },
     {
       "name": "Telmo Rodríguez - Bodega Lanzaga",
+      "count": 3,
+      "avgScore": null
+    },
+    {
+      "name": "Trimbach",
       "count": 3,
       "avgScore": null
     },
@@ -99,6 +94,11 @@
       "avgScore": null
     },
     {
+      "name": "Az. Agr. Roberto Voerzio",
+      "count": 3,
+      "avgScore": null
+    },
+    {
       "name": "Vietti",
       "count": 2,
       "avgScore": 88.5
@@ -112,11 +112,6 @@
       "name": "Dr Loosen",
       "count": 2,
       "avgScore": 85.5
-    },
-    {
-      "name": "Bosquet des Papes",
-      "count": 2,
-      "avgScore": null
     },
     {
       "name": "Louis Roederer",
@@ -140,6 +135,11 @@
     },
     {
       "name": "Dom. de la Côte",
+      "count": 2,
+      "avgScore": null
+    },
+    {
+      "name": "Az. Agr. Antoniolo",
       "count": 2,
       "avgScore": null
     }
